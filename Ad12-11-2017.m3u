@@ -1,39 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/dUhd2a3.png" group-title="IPTV",Babestation 1
-http://de-origin-live.3qsdn.com:1935/2346/Ct6zG7Nrj3v2JxD/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://i.imgur.com/dUhd2a3.png" group-title="IPTV",Babestation 2
-http://publish2.firestormmedia.tv:1935/ingest_cellcast/encoder21/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://i.imgur.com/dUhd2a3.png" group-title="IPTV",Babestation 3
-http://publish2.firestormmedia.tv:1935/ingest_cellcast/encoder71/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://i.imgur.com/Soxm1RO.png" group-title="IPTV",ButGO
-http://edge2.everyon.Tv:1935/etv2sb/phd772/huraivza.m3u8
-#EXTINF:-1 tvg-logo="http://i.imgur.com/ksl1HhQ.png" group-title="IPTV",DP
-http://62.210.113.177:19000/udp/238.0.100.6:5000
-#EXTINF:-1 tvg-logo="http://i.imgur.com/0POW26v.png" group-title="IPTV",FunDorado TV
-http://streaming.fundorado.com:80/fundoradotv/live.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://i.imgur.com/J0njVq9.png" group-title="IPTV",Girls TV
-http://edge2.everyon.tv:1935/etv2sb/phd501/paz.m3u8
-#EXTINF:-1 tvg-logo="http://i.imgur.com/ksl1HhQ.png" group-title="IPTV",Honey TV
-http://edge1.everyon.tv:1935/etv1sb/phd928/paz.m3u8
-#EXTINF:-1 tvg-logo="http://i.imgur.com/3OQI0IC.png" group-title="IPTV",Hustler HD
-http://s5.telek.me/1392/7458/5d16972e7b77e1a269c3bf5ac21690d8f3aa97b2
-#EXTINF:-1 tvg-logo="http://i.imgur.com/6gckOd1.png" group-title="IPTV",Jasmin TV
-http://109.71.162.112:1935/live/hd.jasminchannel.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://i.imgur.com/oU1nwLE.png" group-title="IPTV",Live Sex Latinas
-http://publish.thewebstream.co:1935/leved/livesexlatinas/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/NbK86y5.png" group-title="IPTV",Miami TV
-http://usaserver.miamitvchannel.com/miamitv/smil:miamitv/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://i.imgur.com/6Nr8Bqk.png" group-title="IPTV",Passion XXX
-http://37.9.0.201:8888
-#EXTINF:-1 tvg-logo="http://i.imgur.com/ksl1HhQ.png" group-title="IPTV",Penthouse Asia
-http://edge1.everyon.tv:1935/etv1sb/phd927/paz.m3u8
-#EXTINF:-1 tvg-logo="http://i.imgur.com/kqtyazi.png" group-title="IPTV",Sakura
-http://edge2.everyon.tv:1935/etv2sb/phd61/paz.m3u8
-#EXTINF:-1 tvg-logo="http://i.imgur.com/dPYGYvX.png" group-title="IPTV",The O
-http://edge2.everyon.Tv:1935/etv2sb/phd771/huraivza.m3u8
-#EXTINF:-1 tvg-logo="http://i.imgur.com/IBS0DC5.png" group-title="IPTV",Visit-X TV
-http://stream.visit-x.tv/vxtv/live/playlist.m3u8
 #EXTINF:-1,tv1XXX HD
 http://playlist.prg09.v-ip-tv.com/atip/efb0017e121fd09542cf432f93229844/1505021129524/channel-45/0/517.m3u8
 #EXTINF:-1,tv2XXX HD
@@ -52,6 +18,42 @@ http://playlist.prg09.v-ip-tv.com/atip/efb0017e121fd09542cf432f93229844/15050211
 http://playlist.prg09.v-ip-tv.com/atip/efb0017e121fd09542cf432f93229844/1505021129524/channel-54/0/517.m3u8
 #EXTINF:-1,tv9XXX HD
 http://playlist.prg09.v-ip-tv.com/atip/efb0017e121fd09542cf432f93229844/1505021129524/channel-63/0/517.m3u8
+
+#EXTINF:-1,Babestation 1
+http://de-origin-live.3qsdn.com:1935/2346/Ct6zG7Nrj3v2JxD/playlist.m3u8
+#EXTINF:-1,Babestation 2
+http://publish2.firestormmedia.tv:1935/ingest_cellcast/encoder21/playlist.m3u8
+#EXTINF:-1,Babestation 3
+http://publish2.firestormmedia.tv:1935/ingest_cellcast/encoder71/playlist.m3u8
+#EXTINF:-1,ButGO
+http://edge2.everyon.Tv:1935/etv2sb/phd772/huraivza.m3u8
+#EXTINF:-1,DP
+http://62.210.113.177:19000/udp/238.0.100.6:5000
+#EXTINF:-1,FunDorado TV
+http://streaming.fundorado.com:80/fundoradotv/live.stream/playlist.m3u8
+#EXTINF:-1,Girls TV
+http://edge2.everyon.tv:1935/etv2sb/phd501/paz.m3u8
+#EXTINF:-1,Honey TV
+http://edge1.everyon.tv:1935/etv1sb/phd928/paz.m3u8
+#EXTINF:-1,Hustler HD
+http://s5.telek.me/1392/7458/5d16972e7b77e1a269c3bf5ac21690d8f3aa97b2
+#EXTINF:-1,Jasmin TV
+http://109.71.162.112:1935/live/hd.jasminchannel.stream/playlist.m3u8
+#EXTINF:-1,Live Sex Latinas
+http://publish.thewebstream.co:1935/leved/livesexlatinas/playlist.m3u8
+#EXTINF:-1,Miami TV
+http://usaserver.miamitvchannel.com/miamitv/smil:miamitv/playlist.m3u8
+#EXTINF:-1,Passion XXX
+http://37.9.0.201:8888
+#EXTINF:-1,Penthouse Asia
+http://edge1.everyon.tv:1935/etv1sb/phd927/paz.m3u8
+#EXTINF:-1,Sakura
+http://edge2.everyon.tv:1935/etv2sb/phd61/paz.m3u8
+#EXTINF:-1,The O
+http://edge2.everyon.Tv:1935/etv2sb/phd771/huraivza.m3u8
+#EXTINF:-1,Visit-X TV
+http://stream.visit-x.tv/vxtv/live/playlist.m3u8
+
 #EXTINF:-1,tv10XXX HD
 http://playlist.prg09.v-ip-tv.com/atip/efb0017e121fd09542cf432f93229844/1505021129524/channel-64/0/517.m3u8
 #EXTINF:-1,tv11XXX HD
