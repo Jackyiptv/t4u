@@ -1,24 +1,4 @@
 #EXTM3U
-
-#EXTINF:-1,tv1XXX HD
-http://playlist.prg09.v-ip-tv.com/atip/efb0017e121fd09542cf432f93229844/1505021129524/channel-45/0/517.m3u8
-#EXTINF:-1,tv2XXX HD
-http://playlist.prg09.v-ip-tv.com/atip/efb0017e121fd09542cf432f93229844/1505021129524/channel-47/0/517.m3u8
-#EXTINF:-1,tv3XXX HD
-http://playlist.prg09.v-ip-tv.com/atip/efb0017e121fd09542cf432f93229844/1505021129524/channel-48/0/517.m3u8
-#EXTINF:-1,tv4XXX HD
-http://playlist.prg09.v-ip-tv.com/atip/efb0017e121fd09542cf432f93229844/1505021129524/channel-49/0/517.m3u8
-#EXTINF:-1,tv5XXX HD
-http://playlist.prg09.v-ip-tv.com/atip/efb0017e121fd09542cf432f93229844/1505021129524/channel-51/0/517.m3u8
-#EXTINF:-1,tv6XXX HD
-http://playlist.prg09.v-ip-tv.com/atip/efb0017e121fd09542cf432f93229844/1505021129524/channel-52/0/517.m3u8
-#EXTINF:-1,tv7XXX HD
-http://playlist.prg09.v-ip-tv.com/atip/efb0017e121fd09542cf432f93229844/1505021129524/channel-53/0/517.m3u8
-#EXTINF:-1,tv8XXX HD
-http://playlist.prg09.v-ip-tv.com/atip/efb0017e121fd09542cf432f93229844/1505021129524/channel-54/0/517.m3u8
-#EXTINF:-1,tv9XXX HD
-http://playlist.prg09.v-ip-tv.com/atip/efb0017e121fd09542cf432f93229844/1505021129524/channel-63/0/517.m3u8
-
 #EXTINF:-1,Babestation 1
 http://de-origin-live.3qsdn.com:1935/2346/Ct6zG7Nrj3v2JxD/playlist.m3u8
 #EXTINF:-1,Babestation 2
@@ -53,7 +33,24 @@ http://edge2.everyon.tv:1935/etv2sb/phd61/paz.m3u8
 http://edge2.everyon.Tv:1935/etv2sb/phd771/huraivza.m3u8
 #EXTINF:-1,Visit-X TV
 http://stream.visit-x.tv/vxtv/live/playlist.m3u8
-
+#EXTINF:-1,tv1XXX HD
+http://playlist.prg09.v-ip-tv.com/atip/efb0017e121fd09542cf432f93229844/1505021129524/channel-45/0/517.m3u8
+#EXTINF:-1,tv2XXX HD
+http://playlist.prg09.v-ip-tv.com/atip/efb0017e121fd09542cf432f93229844/1505021129524/channel-47/0/517.m3u8
+#EXTINF:-1,tv3XXX HD
+http://playlist.prg09.v-ip-tv.com/atip/efb0017e121fd09542cf432f93229844/1505021129524/channel-48/0/517.m3u8
+#EXTINF:-1,tv4XXX HD
+http://playlist.prg09.v-ip-tv.com/atip/efb0017e121fd09542cf432f93229844/1505021129524/channel-49/0/517.m3u8
+#EXTINF:-1,tv5XXX HD
+http://playlist.prg09.v-ip-tv.com/atip/efb0017e121fd09542cf432f93229844/1505021129524/channel-51/0/517.m3u8
+#EXTINF:-1,tv6XXX HD
+http://playlist.prg09.v-ip-tv.com/atip/efb0017e121fd09542cf432f93229844/1505021129524/channel-52/0/517.m3u8
+#EXTINF:-1,tv7XXX HD
+http://playlist.prg09.v-ip-tv.com/atip/efb0017e121fd09542cf432f93229844/1505021129524/channel-53/0/517.m3u8
+#EXTINF:-1,tv8XXX HD
+http://playlist.prg09.v-ip-tv.com/atip/efb0017e121fd09542cf432f93229844/1505021129524/channel-54/0/517.m3u8
+#EXTINF:-1,tv9XXX HD
+http://playlist.prg09.v-ip-tv.com/atip/efb0017e121fd09542cf432f93229844/1505021129524/channel-63/0/517.m3u8
 #EXTINF:-1,tv10XXX HD
 http://playlist.prg09.v-ip-tv.com/atip/efb0017e121fd09542cf432f93229844/1505021129524/channel-64/0/517.m3u8
 #EXTINF:-1,tv11XXX HD
