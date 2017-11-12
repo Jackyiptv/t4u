@@ -1,90 +1,39 @@
 #EXTM3U
 
-
-
-
-
 #EXTINF:-1 tvg-logo="http://i.imgur.com/dUhd2a3.png" group-title="IPTV",Babestation 1
 http://de-origin-live.3qsdn.com:1935/2346/Ct6zG7Nrj3v2JxD/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="http://i.imgur.com/dUhd2a3.png" group-title="IPTV",Babestation 2
 http://publish2.firestormmedia.tv:1935/ingest_cellcast/encoder21/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="http://i.imgur.com/dUhd2a3.png" group-title="IPTV",Babestation 3
 http://publish2.firestormmedia.tv:1935/ingest_cellcast/encoder71/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="http://i.imgur.com/Soxm1RO.png" group-title="IPTV",ButGO
 http://edge2.everyon.Tv:1935/etv2sb/phd772/huraivza.m3u8
-
 #EXTINF:-1 tvg-logo="http://i.imgur.com/ksl1HhQ.png" group-title="IPTV",DP
 http://62.210.113.177:19000/udp/238.0.100.6:5000
-
 #EXTINF:-1 tvg-logo="http://i.imgur.com/0POW26v.png" group-title="IPTV",FunDorado TV
 http://streaming.fundorado.com:80/fundoradotv/live.stream/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="http://i.imgur.com/J0njVq9.png" group-title="IPTV",Girls TV
 http://edge2.everyon.tv:1935/etv2sb/phd501/paz.m3u8
-
 #EXTINF:-1 tvg-logo="http://i.imgur.com/ksl1HhQ.png" group-title="IPTV",Honey TV
 http://edge1.everyon.tv:1935/etv1sb/phd928/paz.m3u8
-
 #EXTINF:-1 tvg-logo="http://i.imgur.com/3OQI0IC.png" group-title="IPTV",Hustler HD
 http://s5.telek.me/1392/7458/5d16972e7b77e1a269c3bf5ac21690d8f3aa97b2
-
 #EXTINF:-1 tvg-logo="http://i.imgur.com/6gckOd1.png" group-title="IPTV",Jasmin TV
 http://109.71.162.112:1935/live/hd.jasminchannel.stream/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="http://i.imgur.com/oU1nwLE.png" group-title="IPTV",Live Sex Latinas
 http://publish.thewebstream.co:1935/leved/livesexlatinas/playlist.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/NbK86y5.png" group-title="IPTV",Miami TV
 http://usaserver.miamitvchannel.com/miamitv/smil:miamitv/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="http://i.imgur.com/6Nr8Bqk.png" group-title="IPTV",Passion XXX
 http://37.9.0.201:8888
-
 #EXTINF:-1 tvg-logo="http://i.imgur.com/ksl1HhQ.png" group-title="IPTV",Penthouse Asia
 http://edge1.everyon.tv:1935/etv1sb/phd927/paz.m3u8
-
 #EXTINF:-1 tvg-logo="http://i.imgur.com/kqtyazi.png" group-title="IPTV",Sakura
 http://edge2.everyon.tv:1935/etv2sb/phd61/paz.m3u8
-
 #EXTINF:-1 tvg-logo="http://i.imgur.com/dPYGYvX.png" group-title="IPTV",The O
 http://edge2.everyon.Tv:1935/etv2sb/phd771/huraivza.m3u8
-
 #EXTINF:-1 tvg-logo="http://i.imgur.com/IBS0DC5.png" group-title="IPTV",Visit-X TV
 http://stream.visit-x.tv/vxtv/live/playlist.m3u8
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 #EXTINF:-1,tv1XXX HD
 http://playlist.prg09.v-ip-tv.com/atip/efb0017e121fd09542cf432f93229844/1505021129524/channel-45/0/517.m3u8
 #EXTINF:-1,tv2XXX HD
@@ -139,7 +88,6 @@ http://playlist.prg09.v-ip-tv.com/atip/efb0017e121fd09542cf432f93229844/15050211
 http://playlist.prg09.v-ip-tv.com/atip/efb0017e121fd09542cf432f93229844/1505021129524/channel-107/0/517.m3u8
 #EXTINF:-1,tv27XXX HD
 http://playlist.prg09.v-ip-tv.com/atip/efb0017e121fd09542cf432f93229844/1505021129524/channel-108/0/517.m3u8
-
 #EXTINF:-1,=== PornStar (18+) ===
 http://hls2.slynet.pw/slynetfreestartpromo?.m3u8
 #EXTINF:-1,ASIA XXX 1
@@ -188,38 +136,12 @@ http://tube.paperstreetcash.com/12mins/rubateen/rubateen_anabela_12minute.mp4
 http://tube.paperstreetcash.com/12mins/rubateen/rubateen_ariadna_12minute.mp4
 #EXTINF:-1,Ariana and Gabriella
 http://tube.paperstreetcash.com/8mins/exxxtrasmall/exxxtrasmall_ariana_and_gabriella_8minutes.mp4
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 #EXTINF:0 tvg-logo="http://www.lyngsat-logo.com/logo/tv/jj/jasmin_tv_lu.png" group-title="XXX TV", JAZMIN TV
 rtmp://109.71.162.112:1935/live/sd.jasminchannel.stream
 #EXTINF:0 tvg-logo="http://www.lyngsat-logo.com/logo/tv/jj/jasmin_tv_lu.png" group-title="XXX TV", Jasmin TV HD
 http://109.71.162.112:1935/live/sd.jasminchannel.stream/playlist.m3u8
-
 #EXTINF:-1 group-title="XXX-VOD +18",Yunyun Paradise (Japanese hentai)
 http://www.blogger.com/video-play.mp4?contentId=349fd424ece121b8
-
-
 #EXTINF:-1 tvg-logo="http://i.anysex.com/logo-2.png" group-title="XXX-VOD +18",XXX-Babes 1
 http://anysex.com/get_file/1/36c3f94673b9a0e998f5cf48a5dbae48/184000/184753/184753.mp4/
 #EXTINF:-1 tvg-logo="http://i.anysex.com/logo-2.png" group-title="XXX-VOD +18",XXX-Babes 2
@@ -354,7 +276,6 @@ http://anysex.com/get_file/1/246ab83c3ffa1adaddc8f16e9c8342d0/199000/199839/1998
 http://anysex.com/get_file/1/e52515f2156303eeebefff200a925534/201000/201451/201451.mp4/
 #EXTINF:-1 tvg-logo="http://i.anysex.com/logo.png.jpg" group-title="XXX-VOD +18",Babe 9
 http://anysex.com/get_file/1/06917326b75c66564164714f5dfd56f3/197000/197485/197485.mp4/
-
 #EXTINF:-1 tvg-logo="http://www.finevids.xxx/images/logo.png" group-title="XXX-VOD +18", XXX-Babes 17
 http://finevids.xxx/get_file/1/3d6feb808a0edfcedea916dfbed0f428/82000/82103/82103.mp4/
 #EXTINF:-1 tvg-logo="http://www.finevids.xxx/images/logo.png" group-title="XXX-VOD +18",XXX Babes 18
@@ -409,7 +330,6 @@ http://videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_emmas
 http://videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_avataylor_emmastoned032514/content/vid01.mp4
 #EXTINF:-1 tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/339.png" group-title="XXX TV",4K: VOD11
 http://videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_dakotaskye040314/content/vid01.mp4
-
 #EXTINF:-1 tvg-logo="http://www.adultwebmaster.tv/en/thumb/affiliate-programs/paperstreetcash.gif" group-title="XXX-VOD +18",Amanda
 http://tube.paperstreetcash.com/8mins/rubateen/rubateen_amanda_8minute.mp4
 #EXTINF:-1 tvg-logo="http://www.adultwebmaster.tv/en/thumb/affiliate-programs/paperstreetcash.gif" group-title="XXX-VOD +18",Ariadna
@@ -420,40 +340,17 @@ http://tube.paperstreetcash.com/8mins/rubateen/rubateen_demida_8minutes.mp4
 http://tube.cheerleaderfacials.com/trailers/609/cheerleaderfacial_Natalia_Rossi_0006.flv
 #EXTINF:-1 tvg-logo="http://www.adultwebmaster.tv/en/thumb/affiliate-programs/paperstreetcash.gif" group-title="XXX-VOD +18",Rissa
 http://tube.paperstreetcash.com/8mins/exxxtrasmall/exxxtrasmall_rissa_maxxx_8minutes.mp4
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-#EXTINF:-1 group-title="XXX-VOD +18",La France à Poil 1
+#EXTINF:-1 group-title="XXX-VOD +18",La France Ã  Poil 1
 http://dlfr2.cdntlsv.com/6582511a11a90ccc06119d4a84218d36.mp4
-#EXTINF:-1 group-title="XXX-VOD +18", La France à Poil 2
+#EXTINF:-1 group-title="XXX-VOD +18", La France Ã  Poil 2
 http://dlfr2.cdntlsv.com/134d0295547459a32a3e546ca1065496.mp4
-#EXTINF:-1 group-title="XXX-VOD +18", La France à Poil 3
+#EXTINF:-1 group-title="XXX-VOD +18", La France Ã  Poil 3
 http://dlfr3.cdntlsv.com/300ed1fc5e5b83d68c42689a75e3026b.mp4
-#EXTINF:-1 group-title="XXX-VOD +18",La France à Poil 4
+#EXTINF:-1 group-title="XXX-VOD +18",La France Ã  Poil 4
 http://dlfr3.cdntlsv.com/8508c012c370489d39c2a7c90e76bc77.mp4
-#EXTINF:-1 group-title="XXX-VOD +18", La France à Poil 5
+#EXTINF:-1 group-title="XXX-VOD +18", La France Ã  Poil 5
 http://dlfr3.cdntlsv.com/067b6ed95858e1a11f10e5765810b3f2.mp4
-#EXTINF:-1 group-title="XXX-VOD +18",La France à Poil 6
+#EXTINF:-1 group-title="XXX-VOD +18",La France Ã  Poil 6
 http://dlfr3.cdntlsv.com/759127a932bd2af3cc7528eb839d09ff.mp4 
 #EXTINF:-1 group-title="XXX-VOD +18",NUDE IN FRANCE 1
 http://dlfr2.cdntlsv.com/2ca219310f02a1f5f02d64dde4fdf761.mp4
@@ -467,19 +364,8 @@ http://dlfr2.cdntlsv.com/092985895324a46a93045f4333e1e753.mp4
 http://dlfr3.cdntlsv.com/6a58c568af66c2220b63d67e94398483.mp4
 #EXTINF:-1 group-title="XXX-VOD +18", NUDE IN FRANCE 6
 http://dlfr3.cdntlsv.com/05906a11b48b92ed0f994a3a056a1b05.mp4
-
-
-
-
-
-
-
-
-
-
 #EXTINF:-1 group-title="XXX-VOD +18",Asian Sex Queens File 8 Scene 1_6
 http://tube.asiansexqueens.com/japanese_erotica_file_8_scene1_6.flv
-
 #EXTINF:-1 group-title="XXX-VOD +18",
 http://91.121.63.225/absoluporn2/c6b9f6bfb130713becfbbd629b5a6b51/16403.mp4
 #EXTINF:-1 group-title="XXX-VOD +18",
@@ -952,21 +838,6 @@ http://188.165.50.204/vidshd/56ea912c4df934c216c352fa8d623af3/10737.mp4
 http://188.165.50.204/vidshd/56ea912c4df934c216c352fa8d623af3/10208.mp4
 #EXTINF:-1 group-title="XXX-VOD +18",
 http://5.196.79.154/vidshd/56ea912c4df934c216c352fa8d623af3/9866.mp4
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 #EXTINF:-1 group-title="XXX-VOD +18",
 http://87.98.184.83/vidshd/56ea912c4df934c216c352fa8d623af3/1516.mp4
 #EXTINF:-1 group-title="XXX-VOD +18",
@@ -1327,21 +1198,6 @@ http://188.165.50.204/vidshd/56ea912c4df934c216c352fa8d623af3/10737.mp4
 http://188.165.50.204/vidshd/56ea912c4df934c216c352fa8d623af3/10208.mp4
 #EXTINF:-1 group-title="XXX-VOD +18",
 http://5.196.79.154/vidshd/56ea912c4df934c216c352fa8d623af3/9866.mp4
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 #EXTINF:-1 group-title="XXX-VOD +18",R@tte e Sf@ndate
 http://cdn.videos.pornopizza.it/media/videos/5/7/a/8/b/57a8b58243474.mp4
 #EXTINF:-1 group-title="XXX-VOD +18",Le P@rcone Volanti
@@ -1414,18 +1270,6 @@ http://media.tuboitaliano.xxx:81/videos/5/6/5/5/9/56559e9aa119e.mp4
 http://media.tuboitaliano.xxx:81/videos/5/5/9/4/1/5594130834415.mp4
 #EXTINF:-1 group-title="XXX-VOD +18",VOD 68
 http://media.tuboitaliano.xxx:81/videos/5/5/9/7/f/5597f049e0408.mp4
-
-
-
-
-
-
-
-
-
-
-
-
 #EXTINF:-1 group-title="Uncensored Music Videos",XXX Music 1
 http://zazax1.ru/videos/baz55.flv
 #EXTINF:-1 group-title="Uncensored Music Videos",XXX Music 2
@@ -1472,19 +1316,6 @@ http://zazax1.ru/video/Junior%20Jack%20-%20Stupidisco.mp4
 http://zazax1.ru/video/Flawliss%20-%20Ms.%20Apple%20Bottom.flv
 #EXTINF:-1 group-title="Uncensored Music Videos",XXX Music
 http://zazax1.ru/video/basstr.flv
-
-
-
-
-
-
-
-
-
-
-
-
-
 #EXTINF:-1 tvg-logo="http://i.imgur.com/6e32zl4.png" group-title="IPTV",Babestation Xtreme
 http://212.250.196.74:1935/bsx24/_definst_/mpegts1.stream/playlist.m3u8
 
@@ -1583,39 +1414,6 @@ http://edge2.everyon.Tv:1935/etv2sb/phd771/huraivza.m3u8
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/IBS0DC5.png" group-title="IPTV",Visit-X TV
 http://stream.visit-x.tv/vxtv/live/playlist.m3u8
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 #EXTINF:-1,BRAZZERS 1
 http://static.brazzers.com/scenes/3351/180sec.flv
 #EXTINF:-1,BRAZZERS 2
@@ -2190,43 +1988,6 @@ http://static.brazzers.com/scenes/3616/180sec.flv
 http://static.brazzers.com/scenes/3617/180sec.flv
 #EXTINF:-1,BRAZZERS 288
 http://static.brazzers.com/scenes/3619/180sec.flv
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 #EXTINF:-1 group-title="ADULTO", 1
 http://bit.ly/2h9P6GW
 #EXTINF:-1 group-title="ADULTO", 2
@@ -2327,47 +2088,6 @@ http://bit.ly/2hNIfDI
 http://bit.ly/2j6zZSU
 #EXTINF:-1 group-title="ADULTO", 50
 http://bit.ly/2yBVv99
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 #EXTINF:-1,Babes 1
 http://anysex.com/get_file/1/36c3f94673b9a0e998f5cf48a5dbae48/184000/184753/184753.mp4/
 #EXTINF:-1,Babes 10
@@ -2512,54 +2232,6 @@ http://tube.paperstreetcash.com/8mins/rubateen/rubateen_demida_8minutes.mp4
 http://tube.cheerleaderfacials.com/trailers/609/cheerleaderfacial_Natalia_Rossi_0006.flv
 #EXTINF:-1,Rissa
 http://tube.paperstreetcash.com/8mins/exxxtrasmall/exxxtrasmall_rissa_maxxx_8minutes.mp4
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 #EXTINF:-1 tvg-logo="http://i.imgur.com/h9aRgeG.png" group-title="TINY 4K",Tiny 4K - VOD 01
 http://videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_chloeamour022714/content/vid01.mp4
 
