@@ -672,10 +672,10 @@ http://csm-e.cds1.yospace.com/csm/live/74246610.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/db/Rtenewsnownewlogo.png" group-title="IRELAND",RTE News Now
 http://wmsrtsp1.rte.ie/live/android.sdp/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/RT…_logo.svg/229px-RT…_logo.svg.png" group-title="IRELAND",RTE 1
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/RT√â_logo.svg/229px-RT√â_logo.svg.png" group-title="IRELAND",RTE 1
 http://akamai.rasset.ie/hls-live/_definst_/rte1/rte1-720.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/11/RT…2_logo.svg/1280px-RT…2_logo.svg.png" group-title="IRELAND",RTE 2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/11/RT√â2_logo.svg/1280px-RT√â2_logo.svg.png" group-title="IRELAND",RTE 2
 http://akamai.rasset.ie/hls-live/_definst_/rte2/rte2-720.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://rtejr.rte.ie/wp-content/themes/rtejr-2013/img/rtejr-logo-large.jpg" group-title="IRELAND",RTE Jr.
@@ -1098,7 +1098,7 @@ http://urtmpkal-f.akamaihd.net/i/1ef9833b4_1@128347/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.frontview-magazine.be/sites/default/files/news/30843-tvo-digitext-de-nieuwe-digitale-teletekst-van-tv-oost-528130.jpg" group-title="BELGIUM",TV OOST
 http://urtmpkal-f.akamaihd.net/i/156m2vpg5_1@322941/index_1_av-p.m3u8
 
-#EXTINF:-1 tvg-logo="http://civiltarsulas.hu/uploads/icons/language/FranÁais.png" group-title="LABEL",~ France TV ~
+#EXTINF:-1 tvg-logo="http://civiltarsulas.hu/uploads/icons/language/Fran√ßais.png" group-title="LABEL",~ France TV ~
 http://www.lengua.com/anthems/France.mp3
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/46/AB1_channel_logo.png" group-title="FRANCE",AB1
@@ -1164,7 +1164,7 @@ http://live.lachainenormande.fr/live/lcn/livestream/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/789467576015421446/Ny4bF54R.jpg" group-title="FRANCE",Monaco Info (Monaco)
 http://46.105.34.238/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/7/73/Logo_RMC_DÈcouverte_2012.png" group-title="FRANCE",RMC Decouverte
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/7/73/Logo_RMC_D√©couverte_2012.png" group-title="FRANCE",RMC Decouverte
 http://streaming-hub.com/stream/rmc.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/RTL_logo.svg/1200px-RTL_logo.svg.png" group-title="FRANCE",RTL
@@ -1530,7 +1530,7 @@ http://streaming2.inforede.inf.br:1935/c1076ev2932/aovivo/live.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://recordtv.r7.com/emissoras-record/files/2015/01/PB-TV-CORREIO.png" group-title="BRAZIL",TV Correio
 http://flash1.crossdigital.com.br/491/491/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://vignette1.wikia.nocookie.net/logopedia/images/5/5e/TV_Di·rio_logo_2015.png" group-title="BRAZIL",TV Diario
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://vignette1.wikia.nocookie.net/logopedia/images/5/5e/TV_Di√°rio_logo_2015.png" group-title="BRAZIL",TV Diario
 http://slrp.sambavideos.sambatech.com:80/liveevent/tvdiario_7a683b067e5eee5c8d45e1e1883f69b9/livestream/live.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://roquettepinto.org.br/wp-content/uploads/2014/12/tvescola-home-alt2-300x227.png" group-title="BRAZIL",TV Escola
@@ -1545,10 +1545,10 @@ http://api.new.livestream.com/accounts/5381476/events/2395418/live.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://4.bp.blogspot.com/__V5pVKfEbbc/TTogzfvKkGI/AAAAAAAAABY/ISzMSn12zw8/s250/tvgeral.jpg" group-title="BRAZIL",TV Geral
 http://fms1.tacitus.com.br:1935/tvgeral/tvgeral/live.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/f/ff/Logotipo_TV_Guar·.png" group-title="BRAZIL",TV Guara
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/f/ff/Logotipo_TV_Guar√°.png" group-title="BRAZIL",TV Guara
 http://v1.fabricahost.com.br/tvguara/tvguara/live.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/93/Logotipo_da_TV_ItararÈ.jpg" group-title="BRAZIL",TV Itarare
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/93/Logotipo_da_TV_Itarar√©.jpg" group-title="BRAZIL",TV Itarare
 http://177.73.84.49/hls/live/live.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.bastidoresdatv.com.br/wp-content/uploads/2015/07/Jornal.png" group-title="BRAZIL",TV Jornal Caruaru
@@ -1557,7 +1557,7 @@ http://evp.mm.uol.com.br:1935/ne10/_definst_/ne10-tvjornal-caruaru-video-web.sdp
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://musikcity.mus.br/TV/figuras/tvjornal.png" group-title="BRAZIL",TV Jornal Recife
 http://evp.mm.uol.com.br:1935/ne10/ne10-tvjornal-recife-video-mobile.sdp/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/e/e7/TV_MetrÛpole.png" group-title="BRAZIL",TV Metropole
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/e/e7/TV_Metr√≥pole.png" group-title="BRAZIL",TV Metropole
 http://wse2.player.tv.br:1935/fmoriginal/fmoriginal/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/XNF7iTqRwBE/hqdefault.jpg" group-title="BRAZIL",TV MCJ
@@ -1695,10 +1695,10 @@ http://cast.streamingconnect.com:1935/csflamenco/csflamenco/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.ptvtelecom.com/ficheros/imagennoticia311_0.jpg" group-title="SPAIN",Canal Parlamento
 http://congresodirectomobile.edgesuite.net/live/live6.stream/manifest.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vignette1.wikia.nocookie.net/logopedia/images/c/cd/TelevisiÛn_Canaria_SAT_logo_2008.png" group-title="SPAIN",Canaria SAT
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vignette1.wikia.nocookie.net/logopedia/images/c/cd/Televisi√≥n_Canaria_SAT_logo_2008.png" group-title="SPAIN",Canaria SAT
 http://streaming2.mad.idec.net/rtvcnet/rtvcnet.drb.360plr.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vignette1.wikia.nocookie.net/logopedia/images/c/cd/TelevisiÛn_Canaria_SAT_logo_2008.png" group-title="SPAIN",Canaria SAT*
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vignette1.wikia.nocookie.net/logopedia/images/c/cd/Televisi√≥n_Canaria_SAT_logo_2008.png" group-title="SPAIN",Canaria SAT*
 http://streaming2.mad.idec.net/rtvcnet/rtvcnet.drb.smil/chunklist_w117839380_b480000_sles.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.brandemia.org/sites/default/files/sites/default/files/logo_castilla_la-mancha-tv.jpg" group-title="SPAIN",Castilla-La Mancha TV
@@ -1935,13 +1935,13 @@ http://188.165.135.22/15o8376r/mystream/chunklist_w511176900.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://certamencoralfiratotssants.com/wp-content/uploads/2012/05/TVA-ALCOI.jpg" group-title="SPAIN",TV Alcoi
 http://92.222.37.18/hls/tvaxa.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://teatrobus.net/wp-content/uploads/2016/03/TelevisiÛn-de-Galicia.jpg" group-title="SPAIN",TVG America
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://teatrobus.net/wp-content/uploads/2016/03/Televisi√≥n-de-Galicia.jpg" group-title="SPAIN",TVG America
 http://media1.crtvg.es:1935/live/tvga/livestream.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://teatrobus.net/wp-content/uploads/2016/03/TelevisiÛn-de-Galicia.jpg" group-title="SPAIN",TVG Europa
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://teatrobus.net/wp-content/uploads/2016/03/Televisi√≥n-de-Galicia.jpg" group-title="SPAIN",TVG Europa
 http://media1.crtvg.es:1935/live/tvge/livestream.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://teatrobus.net/wp-content/uploads/2016/03/TelevisiÛn-de-Galicia.jpg" group-title="SPAIN",TVG Europa*
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://teatrobus.net/wp-content/uploads/2016/03/Televisi√≥n-de-Galicia.jpg" group-title="SPAIN",TVG Europa*
 http://media3.crtvg.es:1935/live/tvge_2/livestream.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.enetres.tv/img/slider-projects/mediterraneo-tv.jpg" group-title="SPAIN",TV Mediterraneo
@@ -2493,13 +2493,13 @@ http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/MGEN/tu1_1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.canalmimusica.com/wp-content/uploads/2012/10/MIMUSICA-HD-GRANDE1.png" group-title="COLOMBIA",MiMusica
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/MMHD/tu1_1.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/RCN_TelevisiÛn_logo.svg/2000px-RCN_TelevisiÛn_logo.svg.png" group-title="COLOMBIA",RCN
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/RCN_Televisi√≥n_logo.svg/2000px-RCN_Televisi√≥n_logo.svg.png" group-title="COLOMBIA",RCN
 https://mdstrm.com/live-stream-playlist/58a36704896500b908cf1abe.m3u8?exabytetv.info?.m3u
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.brandsoftheworld.com/sites/default/files/styles/logo-thumbnail/public/052014/untitled-1_56.png" group-title="COLOMBIA",Senal Colombia
 http://live10.cdnmedia.tv/rtvcscolombialive/smil:live.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/SeÒal_Institucional_logo.svg/1200px-SeÒal_Institucional_logo.svg.png" group-title="COLOMBIA",Senal Institucional
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Se√±al_Institucional_logo.svg/1200px-Se√±al_Institucional_logo.svg.png" group-title="COLOMBIA",Senal Institucional
 http://live10.cdnmedia.tv/rtvcsinstitucionallive/smil:live.smil/master.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://yt3.ggpht.com/-3y0PLzhwrig/AAAAAAAAAAI/AAAAAAAAAAA/u423NXvcb_4/s900-c-k-no-mo-rj-c0xffffff/photo.jpg" group-title="COLOMBIA",Teleantioquia
@@ -3657,7 +3657,7 @@ http://www.lengua.com/anthems/Azerbaijan.mp3
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/Azad_Azerbaycan_TV_logosu.png" group-title="AZERBAIJAN",Azad Azerbaijan TV
 http://85.132.71.6/iptv_atv_az/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/az/5/5d/AzTV_loqosu_%2814_fevral_2011-g¸n¸m¸z%29.png" group-title="AZERBAIJAN",AzTV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/az/5/5d/AzTV_loqosu_%2814_fevral_2011-g√ºn√ºm√ºz%29.png" group-title="AZERBAIJAN",AzTV
 http://85.132.71.6/azeri/aztv/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://cbc.az/assets/uploads/sites/Logo_fin.png" group-title="AZERBAIJAN",CBC Azerbaijan
@@ -4670,11 +4670,6 @@ http://livestream.vnvn.net/hls-live/livepkgr/_definst_/settv574-1/settv574-1.m3u
 
 
 
-
-
-
-
-
 #EXTINF:-1,MUZIKA TV
 http://91.121.67.14:10000/live/manuel/manuel/1.ts
 #EXTINF:-1,GREENSPORTS
@@ -4686,25 +4681,12 @@ http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports1
 
 
 
-
-
-
-
-
-
-
-#EXTINF:-1 tvg-id="n/a" tvg-logo="http://51.255.196.214/iptv_info/Info1.png",INFORMA«√O
+#EXTINF:-1 tvg-id="n/a" tvg-logo="http://51.255.196.214/iptv_info/Info1.png",INFORMA√á√ÉO
 http://51.255.196.214/iptv_info/Info.mp4
 
 
 #EXTINF:-1 tvg-id="PortoCanal.pt" tvg-logo="http://www.thelogodb.com/images/media/logo/yuxppt1465900144.png/medium",PORTO CANAL 
 http://213.13.26.11:1935/live/portocanal/KodiPortugal.pt.m3u8
-
-
-
-
-
-
 
 
 
@@ -4726,62 +4708,17 @@ rtsp://213.13.26.41:1935/live/portocanal
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 #EXTINF:-1 tvg-id="ARTV.pt" tvg-logo="http://www.thelogodb.com/images/media/logo/xvswvy1437956693.png/medium",CANAL PARLAMENTO
 http://193.126.16.68:1935/livenlin4/mp4:2liveartvpub/playlist.m3u8
 
 
-#EXTINF:-1 tvg-id="CancaoNova.PT" "tvg-logo="http://www.cancaonova.pt/wp-content/uploads/2015/11/logo_cnok.png",CAN«√O NOVA
+#EXTINF:-1 tvg-id="CancaoNova.PT" "tvg-logo="http://www.cancaonova.pt/wp-content/uploads/2015/11/logo_cnok.png",CAN√á√ÉO NOVA
 http://cancaonova-push-live.hls.adaptive.level3.net/hls-live/cancaonova-channel01/_definst_/live/stream1.m3u8
 
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-#EXTINF:-1 tvg-id="n/a" tvg-logo="https://s3.amazonaws.com/pt-bm-images/company_images/2692/logo/2692_logo_original.png",SANTU¡RIO DE F¡TIMA
+#EXTINF:-1 tvg-id="n/a" tvg-logo="https://s3.amazonaws.com/pt-bm-images/company_images/2692/logo/2692_logo_original.png",SANTU√ÅRIO DE F√ÅTIMA
 http://213.13.26.11:1935/live/santuario.stream/KodiPortugal.pt.m3u8
 
 #EXTINF:-1 tvg-id="n/a" tvg-logo="http://www.jfarroios.pt/wp-content/uploads/2016/09/A_Marca_Logo_yellow.png",ARROIOS TV
@@ -4831,7 +4768,7 @@ http://dwstream72-lh.akamaihd.net/i/dwstream72_live@123556/master.m3u8
 #EXTINF:-1 tvg-id="RMTV.pt" tvg-logo="http://www.thelogodb.com/images/media/logo/xqwpww1436887616.png/medium",REAL MADRID TV (ES)
 http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-p.m3u8?sd=10&rebase=on
 
-#EXTINF:-1 tvg-id="n/a" tvg-logo="https://lh3.ggpht.com/8tnOYXzdw0CafgPm16z5PgbM7mfhWo24WiJVnKYjnEmUMp-sJYu3XJPh0agflb7y2e4=w300",LE«A DA PALMEIRA
+#EXTINF:-1 tvg-id="n/a" tvg-logo="https://lh3.ggpht.com/8tnOYXzdw0CafgPm16z5PgbM7mfhWo24WiJVnKYjnEmUMp-sJYu3XJPh0agflb7y2e4=w300",LE√áA DA PALMEIRA
 http://video-auth1.iol.pt:1935/beachcam/lecadapalmeira/chunks.m3u8
 
 #EXTINF:-1 tvg-id="n/a" tvg-logo="https://lh3.ggpht.com/8tnOYXzdw0CafgPm16z5PgbM7mfhWo24WiJVnKYjnEmUMp-sJYu3XJPh0agflb7y2e4=w300",MATOSINHOS
@@ -4861,7 +4798,7 @@ http://video-auth1.iol.pt:1935/beachcam/bcmira/chunks.m3u8
 #EXTINF:-1 tvg-id="n/a" tvg-logo="https://lh3.ggpht.com/8tnOYXzdw0CafgPm16z5PgbM7mfhWo24WiJVnKYjnEmUMp-sJYu3XJPh0agflb7y2e4=w300",BUARCOS
 http://video-auth1.iol.pt:1935/beachcam/figueiradafoz/chunks.m3u8
 
-#EXTINF:-1 tvg-id="n/a" tvg-logo="https://lh3.ggpht.com/8tnOYXzdw0CafgPm16z5PgbM7mfhWo24WiJVnKYjnEmUMp-sJYu3XJPh0agflb7y2e4=w300",NAZAR…
+#EXTINF:-1 tvg-id="n/a" tvg-logo="https://lh3.ggpht.com/8tnOYXzdw0CafgPm16z5PgbM7mfhWo24WiJVnKYjnEmUMp-sJYu3XJPh0agflb7y2e4=w300",NAZAR√â
 http://video-auth1.iol.pt:1935/beachcam/nazareparadonorte/chunks.m3u8
 
 #EXTINF:-1 tvg-id="n/a" tvg-logo="https://lh3.ggpht.com/8tnOYXzdw0CafgPm16z5PgbM7mfhWo24WiJVnKYjnEmUMp-sJYu3XJPh0agflb7y2e4=w300",SUPERTUBOS
@@ -4892,7 +4829,7 @@ http://video-auth1.iol.pt:1935/beachcam/carcavelos/chunks.m3u8
 #EXTINF:-1 tvg-id="n/a" tvg-logo="https://lh3.ggpht.com/8tnOYXzdw0CafgPm16z5PgbM7mfhWo24WiJVnKYjnEmUMp-sJYu3XJPh0agflb7y2e4=w300",CAPARICA CDS
 http://video-auth1.iol.pt:1935/beachcam/costacaparicacds/chunks.m3u8
 
-#EXTINF:-1 tvg-id="n/a" tvg-logo="https://lh3.ggpht.com/8tnOYXzdw0CafgPm16z5PgbM7mfhWo24WiJVnKYjnEmUMp-sJYu3XJPh0agflb7y2e4=w300",CAPARICA S.JO√O
+#EXTINF:-1 tvg-id="n/a" tvg-logo="https://lh3.ggpht.com/8tnOYXzdw0CafgPm16z5PgbM7mfhWo24WiJVnKYjnEmUMp-sJYu3XJPh0agflb7y2e4=w300",CAPARICA S.JO√ÉO
 http://video-auth1.iol.pt:1935/beachcam/costacaparicasaojoao/chunks.m3u8
 
 #EXTINF:-1 tvg-id="n/a" tvg-logo="https://lh3.ggpht.com/8tnOYXzdw0CafgPm16z5PgbM7mfhWo24WiJVnKYjnEmUMp-sJYu3XJPh0agflb7y2e4=w300",FONTE DA TELHA
@@ -4921,7 +4858,7 @@ http://video-auth1.iol.pt:1935/beachcam/alvor/chunks.m3u8
 #EXTINF:-1 tvg-id="n/a" tvg-logo="https://lh3.ggpht.com/8tnOYXzdw0CafgPm16z5PgbM7mfhWo24WiJVnKYjnEmUMp-sJYu3XJPh0agflb7y2e4=w300",PRAIA DA ROCHA
 http://video-auth1.iol.pt:1935/beachcam/praiadarocha/chunks.m3u8
 
-#EXTINF:-1 tvg-id="n/a" tvg-logo="https://lh3.ggpht.com/8tnOYXzdw0CafgPm16z5PgbM7mfhWo24WiJVnKYjnEmUMp-sJYu3XJPh0agflb7y2e4=w300",PRAIA DA GAL…
+#EXTINF:-1 tvg-id="n/a" tvg-logo="https://lh3.ggpht.com/8tnOYXzdw0CafgPm16z5PgbM7mfhWo24WiJVnKYjnEmUMp-sJYu3XJPh0agflb7y2e4=w300",PRAIA DA GAL√â
 http://video-auth1.iol.pt:1935/beachcam/bcgale/chunks.m3u8
 
 #EXTINF:-1 tvg-id="n/a" tvg-logo="https://lh3.ggpht.com/8tnOYXzdw0CafgPm16z5PgbM7mfhWo24WiJVnKYjnEmUMp-sJYu3XJPh0agflb7y2e4=w300",EVARISTO
@@ -4933,41 +4870,11 @@ http://video-auth1.iol.pt:1935/beachcam/vilamoura/chunks.m3u8
 #EXTINF:-1 tvg-id="n/a" tvg-logo="https://lh3.ggpht.com/8tnOYXzdw0CafgPm16z5PgbM7mfhWo24WiJVnKYjnEmUMp-sJYu3XJPh0agflb7y2e4=w300",JARDIM DO MAR
 http://video-auth1.iol.pt:1935/beachcam/madeirajardimdomar/chunks.m3u8
 
-#EXTINF:-1 radio="true" tvg-id="n/a" tvg-logo="http://www.thelogodb.com/images/media/logo/txtrqy1435096777.png/medium",R¡DIO COMERCIAL
+#EXTINF:-1 radio="true" tvg-id="n/a" tvg-logo="http://www.thelogodb.com/images/media/logo/txtrqy1435096777.png/medium",R√ÅDIO COMERCIAL
 rtmp://mcrwowza4.mcr.iol.pt/comerciallc playpath=comerciallc.sdp swfUrl=http://radiocomercial.iol.pt/player/scripts/player.swf?v=1.1 pageUrl=http://kodiportugal.pt
 
-#EXTINF:-1 radio="true" tvg-id="n/a" tvg-logo="http://www.thelogodb.com/images/media/logo/wsrpqu1435094246.png/medium",R¡DIO RFM
+#EXTINF:-1 radio="true" tvg-id="n/a" tvg-logo="http://www.thelogodb.com/images/media/logo/wsrpqu1435094246.png/medium",R√ÅDIO RFM
 http://19573.live.streamtheworld.com/RFMAAC
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
@@ -5198,25 +5105,6 @@ http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9390.ts
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 #EXTINF:0 type="stream" channelId="-1" tvg-logo="https://www.izzi.mx/izzi/img/dummy-img/channels/canal-foro.jpg", Foro TV
 http://185417-f.akamaihd.net/i/n0tf0r0_1@81283/master.m3u8?tecnotv.info?iptv.m3u8
 
@@ -5240,47 +5128,6 @@ http://aztecalive-lh.akamaihd.net/i/0qm7cjvop_1@502476/master.m3u8
 
 #EXTINF:0 type="stream" channelId="-1" tvg-logo="https://www.izzi.mx/izzi/img/dummy-img/channels/canal-mileniotv.jpg", Milenio
 http://bcoveliveios-i.akamaihd.net/hls/live/201661/57828478001/milenio_center_512k@51752.m3u8
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
 
 
 
@@ -5310,11 +5157,4 @@ http://bcoveliveios-i.akamaihd.net/hls/live/201661/57828478001/milenio_center_51
  
 #EXTINF:0 type="stream" channelId="-1" tvg-logo="http://www.ochotv.com/imagenes/logo.jpg", Ocho TV
 http://bcliveuniv-lh.akamaihd.net/i/Live_1@170324/index_2200_av-p.m3u8?sd=10&rebase=on
-
-
-
-
-
-
-
 
