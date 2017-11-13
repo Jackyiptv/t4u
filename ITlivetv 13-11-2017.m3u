@@ -756,137 +756,95 @@ http://cdnlive1.win:80/live/FxXilfIelJ/jH0SGeXK1k/226.m3u8
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-#EXTINF:-1, •IT ® RAI 5 
+#EXTINF:-1, IT Â® RAI 5 
 http://b2.stream12.rai.it/live/smil%3arai5.smil/playlist.m3u8
-#EXTINF:-1, •IT ® RAI 5 
+#EXTINF:-1, IT Â® RAI 5 
 http://stream12.rai.it/live/rai5.smil/master.m3u8
-#EXTINF:-1, •IT ® RAI Premium 
+#EXTINF:-1, IT Â® RAI Premium 
 http://b2everyrai-lh.akamaihd.net/i/raipremium_1@181837/index_1200_av-p.m3u8
-#EXTINF:-1, •IT ® RAI Movie 
+#EXTINF:-1, IT Â® RAI Movie 
 http://b2everyrai-lh.akamaihd.net/i/raimovie_1@67348/master.m3u8
-#EXTINF:-1, •IT ® RAI Movie 
+#EXTINF:-1, IT Â® RAI Movie 
 http://stream10.rai.it:80/italy/raimovie.smil/chunklist_b1200000.m3u8
-#EXTINF:-1, •IT ® Rete 4
+#EXTINF:-1, IT Â® Rete 4
 http://live3.msf.ticdn.it/Content/HLS/Live/Channel(CH03HA)/Stream(03)/index.m3u8
-#EXTINF:-1, •IT ® Canale 5
+#EXTINF:-1, IT Â® Canale 5
 http://live1.msf.ticdn.it/Content/HLS/Live/Channel(CH01HA)/Stream(04)/index.m3u8
-#EXTINF:-1, •IT ® Italia 1
+#EXTINF:-1, IT Â® Italia 1
 http://live3.msf.ticdn.it/Content/HLS/Live/Channel(CH02HA)/Stream(04)/index.m3u8
-#EXTINF:-1, •IT ® Rai 4
+#EXTINF:-1, IT Â® Rai 4
 http://originstream12.rai.it/italy/smil:rai4.smil/chunklist_b1800000.m3u8
-#EXTINF:-1, •IT ® La5
+#EXTINF:-1, IT Â® La5
 http://live3.msf.ticdn.it/Content/HLS/Live/Channel(CH04HA)/Stream(04)/index.m3u8
-#EXTINF:-1, •IT ® La7
+#EXTINF:-1, IT Â® La7
 http://la7livehls-lh.akamaihd.net/i/livebkup_1@372883/index_1_av-p.m3u8
-#EXTINF:-1, •IT ® La7D
+#EXTINF:-1, IT Â® La7D
 http://se-mi1-5.se.itvmscvas.alice.cdn.interbusiness.it/liveas/cubovision/la7d/v7.m3u8
-#EXTINF:-1, •IT ® PARAMOUNT CHANNEL
+#EXTINF:-1, IT Â® PARAMOUNT CHANNEL
 http://viacomitalytest-lh.akamaihd.net/i/sbshdlive_1@195657/index_2500_av-p.m3u8
-#EXTINF:-1, •IT ® PARAMOUNT CHANNEL
+#EXTINF:-1, IT Â® PARAMOUNT CHANNEL
 http://viacomitalytest-lh.akamaihd.net/i/sbshdlive_1@195657/index_1200_av-b.m3u8
-#EXTINF:-1, •IT ® Rai Movie
+#EXTINF:-1, IT Â® Rai Movie
 http://b2everyrai-lh.akamaihd.net/i/raimovie_1@67348/master.m3u8
-#EXTINF:-1, •IT ® Top Crime
+#EXTINF:-1, IT Â® Top Crime
 http://live3.msf.ticdn.it/Content/HLS/Live/Channel(CH07HA)/Stream(04)/index.m3u8
-#EXTINF:-1, •IT ® Rai Premium
+#EXTINF:-1, IT Â® Rai Premium
 http://b2everyrai-lh.akamaihd.net/i/raipremium_1@181837/index_1200_av-b.m3u8?sd=10&rebase=on
-#EXTINF:-1, •IT ® Rai Gulp
+#EXTINF:-1, IT Â® Rai Gulp
 http://b2everyrai-lh.akamaihd.net/i/raigulp_1@66350/index_1200_av-p.m3u8
-#EXTINF:-1, •IT ® Rai Gulp (opz2)
+#EXTINF:-1, IT Â® Rai Gulp (opz2)
 mmsh://212.162.68.163/Rai_gulp
-#EXTINF:-1, •IT ® Rai Yoyo
+#EXTINF:-1, IT Â® Rai Yoyo
 http://b2everyrai-lh.akamaihd.net/i/raiyoyo_1@191405/index_1200_av-b.m3u8
-#EXTINF:-1, •IT ® Rai Storia
+#EXTINF:-1, IT Â® Rai Storia
 http://b2.stream6.rai.it/italy/smil%3araistoria.smil/chunklist_b900000.m3u8?auth=daEa3dzcycocbcnbPdLaLbXbra_a3dPcjaf-bw6Xge-c0-FmwwvGr&aifp=V001
-#EXTINF:-1, •IT ® Rai Storia (opz2)
+#EXTINF:-1, IT Â® Rai Storia (opz2)
 mmsh://212.162.68.163/rai_storia
-#EXTINF:-1, •IT ® Rai Scuola
+#EXTINF:-1, IT Â® Rai Scuola
 http://stream6.rai.it/italy/smil:raiscuola.smil/chunklist_b900000.m3u8
-#EXTINF:-1, •IT ® Rai Nettuno 
+#EXTINF:-1, IT Â® Rai Nettuno 
 http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=385140
-#EXTINF:-1, •IT ® ALICE
+#EXTINF:-1, IT Â® ALICE
 http://ltlive01.cloudapp.net/LT_CH_4plat296w.isml/QualityLevels(1264000)/manifest(format=m3u8-aapl).m3u8
-#EXTINF:-1, •IT ® MARCOPOLO
+#EXTINF:-1, IT Â® MARCOPOLO
 http://ltlive01.cloudapp.net/LT_CH_2mkw471qp.isml/QualityLevels(1264000)/manifest(format=m3u8-aapl).m3u8
-#EXTINF:-1, •IT ® Iris
+#EXTINF:-1, IT Â® Iris
 http://live3.msf.ticdn.it/Content/HLS/Live/Channel(CH06HA)/Stream(04)/index.m3u8
-#EXTINF:-1, •IT ® Cielo
+#EXTINF:-1, IT Â® Cielo
 http://skyianywhere2-i.akamaihd.net/hls/live/216865/cielo/playlist.m3u8
-#EXTINF:-1, •IT ® Mediaset Extra
+#EXTINF:-1, IT Â® Mediaset Extra
 http://live3.msf.ticdn.it/Content/HLS/Live/Channel(CH09HA)/Stream(04)/index.m3u8
-#EXTINF:-1, •IT ® Italia 2 
+#EXTINF:-1, IT Â® Italia 2 
 http://live3.msf.ticdn.it/Content/HLS/Live/Channel(CH05HA)/Stream(04)/index.m3u8
-#EXTINF:-1, •IT ® Class-Cnbc
+#EXTINF:-1, IT Â® Class-Cnbc
 http://liveclass.edgesuite.net/i/classcnbc_1@199799/master.m3u8
-#EXTINF:-1, •IT ® Tv2000
+#EXTINF:-1, IT Â® Tv2000
 http://mi1.wz.tv2000.it/tv2000_alfa.m3u8
-#EXTINF:-1, •IT ® QVC
+#EXTINF:-1, IT Â® QVC
 http://qvcitalia.mmdlive.lldns.net/qvcitalia/66f8359ae9c046bb8aa92144511b450a/manifest.m3u8
-#EXTINF:-1, •IT ® Class Tv Moda
+#EXTINF:-1, IT Â® Class Tv Moda
 http://liveclass.edgesuite.net/i/classtvmoda_1@199801/master.m3u8
-#EXTINF:-1, •IT ® Automoto Tv
+#EXTINF:-1, IT Â® Automoto Tv
 rtmp://178.22.187.253:1935/streaming-tv/mp4:myStream3
-#EXTINF:-1, •IT ® RADIO RADICALE TV 
+#EXTINF:-1, IT Â® RADIO RADICALE TV 
 http://video-4.radioradicale.it:1935/diretta/padtv1/chunklist_w1993029635.m3u8
 
-#EXTINF:-1, •IT ® RAI Scuela 
+#EXTINF:-1, IT Â® RAI Scuela 
 http://originstream6.rai.it/italy/smil:raiscuola.smil/chunklist_b900000.m3u8
-#EXTINF:-1, •IT ® RAI News 24 
+#EXTINF:-1, IT Â® RAI News 24 
 http://b2everyrai-lh.akamaihd.net/i/rainews_1@179616/index_1800_av-b.m3u8
-#EXTINF:-1, •IT ® Sky Tg24
+#EXTINF:-1, IT Â® Sky Tg24
 http://skyianywhere2-i.akamaihd.net/hls/live/200275/tg24/playlist.m3u8
-#EXTINF:-1, •IT ® RAI sport 
+#EXTINF:-1, IT Â® RAI sport 
 http://b2.httpstream1.rai.it/raisport1.isml/QualityLevels(1296000)/manifest(format=m3u8-aapl).m3u8?auth=daEdKa9d2cNcRdWa2cIcedUaq[BR]aTd6bWc3-bwOKEL-c0-GjsxvGw&aifp=V001
-#EXTINF:-1, •IT ® TSN 
+#EXTINF:-1, IT Â® TSN 
 http://wms.shared.streamshow.it:1935/tsn/tsn/live.m3u8
-#EXTINF:-1, •IT ® TELE ARENA 
+#EXTINF:-1, IT Â® TELE ARENA 
 http://wma07.fluidstream.net:1935/TeleArena/livestream/playlist.m3u8
-#EXTINF:-1, •IT ® Alice
+#EXTINF:-1, IT Â® Alice
 http://ltlive01.cloudapp.net/LT_CH_4plat296w.isml/QualityLevels(1264000)/manifest(format=m3u8-aapl).m3u8
-#EXTINF:-1, •IT ® La 7
+#EXTINF:-1, IT Â® La 7
 http://la7live-lh.akamaihd.net/i/test_1@143593/master.m3u8
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 #EXTINF:-1,Antenna1 Roma
 http://167.114.251.212:80/stream
@@ -908,18 +866,3 @@ http://104.200.142.184:80/1744_128
 http://149.202.94.186:8800/stream
 #EXTINF:-1,Metro Oslo
 http://89.105.32.27:80/metro128.mp3
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
