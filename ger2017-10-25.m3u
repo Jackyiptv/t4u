@@ -1,6 +1,49 @@
 #EXTM3U
 
 
+#EXTINF:-1 tvg-id="sporttv+.pt" tvg-logo="http://www.sporttv.pt/img/share.png" group-title=“DESPORTO”,Sport TV+ low
+rtmp://213.152.180.151:17247/sstream/nnXWDzhPK1.stream
+
+
+#EXTINF:-1 tvg-logo="http://s28.postimg.org/8cnb5xorh/Sport_TV1_HD.png" group-title="DESPORTO",Sport TV 1 low
+rtmp://213.152.180.151:17247/sstream/EuxPCYoiaN.stream
+ 
+#EXTINF:-1 tvg-logo="http://s28.postimg.org/8cnb5xorh/Sport_TV1_HD.png" group-title="DESPORTO",Sport TV 1 HD
+http://freeiptv.geantsat.com:8080/PT:SPORT-TV-1-HD/mpegts?token=bVNJtcoNd0
+
+#EXTINF:-1 tvg-logo="http://s28.postimg.org/nzekjb2jh/qpyrpq1470407606.png" group-title="DESPORTO",Sport TV 2 low
+rtmp://213.152.180.151:17247/sstream/0qZjb9kndn.stream
+
+#EXTINF:-1 tvg-logo="http://s28.postimg.org/nzekjb2jh/qpyrpq1470407606.png" group-title="DESPORTO",Sport TV 2 HD
+http://freeiptv.geantsat.com:8080/PT:SPORT-TV-2-HD/mpegts?token=bVNJtcoNd0
+
+#EXTINF:-1 tvg-logo="http://s28.postimg.org/q58vdt5zx/Sport_TV3_HD_300x169.png" group-title="DESPORTO",Sport TV 3 low
+rtmp://213.152.180.151:17247/sstream/o4NLATkOb3.stream
+
+#EXTINF:-1 tvg-logo="http://s28.postimg.org/q58vdt5zx/Sport_TV3_HD_300x169.png" group-title="DESPORTO",Sport TV 3 HD
+http://freeiptv.geantsat.com:8080/PT:SPORT-TV-3-HD/mpegts?token=bVNJtcoNd0
+
+#EXTINF:-1 tvg-logo="http://s28.postimg.org/3ul0du8pp/qypxry1470408244.png" group-title="DESPORTO",Sport TV 4 low
+rtmp://213.152.180.151:17247/sstream/0tkVGgd2jl.stream
+
+#EXTINF:-1 tvg-logo="http://s28.postimg.org/3ul0du8pp/qypxry1470408244.png" group-title="DESPORTO",Sport TV 4 HD
+http://freeiptv.geantsat.com:8080/PT:SPORT-TV-4-HD/mpegts?token=bVNJtcoNd0
+
+#EXTINF:-1 tvg-logo="http://s4.postimg.org/u5e059jfx/logo_sport_tv_8.png" group-title="DESPORTO",Sport TV 5 low
+rtmp://213.152.180.151:17247/sstream/1UPDomF2Ab.stream
+
+#EXTINF:-1 tvg-logo="http://s4.postimg.org/u5e059jfx/logo_sport_tv_8.png" group-title="DESPORTO",Sport TV 5 HD
+http://freeiptv.geantsat.com:8080/PT:SPORT-TV-5-HD/mpegts?token=bVNJtcoNd0
+
+
+#EXTINF:-1 tvg-id="benficatv.pt" tvg-logo="http://www.thelogodb.com/images/media/logo/yutwvs1437950085.png" group-title="DESPORTO",Benfica TV low
+rtmp://213.152.180.151:17247/sstream/9DOXhIxxsw.stream
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://oi58.tinypic.com/2coj1gz.jpg" group-title=“DESPORTO”,Sporting TV
+http://freeiptv.geantsat.com:8080/PT:Sportv-HD/mpegts?token=bVNJtcoNd0
+
+
+
 #EXTINF:-1,GR:Cosmote Sport 1 HD
 http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9418.ts
 #EXTINF:-1,GR:Cosmote Sport 2 HD
