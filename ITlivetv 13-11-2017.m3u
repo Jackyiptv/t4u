@@ -754,96 +754,254 @@ http://cdnlive1.win:80/live/FxXilfIelJ/jH0SGeXK1k/219.m3u8
 #EXTINF:-1 tvg-ID="RaiGulp.it" tvg-name="Rai Gulp" tvg-logo="" group-title="",Rai Gulp
 http://cdnlive1.win:80/live/FxXilfIelJ/jH0SGeXK1k/226.m3u8
 
+http://bigiptv.ovh:8000/live/oussema/oussema/7923.ts
+#EXTINF:-1,[IT] Sportitalia
+http://bigiptv.ovh:8000/live/oussema/oussema/7985.ts
+#EXTINF:-1,[IT] Sky Uno HD
+http://bigiptv.ovh:8000/live/oussema/oussema/7957.ts
+#EXTINF:-1,[IT] SKY TG 24
+http://bigiptv.ovh:8000/live/oussema/oussema/7958.ts
+#EXTINF:-1,[IT] Sky Sport F1 HD
+http://bigiptv.ovh:8000/live/oussema/oussema/7984.ts
+#EXTINF:-1,[IT] SKY SPORT 3
+http://bigiptv.ovh:8000/live/oussema/oussema/7983.ts
+#EXTINF:-1,[IT] Sky Sport 24
+http://bigiptv.ovh:8000/live/oussema/oussema/7987.ts
+#EXTINF:-1,[IT] SKY SPORT 2
+http://bigiptv.ovh:8000/live/oussema/oussema/7982.ts
+#EXTINF:-1,[IT] SKY SPORT 1
+http://bigiptv.ovh:8000/live/oussema/oussema/7981.ts
+#EXTINF:-1,[IT] Sky Primafila1 HD
+http://bigiptv.ovh:8000/live/oussema/oussema/7990.ts
+#EXTINF:-1,[IT] Sky Primafila 8
+http://bigiptv.ovh:8000/live/oussema/oussema/7997.ts
+#EXTINF:-1,[IT] Sky Primafila 6 HD
+http://bigiptv.ovh:8000/live/oussema/oussema/7995.ts
+#EXTINF:-1,[IT] Sky Primafila 3 HD
+http://bigiptv.ovh:8000/live/oussema/oussema/7992.ts
+#EXTINF:-1,[IT] Sky Primafila 10
+http://bigiptv.ovh:8000/live/oussema/oussema/7998.ts
+#EXTINF:-1,[IT] Sky Moto GP
+http://bigiptv.ovh:8000/live/oussema/oussema/7988.ts
+#EXTINF:-1,[IT] Sky Crime & Investigation
+http://bigiptv.ovh:8000/live/oussema/oussema/7966.ts
+#EXTINF:-1,[IT] Sky Cinema Uno
+http://bigiptv.ovh:8000/live/oussema/oussema/7959.ts
+#EXTINF:-1,[IT] Sky Cinema Passion HD
+http://bigiptv.ovh:8000/live/oussema/oussema/7967.ts
+#EXTINF:-1,[IT] Sky Cinema Max HD
+http://bigiptv.ovh:8000/live/oussema/oussema/7960.ts
+#EXTINF:-1,[IT] Sky Cinema Hits HD
+http://bigiptv.ovh:8000/live/oussema/oussema/7968.ts
+#EXTINF:-1,[IT] Sky Cinema Family HD
+http://bigiptv.ovh:8000/live/oussema/oussema/7969.ts
+#EXTINF:-1,[IT] Sky Cinema Comedy HD
+http://bigiptv.ovh:8000/live/oussema/oussema/7961.ts
+#EXTINF:-1,[IT] Sky Cinema Classic HD
+http://bigiptv.ovh:8000/live/oussema/oussema/7962.ts
+#EXTINF:-1,[IT] SKY Cinema  24
+http://bigiptv.ovh:8000/live/oussema/oussema/7963.ts
+#EXTINF:-1,[IT] Sky Cinema  1 HD
+http://bigiptv.ovh:8000/live/oussema/oussema/7964.ts
+#EXTINF:-1,[IT] SKY Atlantic HD
+http://bigiptv.ovh:8000/live/oussema/oussema/7965.ts
+#EXTINF:-1,[IT] RSI LA 2
+http://bigiptv.ovh:8000/live/oussema/oussema/7925.ts
+#EXTINF:-1,[IT] RSI LA 1
+http://bigiptv.ovh:8000/live/oussema/oussema/7924.ts
+#EXTINF:-1,[IT] Rete 4 HD
+http://bigiptv.ovh:8000/live/oussema/oussema/7931.ts
+#EXTINF:-1,[IT] Rai YoYo
+http://bigiptv.ovh:8000/live/oussema/oussema/7936.ts
+#EXTINF:-1,[IT] Rai Sport 2 HD
+http://bigiptv.ovh:8000/live/oussema/oussema/7938.ts
+#EXTINF:-1,[IT] Rai Sport 1 HD
+http://bigiptv.ovh:8000/live/oussema/oussema/7937.ts
+#EXTINF:-1,[IT] Rai Premium
+http://bigiptv.ovh:8000/live/oussema/oussema/7939.ts
+#EXTINF:-1,[IT] Rai Movie
+http://bigiptv.ovh:8000/live/oussema/oussema/7940.ts
+#EXTINF:-1,[IT] Rai 5 HD
+http://bigiptv.ovh:8000/live/oussema/oussema/7930.ts
+#EXTINF:-1,[IT][VIP] RAI 4 HD
+http://bigiptv.ovh:8000/live/oussema/oussema/7929.ts
+#EXTINF:-1,[IT][VIP] RAI 3 HD
+http://bigiptv.ovh:8000/live/oussema/oussema/7928.ts
+#EXTINF:-1,[IT][VIP] RAI 2 HD
+http://bigiptv.ovh:8000/live/oussema/oussema/7927.ts
+#EXTINF:-1,[IT][VIP] RAI 1 HD
+http://bigiptv.ovh:8000/live/oussema/oussema/7926.ts
+#EXTINF:-1,[IT] Primafila 7
+http://bigiptv.ovh:8000/live/oussema/oussema/7996.ts
+#EXTINF:-1,[IT] Primafila 5
+http://bigiptv.ovh:8000/live/oussema/oussema/7994.ts
+#EXTINF:-1,[IT] Primafila 4
+http://bigiptv.ovh:8000/live/oussema/oussema/7993.ts
+#EXTINF:-1,[IT] Primafila 2 HD
+http://bigiptv.ovh:8000/live/oussema/oussema/7991.ts
+#EXTINF:-1,[IT] Premium Studio Universal
+http://bigiptv.ovh:8000/live/oussema/oussema/7974.ts
+#EXTINF:-1,[IT] Premium Stories
+http://bigiptv.ovh:8000/live/oussema/oussema/7975.ts
+#EXTINF:-1,[IT] Premium Joy
+http://bigiptv.ovh:8000/live/oussema/oussema/7970.ts
+#EXTINF:-1,[IT] Premium Energy
+http://bigiptv.ovh:8000/live/oussema/oussema/7976.ts
+#EXTINF:-1,[IT] Premium Emotion
+http://bigiptv.ovh:8000/live/oussema/oussema/7971.ts
+#EXTINF:-1,[IT] Premium Crime 24
+http://bigiptv.ovh:8000/live/oussema/oussema/7977.ts
+#EXTINF:-1,[IT] Premium Comedy
+http://bigiptv.ovh:8000/live/oussema/oussema/7978.ts
+#EXTINF:-1,[IT] Premium Cinema HD
+http://bigiptv.ovh:8000/live/oussema/oussema/7972.ts
+#EXTINF:-1,[IT] Premium Cinema 24
+http://bigiptv.ovh:8000/live/oussema/oussema/7979.ts
+#EXTINF:-1,[IT] Premium Cinema 2 HD
+http://bigiptv.ovh:8000/live/oussema/oussema/7973.ts
+#EXTINF:-1,[IT] Premium Action +24
+http://bigiptv.ovh:8000/live/oussema/oussema/7980.ts
+#EXTINF:-1,[IT] National Geographic HD
+http://bigiptv.ovh:8000/live/oussema/oussema/7948.ts
+#EXTINF:-1,[IT] NatGeo Wild HD
+http://bigiptv.ovh:8000/live/oussema/oussema/7949.ts
+#EXTINF:-1,[IT] Nat Geo People HD
+http://bigiptv.ovh:8000/live/oussema/oussema/7950.ts
+#EXTINF:-1,[IT] LA 7 HD
+http://bigiptv.ovh:8000/live/oussema/oussema/7933.ts
+#EXTINF:-1,[IT] Italia 2
+http://bigiptv.ovh:8000/live/oussema/oussema/7935.ts
+#EXTINF:-1,[IT] Italia 1 HD
+http://bigiptv.ovh:8000/live/oussema/oussema/7934.ts
+#EXTINF:-1,[IT] History Channel
+http://bigiptv.ovh:8000/live/oussema/oussema/7951.ts
+#EXTINF:-1,[IT] Fox Sports HD
+http://bigiptv.ovh:8000/live/oussema/oussema/7943.ts
+#EXTINF:-1,[IT] Fox Life HD
+http://bigiptv.ovh:8000/live/oussema/oussema/7941.ts
+#EXTINF:-1,[IT] Fox HD
+http://bigiptv.ovh:8000/live/oussema/oussema/7942.ts
+#EXTINF:-1,[IT] Fox Crime
+http://bigiptv.ovh:8000/live/oussema/oussema/7944.ts
+#EXTINF:-1,[IT] Fox Comedy HD
+http://bigiptv.ovh:8000/live/oussema/oussema/7945.ts
+#EXTINF:-1,[IT] Fox Animation
+http://bigiptv.ovh:8000/live/oussema/oussema/7946.ts
+#EXTINF:-1,[IT] EuroSport 2
+http://bigiptv.ovh:8000/live/oussema/oussema/7952.ts
+#EXTINF:-1,[IT] EuroSport 1
+http://bigiptv.ovh:8000/live/oussema/oussema/7953.ts
+#EXTINF:-1,[IT] Dmax HD
+http://bigiptv.ovh:8000/live/oussema/oussema/7954.ts
+#EXTINF:-1,[IT] Discovery Science HD
+http://bigiptv.ovh:8000/live/oussema/oussema/7947.ts
+#EXTINF:-1,[IT] Canal 5 HD
+http://bigiptv.ovh:8000/live/oussema/oussema/7932.ts
 
 
-#EXTINF:-1, IT ® RAI 5 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1, •IT ® RAI 5 
 http://b2.stream12.rai.it/live/smil%3arai5.smil/playlist.m3u8
-#EXTINF:-1, IT ® RAI 5 
+#EXTINF:-1, •IT ® RAI 5 
 http://stream12.rai.it/live/rai5.smil/master.m3u8
-#EXTINF:-1, IT ® RAI Premium 
+#EXTINF:-1, •IT ® RAI Premium 
 http://b2everyrai-lh.akamaihd.net/i/raipremium_1@181837/index_1200_av-p.m3u8
-#EXTINF:-1, IT ® RAI Movie 
+#EXTINF:-1, •IT ® RAI Movie 
 http://b2everyrai-lh.akamaihd.net/i/raimovie_1@67348/master.m3u8
-#EXTINF:-1, IT ® RAI Movie 
+#EXTINF:-1, •IT ® RAI Movie 
 http://stream10.rai.it:80/italy/raimovie.smil/chunklist_b1200000.m3u8
-#EXTINF:-1, IT ® Rete 4
+#EXTINF:-1, •IT ® Rete 4
 http://live3.msf.ticdn.it/Content/HLS/Live/Channel(CH03HA)/Stream(03)/index.m3u8
-#EXTINF:-1, IT ® Canale 5
+#EXTINF:-1, •IT ® Canale 5
 http://live1.msf.ticdn.it/Content/HLS/Live/Channel(CH01HA)/Stream(04)/index.m3u8
-#EXTINF:-1, IT ® Italia 1
+#EXTINF:-1, •IT ® Italia 1
 http://live3.msf.ticdn.it/Content/HLS/Live/Channel(CH02HA)/Stream(04)/index.m3u8
-#EXTINF:-1, IT ® Rai 4
+#EXTINF:-1, •IT ® Rai 4
 http://originstream12.rai.it/italy/smil:rai4.smil/chunklist_b1800000.m3u8
-#EXTINF:-1, IT ® La5
+#EXTINF:-1, •IT ® La5
 http://live3.msf.ticdn.it/Content/HLS/Live/Channel(CH04HA)/Stream(04)/index.m3u8
-#EXTINF:-1, IT ® La7
+#EXTINF:-1, •IT ® La7
 http://la7livehls-lh.akamaihd.net/i/livebkup_1@372883/index_1_av-p.m3u8
-#EXTINF:-1, IT ® La7D
+#EXTINF:-1, •IT ® La7D
 http://se-mi1-5.se.itvmscvas.alice.cdn.interbusiness.it/liveas/cubovision/la7d/v7.m3u8
-#EXTINF:-1, IT ® PARAMOUNT CHANNEL
+#EXTINF:-1, •IT ® PARAMOUNT CHANNEL
 http://viacomitalytest-lh.akamaihd.net/i/sbshdlive_1@195657/index_2500_av-p.m3u8
-#EXTINF:-1, IT ® PARAMOUNT CHANNEL
+#EXTINF:-1, •IT ® PARAMOUNT CHANNEL
 http://viacomitalytest-lh.akamaihd.net/i/sbshdlive_1@195657/index_1200_av-b.m3u8
-#EXTINF:-1, IT ® Rai Movie
+#EXTINF:-1, •IT ® Rai Movie
 http://b2everyrai-lh.akamaihd.net/i/raimovie_1@67348/master.m3u8
-#EXTINF:-1, IT ® Top Crime
+#EXTINF:-1, •IT ® Top Crime
 http://live3.msf.ticdn.it/Content/HLS/Live/Channel(CH07HA)/Stream(04)/index.m3u8
-#EXTINF:-1, IT ® Rai Premium
+#EXTINF:-1, •IT ® Rai Premium
 http://b2everyrai-lh.akamaihd.net/i/raipremium_1@181837/index_1200_av-b.m3u8?sd=10&rebase=on
-#EXTINF:-1, IT ® Rai Gulp
+#EXTINF:-1, •IT ® Rai Gulp
 http://b2everyrai-lh.akamaihd.net/i/raigulp_1@66350/index_1200_av-p.m3u8
-#EXTINF:-1, IT ® Rai Gulp (opz2)
+#EXTINF:-1, •IT ® Rai Gulp (opz2)
 mmsh://212.162.68.163/Rai_gulp
-#EXTINF:-1, IT ® Rai Yoyo
+#EXTINF:-1, •IT ® Rai Yoyo
 http://b2everyrai-lh.akamaihd.net/i/raiyoyo_1@191405/index_1200_av-b.m3u8
-#EXTINF:-1, IT ® Rai Storia
+#EXTINF:-1, •IT ® Rai Storia
 http://b2.stream6.rai.it/italy/smil%3araistoria.smil/chunklist_b900000.m3u8?auth=daEa3dzcycocbcnbPdLaLbXbra_a3dPcjaf-bw6Xge-c0-FmwwvGr&aifp=V001
-#EXTINF:-1, IT ® Rai Storia (opz2)
+#EXTINF:-1, •IT ® Rai Storia (opz2)
 mmsh://212.162.68.163/rai_storia
-#EXTINF:-1, IT ® Rai Scuola
+#EXTINF:-1, •IT ® Rai Scuola
 http://stream6.rai.it/italy/smil:raiscuola.smil/chunklist_b900000.m3u8
-#EXTINF:-1, IT ® Rai Nettuno 
+#EXTINF:-1, •IT ® Rai Nettuno 
 http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=385140
-#EXTINF:-1, IT ® ALICE
+#EXTINF:-1, •IT ® ALICE
 http://ltlive01.cloudapp.net/LT_CH_4plat296w.isml/QualityLevels(1264000)/manifest(format=m3u8-aapl).m3u8
-#EXTINF:-1, IT ® MARCOPOLO
+#EXTINF:-1, •IT ® MARCOPOLO
 http://ltlive01.cloudapp.net/LT_CH_2mkw471qp.isml/QualityLevels(1264000)/manifest(format=m3u8-aapl).m3u8
-#EXTINF:-1, IT ® Iris
+#EXTINF:-1, •IT ® Iris
 http://live3.msf.ticdn.it/Content/HLS/Live/Channel(CH06HA)/Stream(04)/index.m3u8
-#EXTINF:-1, IT ® Cielo
+#EXTINF:-1, •IT ® Cielo
 http://skyianywhere2-i.akamaihd.net/hls/live/216865/cielo/playlist.m3u8
-#EXTINF:-1, IT ® Mediaset Extra
+#EXTINF:-1, •IT ® Mediaset Extra
 http://live3.msf.ticdn.it/Content/HLS/Live/Channel(CH09HA)/Stream(04)/index.m3u8
-#EXTINF:-1, IT ® Italia 2 
+#EXTINF:-1, •IT ® Italia 2 
 http://live3.msf.ticdn.it/Content/HLS/Live/Channel(CH05HA)/Stream(04)/index.m3u8
-#EXTINF:-1, IT ® Class-Cnbc
+#EXTINF:-1, •IT ® Class-Cnbc
 http://liveclass.edgesuite.net/i/classcnbc_1@199799/master.m3u8
-#EXTINF:-1, IT ® Tv2000
+#EXTINF:-1, •IT ® Tv2000
 http://mi1.wz.tv2000.it/tv2000_alfa.m3u8
-#EXTINF:-1, IT ® QVC
+#EXTINF:-1, •IT ® QVC
 http://qvcitalia.mmdlive.lldns.net/qvcitalia/66f8359ae9c046bb8aa92144511b450a/manifest.m3u8
-#EXTINF:-1, IT ® Class Tv Moda
+#EXTINF:-1, •IT ® Class Tv Moda
 http://liveclass.edgesuite.net/i/classtvmoda_1@199801/master.m3u8
-#EXTINF:-1, IT ® Automoto Tv
+#EXTINF:-1, •IT ® Automoto Tv
 rtmp://178.22.187.253:1935/streaming-tv/mp4:myStream3
-#EXTINF:-1, IT ® RADIO RADICALE TV 
+#EXTINF:-1, •IT ® RADIO RADICALE TV 
 http://video-4.radioradicale.it:1935/diretta/padtv1/chunklist_w1993029635.m3u8
 
-#EXTINF:-1, IT ® RAI Scuela 
+#EXTINF:-1, •IT ® RAI Scuela 
 http://originstream6.rai.it/italy/smil:raiscuola.smil/chunklist_b900000.m3u8
-#EXTINF:-1, IT ® RAI News 24 
+#EXTINF:-1, •IT ® RAI News 24 
 http://b2everyrai-lh.akamaihd.net/i/rainews_1@179616/index_1800_av-b.m3u8
-#EXTINF:-1, IT ® Sky Tg24
+#EXTINF:-1, •IT ® Sky Tg24
 http://skyianywhere2-i.akamaihd.net/hls/live/200275/tg24/playlist.m3u8
-#EXTINF:-1, IT ® RAI sport 
+#EXTINF:-1, •IT ® RAI sport 
 http://b2.httpstream1.rai.it/raisport1.isml/QualityLevels(1296000)/manifest(format=m3u8-aapl).m3u8?auth=daEdKa9d2cNcRdWa2cIcedUaq[BR]aTd6bWc3-bwOKEL-c0-GjsxvGw&aifp=V001
-#EXTINF:-1, IT ® TSN 
+#EXTINF:-1, •IT ® TSN 
 http://wms.shared.streamshow.it:1935/tsn/tsn/live.m3u8
-#EXTINF:-1, IT ® TELE ARENA 
+#EXTINF:-1, •IT ® TELE ARENA 
 http://wma07.fluidstream.net:1935/TeleArena/livestream/playlist.m3u8
-#EXTINF:-1, IT ® Alice
+#EXTINF:-1, •IT ® Alice
 http://ltlive01.cloudapp.net/LT_CH_4plat296w.isml/QualityLevels(1264000)/manifest(format=m3u8-aapl).m3u8
-#EXTINF:-1, IT ® La 7
+#EXTINF:-1, •IT ® La 7
 http://la7live-lh.akamaihd.net/i/test_1@143593/master.m3u8
 
 #EXTINF:-1,Antenna1 Roma
@@ -866,3 +1024,5 @@ http://104.200.142.184:80/1744_128
 http://149.202.94.186:8800/stream
 #EXTINF:-1,Metro Oslo
 http://89.105.32.27:80/metro128.mp3
+
+
