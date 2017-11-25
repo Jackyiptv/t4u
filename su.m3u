@@ -1,0 +1,1641 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/p06PmVt.png" group-title="USA",ABC News
+http://abclive.abcnews.com/i/abc_live4@136330/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/MH7kNnl.png" group-title="USA",CBS News
+http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/SvQJJD4.png" group-title="USA",MSNBC (HD)
+http://tvemsnbc-lh.akamaihd.net/i/nbcmsnbc_1@122532/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/SvQJJD4.png" group-title="USA",MSNBC (SD)
+http://tvemsnbc-lh.akamaihd.net/i/nbcmsnbc_1@122532/index_1296_av-p.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/SvQJJD4.png" group-title="USA",MSNBC (SD)*
+http://tvemsnbc-lh.akamaihd.net/i/nbcmsnbc_1@122532/index_1896_av-b.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/wY0bIox.png" group-title="USA",Bloomberg TV
+http://cdn3.videos.bloomberg.com/btv/us/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/wY0bIox.png" group-title="USA",Bloomberg TV*
+http://live-bloomberg-us-east.global.ssl.fastly.net/us/us3_live.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/EvfdMSA.jpg" group-title="USA",Fox Business Network [NoKodi]
+http://fbntve-i.akamaihd.net/hls/live/200667/fbntve/HD.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/cYXoeB0.png" group-title="USA",Fox News Radio
+http://fnurtmp-f.akamaihd.net/i/FNRADIOHDS_1@92141/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/7zieaS3.png" group-title="USA",Voice of America
+http://voa-lh.akamaihd.net/i/voa_mpls_tvmc3_3@320295/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/ZKQfV3y.png" group-title="USA",C-SPAN
+http://cspan1-lh.akamaihd.net/i/cspan1_1@304727/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/z4yGp8x.png" group-title="USA",C-SPAN 2
+http://cspan2-lh.akamaihd.net/i/cspan2_1@304728/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/PgkXesQ.png" group-title="USA",C-SPAN 3
+http://cspan3-lh.akamaihd.net/i/cspan3_1@304729/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://corporate.pluto.tv/wp-content/uploads/2016/05/Pluto_logo-white_675x675.png" group-title="USA",Pluto TV Headlines
+http://stitcher.pluto.tv/stitch/hls/channel/5268abcd0ce20a8472000114/master.m3u8?sid=web24157571521&deviceType=web&deviceMake=web&deviceVersion=1&deviceId=web24163643069&appVersion=5.2.7&deviceDNT=web&deviceModel=web
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/D4vJyy9.png" group-title="USA",Weather Channel
+http://weather-lh.akamaihd.net/i/twc_1@92006/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/uUb3vwe.png" group-title="USA",Weather Nation
+http://cdnapi.kaltura.com/p/931702/sp/93170200/playManifest/entryId/1_oorxcge2/format/applehttp/protocol/http/uiConfId/28428751/a.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://channels.roku.com/images/b114d9aef1ab42caa262bd787fdc279a-hd.png" group-title="USA",The Weather Network
+http://stitcher.prod.pluto.tv/stitch/hls/channel/56747b22218fb5b73692cbd5/master.m3u8?sid=web24157571521&deviceType=web&deviceMake=web&deviceVersion=1&deviceId=web24163643069&appVersion=5.2.7&deviceDNT=web&deviceModel=web
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/PH1Gg4p.png" group-title="USA",Free Speech TV
+https://edge.free-speech-tv-live.top.comcast.net/out/u/fstv.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/SgOM8vF.png" group-title="USA",The Blaze
+http://theblaze.global.ssl.fastly.net/live/blaze-dvr/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/VEd3y4O.png" group-title="USA",InfoWars
+http://infowarslive-lh.akamaihd.net/i/infowarslivestream_1@353459/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/buPAXY7.png" group-title="USA",RT America
+https://secure-streams.akamaized.net/rt-usa/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/G9VKlxx.png" group-title="USA",MLB Network
+http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/master_wired.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5tEE0qP.png" group-title="USA",NBA TV
+http://216.31.255.235/hlsl/5/NBATV/NBATV.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/gjBAU2S.png" group-title="USA",NFL Now
+https://svglive3-event.level3.nfl.com/nflent3/live/nfl_now/NFLNOW_1200k.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://x.pac-12.com/profiles/pac12/themes/pac12_foundation/images/pac12/networks/network-arizona.jpg" group-title="USA",Pac-12 Arizona
+http://p12a-lh.akamaihd.net/i/arizona_delivery@199730/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i4atv.us/wp-content/uploads/2017/01/1483508572pac-12-bayarea-logo.png.png" group-title="USA",PAC-12 Bay Area
+http://p12b-lh.akamaihd.net/i/bayarea_delivery@429334/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://x.pac-12.com/profiles/pac12/themes/pac12_foundation/images/pac12/networks/network-losangeles.jpg" group-title="USA",Pac-12 Los Angeles
+http://p12l-lh.akamaihd.net/i/la_delivery@425541/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://x.pac-12.com/profiles/pac12/themes/pac12_foundation/images/pac12/networks/network-mountain.jpg" group-title="USA",Pac-12 Mountain
+http://p12m-lh.akamaihd.net/i/mountain_delivery@428912/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://x.pac-12.com/sites/default/files/DigitalOpen_2015.mov.00_00_04_23.Still001__1457742519.jpg" group-title="USA",PAC-12 National
+http://p12n-lh.akamaihd.net/i/network_delivery@428818/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://x.pac-12.com/profiles/pac12/themes/pac12_foundation/images/pac12/networks/network-oregon.jpg" group-title="USA",Pac-12 Oregon
+http://p12o-lh.akamaihd.net/i/oregon_delivery@103261/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://x.pac-12.com/profiles/pac12/themes/pac12_foundation/images/pac12/networks/network-washington.jpg" group-title="USA",Pac 12 Washington
+http://p12w-lh.akamaihd.net/i/washington_delivery@426584/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/kHWW4Gg.jpg" group-title="USA",American Heroes Channel
+https://content-ausw3.uplynk.com/channel/7ba600dabdd44f5a92ffaf9842f1e9e8/h.m3u8?pbs=cb48fd2666074c06a4ebd1462fb4d565
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/BCQzAJ6.png" group-title="USA",Animal Planet
+http://iphone-streaming.ustream.tv/uhls/12762028/streams/live/iphone/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/KOHzcx2.png" group-title="USA",Biz TV
+http://imavex2.mmdlive.lldns.net/imavex2/0b2f65006e0743bd9701cce1339a3b9f/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/DT3DICU.png" group-title="USA",California Music Channel
+http://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMCUSA/CCURstream0.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/AgddyCM.png" group-title="USA",Channel 7 [NoRoku]
+http://radio.7chan.org:8000/CH7
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/K03Eq0Z.png" group-title="USA",Classic Arts Showcase
+http://cds.d3r6a3c9.hwcdn.net/live/smil:CAS.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gyP1fmt.png" group-title="USA",Comedy Central
+http://216.31.255.235/hlsl/1/Ze5abrUben5dCOMEDY/Ze5abrUben5dCOMEDY.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/AwNQHqC.png" group-title="USA",The Country Network
+https://dcunilive2-lh.akamaihd.net/i/dclive_1@390829/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/mahMQxJ.png" group-title="USA",D23 TV [Off]
+http://h5j3hce9.blue.onyxservers.com/hls-live/livepkgr/_definst_/liveevent/d23tv.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pmcvariety.files.wordpress.com/2015/03/destination-america.jpg" group-title="USA",Destination America [SD]
+http://pkg2.frontlayer.net/pseudolive/fl821095/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pmcvariety.files.wordpress.com/2015/03/destination-america.jpg" group-title="USA",Destination America [HD]
+https://content-ausw4.uplynk.com/channel/db762a708aa64082a610346d36654186/h.m3u8?pbs=7ef756186b5e4775bc6dec15cd74dd06
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/ksUrDyw.png" group-title="USA",Ditty TV
+http://desktop.dittytv.com/smil:DittyTV.smil/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/t3EgjfU.png" group-title="USA",Home Shopping Network
+http://hsn.mpl.miisolutions.net/hsn-live01/_definst_/smil:HSN1_ipad.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/uPvJzrz.png" group-title="USA",Investigation Discovery [SD]
+http://216.31.255.235/hlsl/8/fEfreTraX6guINVDSC/fEfreTraX6guINVDSC.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/uPvJzrz.png" group-title="USA",Investigation Discovery [HD]
+https://content-ausw3.uplynk.com/channel/a6fe2dd55b3149a6a59154a93e348012/h.m3u8?pbs=a089fc6c8ffc42d081b85ba79b60ab56
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/RJ1bM5E3ZNI/hqdefault.jpg" group-title="USA",FXX
+http://216.31.255.235/hlsl/4/beSteSTamE5uFXX/beSteSTamE5uFXX.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/yIzSqCD.png" group-title="USA",NASA TV Public
+http://nasa-i.akamaihd.net/hls/live/253565/NASA-NTV1-Public/master_500.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/yIzSqCD.png" group-title="USA",NASA TV Media
+https://nasa-i.akamaihd.net/hls/live/253566/NASA-NTV2-Media/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8YbXC9D.png" group-title="USA",NatGeo Wild
+http://216.31.255.235/hlsl/1/NATWLDxuvujAk7Cr4t/NATWLDxuvujAk7Cr4t.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/2606395058/ymqj6x1jd4rknwxqe0j7_400x400.jpeg" group-title="USA",PHL17 Philadelphia
+http://stream.memesyndicate.com/live/thx/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/FSukyxY.png" group-title="USA",QVC
+http://qvclvp2.mmdlive.lldns.net/qvclvp2/9aa645c89c5447a8937537011e8f8d0d/manifest.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/A4GMBN6.png" group-title="USA",Red Bull TV
+http://rbtvdiglinear-i.akamaihd.net/hls/live/241719/ATfallback/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/b8prEVt.png" group-title="USA",Rev'n
+http://dcunilive16-lh.akamaihd.net/i/dclive_1@305811/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cv358rU.png" group-title="USA",Science Channel
+http://216.31.255.235/hlsl/11/SCIENCEtefEth2SuQuh/SCIENCEtefEth2SuQuh.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/zgKclrq.png" group-title="USA",SupTV
+http://91.134.238.137/live/main/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Fbzbq1y.png" group-title="USA",TBD
+http://content.uplynk.com/channel/1831163f97674328ad9f4b4814ed39c5.m3u8?tc=1&exp=1614631202&rn=614441536&ct=c&cid=1831163f97674328ad9f4b4814ed39c5&ad=comet&ad.adUnit=%2FTBD%2FLivestream_midroll&ad._debug=TBDNET_ssai_livestream_midroll&ad.ad_rule=1&ad.pmad=12&ad.output=xml_vmap1&sig=5d194a4e4c5a4d59023d6a39a2ba5ba82dcd817b615e9f82115c41d9b26ffd0a
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9qF7VJ8.png" group-title="USA",truTV
+http://216.31.255.235/hlsl/7/TRUTVthutRezU4Ted/TRUTVthutRezU4Ted.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/nAkvH0H.png" group-title="USA",Tuff TV
+http://cdn-live-egress.campfyre.tv/rightbrainmedia-live-604/mp4:Tufftv_all/rightbrainmedia-live-604/Tufftv2/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RQdfZe6.png" group-title="USA",Velocity
+http://216.31.255.235/hlsl/6/fe6puFAsucreVELOCITY/fe6puFAsucreVELOCITY.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/mF6qbpX.png" group-title="USA",Wilderness Channel
+http://pkg2.frontlayer.net/pseudolive/fl821095/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/VEPoFCR.png" group-title="USA",Yes TV
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/YES/tu1_1.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/CFHtVxO.png" group-title="USA",360 North
+http://wowzaprod3-i.akamaihd.net/hls/live/252236/2147483647_360north_247/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Lh3tj0Q.png" group-title="USA",ASD TV
+http://64.22.99.223/AnchorageSchoolsAKLIVE/_definst_/AnchorageSchoolsAKLIVE.stream/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/vV08W1S.png" group-title="USA",Atlanta Channel
+http://media4.tripsmarter.com:1935/LiveTV/ACVBHD/chucklist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/deygPPH.png" group-title="USA",ATXN
+http://oflash.dfw.swagit.com/livecc02/austintx/smil:atx-16x9-1-b/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/deygPPH.png" group-title="USA",ATXN 2
+http://oflash.dfw.swagit.com/livecc02/austintx/smil:atx-16x9-1-a/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/YajfXJ1.png" group-title="USA",Beach TV - 30A
+http://media4.tripsmarter.com:1935/LiveTV/DTVHD/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/YajfXJ1.png" group-title="USA",Beach TV - Panama City
+http://media4.tripsmarter.com:1935/LiveTV/BTVHD/chucklist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/YajfXJ1.png" group-title="USA",Beach TV - Pawleys Island
+http://media4.tripsmarter.com:1935/LiveTV/MTVHD/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/nSMaujc.png" group-title="USA",Bowie TV
+http://granicusliveus3-a.akamaihd.net/cityofbowie/G0466_001/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/f5ZtDhj.png" group-title="USA",Buffalo TV
+http://na-all15.secdn.net/pegstream3-live/play/c3e1e4c4-7f11-4a54-8b8f-c590a95b4ade/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/tmKtbf9.png" group-title="USA",Capital City Connection
+http://na-us-se13.secdn.net/pegstream3-live/play/5f0d9ca5-4e85-4c01-a426-9ec8d44c2c9c/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/aPGyO9l.png" group-title="USA",Daytona Beach TV
+http://oflash.dfw.swagit.com/live/daytonabeachfl/smil:std-4x3-1-a/chucklist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/xGjchpW.png" group-title="USA",District of Columbia Network
+http://video.oct.dc.gov/out/u/DCN.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/aQpCSh8.png" group-title="USA",District Knowledge Network
+http://video.oct.dc.gov/out/u/96_4.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/ZasS7z4.png" group-title="USA",Escambia TV
+http://58bfeaf58405a.streamlock.net/live/escambiacountyfl/smil:std-4x3-1-a/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/O2Pg8kR.png" group-title="USA",The Florida Channel
+http://webcasting.thefloridachannel.org/live/tvweb1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/KfsVNlB.png" group-title="USA",Garland TV
+http://oflash-alt.dfw.swagit.com/live/garlandtx/smil:hd-16x9-1-a/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/uxUqIVT.png" group-title="USA",Greenbelt TV
+http://granicusliveus4-a.akamaihd.net/greenbeltmd/G0610_001/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/hlot5v7.png" group-title="USA",House of Representatives
+http://d3ktuc8v2sjk6m.cloudfront.net/livetv/ngrp:HouseChannel_all/chucklist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/0oRXnzz.png" group-title="USA",KBVR TV
+http://klive-a.akamaihd.net/dc-0/live/hls/p/391241/e/0_bthpnu1j/sd/10000/t/YwqLo1YivB_aumq-LxAuWg/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/96POFOB.png" group-title="USA",Key TV
+http://media4.tripsmarter.com:1935/LiveTV/KTVHD/chunklist_w363623166.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/COQM8bM.png" group-title="USA",Kool TV
+http://173.199.158.79:1935/roku/myStream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Fi68GxG.png" group-title="USA",Laurel TV
+https://crimson.ebmcdn.net/laurel/smil:laurel.smil/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/HuFEXXs.png" group-title="USA",Miami TV
+http://oflash.dfw.swagit.com/live/miamibeachfl/smil:std-16x9-1-a/chunklist_w1459206316_b878000.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Z918C34.png" group-title="USA",Orange TV
+http://otv3.ocfl.net:1936/OrangeTV/smil:OrangeTV.smil/chunklist_w1007974604_b894100_sleng.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/IZj3H1x.png" group-title="USA",PGCPS
+http://reflect.live.pgcps.cablecast.tv/live/WIFI-696k-360p/WIFI-696k-360p.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/ZJW0Dwj.png" group-title="USA",RyeTV
+http://oflash.dfw.swagit.com/live/ryeny/smil:std-4x3-1-a/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/CcqARnF.png" group-title="USA",SCCtv
+http://media3.scctv.net/live/scctv_300/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/75m9Pt8.png" group-title="USA",Seattle Channel
+https://wowzaprod121-i.akamaihd.net/hls/live/266526/d2ea1f60/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/xz5bm8f.png" group-title="USA",Seminole TV
+http://video.seminolecountyfl.gov:1935/live/SGTV/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/gzLFN7L.png" group-title="USA",Southeastern Channel
+http://147.174.13.196/live/WIFI-1296k-540p/WIFI-1296k-540p.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/YchkfWy.png" group-title="USA",Temple TV
+http://streaming.temple.edu/tutvlive/_definst_/mp4:play/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/3QAaaZj.png" group-title="USA",TSTV
+http://tstv-stream.tsm.utexas.edu/hls/livestream_hi/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/152nsYA.png" group-title="USA",TVW
+http://d3ktuc8v2sjk6m.cloudfront.net/livetv/ngrp:TVWAIR_all/chucklist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/152nsYA.png" group-title="USA",TVW-2
+http://d3ktuc8v2sjk6m.cloudfront.net/livetv/ngrp:TVW2_all/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/bBtaVoE.png" group-title="USA",UCTV
+http://ucsdtv-wowza.ucsd.edu:1935/live/live_800/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Lr3bC2u.png" group-title="USA",UGA TV
+http://mmuga-lh.akamaihd.net/i/ctlcable_1@349875/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/2ARnoAv.png" group-title="USA",White Plains TV
+http://oflash.dfw.swagit.com/live/whiteplainsny/live-b-2/chucklist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/oTHXLf8.png" group-title="USA",WHOH TV
+http://oflash.dfw.swagit.com/live/hastingsonhudsonny/smil:std-4x3-1-a/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://wingsdomain.com/_shared/icons/wingsdomain-subscribe-icon.png" group-title="LABEL",~ USA Local News ~
+http://167.88.154.169/wnycfm-tunein
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://img.new.livestream.com/events/00000000003a4452/bd7082af-14f2-4019-bde9-a081a1d56330_30000.jpg" group-title="USA LOCAL",NBC News 13 (Albany)
+http://api.new.livestream.com/accounts/12240447/events/3818578/live.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0d/KXAN_Austin_News_logo.png" group-title="USA LOCAL",KXAN News (Austin)
+https://api.new.livestream.com/accounts/1506296/events/1569171/live.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://channelpear.com/images/media/14551.jpg" group-title="USA LOCAL",NBC 11 News (Bay Area)
+http://kntvlive-f.akamaihd.net/i/kntvb2_1@15530/index_1286_av-p.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://channelpear.com/images/media/4059.jpg" group-title="USA LOCAL",KTVU News (Bay Area)
+http://play-prod1.live.anvato.net/server/play/ktvutestctg/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/888431997017661440/fj0FLr2O_400x400.jpg" group-title="USA LOCAL",WBZ 4 News (Boston)
+http://cbslocaltv-i.akamaihd.net/hls/live/221461/WBZTV/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://cdn.news12.com/polopoly_fs/1.8890451.1464300188!/httpImage/image.jpg_gen/derivatives/display_600/image.jpg" group-title="USA LOCAL",News 12 (The Bronx)
+http://hls.iptv.optimum.net/news12/nipadlive/index_new.m3u8?callsign=N12BX
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://cdn.news12.com/polopoly_fs/1.8890454.1464300091!/httpImage/image.jpg_gen/derivatives/display_600/image.jpg" group-title="USA LOCAL",News 12 (Brooklyn)
+http://hls.iptv.optimum.net/news12/nipadlive/index_new.m3u8?callsign=N12KN
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://mediaweb.wsoctv.com/theme/images/placeholder-16x9.jpg" group-title="USA LOCAL",WSOC 9 News (Charlotte)
+http://cmghlslive-i.akamaihd.net:80/hls/live/224717/WSOC/904k/prog.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/64/WCCB_CW_logo.png" group-title="USA LOCAL",WCCB News (Charlotte)
+http://api.new.livestream.com/accounts/8522553/events/live/live.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/ac/WMAQ_Logo_2012.png" group-title="USA LOCAL",NBC 5 News (Chicago)
+http://wmaqlive-f.akamaihd.net/i/wmaqa1_1@22923/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://cdn.tribtv.com/slates/wgntv.png" group-title="USA LOCAL",WGN 9 News (Chicago)
+http://wgntribune-lh.akamaihd.net/i/WGNPrimary_1@304622/index_750_av-b.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://vignette1.wikia.nocookie.net/logopedia/images/9/9e/KREX-TV_2005.jpg" group-title="USA LOCAL",CBS 5 News (Colorado)
+http://krex-apple-live.hls.adaptive.level3.net/stream0/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.mycitykitchen.org/wp-content/uploads/2013/02/WVIT_NBC30.png" group-title="USA LOCAL",WVIT 30 News (Hartford)
+http://wvitlive-f.akamaihd.net/i/wvitb2_1@71164/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vignette4.wikia.nocookie.net/logopedia/images/9/9a/News_12_Hudson_Valley_Logo_From_December_2010.jpg" group-title="USA LOCAL",News 12 (Hudson Valley)
+http://hls.iptv.optimum.net/news12/nipadlive/index_new.m3u8?callsign=N12TW_WC
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://tribwttv.files.wordpress.com/2017/03/cropped-cbs4512.png" group-title="USA LOCAL",CBS 4 News (Indianapolis)
+http://wttv-lh.akamaihd.net:80/i/WTTVBreaking_1@333494/index_3000_av-b.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://jacksonville.com/sites/default/files/styles/teaser__620x350/public/field/image/749636_web1_msms_CBS47.jpg" group-title="USA LOCAL",CBS 47 News (Jacksonville)
+http://cmghlslive-i.akamaihd.net:80/hls/live/224714/WJAX/904k/prog.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/3d/WJAX-TV_logo.png/1200px-WJAX-TV_logo.png" group-title="USA LOCAL",Fox News 30 (Jacksonville)
+http://cmghlslive-i.akamaihd.net:80/hls/live/224710/WFOX/904k/prog.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://cdn.news12.com/polopoly_fs/1.8890313.1464300030!/httpImage/image.jpg_gen/derivatives/display_600/image.jpg" group-title="USA LOCAL",News 12 (Long Island)
+http://hls.iptv.optimum.net/news12/nipadlive/index_new.m3u8?callsign=N12LI_WEST
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cbsla.files.wordpress.com/2016/04/streaminglivenow_kcal_700x350.jpg" group-title="USA LOCAL",KCAL 9 News (Los Angeles)
+http://play-prod1.live.anvato.net/server/play/cbslocal-kcal-dfp/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://media.myfoxmemphiscom.cmgdigital.com/theme/images/placeholder-16x9.jpg" group-title="USA LOCAL",FOX 13 News (Memphis)
+http://cmghlslive-i.akamaihd.net/hls/live/224672/WHBQ/2564k/prog.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/43/WJMN-TV_2006_Logo.png/200px-WJMN-TV_2006_Logo.png" group-title="USA LOCAL",CBS 3 News (Michigan)
+http://wjmn-apple-live.hls.adaptive.level3.net/stream0/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://img.new.livestream.com/events/000000000068bfe1/9052fb7b-99ee-4dcd-87fd-c1102bc5592e_30000.jpg" group-title="USA LOCAL",WXXV News 25 (Mississippi)
+http://api.new.livestream.com/accounts/22998687/events/6864865/live.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.newenglandone.com/images/stories/2016/wfxtfox25newsat4.jpg" group-title="USA LOCAL",FOX 25 News (New England)
+http://cmghlslive-i.akamaihd.net/hls/live/224671/WFXT/904k/prog.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://uncubed.com/wp-content/uploads/2014/07/cbslocal.png" group-title="USA LOCAL",CBS 2 News (New York)
+http://play-prod1.live.anvato.net/server/play/cbslocal-wcbsx-dfp/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/N2mDQbE.jpg" group-title="USA LOCAL",NBC 4 News (New York)
+http://wnbclive-f.akamaihd.net/i/wnbca1_1@13992/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://content.13newsnow.com/photo/2014/09/10/13NEWS%20NOW%20Logo_Master_RGB_Dk_4875916_ver1.0.jpg" group-title="USA LOCAL",13 News Now (Norfolk)
+http://wvec-lh.akamaihd.net/i/WVEC_Shows_1@17197/index_2000_av-p.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://content.secondspace.com/ktvz/img/KTVZ_Widget.png" group-title="USA LOCAL",NewsChannel 21 (Oregon)
+http://api.new.livestream.com/accounts/19128364/events/5285531/live.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://forums.tvnewstalk.net/data/avatars/l/0/148.jpg" group-title="USA LOCAL",ABC News 9 (Orlando)
+http://cmghlslive-i.akamaihd.net/hls/live/224711/WFTV/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pbs.twimg.com/media/C2hgdt4W8AEAJ3D.jpg" group-title="USA LOCAL",NBC 10 News (Philadelphia)
+http://wcaulive-f.akamaihd.net/i/wcaua1_1@13991/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://mediaweb.wpxi.com/theme/images/placeholder-16x9.jpg" group-title="USA LOCAL",WPXI News (Pittsburg)
+http://cmghlslive-i.akamaihd.net:80/hls/live/224715/WPXI/904k/prog.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://kutv2productions.com/images/KUTV2Productions_SplashImage_972x510.jpg" group-title="USA LOCAL",CBS 2 (Salt Lake City)
+http://ktvx-apple-live.hls.adaptive.level3.net/stream0/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://img.new.livestream.com/events/000000000033e132/78ad5b5b-7d1f-4f38-b1af-1060355a4061_30000.jpg" group-title="USA LOCAL",KOB 4 News (Santa Fe)
+https://api.new.livestream.com/accounts/10066184/events/3399986/live.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://bcsrq.com/wp-content/uploads/2016/04/ABC-7-300x300.jpg" group-title="USA LOCAL",ABC 7 (Sarasota)
+http://live.field59.com/wwsb/ngrp:wwsb1_all/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://wanewscouncil.org/wp-content/uploads/2011/09/post-img_kiro-logo_v1.png" group-title="USA LOCAL",KIRO 7 News (Seattle)
+http://cmghlslive-i.akamaihd.net:80/hls/live/224708/KIRO/904k/prog.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://channelpear.com/images/media/14552.jpg" group-title="USA LOCAL",CBS 13 News (Stockton)
+http://play-prod1.live.anvato.net/server/play/cbslocal-kovrx-dfp/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://bellmonawards.com/wp-content/uploads/2014/08/sponsor-fox.png" group-title="USA LOCAL",KOKI Fox 23 (Tulsa)
+http://cmghlslive-i.akamaihd.net/hls/live/224709/KOKI/904k/prog.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.adweek.com/tvspy/wp-content/uploads/sites/4/2013/06/wttg-logo_304x200.jpg" group-title="USA LOCAL",Fox 5 News (Washington DC)
+https://api.new.livestream.com/accounts/2363281/events/1763520/live.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0f/Logo_of_WRC-TV.png" group-title="USA LOCAL",NBC 4 News (Washington DC)
+https://wrclive-f.akamaihd.net/i/wrcb1_1@46880/master.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:0, group-title="USA",tvg-logo="http://www.sat-address.com/f/pics/logotipi/TVW-House-Channel_o.jpg",House of Representatives
+http://d3ktuc8v2sjk6m.cloudfront.net/livetv/ngrp:HouseChannel_all/chucklist.m3u8
+#EXTINF:0, group-title="USA",tvg-logo="http://mms.businesswire.com/media/20170113005327/en/564340/5/HSN_logo.jpg",HSN
+http://hsn.mpl.miisolutions.net/hsn-live01/_definst_/smil:HSN1_ipad.smil/playlist.m3u8
+#EXTINF:0, group-title="USA",tvg-logo="http://www.huntchannel.tv/wp-content/uploads/2015/12/Hunt-Channel-logo-transparent-plain-1-e1450645937919-300x203.png",Hunt Channel
+http://studio.huntchannel.tv:8081/live/playout/playlist.m3u8
+#EXTINF:0,Ideal World (Lifestyle) (UK) 
+http://live.ccus.simplestreamcdn.com/live/isd_sdi3/bitrate1.isml/playlist.m3u8
+#EXTINF:0, group-title="USA",tvg-logo="https://pbs.twimg.com/profile_images/771129571143917568/ALsCCg-v.jpg",InfoWars
+http://infowarslive-lh.akamaihd.net/i/infowarslivestream_1@353459/master.m3u8
+#EXTINF:0,JLTV (Public-Documentary) 
+http://52.40.109.131:1935/rtplive/smil:jltv.smil/playlist.m3u8
+#EXTINF:0,Juce tv (Family) 
+http://acaooyalahd2-lh.akamaihd.net/i/TBN03_delivery@186241/master.m3u8
+#EXTINF:0, group-title="USA",tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/kbvrtv-profile_image-666cfc3f59b5f449-300x300.jpeg" ,KBVR TV
+http://klive-a.akamaihd.net/dc-0/live/hls/p/391241/e/0_bthpnu1j/sd/10000/t/YwqLo1YivB_aumq-LxAuWg/master.m3u8
+#EXTINF:0, group-title="USA",tvg-logo="https://cbsla.files.wordpress.com/2016/04/streaminglivenow_kcal_700x350.jpg",KCAL 9 News (Los Angeles)
+http://play-prod1.live.anvato.net/server/play/cbslocal-kcal-dfp/master.m3u8
+#EXTINF:0, group-title="USA",tvg-logo="https://www.tripsmarter.com/sites/default/files/styles/970x545/public/live_keytv_0_0.jpg",Key TV
+http://media4.tripsmarter.com:1935/LiveTV/KTVHD/chunklist_w363623166.m3u8
+#EXTINF:0, group-title="USA",tvg-logo="http://wanewscouncil.org/wp-content/uploads/2011/09/post-img_kiro-logo_v1.png",KIRO 7 News (Seattle)
+http://cmghlslive-i.akamaihd.net:80/hls/live/224708/KIRO/904k/prog.m3u8
+#EXTINF:0, group-title="USA",tvg-logo="http://img.new.livestream.com/events/000000000033e132/78ad5b5b-7d1f-4f38-b1af-1060355a4061_30000.jpg",KOB 4 News (Santa Fe)
+https://api.new.livestream.com/accounts/10066184/events/3399986/live.m3u8
+#EXTINF:0, group-title="USA",tvg-logo="http://bellmonawards.com/wp-content/uploads/2014/08/sponsor-fox.png",KOKI Fox 23 (Tulsa)
+http://cmghlslive-i.akamaihd.net/hls/live/224709/KOKI/904k/prog.m3u8
+#EXTINF:0, group-title="USA",tvg-logo="http://machammond.org/wp-content/uploads/2016/04/koolTV.gif" ,Kool TV
+http://173.199.158.79:1935/roku/myStream/playlist.m3u8
+#EXTINF:0, group-title="USA",tvg-logo="http://channelpear.com/images/media/4059.jpg",KTVU News (Bay Area)
+http://play-prod1.live.anvato.net/server/play/ktvutestctg/master.m3u8
+#EXTINF:0, group-title="USA",tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0d/KXAN_Austin_News_logo.png",KXAN News (Austin)
+https://api.new.livestream.com/accounts/1506296/events/1569171/live.m3u8
+#EXTINF:0, group-title="USA",tvg-logo="https://www.cityoflaurel.org/system/files/styles/facebook_big/private/images/laurel-wide-logo.png",Laurel TV
+https://crimson.ebmcdn.net/laurel/smil:laurel.smil/chunklist.m3u8
+#EXTINF:0, group-title="USA",tvg-logo="http://wnyt.com/wnytimages/repository/2014-03/MeTV%20Network%20Logo%20W%20BKGND%20SHAPES.jpg",MeTV
+http://video.metv.com/metv/index.m3u8
+#EXTINF:0,Miami TV (Lifestyle) 
+http://usaserver.miamitvchannel.com/miamitv/smil:miamitv/chunklist_w1078336163_b2592000.m3u8
+#EXTINF:0, group-title="USA",tvg-logo="http://channelpear.com/images/media/5249.jpg",MLB Network
+http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/master_wired.m3u8
+#EXTINF:0, group-title="USA",tvg-logo="http://www.thedailyrash.com/wp-content/uploads/2014/02/MSNBC.jpg",MSNBC
+http://tvemsnbc-lh.akamaihd.net/i/nbcmsnbc_1@122532/master.m3u8
+#EXTINF:0,Music Box (Music) 
+rtmp://212.26.132.86/live/mb_ua
+#EXTINF:0, group-title="USA",tvg-logo="https://www.mctvohio.com/uploads/mc-black-beveledstyle.jpg",Music Choice
+http://edge.music-choice-play-chaina1.top.comcast.net/PlayMetadataInserter/play/chunklist.m3u8
+#EXTINF:0, group-title="USA",tvg-logo="http://www.snodoglog.com/images/5348-CityOfNaplesLogo-EM.jpg",Naples TV
+http://granicus.mpl.miisolutions.net:1935/granicus-livepull-us-4/naples/mp4:G0145_002/chunklist_w1350568572.m3u8
+#EXTINF:0, group-title="USA",tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/65/NASA_TV.png",NASA TV Public
+http://nasa-i.akamaihd.net/hls/live/253565/NASA-NTV1-Public/master_500.m3u8
+#EXTINF:0, group-title="USA",tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/65/NASA_TV.png",NASA TV Media
+https://nasa-i.akamaihd.net/hls/live/253566/NASA-NTV2-Media/master.m3u8
+#EXTINF:0, group-title="USA",tvg-logo="https://yt3.ggpht.com/-xiyVh-oNzJE/AAAAAAAAAAI/AAAAAAAAAAA/5FaR9rGW-F4/s900-c-k-no-mo-rj-c0xffffff/photo.jpg",NBC News Live
+http://msnbclive-lh.akamaihd.net/i/msnbc_live01@180610/master.m3u8
+#EXTINF:0, group-title="USA",tvg-logo="http://i.imgur.com/N2mDQbE.jpg",NBC 4 News (New York)
+http://wnbclive-f.akamaihd.net/i/wnbca1_1@13992/master.m3u8
+#EXTINF:0, group-title="USA",tvg-logo="https://pbs.twimg.com/media/C2hgdt4W8AEAJ3D.jpg",NBC 10 News (Philadelphia)
+http://wcaulive-f.akamaihd.net/i/wcaua1_1@13991/master.m3u8
+#EXTINF:0, group-title="USA",tvg-logo="http://channelpear.com/images/media/14551.jpg",NBC 11 News (Bay Area)
+http://kntvlive-f.akamaihd.net/i/kntvb2_1@15530/index_1286_av-p.m3u8
+#EXTINF:0, group-title="USA",tvg-logo="http://cdn.news12.com/polopoly_fs/1.8890313.1464300030!/httpImage/image.jpg_gen/derivatives/display_600/image.jpg",News 12 (Long Island)
+http://hls.iptv.optimum.net/news12/nipadlive/index_new.m3u8?callsign=N12LI_WEST
+#EXTINF:0, group-title="USA",tvg-logo="http://cdn.news12.com/polopoly_fs/1.8890451.1464300188!/httpImage/image.jpg_gen/derivatives/display_600/image.jpg",News 12 (The Bronx)
+http://hls.iptv.optimum.net/news12/nipadlive/index_new.m3u8?callsign=N12BX
+#EXTINF:0, group-title="USA",tvg-logo="http://cdn.news12.com/polopoly_fs/1.8890454.1464300091!/httpImage/image.jpg_gen/derivatives/display_600/image.jpg",News 12 (Brooklyn)
+http://hls.iptv.optimum.net/news12/nipadlive/index_new.m3u8?callsign=N12KN
+#EXTINF:0, group-title="USA",tvg-logo="https://vignette4.wikia.nocookie.net/logopedia/images/9/9a/News_12_Hudson_Valley_Logo_From_December_2010.jpg",News 12 (Hudson Valley)
+http://hls.iptv.optimum.net/news12/nipadlive/index_new.m3u8?callsign=N12TW_WC
+#EXTINF:0, group-title="USA",tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0f/Logo_of_WRC-TV.png",NBC 4 News (Washington DC)
+https://wrclive-f.akamaihd.net/i/wrcb1_1@46880/master.m3u8
+#EXTINF:0, group-title="USA",tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/ac/WMAQ_Logo_2012.png",NBC 5 News (Chicago)
+http://wmaqlive-f.akamaihd.net/i/wmaqa1_1@22923/master.m3u8
+#EXTINF:0, group-title="USA",tvg-logo="http://img.new.livestream.com/events/00000000003a4452/bd7082af-14f2-4019-bde9-a081a1d56330_30000.jpg",NBC News 13 (Albany)
+http://api.new.livestream.com/accounts/12240447/events/3818578/live.m3u8
+#EXTINF:0, group-title="USA",tvg-logo="http://content.secondspace.com/ktvz/img/KTVZ_Widget.png",NewsChannel 21 (Oregon)
+http://api.new.livestream.com/accounts/19128364/events/5285531/live.m3u8
+#EXTINF:0,News zone (Public-Entertainment) 
+http://31.24.228.207:1935/live/mobile_240p/playlist.m3u8
+#EXTINF:0, group-title="USA",tvg-logo="http://cnlsierra.org/wp-content/uploads/2014/11/NCTV-2015.jpg",Nevada County TV
+http://granicus.mpl.miisolutions.net:1935/granicus-livepull-us-3/nevco/mp4:G0644_001/chunklist_w1334900630.m3u8
+#EXTINF:0, group-title="USA",tvg-logo="http://channelpear.com/images/media/9095.png",NFL Now
+https://svglive3-event.level3.nfl.com/nflent3/live/nfl_now/NFLNOW_1200k.m3u8
+#EXTINF:0,,NHK WORLD HD
+https://nhkwtvglobal-i.akamaihd.net/hls/live/263941/nhkwtvglobal/index_1180.m3u8
+#EXTINF:0, group-title="USA",tvg-logo="http://www.wrcftv.com/index_htm_files/1747.jpg",Orange TV
+http://otv3.ocfl.net:1936/OrangeTV/smil:OrangeTV.smil/chunklist_w1007974604_b894100_sleng.m3u8
+#EXTINF:0, group-title="USA",PAC 12 Arizona HD (Sports) 
+http://xrxs.net/video/live-p12ariz-4728.m3u8?
+#EXTINF:0, group-title="USA",PAC 12 Arizona (Sports) 
+http://xrxs.net/video/live-p12ariz-1164.m3u8?
+#EXTINF:0, group-title="USA",PAC 12 Bay Area HD (Sports) 
+http://xrxs.net/video/live-p12baya-4728.m3u8?
+#EXTINF:0, group-title="USA",PAC 12 Bay Area (Sports) 
+http://xrxs.net/video/live-p12baya-1164.m3u8
+#EXTINF:0, group-title="USA",PAC 12 Los Angeles HD (Sports) 
+http://xrxs.net/video/live-p12losa-4728.m3u8?
+#EXTINF:0, group-title="USA",PAC 12 Los Angeles (Sports) 
+http://xrxs.net/video/live-p12losa-1164.m3u8?
+#EXTINF:0, group-title="USA",PAC 12 Mountain HD (Sports) 
+http://xrxs.net/video/live-p12moun-4728.m3u8
+#EXTINF:0, group-title="USA",PAC 12 Mountain (Sports) 
+http://xrxs.net/video/live-p12moun-1164.m3u8
+#EXTINF:0, group-title="USA",PAC 12 Network HD (Sports) 
+http://xrxs.net/video/live-p12netw-4728.m3u8
+#EXTINF:0, group-title="USA",PAC 12 Network (Sports) 
+http://xrxs.net/video/live-p12netw-1164.m3u8
+#EXTINF:0, group-title="USA",PAC 12 Oregon HD (Sports) 
+http://xrxs.net/video/live-p12oreg-4728.m3u8
+#EXTINF:0, group-title="USA",PAC 12 Oregon (Sports) 
+http://xrxs.net/video/live-p12oreg-1164.m3u8
+#EXTINF:0, group-title="USA",PAC 12 Washington HD (Sports) 
+http://xrxs.net/video/live-p12wash-4728.m3u8?
+#EXTINF:0, group-title="USA",PAC 12 Washington (Sports) 
+http://xrxs.net/video/live-p12wash-1164.m3u8?
+#EXTINF:0, group-title="USA", group-title="USA", tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/78/Prince_George's_County_Public_Schools_Logo.svg/1011px-Prince_George's_County_Public_Schools_Logo.svg.png",PG's County Public Schools
+http://reflect.live.pgcps.cablecast.tv/live/WIFI-696k-360p/WIFI-696k-360p.m3u8
+#EXTINF:0, group-title="USA", group-title="USA", tvg-logo="http://conveyornetworks.co.uk/wp-content/uploads/2016/01/portfolio-client-logo-qvc-300x200.jpg",QVC
+http://qvclvp2.mmdlive.lldns.net/qvclvp2/9aa645c89c5447a8937537011e8f8d0d/manifest.m3u8
+#EXTINF:0, group-title="USA",,RAI NEWS
+http://b2everyrai-lh.akamaihd.net/i/rainews_1@179616/index_1200_av-p.m3u8
+#EXTINF:0, group-title="USA", group-title="USA", tvg-logo="http://www.revntv.com/media/site/images/logo_revntv.png",Rev'n
+http://dcunilive16-lh.akamaihd.net/i/dclive_1@305811/master.m3u8
+#EXTINF:0, group-title="USA",,RT DOCUMENTARY CHANNEL
+http://rt.ashttp.visionip.tv:1935/live/RT_Doc-SD/livestream.m3u8
+#EXTINF:0, group-title="USA", group-title="USA", tvg-logo="http://static.tumblr.com/f9da82faf4956cc7fa2cc1ce6e2e2e20/pk9s04n/vC5nh2fuf/tumblr_static_914sssk3j7k00ww4k840w4okg.png",Russia Today America
+https://secure-streams.akamaized.net/rt-usa/index.m3u8
+#EXTINF:0, group-title="USA", group-title="USA", tvg-logo="http://www.ryeny.gov/images/ryeTV/button.jpg",Rye TV
+http://oflash.dfw.swagit.com/live/ryeny/smil:std-4x3-1-a/playlist.m3u8
+#EXTINF:0, group-title="USA", group-title="USA", tvg-logo="https://pbs.twimg.com/profile_images/566359150813143040/WqkPT9so.jpeg" ,Seattle Channel
+https://wowzaprod121-i.akamaihd.net/hls/live/266526/d2ea1f60/playlist.m3u8
+#EXTINF:0, group-title="USA", group-title="USA", tvg-logo="http://apps.seminolecountyfl.gov/images/logo2_sgtv.gif" ,Seminole TV
+http://video.seminolecountyfl.gov:1935/live/SGTV/chunklist.m3u8
+#EXTINF:0, group-title="USA",Smart TV (Family) 
+http://telvuehls_t01587-i.akamaihd.net/hls/live/215638/T01587-slstv/playlist.m3u8
+#EXTINF:0, group-title="USA", group-title="USA", tvg-logo="http://www2.selu.edu/thesoutheasternchannel/schedule/images/sectv.jpg",Southeastern Channel
+http://147.174.13.196/live/WIFI-1296k-540p/WIFI-1296k-540p.m3u8
+#EXTINF:0, group-title="USA", group-title="USA", tvg-logo="http://www.stpete.org/logo/images/city_logo_color.gif" ,St. Petersburg TV
+http://granicus.mpl.miisolutions.net:1935/granicus-livepull-us-1/stpete/mp4:G0187_002/chunklist_w306238720.m3u8
+#EXTINF:0, group-title="USA", group-title="USA", tvg-logo="https://pbs.twimg.com/profile_images/1596231467/TUTV_vimeo_logo.png",Temple University TV
+http://streaming.temple.edu/tutvlive/_definst_/mp4:play/chunklist.m3u8
+#EXTINF:0, group-title="USA", group-title="USA", tvg-logo="http://watchtstv.com/assets/images/TSTV_extracted.png",Texas Student TV
+http://tstv-stream.tsm.utexas.edu/hls/livestream_hi/index.m3u8
+#EXTINF:0, group-title="USA", group-title="USA", tvg-logo="https://lh3.googleusercontent.com/-QeEZiGWs7H0/AAAAAAAAAAI/AAAAAAAACmM/bx1U4F9IYgI/photo.jpg",The Blaze
+https://theblaze.global.ssl.fastly.net/live/theblaze/master.m3u8
+#EXTINF:0, group-title="USA", group-title="USA", tvg-logo="https://a2.allaccess.com/assets/img/content/socialmediology-101/2011/sm-08-16-pic1.jpg",The Country Network
+https://dcunilive2-lh.akamaihd.net/i/dclive_1@390829/master.m3u8
+#EXTINF:0, group-title="USA", group-title="USA", tvg-logo="http://cdn.thefloridachannel.org/wp-content/themes/tfc/images/logo.png",The Florida Channel
+http://webcasting.thefloridachannel.org/live/tvweb1/playlist.m3u8
+#EXTINF:0, group-title="USA",TruTV (Public-Entertainment) 
+http://185.62.86.6:8081/hls/trutv.m3u8
+#EXTINF:0, group-title="USA", group-title="USA", tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4c/Current_logo_for_TUFF_TV.png",Tuff TV
+http://cdn-live-egress.campfyre.tv/rightbrainmedia-live-604/mp4:Tufftv_all/rightbrainmedia-live-604/Tufftv2/playlist.m3u8
+#EXTINF:0, group-title="USA",,TV5 MONDE
+http://hlslive.lcdn.une.net.co:80/v1/AUTH_HLSLIVE/TV5/tu1_manifest.m3u8
+#EXTINF:0, group-title="USA", group-title="USA", tvg-logo="http://www.sat-address.com/f/pics/logotipi/TVW-Air-Channel_o.jpg",TVW
+http://d3ktuc8v2sjk6m.cloudfront.net/livetv/ngrp:TVWAIR_all/chucklist.m3u8
+#EXTINF:0, group-title="USA", group-title="USA", tvg-logo="http://www.sat-address.com/f/pics/logotipi/TVW-Air-Channel_o.jpg",TVW-2
+http://d3ktuc8v2sjk6m.cloudfront.net/livetv/ngrp:TVW2_all/master.m3u8
+#EXTINF:0, group-title="USA", group-title="USA", tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4d/UCTV.png",UCTV
+http://ucsdtv-wowza.ucsd.edu:1935/live/live_800/playlist.m3u8
+#EXTINF:0, group-title="USA", group-title="USA", tvg-logo="http://www.uga.edu/assets/img/GEORGIA-V-FC.png",University of Georgia
+http://mmuga-lh.akamaihd.net/i/ctlcable_1@349875/master.m3u8
+#EXTINF:0, group-title="USA", group-title="USA", tvg-logo="https://www.bbgdirect.com/Content/images/VOA-logo.png",VoA
+http://voa-lh.akamaihd.net/i/voa_mpls_tvmc3_3@320295/master.m3u8
+#EXTINF:0, group-title="USA",Vibee (Public-Music) (UK) 
+http://46.101.21.42:8081/abr/abr/playlist.m3u8 
+#EXTINF:0, group-title="USA",WBKO  Bowling Green KY (Public-News) 
+http://w3.cdn.anvato.net/live/manifests/4mAweME7l80u5R7DFruJqn27lX2nG8Nq/wbko/master.m3u8? 
+#EXTINF:0, group-title="USA", group-title="USA", tvg-logo="https://pbs.twimg.com/profile_images/888431997017661440/fj0FLr2O_400x400.jpg",WBZ 4 News (Boston)
+http://cbslocaltv-i.akamaihd.net/hls/live/221461/WBZTV/master.m3u8
+#EXTINF:0, group-title="USA", group-title="USA", tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/64/WCCB_CW_logo.png",WCCB News (Charlotte)
+http://api.new.livestream.com/accounts/8522553/events/live/live.m3u8
+#EXTINF:0, group-title="USA", group-title="USA", tvg-logo="http://i.imgur.com/H00wiqw.jpg",Weather Channel
+http://weather-lh.akamaihd.net/i/twc_1@92006/master.m3u8
+#EXTINF:0, group-title="USA", group-title="USA", tvg-logo="http://channelpear.com/images/media/3144.jpg",Weather Nation
+http://cdnapi.kaltura.com/p/931702/sp/93170200/playManifest/entryId/1_oorxcge2/format/applehttp/protocol/http/uiConfId/28428751/a.m3u8
+#EXTINF:0, group-title="USA", group-title="USA", tvg-logo="http://cdn.tribtv.com/slates/wgntv.png",WGN 9 News (Chicago)
+http://wgntribune-lh.akamaihd.net/i/WGNPrimary_1@304622/index_750_av-b.m3u8
+#EXTINF:0, group-title="USA", group-title="USA", tvg-logo="http://i.imgur.com/Voh8plV.jpg",White Plains Community Media
+http://oflash.dfw.swagit.com/live/whiteplainsny/live-b-2/chucklist.m3u8
+#EXTINF:0, group-title="USA", group-title="USA", tvg-logo="https://pbs.twimg.com/profile_images/1795192458/n23000337_31608642_9029.jpg",WHOH TV
+http://oflash.dfw.swagit.com/live/hastingsonhudsonny/smil:std-4x3-1-a/playlist.m3u8
+#EXTINF:0, group-title="USA", group-title="USA", tvg-logo="https://www.rokuguide.com/sites/default/files/wilderness-channel_0.png",Wilderness Channel
+http://pkg2.frontlayer.net/pseudolive/fl821095/index.m3u8
+#EXTINF:0, group-title="USA", group-title="USA", tvg-logo="https://mediaweb.wpxi.com/theme/images/placeholder-16x9.jpg",WPXI News (Pittsburg)
+http://cmghlslive-i.akamaihd.net:80/hls/live/224715/WPXI/904k/prog.m3u8
+#EXTINF:0, group-title="USA", group-title="USA", tvg-logo="https://mediaweb.wsoctv.com/theme/images/placeholder-16x9.jpg",WSOC 9 News (Charlotte)
+http://cmghlslive-i.akamaihd.net:80/hls/live/224717/WSOC/904k/prog.m3u8
+#EXTINF:0, group-title="USA", group-title="USA", tvg-logo="http://zim9edfg88-flywheel.netdna-ssl.com/wp-content/uploads/logos/Fairfax+County+Government+TV+Channel+16+logo_1396.png",WTPC 16 (Virginia)
+http://mplive.play.ebmcdn.net/eastbay-live-pull-camera-3/_definst_/mp4:camera.stream/chunklist_w1700328985.m3u8
+#EXTINF:0, group-title="USA", group-title="USA", tvg-logo="http://www.mycitykitchen.org/wp-content/uploads/2013/02/WVIT_NBC30.png",WVIT 30 News (Hartford)
+http://wvitlive-f.akamaihd.net/i/wvitb2_1@71164/master.m3u8
+#EXTINF:0, group-title="USA", group-title="USA", tvg-logo="http://img.new.livestream.com/events/000000000068bfe1/9052fb7b-99ee-4dcd-87fd-c1102bc5592e_30000.jpg",WXXV News 25 (Mississippi)
+http://api.new.livestream.com/accounts/22998687/events/6864865/live.m3u8
+#EXTINF:0, group-title="USA", group-title="USA", tvg-logo="https://www.yiptv.com/wp-content/uploads/2015/05/channels-page-_0000_yes.png",Yes TV
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/YES/tu1_1.m3u8
+#EXTINF:0, group-title="USA",History 
+http://93.91.113.8:9999/play/a06z 
+#EXTINF:0, group-title="USA", JimJam 
+http://93.91.113.8:9999/play/a06n
+#EXTINF:0, group-title="USA",, Nick Jr 
+http://93.91.113.8:9999/play/a06l 
+#EXTINF:0, group-title="USA", group-title="USA", tvg-logo="http://channels.roku.com/images/0de6234f963e4bcca75b550147e8ff03-hd.jpg",Comedy Central 
+http://216.31.255.235/hlsl/1/Ze5abrUben5dCOMEDY/Ze5abrUben5dCOMEDY.m3u8
+#EXTINF:0, group-title="USA", group-title="USA", tvg-logo="http://tvruckus.com/wp-content/uploads/2015/06/Investigation-Discovery.jpg",Investigation Discovery 
+http://216.31.255.235/hlsl/8/fEfreTraX6guINVDSC/fEfreTraX6guINVDSC.m3u8
+#EXTINF:0, group-title="USA", group-title="USA", tvg-logo="http://channelpear.com/images/media/4217.jpg",NatGeo Wild 
+http://216.31.255.235/hlsl/1/NATWLDxuvujAk7Cr4t/NATWLDxuvujAk7Cr4t.m3u8
+#EXTINF:0, group-title="USA", group-title="USA", tvg-logo="https://pbs.twimg.com/profile_images/899981974248542209/o--AzTJO_400x400.jpg",Science 
+http://216.31.255.235/hlsl/11/SCIENCEtefEth2SuQuh/SCIENCEtefEth2SuQuh.m3u8
+#EXTINF:0, group-title="USA", group-title="USA", tvg-logo="http://adriandavila.com/wp-content/uploads/2013/07/tru_tv_left_logo.jpg",truTV 
+http://216.31.255.235/hlsl/7/TRUTVthutRezU4Ted/TRUTVthutRezU4Ted.m3u8
+#EXTINF:0, group-title="USA", group-title="USA", tvg-logo="http://channelpear.com/images/media/373.jpg",Velocity 
+http://216.31.255.235/hlsl/6/fe6puFAsucreVELOCITY/fe6puFAsucreVELOCITY.m3u8
+#EXTINF:0, group-title="USA", group-title="USA", tvg-logo="https://vignette3.wikia.nocookie.net/logopedia/images/f/fa/558925_378150812217498_1038928913_n.jpg",NBA TV 
+http://216.31.255.235/hlsl/5/NBATV/NBATV.m3u8
+#EXTINF:0, group-title="USA", group-title="USA", tvg-logo="http://www.tvweek.com/wp-content/uploads/2015/07/animal-planet-logo.png",Animal Planet 
+http://iphone-streaming.ustream.tv/uhls/12762028/streams/live/iphone/playlist.m3u8
+#EXTINF:0, group-title="USA",Arena Sport 1
+rtmp://139.59.120.168:1935/live/arenasport1.stream
+#EXTINF:0, group-title="USA",Arena Sport 2
+rtmp://139.59.120.168:1935/live/arenasport2.stream
+#EXTINF:0, group-title="USA",Arena Sport 3
+rtmp://139.59.120.168:1935/live/arenasport3.stream
+#EXTINF:0, group-title="USA",Arena Sport 4
+rtmp://139.59.120.168:1935/live/arenasport4.stream
+#EXTINF:0, group-title="USA",Arena Sport 5
+rtmp://139.59.120.168:1935/live/arenasport5.stream
+#EXTINF:0, group-title="USA",SKY SPORT2
+rtmp://139.59.120.168:1935/live/teleclub2sw.stream
+#EXTINF:0, group-title="USA",TELECLUB SPORT1
+rtmp://139.59.120.168:1935/live/teleclub1sw.stream
+#EXTINF:0, group-title="USA",SKY BUNDESLIGA
+rtmp://139.59.120.168:1935/live/skybundesliga1.stream
+#EXTINF:0, group-title="USA",SPORT24
+rtmp://139.59.120.168:1935/live/docle1.stream
+#EXTINF:0, group-title="USA",ESPN
+http://189.216.247.113/Content/HLS/Live/Channel(ESPN_HD)/Stream(06)/index.m3u8
+#EXTINF:0, group-title="USA",Arena Sport 1 
+http://premium.tvshqip.us:8880/live/mega/iptv/164.ts|User-Agent=25634
+#EXTINF:0, group-title="USA",Arena Sport 2 
+http://premium.tvshqip.us:8880/live/mega/iptv/165.ts|User-Agent=25634
+#EXTINF:0, group-title="USA",Arena Sport 3 
+http://premium.tvshqip.us:8880/live/mega/iptv/167.ts|User-Agent=25634
+#EXTINF:0, group-title="USA",Arena Sport 4 
+http://premium.tvshqip.us:8880/live/mega/iptv/166.ts|User-Agent=25634
+#EXTINF:0, group-title="USA",Arena Sport 5 
+http://premium.tvshqip.us:8880/live/mega/iptv/168.ts|User-Agent=25634
+#EXTINF:0, group-title="USA",Arena Sport 6 
+http://premium.tvshqip.us:8880/live/mega/iptv/169.ts|User-Agent=25634
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 group-title="UNITED STATES",24x7 SOUTH PARK HD SERIES
+http://global.ipsatpro.tv:8000/live/1G8d7ROj7K/kOejo2H0FD/8916.ts
+
+#EXTINF:-1 group-title="UNITED STATES",A&E
+http://bigiptv.ovh:8000/live/oussema/oussema/10050.ts
+#EXTINF:-1 group-title="UNITED STATES",A&E
+http://bigiptv.ovh:8000/live/pierre/pierre/10050.ts
+#EXTINF:-1 group-title="UNITED STATES",A&E HD
+http://global.ipsatpro.tv:8000/live/1G8d7ROj7K/kOejo2H0FD/1688.ts
+#EXTINF:-1 group-title="UNITED STATES",ABC
+http://bigiptv.ovh:8000/live/oussema/oussema/10060.ts
+#EXTINF:-1 group-title="UNITED STATES",ABC
+http://bigiptv.ovh:8000/live/pierre/pierre/10060.ts
+#EXTINF:-1 group-title="UNITED STATES",ABC HD
+http://global.ipsatpro.tv:8000/live/1G8d7ROj7K/kOejo2H0FD/2118.ts
+#EXTINF:-1 group-title="UNITED STATES",ABC HD
+http://global.ipsatpro.tv:8000/live/star11/star11/2118.ts
+#EXTINF:-1 group-title="UNITED STATES",ABC News
+http://bigiptv.ovh:8000/live/oussema/oussema/10049.ts
+#EXTINF:-1 group-title="UNITED STATES",ABC News
+http://bigiptv.ovh:8000/live/pierre/pierre/10049.ts
+#EXTINF:-1 group-title="UNITED STATES",ABC NEWS
+http://global.ipsatpro.tv:8000/live/1G8d7ROj7K/kOejo2H0FD/8918.ts
+#EXTINF:-1 group-title="UNITED STATES",ABC NEWS
+http://global.ipsatpro.tv:8000/live/star11/star11/8918.ts
+#EXTINF:-1 group-title="UNITED STATES",ABC News HD
+http://global.ipsatpro.tv:8000/live/1G8d7ROj7K/kOejo2H0FD/982.ts
+#EXTINF:-1 group-title="UNITED STATES",ABC News HD
+http://global.ipsatpro.tv:8000/live/star11/star11/982.ts
+#EXTINF:-1 group-title="UNITED STATES",ABC SPARK CAN
+http://global.ipsatpro.tv:8000/live/1G8d7ROj7K/kOejo2H0FD/8864.ts
+#EXTINF:-1 group-title="UNITED STATES",ABC SPARK CAN
+http://global.ipsatpro.tv:8000/live/star11/star11/8864.ts
+#EXTINF:-1 group-title="UNITED STATES",Action Max HD
+http://bigiptv.ovh:8000/live/oussema/oussema/10009.ts
+#EXTINF:-1 group-title="UNITED STATES",Action Max HD
+http://bigiptv.ovh:8000/live/pierre/pierre/10009.ts
+#EXTINF:-1 group-title="UNITED STATES",AFN FAMILY MOVIE
+http://global.ipsatpro.tv:8000/live/1G8d7ROj7K/kOejo2H0FD/8089.ts
+#EXTINF:-1 group-title="UNITED STATES",AFN FAMILY MOVIE
+http://global.ipsatpro.tv:8000/live/star11/star11/8089.ts
+#EXTINF:-1 group-title="UNITED STATES",AFN MOVIE
+http://global.ipsatpro.tv:8000/live/1G8d7ROj7K/kOejo2H0FD/8092.ts
+#EXTINF:-1 group-title="UNITED STATES",AFN MOVIE
+http://global.ipsatpro.tv:8000/live/star11/star11/8092.ts
+#EXTINF:-1 group-title="UNITED STATES",AFN PRIME ATLANTIC
+http://global.ipsatpro.tv:8000/live/1G8d7ROj7K/kOejo2H0FD/8088.ts
+#EXTINF:-1 group-title="UNITED STATES",AFN PRIME ATLANTIC
+http://global.ipsatpro.tv:8000/live/star11/star11/8088.ts
+#EXTINF:-1 group-title="UNITED STATES",AFN PRIME PACIFIC
+http://global.ipsatpro.tv:8000/live/1G8d7ROj7K/kOejo2H0FD/8090.ts
+#EXTINF:-1 group-title="UNITED STATES",AFN PRIME PACIFIC
+http://global.ipsatpro.tv:8000/live/star11/star11/8090.ts
+#EXTINF:-1 group-title="UNITED STATES",AFN Sports 1 HD
+http://global.ipsatpro.tv:8000/live/1G8d7ROj7K/kOejo2H0FD/1007.ts
+#EXTINF:-1 group-title="UNITED STATES",AFN Sports 1 HD
+http://global.ipsatpro.tv:8000/live/star11/star11/1007.ts
+#EXTINF:-1 group-title="UNITED STATES",AFN SPORTS 2 HD
+http://global.ipsatpro.tv:8000/live/1G8d7ROj7K/kOejo2H0FD/1000.ts
+#EXTINF:-1 group-title="UNITED STATES",AFN SPORTS 2 HD
+http://global.ipsatpro.tv:8000/live/star11/star11/1000.ts
+#EXTINF:-1 group-title="UNITED STATES",AL JAZEERA US HD
+http://global.ipsatpro.tv:8000/live/star11/star11/8093.ts
+#EXTINF:-1 group-title="UNITED STATES",AMC HD
+http://bigiptv.ovh:8000/live/oussema/oussema/10008.ts
+#EXTINF:-1 group-title="UNITED STATES",AMC HD
+http://bigiptv.ovh:8000/live/pierre/pierre/10008.ts
+#EXTINF:-1 group-title="UNITED STATES",AMC HD
+http://global.ipsatpro.tv:8000/live/1G8d7ROj7K/kOejo2H0FD/1689.ts
+#EXTINF:-1 group-title="UNITED STATES",AMC HD
+http://global.ipsatpro.tv:8000/live/star11/star11/1689.ts
+#EXTINF:-1 group-title="UNITED STATES",Animal Planet
+http://bigiptv.ovh:8000/live/oussema/oussema/10059.ts
+#EXTINF:-1 group-title="UNITED STATES",Animal Planet
+http://bigiptv.ovh:8000/live/pierre/pierre/10059.ts
+#EXTINF:-1 group-title="UNITED STATES",ANIMAL PLANET HD
+http://global.ipsatpro.tv:8000/live/1G8d7ROj7K/kOejo2H0FD/2448.ts
+#EXTINF:-1 group-title="UNITED STATES",ANIMAL PLANET HD
+http://global.ipsatpro.tv:8000/live/star11/star11/2448.ts
+#EXTINF:-1 group-title="UNITED STATES",ASTRO SUPERSPORT 02
+http://global.ipsatpro.tv:8000/live/1G8d7ROj7K/kOejo2H0FD/5816.ts
+#EXTINF:-1 group-title="UNITED STATES",ASTRO SUPERSPORT 02
+http://global.ipsatpro.tv:8000/live/star11/star11/5816.ts
+#EXTINF:-1 group-title="UNITED STATES",ASTRO SUPERSPORT 03
+http://global.ipsatpro.tv:8000/live/1G8d7ROj7K/kOejo2H0FD/5817.ts
+#EXTINF:-1 group-title="UNITED STATES",ASTRO SUPERSPORT 03
+http://global.ipsatpro.tv:8000/live/star11/star11/5817.ts
+#EXTINF:-1 group-title="UNITED STATES",BBC WORLD NEWS
+http://global.ipsatpro.tv:8000/live/1G8d7ROj7K/kOejo2H0FD/8866.ts
+#EXTINF:-1 group-title="UNITED STATES",BBC WORLD NEWS
+http://global.ipsatpro.tv:8000/live/star11/star11/8866.ts
+#EXTINF:-1 group-title="UNITED STATES",Bein Sports
+http://bigiptv.ovh:8000/live/oussema/oussema/10007.ts
+#EXTINF:-1 group-title="UNITED STATES",Bein Sports
+http://bigiptv.ovh:8000/live/pierre/pierre/10007.ts
+#EXTINF:-1 group-title="UNITED STATES",Bein Sports US HD
+http://global.ipsatpro.tv:8000/live/1G8d7ROj7K/kOejo2H0FD/1687.ts
+#EXTINF:-1 group-title="UNITED STATES",Bein Sports US HD
+http://global.ipsatpro.tv:8000/live/star11/star11/1687.ts
+#EXTINF:-1 group-title="UNITED STATES",BET
+http://global.ipsatpro.tv:8000/live/1G8d7ROj7K/kOejo2H0FD/8079.ts
+#EXTINF:-1 group-title="UNITED STATES",BET
+http://global.ipsatpro.tv:8000/live/star11/star11/8079.ts
+#EXTINF:-1 group-title="UNITED STATES",BIG TEN NETWORK HD
+http://global.ipsatpro.tv:8000/live/star11/star11/8874.ts
+#EXTINF:-1 group-title="UNITED STATES",Bloomberg
+http://bigiptv.ovh:8000/live/oussema/oussema/10058.ts
+#EXTINF:-1 group-title="UNITED STATES",Bloomberg
+http://bigiptv.ovh:8000/live/pierre/pierre/10058.ts
+#EXTINF:-1 group-title="UNITED STATES",BLOOMBERG
+http://global.ipsatpro.tv:8000/live/1G8d7ROj7K/kOejo2H0FD/2446.ts
+#EXTINF:-1 group-title="UNITED STATES",BLOOMBERG
+http://global.ipsatpro.tv:8000/live/star11/star11/2446.ts
+#EXTINF:-1 group-title="UNITED STATES",BNN CAN
+http://global.ipsatpro.tv:8000/live/1G8d7ROj7K/kOejo2H0FD/8865.ts
+#EXTINF:-1 group-title="UNITED STATES",BRAVO HD
+http://global.ipsatpro.tv:8000/live/1G8d7ROj7K/kOejo2H0FD/3299.ts
+#EXTINF:-1 group-title="UNITED STATES",BRAVO HD
+http://global.ipsatpro.tv:8000/live/star11/star11/3299.ts
+#EXTINF:-1 group-title="UNITED STATES",C SPAN 1 HD
+http://global.ipsatpro.tv:8000/live/1G8d7ROj7K/kOejo2H0FD/8926.ts
+#EXTINF:-1 group-title="UNITED STATES",C SPAN 1 HD
+http://global.ipsatpro.tv:8000/live/star11/star11/8926.ts
+#EXTINF:-1 group-title="UNITED STATES",C SPAN 2 HD
+http://global.ipsatpro.tv:8000/live/1G8d7ROj7K/kOejo2H0FD/8925.ts
+#EXTINF:-1 group-title="UNITED STATES",C SPAN 2 HD
+http://global.ipsatpro.tv:8000/live/star11/star11/8925.ts
+#EXTINF:-1 group-title="UNITED STATES",C SPAN 3 HD
+http://global.ipsatpro.tv:8000/live/1G8d7ROj7K/kOejo2H0FD/8924.ts
+#EXTINF:-1 group-title="UNITED STATES",C SPAN 3 HD
+http://global.ipsatpro.tv:8000/live/star11/star11/8924.ts
+#EXTINF:-1 group-title="UNITED STATES",C8 HD CAN
+http://global.ipsatpro.tv:8000/live/1G8d7ROj7K/kOejo2H0FD/8863.ts
+#EXTINF:-1 group-title="UNITED STATES",C8 HD CAN
+http://global.ipsatpro.tv:8000/live/star11/star11/8863.ts
+#EXTINF:-1 group-title="UNITED STATES",CAPITAL TV
+http://global.ipsatpro.tv:8000/live/1G8d7ROj7K/kOejo2H0FD/8928.ts
+#EXTINF:-1 group-title="UNITED STATES",Cartoon Network
+http://bigiptv.ovh:8000/live/oussema/oussema/10057.ts
+#EXTINF:-1 group-title="UNITED STATES",Cartoon Network
+http://bigiptv.ovh:8000/live/pierre/pierre/10057.ts
+#EXTINF:-1 group-title="UNITED STATES",CARTOON NETWORK
+http://global.ipsatpro.tv:8000/live/1G8d7ROj7K/kOejo2H0FD/2444.ts
+#EXTINF:-1 group-title="UNITED STATES",CARTOON NETWORK
+http://global.ipsatpro.tv:8000/live/star11/star11/2444.ts
+#EXTINF:-1 group-title="UNITED STATES",CBC HD
+http://global.ipsatpro.tv:8000/live/1G8d7ROj7K/kOejo2H0FD/8087.ts
+#EXTINF:-1 group-title="UNITED STATES",CBC HD
+http://global.ipsatpro.tv:8000/live/star11/star11/8087.ts
+#EXTINF:-1 group-title="UNITED STATES",CBN NEWS HD
+http://global.ipsatpro.tv:8000/live/1G8d7ROj7K/kOejo2H0FD/8085.ts
+#EXTINF:-1 group-title="UNITED STATES",CBN NEWS HD
+http://global.ipsatpro.tv:8000/live/star11/star11/8085.ts
+#EXTINF:-1 group-title="UNITED STATES",CBS HD
+http://bigiptv.ovh:8000/live/oussema/oussema/10021.ts
+#EXTINF:-1 group-title="UNITED STATES",CBS HD
+http://bigiptv.ovh:8000/live/pierre/pierre/10021.ts
+#EXTINF:-1 group-title="UNITED STATES",CBS HD
+http://global.ipsatpro.tv:8000/live/1G8d7ROj7K/kOejo2H0FD/2117.ts
+#EXTINF:-1 group-title="UNITED STATES",CBS HD
+http://global.ipsatpro.tv:8000/live/star11/star11/2117.ts
+#EXTINF:-1 group-title="UNITED STATES",CBS NEWS HD
+http://global.ipsatpro.tv:8000/live/1G8d7ROj7K/kOejo2H0FD/2443.ts
+#EXTINF:-1 group-title="UNITED STATES",CBS NEWS HD
+http://global.ipsatpro.tv:8000/live/star11/star11/2443.ts
+#EXTINF:-1 group-title="UNITED STATES",CBS Sports Network HD
+http://bigiptv.ovh:8000/live/oussema/oussema/10030.ts
+#EXTINF:-1 group-title="UNITED STATES",CBS Sports Network HD
+http://bigiptv.ovh:8000/live/pierre/pierre/10030.ts
+#EXTINF:-1 group-title="UNITED STATES",CBS SPORTS NETWORK HD
+http://global.ipsatpro.tv:8000/live/1G8d7ROj7K/kOejo2H0FD/5818.ts
+#EXTINF:-1 group-title="UNITED STATES",CBS SPORTS NETWORK HD
+http://global.ipsatpro.tv:8000/live/star11/star11/5818.ts
+#EXTINF:-1 group-title="UNITED STATES",CBSN NEWS
+http://global.ipsatpro.tv:8000/live/1G8d7ROj7K/kOejo2H0FD/8850.ts
+#EXTINF:-1 group-title="UNITED STATES",CBSN NEWS
+http://global.ipsatpro.tv:8000/live/star11/star11/8850.ts
+#EXTINF:-1 group-title="UNITED STATES",CINEMAX 5 STARMAX
+http://global.ipsatpro.tv:8000/live/1G8d7ROj7K/kOejo2H0FD/4306.ts
+#EXTINF:-1 group-title="UNITED STATES",CINEMAX 5 STARMAX
+http://global.ipsatpro.tv:8000/live/star11/star11/4306.ts
+#EXTINF:-1 group-title="UNITED STATES",CINEMAX ACTIONMAX HD
+http://global.ipsatpro.tv:8000/live/1G8d7ROj7K/kOejo2H0FD/8074.ts
+#EXTINF:-1 group-title="UNITED STATES",CINEMAX ACTIONMAX HD
+http://global.ipsatpro.tv:8000/live/star11/star11/8074.ts
+#EXTINF:-1 group-title="UNITED STATES",CINEMAX EAST
+http://global.ipsatpro.tv:8000/live/1G8d7ROj7K/kOejo2H0FD/3305.ts
+#EXTINF:-1 group-title="UNITED STATES",CINEMAX EAST
+http://global.ipsatpro.tv:8000/live/star11/star11/3305.ts
+#EXTINF:-1 group-title="UNITED STATES",Cinemax HD
+http://bigiptv.ovh:8000/live/oussema/oussema/10064.ts
+#EXTINF:-1 group-title="UNITED STATES",Cinemax HD
+http://bigiptv.ovh:8000/live/pierre/pierre/10064.ts
+#EXTINF:-1 group-title="UNITED STATES",CINEMAX HD
+http://global.ipsatpro.tv:8000/live/1G8d7ROj7K/kOejo2H0FD/4304.ts
+#EXTINF:-1 group-title="UNITED STATES",CINEMAX HD
+http://global.ipsatpro.tv:8000/live/star11/star11/4304.ts
+#EXTINF:-1 group-title="UNITED STATES",CINEMAX MOREMAX HD
+http://global.ipsatpro.tv:8000/live/1G8d7ROj7K/kOejo2H0FD/8073.ts
+#EXTINF:-1 group-title="UNITED STATES",CINEMAX MOREMAX HD
+http://global.ipsatpro.tv:8000/live/star11/star11/8073.ts
+#EXTINF:-1 group-title="UNITED STATES",CNBC
+http://bigiptv.ovh:8000/live/oussema/oussema/10063.ts
+#EXTINF:-1 group-title="UNITED STATES",CNBC
+http://bigiptv.ovh:8000/live/pierre/pierre/10063.ts
+#EXTINF:-1 group-title="UNITED STATES",CNBC HD
+http://global.ipsatpro.tv:8000/live/1G8d7ROj7K/kOejo2H0FD/4321.ts
+#EXTINF:-1 group-title="UNITED STATES",CNBC HD
+http://global.ipsatpro.tv:8000/live/star11/star11/4321.ts
+#EXTINF:-1 group-title="UNITED STATES",CNN HD
+http://bigiptv.ovh:8000/live/oussema/oussema/10020.ts
+#EXTINF:-1 group-title="UNITED STATES",CNN HD
+http://bigiptv.ovh:8000/live/pierre/pierre/10020.ts
+#EXTINF:-1 group-title="UNITED STATES",CNN HD
+http://global.ipsatpro.tv:8000/live/1G8d7ROj7K/kOejo2H0FD/2133.ts
+#EXTINF:-1 group-title="UNITED STATES",CNN HD
+http://global.ipsatpro.tv:8000/live/star11/star11/2133.ts
+#EXTINF:-1 group-title="UNITED STATES",Comedy Central
+http://bigiptv.ovh:8000/live/oussema/oussema/10019.ts
+#EXTINF:-1 group-title="UNITED STATES",Comedy Central
+http://bigiptv.ovh:8000/live/pierre/pierre/10019.ts
+#EXTINF:-1 group-title="UNITED STATES",Comedy CENTRAL HD
+http://global.ipsatpro.tv:8000/live/1G8d7ROj7K/kOejo2H0FD/2156.ts
+#EXTINF:-1 group-title="UNITED STATES",Comedy CENTRAL HD
+http://global.ipsatpro.tv:8000/live/star11/star11/2156.ts
+#EXTINF:-1 group-title="UNITED STATES",CSTAR HD CAN
+http://global.ipsatpro.tv:8000/live/1G8d7ROj7K/kOejo2H0FD/8862.ts
+#EXTINF:-1 group-title="UNITED STATES",CSTAR HD CAN
+http://global.ipsatpro.tv:8000/live/star11/star11/8862.ts
+#EXTINF:-1 group-title="UNITED STATES",CW HD
+http://bigiptv.ovh:8000/live/oussema/oussema/10056.ts
+#EXTINF:-1 group-title="UNITED STATES",CW HD
+http://bigiptv.ovh:8000/live/pierre/pierre/10056.ts
+#EXTINF:-1 group-title="UNITED STATES",CW HD
+http://global.ipsatpro.tv:8000/live/1G8d7ROj7K/kOejo2H0FD/4323.ts
+#EXTINF:-1 group-title="UNITED STATES",CW HD
+http://global.ipsatpro.tv:8000/live/star11/star11/4323.ts
+#EXTINF:-1 group-title="UNITED STATES",DISCOVERY CHANNEL HD
+http://global.ipsatpro.tv:8000/live/1G8d7ROj7K/kOejo2H0FD/8075.ts
+#EXTINF:-1 group-title="UNITED STATES",DISCOVERY CHANNEL HD
+http://global.ipsatpro.tv:8000/live/star11/star11/8075.ts
+#EXTINF:-1 group-title="UNITED STATES",Discovery HD
+http://bigiptv.ovh:8000/live/oussema/oussema/10062.ts
+#EXTINF:-1 group-title="UNITED STATES",Discovery HD
+http://bigiptv.ovh:8000/live/pierre/pierre/10062.ts
+#EXTINF:-1 group-title="UNITED STATES",Discovery Science HD
+http://bigiptv.ovh:8000/live/oussema/oussema/10055.ts
+#EXTINF:-1 group-title="UNITED STATES",Discovery Science HD
+http://bigiptv.ovh:8000/live/pierre/pierre/10055.ts
+#EXTINF:-1 group-title="UNITED STATES",DISCOVERY SCIENCE HD
+http://global.ipsatpro.tv:8000/live/1G8d7ROj7K/kOejo2H0FD/2441.ts
+#EXTINF:-1 group-title="UNITED STATES",DISCOVERY SCIENCE HD
+http://global.ipsatpro.tv:8000/live/star11/star11/2441.ts
+#EXTINF:-1 group-title="UNITED STATES",DISCOVERY VELOCITY
+http://global.ipsatpro.tv:8000/live/1G8d7ROj7K/kOejo2H0FD/8869.ts
+#EXTINF:-1 group-title="UNITED STATES",DISCOVERY VELOCITY
+http://global.ipsatpro.tv:8000/live/star11/star11/8869.ts
+#EXTINF:-1 group-title="UNITED STATES",E!
+http://bigiptv.ovh:8000/live/oussema/oussema/10054.ts
+#EXTINF:-1 group-title="UNITED STATES",E!
+http://bigiptv.ovh:8000/live/pierre/pierre/10054.ts
+#EXTINF:-1 group-title="UNITED STATES",E! NETWORK HD
+http://global.ipsatpro.tv:8000/live/1G8d7ROj7K/kOejo2H0FD/8067.ts
+#EXTINF:-1 group-title="UNITED STATES",E! NETWORK HD
+http://global.ipsatpro.tv:8000/live/star11/star11/8067.ts
+#EXTINF:-1 group-title="UNITED STATES",E4 HD
+http://global.ipsatpro.tv:8000/live/1G8d7ROj7K/kOejo2H0FD/8851.ts
+#EXTINF:-1 group-title="UNITED STATES",E4 HD
+http://global.ipsatpro.tv:8000/live/star11/star11/8851.ts
+#EXTINF:-1 group-title="UNITED STATES",Eng1
+http://iptv.ndasat.com:88/live/329995091896719/329995091896719/3751.ts
+#EXTINF:-1 group-title="UNITED STATES",Eng2
+http://iptv.ndasat.com:88/live/329995091896719/329995091896719/3752.ts
+#EXTINF:-1 group-title="UNITED STATES",Eng3
+http://iptv.ndasat.com:88/live/329995091896719/329995091896719/3753.ts
+#EXTINF:-1 group-title="UNITED STATES",Eng4
+http://iptv.ndasat.com:88/live/329995091896719/329995091896719/3754.ts
+#EXTINF:-1 group-title="UNITED STATES",Eng5
+http://iptv.ndasat.com:88/live/329995091896719/329995091896719/3755.ts
+#EXTINF:-1 group-title="UNITED STATES",Eng6
+http://iptv.ndasat.com:88/live/329995091896719/329995091896719/3756.ts
+#EXTINF:-1 group-title="UNITED STATES",Eng7
+http://iptv.ndasat.com:88/live/329995091896719/329995091896719/3757.ts
+#EXTINF:-1 group-title="UNITED STATES",Eng8
+http://iptv.ndasat.com:88/live/329995091896719/329995091896719/3762.ts
+#EXTINF:-1 group-title="UNITED STATES",Eng9
+http://iptv.ndasat.com:88/live/329995091896719/329995091896719/3763.ts
+#EXTINF:-1 group-title="UNITED STATES",ESPN
+http://global.ipsatpro.tv:8000/live/star11/star11/8865.ts
+#EXTINF:-1 group-title="UNITED STATES",ESPN
+http://global.ipsatpro.tv:8000/live/star11/star11/8052.ts
+#EXTINF:-1 group-title="UNITED STATES",ESPN 2 HD
+http://bigiptv.ovh:8000/live/oussema/oussema/10038.ts
+#EXTINF:-1 group-title="UNITED STATES",ESPN 2 HD
+http://bigiptv.ovh:8000/live/pierre/pierre/10038.ts
+#EXTINF:-1 group-title="UNITED STATES",ESPN 2 HD
+http://global.ipsatpro.tv:8000/live/1G8d7ROj7K/kOejo2H0FD/8052.ts
+#EXTINF:-1 group-title="UNITED STATES",ESPN Deportes
+http://bigiptv.ovh:8000/live/oussema/oussema/10048.ts
+#EXTINF:-1 group-title="UNITED STATES",ESPN Deportes
+http://bigiptv.ovh:8000/live/pierre/pierre/10048.ts
+#EXTINF:-1 group-title="UNITED STATES",ESPN News HD
+http://bigiptv.ovh:8000/live/oussema/oussema/10037.ts
+#EXTINF:-1 group-title="UNITED STATES",ESPN News HD
+http://bigiptv.ovh:8000/live/pierre/pierre/10037.ts
+#EXTINF:-1 group-title="UNITED STATES",ESPN U HD
+http://bigiptv.ovh:8000/live/oussema/oussema/10036.ts
+#EXTINF:-1 group-title="UNITED STATES",ESPN U HD
+http://bigiptv.ovh:8000/live/pierre/pierre/10036.ts
+#EXTINF:-1 group-title="UNITED STATES",ESPN USA HD
+http://bigiptv.ovh:8000/live/oussema/oussema/10035.ts
+#EXTINF:-1 group-title="UNITED STATES",ESPN USA HD
+http://bigiptv.ovh:8000/live/pierre/pierre/10035.ts
+#EXTINF:-1 group-title="UNITED STATES",EURO NEWS
+http://global.ipsatpro.tv:8000/live/1G8d7ROj7K/kOejo2H0FD/8929.ts
+#EXTINF:-1 group-title="UNITED STATES",Fight Network
+http://bigiptv.ovh:8000/live/oussema/oussema/10029.ts
+#EXTINF:-1 group-title="UNITED STATES",Fight Network
+http://bigiptv.ovh:8000/live/pierre/pierre/10029.ts
+#EXTINF:-1 group-title="UNITED STATES",FIGHT SPORTS
+http://global.ipsatpro.tv:8000/live/1G8d7ROj7K/kOejo2H0FD/2111.ts
+#EXTINF:-1 group-title="UNITED STATES",FIGHT SPORTS
+http://global.ipsatpro.tv:8000/live/star11/star11/2111.ts
+#EXTINF:-1 group-title="UNITED STATES",FIX TV HD
+http://global.ipsatpro.tv:8000/live/1G8d7ROj7K/kOejo2H0FD/8096.ts
+#EXTINF:-1 group-title="UNITED STATES",FIX TV HD
+http://global.ipsatpro.tv:8000/live/star11/star11/8096.ts
+#EXTINF:-1 group-title="UNITED STATES",FOOD NETWORK
+http://global.ipsatpro.tv:8000/live/1G8d7ROj7K/kOejo2H0FD/2435.ts
+#EXTINF:-1 group-title="UNITED STATES",FOOD NETWORK
+http://global.ipsatpro.tv:8000/live/star11/star11/2435.ts
+#EXTINF:-1 group-title="UNITED STATES",Fox HD
+http://bigiptv.ovh:8000/live/oussema/oussema/10018.ts
+#EXTINF:-1 group-title="UNITED STATES",Fox HD
+http://bigiptv.ovh:8000/live/pierre/pierre/10018.ts
+#EXTINF:-1 group-title="UNITED STATES",FOX HD
+http://global.ipsatpro.tv:8000/live/1G8d7ROj7K/kOejo2H0FD/3303.ts
+#EXTINF:-1 group-title="UNITED STATES",FOX HD
+http://global.ipsatpro.tv:8000/live/star11/star11/3303.ts
+#EXTINF:-1 group-title="UNITED STATES",FOX NEWS CAN
+http://global.ipsatpro.tv:8000/live/1G8d7ROj7K/kOejo2H0FD/8874.ts
+#EXTINF:-1 group-title="UNITED STATES",FOX NEWS HD
+http://bigiptv.ovh:8000/live/oussema/oussema/10006.ts
+#EXTINF:-1 group-title="UNITED STATES",FOX NEWS HD
+http://bigiptv.ovh:8000/live/pierre/pierre/10006.ts
+#EXTINF:-1 group-title="UNITED STATES",Fox News HD
+http://global.ipsatpro.tv:8000/live/1G8d7ROj7K/kOejo2H0FD/2152.ts
+#EXTINF:-1 group-title="UNITED STATES",Fox News HD
+http://global.ipsatpro.tv:8000/live/star11/star11/2152.ts
+#EXTINF:-1 group-title="UNITED STATES",Fox Sports 1 HD
+http://bigiptv.ovh:8000/live/oussema/oussema/10034.ts
+#EXTINF:-1 group-title="UNITED STATES",Fox Sports 1 HD
+http://bigiptv.ovh:8000/live/pierre/pierre/10034.ts
+#EXTINF:-1 group-title="UNITED STATES",Fox Sports 1 HD
+http://global.ipsatpro.tv:8000/live/1G8d7ROj7K/kOejo2H0FD/954.ts
+#EXTINF:-1 group-title="UNITED STATES",Fox Sports 1 HD
+http://global.ipsatpro.tv:8000/live/star11/star11/954.ts
+#EXTINF:-1 group-title="UNITED STATES",Fox Sports 2 HD
+http://bigiptv.ovh:8000/live/oussema/oussema/10033.ts
+#EXTINF:-1 group-title="UNITED STATES",Fox Sports 2 HD
+http://bigiptv.ovh:8000/live/pierre/pierre/10033.ts
+#EXTINF:-1 group-title="UNITED STATES",Fox Sports 2 HD
+http://global.ipsatpro.tv:8000/live/1G8d7ROj7K/kOejo2H0FD/955.ts
+#EXTINF:-1 group-title="UNITED STATES",Fox Sports 2 HD
+http://global.ipsatpro.tv:8000/live/star11/star11/955.ts
+#EXTINF:-1 group-title="UNITED STATES",FOX SPORTS 3 HD
+http://global.ipsatpro.tv:8000/live/1G8d7ROj7K/kOejo2H0FD/8091.ts
+#EXTINF:-1 group-title="UNITED STATES",FOX SPORTS 3 HD
+http://global.ipsatpro.tv:8000/live/star11/star11/8091.ts
+#EXTINF:-1 group-title="UNITED STATES",FREEFORM HD
+http://global.ipsatpro.tv:8000/live/1G8d7ROj7K/kOejo2H0FD/4307.ts
+#EXTINF:-1 group-title="UNITED STATES",FREEFORM HD
+http://global.ipsatpro.tv:8000/live/star11/star11/4307.ts
+#EXTINF:-1 group-title="UNITED STATES",FreeRom HD
+http://bigiptv.ovh:8000/live/oussema/oussema/10053.ts
+#EXTINF:-1 group-title="UNITED STATES",FreeRom HD
+http://bigiptv.ovh:8000/live/pierre/pierre/10053.ts
+#EXTINF:-1 group-title="UNITED STATES",FX
+http://bigiptv.ovh:8000/live/oussema/oussema/10005.ts
+#EXTINF:-1 group-title="UNITED STATES",FX
+http://bigiptv.ovh:8000/live/pierre/pierre/10005.ts
+#EXTINF:-1 group-title="UNITED STATES",FX HD
+http://global.ipsatpro.tv:8000/live/1G8d7ROj7K/kOejo2H0FD/2400.ts
+#EXTINF:-1 group-title="UNITED STATES",FX HD
+http://global.ipsatpro.tv:8000/live/star11/star11/2400.ts
+#EXTINF:-1 group-title="UNITED STATES",FXX
+http://bigiptv.ovh:8000/live/oussema/oussema/10004.ts
+#EXTINF:-1 group-title="UNITED STATES",FXX
+http://bigiptv.ovh:8000/live/pierre/pierre/10004.ts
+#EXTINF:-1 group-title="UNITED STATES",FXX
+http://global.ipsatpro.tv:8000/live/1G8d7ROj7K/kOejo2H0FD/8061.ts
+#EXTINF:-1 group-title="UNITED STATES",Golf HD
+http://bigiptv.ovh:8000/live/oussema/oussema/10028.ts
+#EXTINF:-1 group-title="UNITED STATES",Golf HD
+http://bigiptv.ovh:8000/live/pierre/pierre/10028.ts
+#EXTINF:-1 group-title="UNITED STATES",GSN CAN
+http://global.ipsatpro.tv:8000/live/1G8d7ROj7K/kOejo2H0FD/8879.ts
+#EXTINF:-1 group-title="UNITED STATES",GSN CAN
+http://global.ipsatpro.tv:8000/live/star11/star11/8879.ts
+#EXTINF:-1 group-title="UNITED STATES",HALLMARK HD
+http://global.ipsatpro.tv:8000/live/1G8d7ROj7K/kOejo2H0FD/4294.ts
+#EXTINF:-1 group-title="UNITED STATES",HALLMARK HD
+http://global.ipsatpro.tv:8000/live/star11/star11/4294.ts
+#EXTINF:-1 group-title="UNITED STATES",HBO
+http://bigiptv.ovh:8000/live/oussema/oussema/10003.ts
+#EXTINF:-1 group-title="UNITED STATES",HBO
+http://bigiptv.ovh:8000/live/pierre/pierre/10003.ts
+#EXTINF:-1 group-title="UNITED STATES",HBO Comedy
+http://bigiptv.ovh:8000/live/oussema/oussema/10002.ts
+#EXTINF:-1 group-title="UNITED STATES",HBO Comedy
+http://bigiptv.ovh:8000/live/pierre/pierre/10002.ts
+#EXTINF:-1 group-title="UNITED STATES",HBO COMEDY HD
+http://global.ipsatpro.tv:8000/live/1G8d7ROj7K/kOejo2H0FD/2431.ts
+#EXTINF:-1 group-title="UNITED STATES",HBO COMEDY HD
+http://global.ipsatpro.tv:8000/live/star11/star11/2431.ts
+#EXTINF:-1 group-title="UNITED STATES",HBO FAMILY HD
+http://global.ipsatpro.tv:8000/live/star11/star11/8061.ts
+#EXTINF:-1 group-title="UNITED STATES",HBO Signature
+http://bigiptv.ovh:8000/live/oussema/oussema/10001.ts
+#EXTINF:-1 group-title="UNITED STATES",HBO Signature
+http://bigiptv.ovh:8000/live/pierre/pierre/10001.ts
+#EXTINF:-1 group-title="UNITED STATES",HBO SIGNATURE HD
+http://global.ipsatpro.tv:8000/live/1G8d7ROj7K/kOejo2H0FD/8068.ts
+#EXTINF:-1 group-title="UNITED STATES",HBO SIGNATURE HD
+http://global.ipsatpro.tv:8000/live/star11/star11/8068.ts
+#EXTINF:-1 group-title="UNITED STATES",HBO US
+http://global.ipsatpro.tv:8000/live/1G8d7ROj7K/kOejo2H0FD/2121.ts
+#EXTINF:-1 group-title="UNITED STATES",HBO US
+http://global.ipsatpro.tv:8000/live/star11/star11/2121.ts
+#EXTINF:-1 group-title="UNITED STATES",HBO Zone
+http://bigiptv.ovh:8000/live/oussema/oussema/10000.ts
+#EXTINF:-1 group-title="UNITED STATES",HBO Zone
+http://bigiptv.ovh:8000/live/pierre/pierre/10000.ts
+#EXTINF:-1 group-title="UNITED STATES",HBO ZONE HD
+http://global.ipsatpro.tv:8000/live/1G8d7ROj7K/kOejo2H0FD/950.ts
+#EXTINF:-1 group-title="UNITED STATES",HBO ZONE HD
+http://global.ipsatpro.tv:8000/live/star11/star11/950.ts
+#EXTINF:-1 group-title="UNITED STATES",HEART TV
+http://global.ipsatpro.tv:8000/live/1G8d7ROj7K/kOejo2H0FD/8927.ts
+#EXTINF:-1 group-title="UNITED STATES",HEART TV
+http://global.ipsatpro.tv:8000/live/star11/star11/8927.ts
+#EXTINF:-1 group-title="UNITED STATES",HGTV
+http://bigiptv.ovh:8000/live/oussema/oussema/10061.ts
+#EXTINF:-1 group-title="UNITED STATES",HGTV
+http://bigiptv.ovh:8000/live/pierre/pierre/10061.ts
+#EXTINF:-1 group-title="UNITED STATES",HGTV HD
+http://global.ipsatpro.tv:8000/live/1G8d7ROj7K/kOejo2H0FD/4312.ts
+#EXTINF:-1 group-title="UNITED STATES",HGTV HD
+http://global.ipsatpro.tv:8000/live/star11/star11/4312.ts
+#EXTINF:-1 group-title="UNITED STATES",HISTORY
+http://bigiptv.ovh:8000/live/oussema/oussema/9999.ts
+#EXTINF:-1 group-title="UNITED STATES",HISTORY
+http://bigiptv.ovh:8000/live/pierre/pierre/9999.ts
+#EXTINF:-1 group-title="UNITED STATES",HISTORY HD
+http://global.ipsatpro.tv:8000/live/1G8d7ROj7K/kOejo2H0FD/3382.ts
+#EXTINF:-1 group-title="UNITED STATES",HISTORY HD
+http://global.ipsatpro.tv:8000/live/star11/star11/3382.ts
+#EXTINF:-1 group-title="UNITED STATES",HSN 1
+http://global.ipsatpro.tv:8000/live/1G8d7ROj7K/kOejo2H0FD/2100.ts
+#EXTINF:-1 group-title="UNITED STATES",HSN 1
+http://global.ipsatpro.tv:8000/live/star11/star11/2100.ts
+#EXTINF:-1 group-title="UNITED STATES",HSN YT LIVE 1080P HD
+http://global.ipsatpro.tv:8000/live/1G8d7ROj7K/kOejo2H0FD/3284.ts
+#EXTINF:-1 group-title="UNITED STATES",HSN YT LIVE 1080P HD
+http://global.ipsatpro.tv:8000/live/star11/star11/3284.ts
+#EXTINF:-1 group-title="UNITED STATES",Investigation Discovery HD
+http://bigiptv.ovh:8000/live/oussema/oussema/9998.ts
+#EXTINF:-1 group-title="UNITED STATES",Investigation Discovery HD
+http://bigiptv.ovh:8000/live/pierre/pierre/9998.ts
+#EXTINF:-1 group-title="UNITED STATES",INVESTIGATION DISCOVERY HD
+http://global.ipsatpro.tv:8000/live/1G8d7ROj7K/kOejo2H0FD/8852.ts
+#EXTINF:-1 group-title="UNITED STATES",INVESTIGATION DISCOVERY HD
+http://global.ipsatpro.tv:8000/live/star11/star11/8852.ts
+#EXTINF:-1 group-title="UNITED STATES",KIDS READING TV
+http://global.ipsatpro.tv:8000/live/1G8d7ROj7K/kOejo2H0FD/8910.ts
+#EXTINF:-1 group-title="UNITED STATES",KIDS READING TV
+http://global.ipsatpro.tv:8000/live/star11/star11/8910.ts
+#EXTINF:-1 group-title="UNITED STATES",LIFETIME HD
+http://global.ipsatpro.tv:8000/live/1G8d7ROj7K/kOejo2H0FD/8058.ts
+#EXTINF:-1 group-title="UNITED STATES",LIFETIME HD
+http://global.ipsatpro.tv:8000/live/star11/star11/8058.ts
+#EXTINF:-1 group-title="UNITED STATES",MLB Network HD
+http://bigiptv.ovh:8000/live/oussema/oussema/9991.ts
+#EXTINF:-1 group-title="UNITED STATES",MLB Network HD
+http://bigiptv.ovh:8000/live/pierre/pierre/9991.ts
+#EXTINF:-1 group-title="UNITED STATES",MLB NETWORK HD
+http://global.ipsatpro.tv:8000/live/1G8d7ROj7K/kOejo2H0FD/4314.ts
+#EXTINF:-1 group-title="UNITED STATES",MLB NETWORK HD
+http://global.ipsatpro.tv:8000/live/star11/star11/4314.ts
+#EXTINF:-1 group-title="UNITED STATES",MoreMax HD
+http://bigiptv.ovh:8000/live/oussema/oussema/9997.ts
+#EXTINF:-1 group-title="UNITED STATES",MoreMax HD
+http://bigiptv.ovh:8000/live/pierre/pierre/9997.ts
+#EXTINF:-1 group-title="UNITED STATES",MOVIETIME
+http://global.ipsatpro.tv:8000/live/1G8d7ROj7K/kOejo2H0FD/8881.ts
+#EXTINF:-1 group-title="UNITED STATES",MOVIETIME
+http://global.ipsatpro.tv:8000/live/star11/star11/8881.ts
+#EXTINF:-1 group-title="UNITED STATES",MTV HD
+http://global.ipsatpro.tv:8000/live/star11/star11/8929.ts
+#EXTINF:-1 group-title="UNITED STATES",MUSIC CHOICE RAP
+http://global.ipsatpro.tv:8000/live/star11/star11/8914.ts
+#EXTINF:-1 group-title="UNITED STATES",MY 9TV
+http://global.ipsatpro.tv:8000/live/1G8d7ROj7K/kOejo2H0FD/8914.ts
+#EXTINF:-1 group-title="UNITED STATES",NASA HD
+http://global.ipsatpro.tv:8000/live/1G8d7ROj7K/kOejo2H0FD/8084.ts
+#EXTINF:-1 group-title="UNITED STATES",NASA HD
+http://global.ipsatpro.tv:8000/live/star11/star11/8084.ts
+#EXTINF:-1 group-title="UNITED STATES",NAT GEO HD
+http://global.ipsatpro.tv:8000/live/1G8d7ROj7K/kOejo2H0FD/3304.ts
+#EXTINF:-1 group-title="UNITED STATES",NAT GEO HD
+http://global.ipsatpro.tv:8000/live/star11/star11/3304.ts
+#EXTINF:-1 group-title="UNITED STATES",National Geographic
+http://bigiptv.ovh:8000/live/oussema/oussema/10039.ts
+#EXTINF:-1 group-title="UNITED STATES",National Geographic
+http://bigiptv.ovh:8000/live/pierre/pierre/10039.ts
+#EXTINF:-1 group-title="UNITED STATES",National Geographic HD
+http://global.ipsatpro.tv:8000/live/1G8d7ROj7K/kOejo2H0FD/3301.ts
+#EXTINF:-1 group-title="UNITED STATES",National Geographic HD
+http://global.ipsatpro.tv:8000/live/star11/star11/3301.ts
+#EXTINF:-1 group-title="UNITED STATES",NBA HD
+http://bigiptv.ovh:8000/live/oussema/oussema/10032.ts
+#EXTINF:-1 group-title="UNITED STATES",NBA HD
+http://bigiptv.ovh:8000/live/pierre/pierre/10032.ts
+#EXTINF:-1 group-title="UNITED STATES",NBA NETWORK
+http://global.ipsatpro.tv:8000/live/1G8d7ROj7K/kOejo2H0FD/992.ts
+#EXTINF:-1 group-title="UNITED STATES",NBA NETWORK
+http://global.ipsatpro.tv:8000/live/star11/star11/992.ts
+#EXTINF:-1 group-title="UNITED STATES",NBA TV HD
+http://global.ipsatpro.tv:8000/live/1G8d7ROj7K/kOejo2H0FD/999.ts
+#EXTINF:-1 group-title="UNITED STATES",NBA TV HD
+http://global.ipsatpro.tv:8000/live/star11/star11/999.ts
+#EXTINF:-1 group-title="UNITED STATES",NBC
+http://bigiptv.ovh:8000/live/oussema/oussema/10017.ts
+#EXTINF:-1 group-title="UNITED STATES",NBC
+http://bigiptv.ovh:8000/live/pierre/pierre/10017.ts
+#EXTINF:-1 group-title="UNITED STATES",NBC GOLF HD
+http://global.ipsatpro.tv:8000/live/1G8d7ROj7K/kOejo2H0FD/8071.ts
+#EXTINF:-1 group-title="UNITED STATES",NBC GOLF HD
+http://global.ipsatpro.tv:8000/live/star11/star11/8071.ts
+#EXTINF:-1 group-title="UNITED STATES",NBC SPORT
+http://global.ipsatpro.tv:8000/live/1G8d7ROj7K/kOejo2H0FD/2407.ts
+#EXTINF:-1 group-title="UNITED STATES",NBC SPORT
+http://global.ipsatpro.tv:8000/live/star11/star11/2407.ts
+#EXTINF:-1 group-title="UNITED STATES",NBC Sports Network HD
+http://bigiptv.ovh:8000/live/oussema/oussema/10042.ts
+#EXTINF:-1 group-title="UNITED STATES",NBC Sports Network HD
+http://bigiptv.ovh:8000/live/pierre/pierre/10042.ts
+#EXTINF:-1 group-title="UNITED STATES",NBC TV LEAGUE PASS DURING MATCH TIME ONLY
+http://global.ipsatpro.tv:8000/live/1G8d7ROj7K/kOejo2H0FD/8906.ts
+#EXTINF:-1 group-title="UNITED STATES",NBC TV LEAGUE PASS DURING MATCH TIME ONLY
+http://global.ipsatpro.tv:8000/live/star11/star11/8906.ts
+#EXTINF:-1 group-title="UNITED STATES",NFL Channel HD
+http://bigiptv.ovh:8000/live/oussema/oussema/10031.ts
+#EXTINF:-1 group-title="UNITED STATES",NFL Channel HD
+http://bigiptv.ovh:8000/live/pierre/pierre/10031.ts
+#EXTINF:-1 group-title="UNITED STATES",NFL Network HD
+http://global.ipsatpro.tv:8000/live/1G8d7ROj7K/kOejo2H0FD/957.ts
+#EXTINF:-1 group-title="UNITED STATES",NFL Network HD
+http://global.ipsatpro.tv:8000/live/star11/star11/957.ts
+#EXTINF:-1 group-title="UNITED STATES",NFL NOW
+http://global.ipsatpro.tv:8000/live/1G8d7ROj7K/kOejo2H0FD/8853.ts
+#EXTINF:-1 group-title="UNITED STATES",NFL NOW
+http://global.ipsatpro.tv:8000/live/star11/star11/8853.ts
+#EXTINF:-1 group-title="UNITED STATES",NHL Network HD
+http://bigiptv.ovh:8000/live/oussema/oussema/10027.ts
+#EXTINF:-1 group-title="UNITED STATES",NHL Network HD
+http://bigiptv.ovh:8000/live/pierre/pierre/10027.ts
+#EXTINF:-1 group-title="UNITED STATES",NHL NETWORK HD
+http://global.ipsatpro.tv:8000/live/1G8d7ROj7K/kOejo2H0FD/4318.ts
+#EXTINF:-1 group-title="UNITED STATES",NHL NETWORK HD
+http://global.ipsatpro.tv:8000/live/star11/star11/4318.ts
+#EXTINF:-1 group-title="UNITED STATES",NICK HD
+http://global.ipsatpro.tv:8000/live/1G8d7ROj7K/kOejo2H0FD/8913.ts
+#EXTINF:-1 group-title="UNITED STATES",NICK HD
+http://global.ipsatpro.tv:8000/live/star11/star11/8913.ts
+#EXTINF:-1 group-title="UNITED STATES",Nickelodeon HD
+http://bigiptv.ovh:8000/live/oussema/oussema/10052.ts
+#EXTINF:-1 group-title="UNITED STATES",Nickelodeon HD
+http://bigiptv.ovh:8000/live/pierre/pierre/10052.ts
+#EXTINF:-1 group-title="UNITED STATES",NICKELODEON HD
+http://global.ipsatpro.tv:8000/live/1G8d7ROj7K/kOejo2H0FD/4319.ts
+#EXTINF:-1 group-title="UNITED STATES",NICKELODEON HD
+http://global.ipsatpro.tv:8000/live/star11/star11/4319.ts
+#EXTINF:-1 group-title="UNITED STATES",NICKTOONS
+http://global.ipsatpro.tv:8000/live/1G8d7ROj7K/kOejo2H0FD/8912.ts
+#EXTINF:-1 group-title="UNITED STATES",NICKTOONS
+http://global.ipsatpro.tv:8000/live/star11/star11/8912.ts
+#EXTINF:-1 group-title="UNITED STATES",NURSERY RHYMES
+http://global.ipsatpro.tv:8000/live/1G8d7ROj7K/kOejo2H0FD/8911.ts
+#EXTINF:-1 group-title="UNITED STATES",NURSERY RHYMES
+http://global.ipsatpro.tv:8000/live/star11/star11/8911.ts
+#EXTINF:-1 group-title="UNITED STATES",Oprah Winfrey Network
+http://bigiptv.ovh:8000/live/oussema/oussema/9981.ts
+#EXTINF:-1 group-title="UNITED STATES",Oprah Winfrey Network
+http://bigiptv.ovh:8000/live/pierre/pierre/9981.ts
+#EXTINF:-1 group-title="UNITED STATES",OWN HD
+http://global.ipsatpro.tv:8000/live/1G8d7ROj7K/kOejo2H0FD/8923.ts
+#EXTINF:-1 group-title="UNITED STATES",OWN HD
+http://global.ipsatpro.tv:8000/live/star11/star11/8923.ts
+#EXTINF:-1 group-title="UNITED STATES",PAC 12 ARIZONA FHD
+http://global.ipsatpro.tv:8000/live/1G8d7ROj7K/kOejo2H0FD/8854.ts
+#EXTINF:-1 group-title="UNITED STATES",PAC 12 ARIZONA FHD
+http://global.ipsatpro.tv:8000/live/star11/star11/8854.ts
+#EXTINF:-1 group-title="UNITED STATES",PAC 12 Arizona HD
+http://bigiptv.ovh:8000/live/oussema/oussema/9989.ts
+#EXTINF:-1 group-title="UNITED STATES",PAC 12 Arizona HD
+http://bigiptv.ovh:8000/live/pierre/pierre/9989.ts
+#EXTINF:-1 group-title="UNITED STATES",PAC 12 BAY AREA FHD
+http://global.ipsatpro.tv:8000/live/1G8d7ROj7K/kOejo2H0FD/8855.ts
+#EXTINF:-1 group-title="UNITED STATES",PAC 12 BAY AREA FHD
+http://global.ipsatpro.tv:8000/live/star11/star11/8855.ts
+#EXTINF:-1 group-title="UNITED STATES",PAC 12 Bay Area HD
+http://bigiptv.ovh:8000/live/oussema/oussema/9988.ts
+#EXTINF:-1 group-title="UNITED STATES",PAC 12 Bay Area HD
+http://bigiptv.ovh:8000/live/pierre/pierre/9988.ts
+#EXTINF:-1 group-title="UNITED STATES",PAC 12 LOS ANGELES FHD
+http://global.ipsatpro.tv:8000/live/1G8d7ROj7K/kOejo2H0FD/8856.ts
+#EXTINF:-1 group-title="UNITED STATES",PAC 12 LOS ANGELES FHD
+http://global.ipsatpro.tv:8000/live/star11/star11/8856.ts
+#EXTINF:-1 group-title="UNITED STATES",PAC 12 Los Angeles HD
+http://bigiptv.ovh:8000/live/oussema/oussema/9987.ts
+#EXTINF:-1 group-title="UNITED STATES",PAC 12 Los Angeles HD
+http://bigiptv.ovh:8000/live/pierre/pierre/9987.ts
+#EXTINF:-1 group-title="UNITED STATES",PAC 12 MOUNTAIN FHD
+http://global.ipsatpro.tv:8000/live/1G8d7ROj7K/kOejo2H0FD/4324.ts
+#EXTINF:-1 group-title="UNITED STATES",PAC 12 MOUNTAIN FHD
+http://global.ipsatpro.tv:8000/live/star11/star11/4324.ts
+#EXTINF:-1 group-title="UNITED STATES",PAC 12 Mountain HD
+http://bigiptv.ovh:8000/live/oussema/oussema/9986.ts
+#EXTINF:-1 group-title="UNITED STATES",PAC 12 Mountain HD
+http://bigiptv.ovh:8000/live/pierre/pierre/9986.ts
+#EXTINF:-1 group-title="UNITED STATES",PAC 12 NETWORK HD
+http://global.ipsatpro.tv:8000/live/1G8d7ROj7K/kOejo2H0FD/8078.ts
+#EXTINF:-1 group-title="UNITED STATES",PAC 12 NETWORK HD
+http://global.ipsatpro.tv:8000/live/star11/star11/8078.ts
+#EXTINF:-1 group-title="UNITED STATES",PAC 12 OREGON FHD
+http://global.ipsatpro.tv:8000/live/1G8d7ROj7K/kOejo2H0FD/8857.ts
+#EXTINF:-1 group-title="UNITED STATES",PAC 12 OREGON FHD
+http://global.ipsatpro.tv:8000/live/star11/star11/8857.ts
+#EXTINF:-1 group-title="UNITED STATES",PAC 12 Oregon HD
+http://bigiptv.ovh:8000/live/oussema/oussema/9985.ts
+#EXTINF:-1 group-title="UNITED STATES",PAC 12 Oregon HD
+http://bigiptv.ovh:8000/live/pierre/pierre/9985.ts
+#EXTINF:-1 group-title="UNITED STATES",PAC 12 WASHINGTON FHD
+http://global.ipsatpro.tv:8000/live/1G8d7ROj7K/kOejo2H0FD/8858.ts
+#EXTINF:-1 group-title="UNITED STATES",PAC 12 WASHINGTON FHD
+http://global.ipsatpro.tv:8000/live/star11/star11/8858.ts
+#EXTINF:-1 group-title="UNITED STATES",PAC 12 Washington HD
+http://bigiptv.ovh:8000/live/oussema/oussema/9984.ts
+#EXTINF:-1 group-title="UNITED STATES",PAC 12 Washington HD
+http://bigiptv.ovh:8000/live/pierre/pierre/9984.ts
+#EXTINF:-1 group-title="UNITED STATES",PBS HD
+http://global.ipsatpro.tv:8000/live/star11/star11/8859.ts
+#EXTINF:-1 group-title="UNITED STATES",QVC BEAUTY IQ
+http://global.ipsatpro.tv:8000/live/1G8d7ROj7K/kOejo2H0FD/8909.ts
+#EXTINF:-1 group-title="UNITED STATES",QVC BEAUTY IQ
+http://global.ipsatpro.tv:8000/live/star11/star11/8909.ts
+#EXTINF:-1 group-title="UNITED STATES",QVC LIVE
+http://global.ipsatpro.tv:8000/live/1G8d7ROj7K/kOejo2H0FD/8908.ts
+#EXTINF:-1 group-title="UNITED STATES",QVC LIVE
+http://global.ipsatpro.tv:8000/live/star11/star11/8908.ts
+#EXTINF:-1 group-title="UNITED STATES",QVC PLUS
+http://global.ipsatpro.tv:8000/live/1G8d7ROj7K/kOejo2H0FD/8907.ts
+#EXTINF:-1 group-title="UNITED STATES",QVC PLUS
+http://global.ipsatpro.tv:8000/live/star11/star11/8907.ts
+#EXTINF:-1 group-title="UNITED STATES",RT DOCUMENTARY
+http://global.ipsatpro.tv:8000/live/1G8d7ROj7K/kOejo2H0FD/8081.ts
+#EXTINF:-1 group-title="UNITED STATES",RT DOCUMENTARY
+http://global.ipsatpro.tv:8000/live/star11/star11/8081.ts
+#EXTINF:-1 group-title="UNITED STATES",S
+http://global.ipsatpro.tv:8000/live/star11/star11/8928.ts
+#EXTINF:-1 group-title="UNITED STATES",SHOWTIME 2 HD
+http://global.ipsatpro.tv:8000/live/1G8d7ROj7K/kOejo2H0FD/2369.ts
+#EXTINF:-1 group-title="UNITED STATES",SHOWTIME 2 HD
+http://global.ipsatpro.tv:8000/live/star11/star11/2369.ts
+#EXTINF:-1 group-title="UNITED STATES",SHOWTIME EXTREME
+http://global.ipsatpro.tv:8000/live/1G8d7ROj7K/kOejo2H0FD/8070.ts
+#EXTINF:-1 group-title="UNITED STATES",SHOWTIME EXTREME
+http://global.ipsatpro.tv:8000/live/star11/star11/8070.ts
+#EXTINF:-1 group-title="UNITED STATES",SHOWTIME HD
+http://global.ipsatpro.tv:8000/live/1G8d7ROj7K/kOejo2H0FD/8069.ts
+#EXTINF:-1 group-title="UNITED STATES",SHOWTIME HD
+http://global.ipsatpro.tv:8000/live/star11/star11/8069.ts
+#EXTINF:-1 group-title="UNITED STATES",SPIKE CAN
+http://global.ipsatpro.tv:8000/live/1G8d7ROj7K/kOejo2H0FD/8893.ts
+#EXTINF:-1 group-title="UNITED STATES",SPIKE CAN
+http://global.ipsatpro.tv:8000/live/star11/star11/8893.ts
+#EXTINF:-1 group-title="UNITED STATES",SPIKE HD
+http://bigiptv.ovh:8000/live/oussema/oussema/9996.ts
+#EXTINF:-1 group-title="UNITED STATES",SPIKE HD
+http://bigiptv.ovh:8000/live/pierre/pierre/9996.ts
+#EXTINF:-1 group-title="UNITED STATES",SPORT NET 1 HD
+http://global.ipsatpro.tv:8000/live/1G8d7ROj7K/kOejo2H0FD/8083.ts
+#EXTINF:-1 group-title="UNITED STATES",SPORT NET 1 HD
+http://global.ipsatpro.tv:8000/live/star11/star11/8083.ts
+#EXTINF:-1 group-title="UNITED STATES",Sports Net 360 HD
+http://bigiptv.ovh:8000/live/oussema/oussema/10024.ts
+#EXTINF:-1 group-title="UNITED STATES",Sports Net 360 HD
+http://bigiptv.ovh:8000/live/pierre/pierre/10024.ts
+#EXTINF:-1 group-title="UNITED STATES",Sports Net One HD
+http://bigiptv.ovh:8000/live/oussema/oussema/10016.ts
+#EXTINF:-1 group-title="UNITED STATES",Sports Net One HD
+http://bigiptv.ovh:8000/live/pierre/pierre/10016.ts
+#EXTINF:-1 group-title="UNITED STATES",SPORTS NET ONE HD
+http://global.ipsatpro.tv:8000/live/1G8d7ROj7K/kOejo2H0FD/4326.ts
+#EXTINF:-1 group-title="UNITED STATES",SPORTS NET ONE HD
+http://global.ipsatpro.tv:8000/live/star11/star11/4326.ts
+#EXTINF:-1 group-title="UNITED STATES",SPORTS NET ONE HD CAN
+http://global.ipsatpro.tv:8000/live/1G8d7ROj7K/kOejo2H0FD/8895.ts
+#EXTINF:-1 group-title="UNITED STATES",SPORTS NET ONE HD CAN
+http://global.ipsatpro.tv:8000/live/star11/star11/8895.ts
+#EXTINF:-1 group-title="UNITED STATES",Sports Net Ontario HD
+http://bigiptv.ovh:8000/live/oussema/oussema/10023.ts
+#EXTINF:-1 group-title="UNITED STATES",Sports Net Ontario HD
+http://bigiptv.ovh:8000/live/pierre/pierre/10023.ts
+#EXTINF:-1 group-title="UNITED STATES",SPORTS NET ONTARIO HD
+http://global.ipsatpro.tv:8000/live/1G8d7ROj7K/kOejo2H0FD/8894.ts
+#EXTINF:-1 group-title="UNITED STATES",SPORTS NET ONTARIO HD
+http://global.ipsatpro.tv:8000/live/star11/star11/8894.ts
+#EXTINF:-1 group-title="UNITED STATES",Sports Net Pacific HD
+http://bigiptv.ovh:8000/live/oussema/oussema/9983.ts
+#EXTINF:-1 group-title="UNITED STATES",Sports Net Pacific HD
+http://bigiptv.ovh:8000/live/pierre/pierre/9983.ts
+#EXTINF:-1 group-title="UNITED STATES",Sports Net West HD
+http://bigiptv.ovh:8000/live/oussema/oussema/9982.ts
+#EXTINF:-1 group-title="UNITED STATES",Sports Net West HD
+http://bigiptv.ovh:8000/live/pierre/pierre/9982.ts
+#EXTINF:-1 group-title="UNITED STATES",SPORTS NET WEST HD CAN
+http://global.ipsatpro.tv:8000/live/1G8d7ROj7K/kOejo2H0FD/8896.ts
+#EXTINF:-1 group-title="UNITED STATES",SPORTS NET WEST HD CAN
+http://global.ipsatpro.tv:8000/live/star11/star11/8896.ts
+#EXTINF:-1 group-title="UNITED STATES",Sports Net World HD
+http://bigiptv.ovh:8000/live/oussema/oussema/10022.ts
+#EXTINF:-1 group-title="UNITED STATES",Sports Net World HD
+http://bigiptv.ovh:8000/live/pierre/pierre/10022.ts
+#EXTINF:-1 group-title="UNITED STATES",SPORTS NET WORLD HD
+http://global.ipsatpro.tv:8000/live/1G8d7ROj7K/kOejo2H0FD/4330.ts
+#EXTINF:-1 group-title="UNITED STATES",SPORTS NET WORLD HD
+http://global.ipsatpro.tv:8000/live/star11/star11/4330.ts
+#EXTINF:-1 group-title="UNITED STATES",SPORTS NET WORLD HD CAN
+http://global.ipsatpro.tv:8000/live/1G8d7ROj7K/kOejo2H0FD/8897.ts
+#EXTINF:-1 group-title="UNITED STATES",SPORTS NET WORLD HD CAN
+http://global.ipsatpro.tv:8000/live/star11/star11/8897.ts
+#EXTINF:-1 group-title="UNITED STATES",Starz Cinema HD
+http://bigiptv.ovh:8000/live/oussema/oussema/9995.ts
+#EXTINF:-1 group-title="UNITED STATES",Starz Cinema HD
+http://bigiptv.ovh:8000/live/pierre/pierre/9995.ts
+#EXTINF:-1 group-title="UNITED STATES",STARZ CINEMA HD
+http://global.ipsatpro.tv:8000/live/1G8d7ROj7K/kOejo2H0FD/4302.ts
+#EXTINF:-1 group-title="UNITED STATES",STARZ CINEMA HD
+http://global.ipsatpro.tv:8000/live/star11/star11/4302.ts
+#EXTINF:-1 group-title="UNITED STATES",STARZ ENCORE HD
+http://global.ipsatpro.tv:8000/live/1G8d7ROj7K/kOejo2H0FD/8093.ts
+#EXTINF:-1 group-title="UNITED STATES",Starz HD
+http://bigiptv.ovh:8000/live/oussema/oussema/9993.ts
+#EXTINF:-1 group-title="UNITED STATES",Starz HD
+http://bigiptv.ovh:8000/live/pierre/pierre/9993.ts
+#EXTINF:-1 group-title="UNITED STATES",SYFY HD
+http://bigiptv.ovh:8000/live/oussema/oussema/10051.ts
+#EXTINF:-1 group-title="UNITED STATES",SYFY HD
+http://bigiptv.ovh:8000/live/pierre/pierre/10051.ts
+#EXTINF:-1 group-title="UNITED STATES",SYFY HD
+http://global.ipsatpro.tv:8000/live/1G8d7ROj7K/kOejo2H0FD/1696.ts
+#EXTINF:-1 group-title="UNITED STATES",SYFY HD
+http://global.ipsatpro.tv:8000/live/star11/star11/1696.ts
+#EXTINF:-1 group-title="UNITED STATES",TBS
+http://global.ipsatpro.tv:8000/live/1G8d7ROj7K/kOejo2H0FD/8859.ts
+#EXTINF:-1 group-title="UNITED STATES",TBS HD
+http://bigiptv.ovh:8000/live/oussema/oussema/10040.ts
+#EXTINF:-1 group-title="UNITED STATES",TBS HD
+http://bigiptv.ovh:8000/live/pierre/pierre/10040.ts
+#EXTINF:-1 group-title="UNITED STATES",TBS HD
+http://global.ipsatpro.tv:8000/live/1G8d7ROj7K/kOejo2H0FD/2131.ts
+#EXTINF:-1 group-title="UNITED STATES",TBS HD
+http://global.ipsatpro.tv:8000/live/star11/star11/2131.ts
+#EXTINF:-1 group-title="UNITED STATES",TELEMUNDO
+http://global.ipsatpro.tv:8000/live/1G8d7ROj7K/kOejo2H0FD/8848.ts
+#EXTINF:-1 group-title="UNITED STATES",TELEMUNDO
+http://global.ipsatpro.tv:8000/live/star11/star11/8848.ts
+#EXTINF:-1 group-title="UNITED STATES",Tennis Channel HD
+http://bigiptv.ovh:8000/live/oussema/oussema/10026.ts
+#EXTINF:-1 group-title="UNITED STATES",Tennis Channel HD
+http://bigiptv.ovh:8000/live/pierre/pierre/10026.ts
+#EXTINF:-1 group-title="UNITED STATES",TENNIS CHANNEL HD
+http://global.ipsatpro.tv:8000/live/1G8d7ROj7K/kOejo2H0FD/8086.ts
+#EXTINF:-1 group-title="UNITED STATES",TENNIS CHANNEL HD
+http://global.ipsatpro.tv:8000/live/star11/star11/8086.ts
+#EXTINF:-1 group-title="UNITED STATES",TLC
+http://global.ipsatpro.tv:8000/live/1G8d7ROj7K/kOejo2H0FD/8860.ts
+#EXTINF:-1 group-title="UNITED STATES",TLC
+http://global.ipsatpro.tv:8000/live/star11/star11/8860.ts
+#EXTINF:-1 group-title="UNITED STATES",TLC HD
+http://bigiptv.ovh:8000/live/oussema/oussema/10047.ts
+#EXTINF:-1 group-title="UNITED STATES",TLC HD
+http://bigiptv.ovh:8000/live/pierre/pierre/10047.ts
+#EXTINF:-1 group-title="UNITED STATES",TLC HD
+http://global.ipsatpro.tv:8000/live/1G8d7ROj7K/kOejo2H0FD/2112.ts
+#EXTINF:-1 group-title="UNITED STATES",TLC HD
+http://global.ipsatpro.tv:8000/live/star11/star11/2112.ts
+#EXTINF:-1 group-title="UNITED STATES",TNT HD
+http://bigiptv.ovh:8000/live/oussema/oussema/10041.ts
+#EXTINF:-1 group-title="UNITED STATES",TNT HD
+http://bigiptv.ovh:8000/live/pierre/pierre/10041.ts
+#EXTINF:-1 group-title="UNITED STATES",TNT HD
+http://global.ipsatpro.tv:8000/live/1G8d7ROj7K/kOejo2H0FD/997.ts
+#EXTINF:-1 group-title="UNITED STATES",TNT HD
+http://global.ipsatpro.tv:8000/live/star11/star11/997.ts
+#EXTINF:-1 group-title="UNITED STATES",Travel Channel HD
+http://global.ipsatpro.tv:8000/live/1G8d7ROj7K/kOejo2H0FD/2110.ts
+#EXTINF:-1 group-title="UNITED STATES",Travel Channel HD
+http://global.ipsatpro.tv:8000/live/star11/star11/2110.ts
+#EXTINF:-1 group-title="UNITED STATES",TRU TV
+http://global.ipsatpro.tv:8000/live/1G8d7ROj7K/kOejo2H0FD/8922.ts
+#EXTINF:-1 group-title="UNITED STATES",TRU TV
+http://global.ipsatpro.tv:8000/live/star11/star11/8922.ts
+#EXTINF:-1 group-title="UNITED STATES",TSN 1 HD
+http://bigiptv.ovh:8000/live/oussema/oussema/10015.ts
+#EXTINF:-1 group-title="UNITED STATES",TSN 1 HD
+http://bigiptv.ovh:8000/live/pierre/pierre/10015.ts
+#EXTINF:-1 group-title="UNITED STATES",TSN 1 HD
+http://global.ipsatpro.tv:8000/live/1G8d7ROj7K/kOejo2H0FD/967.ts
+#EXTINF:-1 group-title="UNITED STATES",TSN 1 HD
+http://global.ipsatpro.tv:8000/live/star11/star11/967.ts
+#EXTINF:-1 group-title="UNITED STATES",TSN 2 HD
+http://bigiptv.ovh:8000/live/oussema/oussema/10014.ts
+#EXTINF:-1 group-title="UNITED STATES",TSN 2 HD
+http://bigiptv.ovh:8000/live/pierre/pierre/10014.ts
+#EXTINF:-1 group-title="UNITED STATES",TSN 2 HD
+http://global.ipsatpro.tv:8000/live/1G8d7ROj7K/kOejo2H0FD/968.ts
+#EXTINF:-1 group-title="UNITED STATES",TSN 2 HD
+http://global.ipsatpro.tv:8000/live/star11/star11/968.ts
+#EXTINF:-1 group-title="UNITED STATES",TSN 3 HD
+http://bigiptv.ovh:8000/live/oussema/oussema/10013.ts
+#EXTINF:-1 group-title="UNITED STATES",TSN 3 HD
+http://bigiptv.ovh:8000/live/pierre/pierre/10013.ts
+#EXTINF:-1 group-title="UNITED STATES",TSN 3 HD
+http://global.ipsatpro.tv:8000/live/1G8d7ROj7K/kOejo2H0FD/969.ts
+#EXTINF:-1 group-title="UNITED STATES",TSN 3 HD
+http://global.ipsatpro.tv:8000/live/star11/star11/969.ts
+#EXTINF:-1 group-title="UNITED STATES",TSN 4 HD
+http://bigiptv.ovh:8000/live/oussema/oussema/10012.ts
+#EXTINF:-1 group-title="UNITED STATES",TSN 4 HD
+http://bigiptv.ovh:8000/live/pierre/pierre/10012.ts
+#EXTINF:-1 group-title="UNITED STATES",TSN 4 HD
+http://global.ipsatpro.tv:8000/live/1G8d7ROj7K/kOejo2H0FD/970.ts
+#EXTINF:-1 group-title="UNITED STATES",TSN 4 HD
+http://global.ipsatpro.tv:8000/live/star11/star11/970.ts
+#EXTINF:-1 group-title="UNITED STATES",TSN 5 HD
+http://bigiptv.ovh:8000/live/oussema/oussema/10011.ts
+#EXTINF:-1 group-title="UNITED STATES",TSN 5 HD
+http://bigiptv.ovh:8000/live/pierre/pierre/10011.ts
+#EXTINF:-1 group-title="UNITED STATES",TSN 5 HD
+http://global.ipsatpro.tv:8000/live/1G8d7ROj7K/kOejo2H0FD/951.ts
+#EXTINF:-1 group-title="UNITED STATES",TSN 5 HD
+http://global.ipsatpro.tv:8000/live/star11/star11/951.ts
+#EXTINF:-1 group-title="UNITED STATES",TV SKY ONE
+http://global.ipsatpro.tv:8000/live/1G8d7ROj7K/kOejo2H0FD/8921.ts
+#EXTINF:-1 group-title="UNITED STATES",TV SKY ONE
+http://global.ipsatpro.tv:8000/live/star11/star11/8921.ts
+#EXTINF:-1 group-title="UNITED STATES",UNIVERSITY OF CALIFORNIA
+http://global.ipsatpro.tv:8000/live/star11/star11/8076.ts
+#EXTINF:-1 group-title="UNITED STATES",UNIVISION
+http://global.ipsatpro.tv:8000/live/1G8d7ROj7K/kOejo2H0FD/8849.ts
+#EXTINF:-1 group-title="UNITED STATES",Univision Deportes
+http://bigiptv.ovh:8000/live/oussema/oussema/10046.ts
+#EXTINF:-1 group-title="UNITED STATES",Univision Deportes
+http://bigiptv.ovh:8000/live/pierre/pierre/10046.ts
+#EXTINF:-1 group-title="UNITED STATES",USA NETWORK HD
+http://bigiptv.ovh:8000/live/oussema/oussema/9992.ts
+#EXTINF:-1 group-title="UNITED STATES",USA NETWORK HD
+http://bigiptv.ovh:8000/live/pierre/pierre/9992.ts
+#EXTINF:-1 group-title="UNITED STATES",USA Network HD
+http://global.ipsatpro.tv:8000/live/1G8d7ROj7K/kOejo2H0FD/1700.ts
+#EXTINF:-1 group-title="UNITED STATES",USA Network HD
+http://global.ipsatpro.tv:8000/live/star11/star11/1700.ts
+#EXTINF:-1 group-title="UNITED STATES",USA SPORTS NETWORK HD
+http://global.ipsatpro.tv:8000/live/1G8d7ROj7K/kOejo2H0FD/2412.ts
+#EXTINF:-1 group-title="UNITED STATES",USA SPORTS NETWORK HD
+http://global.ipsatpro.tv:8000/live/star11/star11/2412.ts
+#EXTINF:-1 group-title="UNITED STATES",Viceland
+http://bigiptv.ovh:8000/live/oussema/oussema/10044.ts
+#EXTINF:-1 group-title="UNITED STATES",Viceland
+http://bigiptv.ovh:8000/live/pierre/pierre/10044.ts
+#EXTINF:-1 group-title="UNITED STATES",VICELAND HD
+http://global.ipsatpro.tv:8000/live/1G8d7ROj7K/kOejo2H0FD/8861.ts
+#EXTINF:-1 group-title="UNITED STATES",VICELAND HD
+http://global.ipsatpro.tv:8000/live/star11/star11/8861.ts
+#EXTINF:-1 group-title="UNITED STATES",WEATHER CHANNEL
+http://global.ipsatpro.tv:8000/live/1G8d7ROj7K/kOejo2H0FD/8905.ts
+#EXTINF:-1 group-title="UNITED STATES",WEATHER CHANNEL
+http://global.ipsatpro.tv:8000/live/star11/star11/8905.ts
+#EXTINF:-1 group-title="UNITED STATES",WGN HD
+http://global.ipsatpro.tv:8000/live/1G8d7ROj7K/kOejo2H0FD/1008.ts
+#EXTINF:-1 group-title="UNITED STATES",WGN HD
+http://global.ipsatpro.tv:8000/live/star11/star11/1008.ts
+#EXTINF:-1 group-title="UNITED STATES",Willow Cricket HD
+http://bigiptv.ovh:8000/live/oussema/oussema/10045.ts
+#EXTINF:-1 group-title="UNITED STATES",Willow Cricket HD
+http://bigiptv.ovh:8000/live/pierre/pierre/10045.ts
+#EXTINF:-1 group-title="UNITED STATES",Willow Cricket HD
+http://global.ipsatpro.tv:8000/live/1G8d7ROj7K/kOejo2H0FD/1701.ts
+#EXTINF:-1 group-title="UNITED STATES",Willow Cricket HD
+http://global.ipsatpro.tv:8000/live/star11/star11/1701.ts
+#EXTINF:-1 group-title="UNITED STATES",WWE Network HD
+http://bigiptv.ovh:8000/live/oussema/oussema/10025.ts
+#EXTINF:-1 group-title="UNITED STATES",WWE Network HD
+http://bigiptv.ovh:8000/live/pierre/pierre/10025.ts
+#EXTINF:-1 group-title="UNITED STATES",WWE Raw Network HD
+http://global.ipsatpro.tv:8000/live/1G8d7ROj7K/kOejo2H0FD/981.ts
+#EXTINF:-1 group-title="UNITED STATES",WWE Raw Network HD
+http://global.ipsatpro.tv:8000/live/star11/star11/981.ts
+#EXTINF:-1 group-title="WORLD WIDE",6ter HD FR
+http://clientportal.link:8080/live/abc123/321cba/3723.ts
