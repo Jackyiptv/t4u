@@ -420,24 +420,6 @@ https://api.new.livestream.com/accounts/2363281/events/1763520/live.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0f/Logo_of_WRC-TV.png" group-title="USA LOCAL",NBC 4 News (Washington DC)
 https://wrclive-f.akamaihd.net/i/wrcb1_1@46880/master.m3u8
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 #EXTINF:0, group-title="USA",tvg-logo="http://www.sat-address.com/f/pics/logotipi/TVW-House-Channel_o.jpg",House of Representatives
 http://d3ktuc8v2sjk6m.cloudfront.net/livetv/ngrp:HouseChannel_all/chucklist.m3u8
 #EXTINF:0, group-title="USA",tvg-logo="http://mms.businesswire.com/media/20170113005327/en/564340/5/HSN_logo.jpg",HSN
@@ -688,47 +670,8 @@ http://premium.tvshqip.us:8880/live/mega/iptv/166.ts|User-Agent=25634
 http://premium.tvshqip.us:8880/live/mega/iptv/168.ts|User-Agent=25634
 #EXTINF:0, group-title="USA",Arena Sport 6 
 http://premium.tvshqip.us:8880/live/mega/iptv/169.ts|User-Agent=25634
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 #EXTINF:-1 group-title="UNITED STATES",24x7 SOUTH PARK HD SERIES
 http://global.ipsatpro.tv:8000/live/1G8d7ROj7K/kOejo2H0FD/8916.ts
-
 #EXTINF:-1 group-title="UNITED STATES",A&E
 http://bigiptv.ovh:8000/live/oussema/oussema/10050.ts
 #EXTINF:-1 group-title="UNITED STATES",A&E
