@@ -674,10 +674,10 @@ http://csm-e.cds1.yospace.com/csm/live/74246610.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/db/Rtenewsnownewlogo.png" group-title="IRELAND",RTE News Now
 http://wmsrtsp1.rte.ie/live/android.sdp/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/RT�_logo.svg/229px-RT�_logo.svg.png" group-title="IRELAND",RTE 1 [Audio-Only]
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/RTÉ_logo.svg/229px-RTÉ_logo.svg.png" group-title="IRELAND",RTE 1 [Audio-Only]
 http://akamai.rasset.ie/hls-live/_definst_/rte1/rte1-720.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/11/RT�2_logo.svg/1280px-RT�2_logo.svg.png" group-title="IRELAND",RTE 2 [Audio-Only]
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/11/RTÉ2_logo.svg/1280px-RTÉ2_logo.svg.png" group-title="IRELAND",RTE 2 [Audio-Only]
 http://akamai.rasset.ie/hls-live/_definst_/rte2/rte2-720.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://rtejr.rte.ie/wp-content/themes/rtejr-2013/img/rtejr-logo-large.jpg" group-title="IRELAND",RTE Jr. [Audio-Only]
@@ -1106,7 +1106,7 @@ http://urtmpkal-f.akamaihd.net/i/1ef9833b4_1@128347/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.frontview-magazine.be/sites/default/files/news/30843-tvo-digitext-de-nieuwe-digitale-teletekst-van-tv-oost-528130.jpg" group-title="BELGIUM",TV OOST
 http://urtmpkal-f.akamaihd.net/i/156m2vpg5_1@322941/index_1_av-p.m3u8
 
-#EXTINF:-1 tvg-logo="http://civiltarsulas.hu/uploads/icons/language/Fran�ais.png" group-title="LABEL",~ France TV ~
+#EXTINF:-1 tvg-logo="http://civiltarsulas.hu/uploads/icons/language/Français.png" group-title="LABEL",~ France TV ~
 http://www.lengua.com/anthems/France.mp3
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/46/AB1_channel_logo.png" group-title="FRANCE",AB1
@@ -1172,7 +1172,7 @@ http://live.lachainenormande.fr/live/lcn/livestream/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/789467576015421446/Ny4bF54R.jpg" group-title="FRANCE",Monaco Info (Monaco)
 http://46.105.34.238/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/7/73/Logo_RMC_D�couverte_2012.png" group-title="FRANCE",RMC Decouverte
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/7/73/Logo_RMC_Découverte_2012.png" group-title="FRANCE",RMC Decouverte
 http://streaming-hub.com/stream/rmc.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/RTL_logo.svg/1200px-RTL_logo.svg.png" group-title="FRANCE",RTL
@@ -1490,7 +1490,7 @@ http://streaming2.inforede.inf.br:1935/c1076ev2932/aovivo/live.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://logodownload.org/wp-content/uploads/2017/11/tv-cultura-logo-4.png" group-title="BRAZIL",TV Cultura
 http://177.73.84.49/hls/live/live.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://vignette1.wikia.nocookie.net/logopedia/images/5/5e/TV_Di�rio_logo_2015.png" group-title="BRAZIL",TV Diario
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://vignette1.wikia.nocookie.net/logopedia/images/5/5e/TV_Diário_logo_2015.png" group-title="BRAZIL",TV Diario
 http://slrp.sambavideos.sambatech.com:80/liveevent/tvdiario_7a683b067e5eee5c8d45e1e1883f69b9/livestream/live.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.freeetv.com/images/03_logo/TV_Faap_Brazil.jpg" group-title="BRAZIL",TV Faap
@@ -1502,10 +1502,10 @@ http://api.new.livestream.com/accounts/5381476/events/2395418/live.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://4.bp.blogspot.com/__V5pVKfEbbc/TTogzfvKkGI/AAAAAAAAABY/ISzMSn12zw8/s250/tvgeral.jpg" group-title="BRAZIL",TV Geral
 http://fms1.tacitus.com.br:1935/tvgeral/tvgeral/live.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/93/Logotipo_da_TV_Itarar�.jpg" group-title="BRAZIL",TV Itarare
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/93/Logotipo_da_TV_Itararé.jpg" group-title="BRAZIL",TV Itarare
 http://177.73.84.49/hls/live/live.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/e/e7/TV_Metr�pole.png" group-title="BRAZIL",TV Metropole
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/e/e7/TV_Metrópole.png" group-title="BRAZIL",TV Metropole
 http://wse2.player.tv.br:1935/fmoriginal/fmoriginal/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/XNF7iTqRwBE/hqdefault.jpg" group-title="BRAZIL",TV MCJ
@@ -1634,10 +1634,10 @@ http://cast.streamingconnect.com:1935/csflamenco/csflamenco/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.ptvtelecom.com/ficheros/imagennoticia311_0.jpg" group-title="SPAIN",Canal Parlamento
 http://congresodirectomobile.edgesuite.net/live/live6.stream/manifest.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vignette1.wikia.nocookie.net/logopedia/images/c/cd/Televisi�n_Canaria_SAT_logo_2008.png" group-title="SPAIN",Canaria SAT
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vignette1.wikia.nocookie.net/logopedia/images/c/cd/Televisión_Canaria_SAT_logo_2008.png" group-title="SPAIN",Canaria SAT
 http://streaming2.mad.idec.net/rtvcnet/rtvcnet.drb.360plr.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vignette1.wikia.nocookie.net/logopedia/images/c/cd/Televisi�n_Canaria_SAT_logo_2008.png" group-title="SPAIN",Canaria SAT*
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vignette1.wikia.nocookie.net/logopedia/images/c/cd/Televisión_Canaria_SAT_logo_2008.png" group-title="SPAIN",Canaria SAT*
 http://streaming2.mad.idec.net/rtvcnet/rtvcnet.drb.smil/chunklist_w117839380_b480000_sles.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.brandemia.org/sites/default/files/sites/default/files/logo_castilla_la-mancha-tv.jpg" group-title="SPAIN",Castilla-La Mancha TV
@@ -1877,13 +1877,13 @@ http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(TVE)/Stream(01)/ind
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://certamencoralfiratotssants.com/wp-content/uploads/2012/05/TVA-ALCOI.jpg" group-title="SPAIN",TV Alcoi
 http://92.222.37.18/hls/tvaxa.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://teatrobus.net/wp-content/uploads/2016/03/Televisi�n-de-Galicia.jpg" group-title="SPAIN",TVG America
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://teatrobus.net/wp-content/uploads/2016/03/Televisión-de-Galicia.jpg" group-title="SPAIN",TVG America
 http://media1.crtvg.es:1935/live/tvga/livestream.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://teatrobus.net/wp-content/uploads/2016/03/Televisi�n-de-Galicia.jpg" group-title="SPAIN",TVG Europa
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://teatrobus.net/wp-content/uploads/2016/03/Televisión-de-Galicia.jpg" group-title="SPAIN",TVG Europa
 http://media1.crtvg.es:1935/live/tvge/livestream.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://teatrobus.net/wp-content/uploads/2016/03/Televisi�n-de-Galicia.jpg" group-title="SPAIN",TVG Europa*
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://teatrobus.net/wp-content/uploads/2016/03/Televisión-de-Galicia.jpg" group-title="SPAIN",TVG Europa*
 http://media3.crtvg.es:1935/live/tvge_2/livestream.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.enetres.tv/img/slider-projects/mediterraneo-tv.jpg" group-title="SPAIN",TV Mediterraneo
@@ -2726,7 +2726,7 @@ http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/MMHD/tu1_1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://elextramedios.com//sites/default/files/imagecache/articulo_grande/19437733_1968771556690767_6238006432370082807_n.jpg" group-title="COLOMBIA",Play Channel
 http://iptvcolombia.ddns.net/hls-live/livepkgr/_definst_/liveevent/playchannel.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/RCN_Televisi�n_logo.svg/2000px-RCN_Televisi�n_logo.svg.png" group-title="COLOMBIA",RCN
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/RCN_Televisión_logo.svg/2000px-RCN_Televisión_logo.svg.png" group-title="COLOMBIA",RCN
 https://mdstrm.com/live-stream-playlist/58a36704896500b908cf1abe.m3u8?exabytetv.info?.m3u
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://content.iptvprivateserver.tv:88/stalker_portal/misc/logos/240/881.png" group-title="COLOMBIA",RCN Novelas
@@ -2741,7 +2741,7 @@ http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(DIA_TV_HD)/Stream(0
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.brandsoftheworld.com/sites/default/files/styles/logo-thumbnail/public/052014/untitled-1_56.png" group-title="COLOMBIA",Senal Colombia
 http://live10.cdnmedia.tv/rtvcscolombialive/smil:live.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Se�al_Institucional_logo.svg/1200px-Se�al_Institucional_logo.svg.png" group-title="COLOMBIA",Senal Institucional
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Señal_Institucional_logo.svg/1200px-Señal_Institucional_logo.svg.png" group-title="COLOMBIA",Senal Institucional
 http://live10.cdnmedia.tv/rtvcsinstitucionallive/smil:live.smil/master.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://yt3.ggpht.com/-3y0PLzhwrig/AAAAAAAAAAI/AAAAAAAAAAA/u423NXvcb_4/s900-c-k-no-mo-rj-c0xffffff/photo.jpg" group-title="COLOMBIA",Teleantioquia
@@ -3905,7 +3905,7 @@ http://www.lengua.com/anthems/Azerbaijan.mp3
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/Azad_Azerbaycan_TV_logosu.png" group-title="AZERBAIJAN",Azad Azerbaijan TV
 http://85.132.71.6/iptv_atv_az/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/az/5/5d/AzTV_loqosu_%2814_fevral_2011-g�n�m�z%29.png" group-title="AZERBAIJAN",AzTV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/az/5/5d/AzTV_loqosu_%2814_fevral_2011-günümüz%29.png" group-title="AZERBAIJAN",AzTV
 http://85.132.71.6/azeri/aztv/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://cbc.az/assets/uploads/sites/Logo_fin.png" group-title="AZERBAIJAN",CBC Azerbaijan
@@ -5011,59 +5011,6 @@ http://www.lengua.com/anthems/Vietnam.mp3
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.settv574.com/images/file/sqiLlF2i1AgBAjAv/settv574-logo.png" group-title="VIETNAM",SET TV
 http://livestream.vnvn.net/hls-live/livepkgr/_definst_/settv574-1/settv574-1.m3u8
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 #EXTINF:-1,**** TV_TUNISIE ****
 http://bigiptv.ovh:8000/live/oussema/oussema/7576.ts
 #EXTINF:-1,[AR] Tunisie Nationale 1
@@ -5094,7 +5041,7 @@ http://bigiptv.ovh:8000/live/oussema/oussema/7590.ts
 http://bigiptv.ovh:8000/live/oussema/oussema/7594.ts
 #EXTINF:-1,[AR] Al Insen TV
 http://bigiptv.ovh:8000/live/oussema/oussema/7591.ts
-#EXTINF:-1,¤¤¤¤¤ BEIN VIP ¤¤¤¤¤
+#EXTINF:-1,Â¤Â¤Â¤Â¤Â¤ BEIN VIP Â¤Â¤Â¤Â¤Â¤
 http://bigiptv.ovh:8000/live/oussema/oussema/7922.ts
 #EXTINF:-1,[AR][L] BEIN SPORTS 1
 http://bigiptv.ovh:8000/live/oussema/oussema/10086.ts
@@ -5150,13 +5097,13 @@ http://bigiptv.ovh:8000/live/oussema/oussema/8027.ts
 http://bigiptv.ovh:8000/live/oussema/oussema/8028.ts
 #EXTINF:-1,[AR][VIP] beIN MOVIES 4
 http://bigiptv.ovh:8000/live/oussema/oussema/8029.ts
-#EXTINF:-1,¤¤¤¤¤ FRANCE ¤¤¤¤¤
+#EXTINF:-1,Â¤Â¤Â¤Â¤Â¤ FRANCE Â¤Â¤Â¤Â¤Â¤
 http://bigiptv.ovh:8000/live/oussema/oussema/7893.ts
-#EXTINF:-1,¤¤¤¤¤ FULL HD ¤¤¤¤¤
+#EXTINF:-1,Â¤Â¤Â¤Â¤Â¤ FULL HD Â¤Â¤Â¤Â¤Â¤
 http://bigiptv.ovh:8000/live/oussema/oussema/8673.ts
 #EXTINF:-1,[FR] M6 Full HD
 http://bigiptv.ovh:8000/live/oussema/oussema/8044.ts
-#EXTINF:-1,¤¤¤¤¤ TNT SAT ¤¤¤¤¤
+#EXTINF:-1,Â¤Â¤Â¤Â¤Â¤ TNT SAT Â¤Â¤Â¤Â¤Â¤
 http://bigiptv.ovh:8000/live/oussema/oussema/8665.ts
 #EXTINF:-1,[FR][L] TF1
 http://bigiptv.ovh:8000/live/oussema/oussema/1269.ts
@@ -5220,7 +5167,7 @@ http://bigiptv.ovh:8000/live/oussema/oussema/8679.ts
 http://bigiptv.ovh:8000/live/oussema/oussema/8675.ts
 #EXTINF:-1,[FR] NUMERO 23
 http://bigiptv.ovh:8000/live/oussema/oussema/8677.ts
-#EXTINF:-1,¤¤¤¤¤ Chaines Canal ¤¤¤¤¤
+#EXTINF:-1,Â¤Â¤Â¤Â¤Â¤ Chaines Canal Â¤Â¤Â¤Â¤Â¤
 http://bigiptv.ovh:8000/live/oussema/oussema/8667.ts
 #EXTINF:-1,[FR] CANAL HD
 http://bigiptv.ovh:8000/live/oussema/oussema/8784.ts
@@ -5258,7 +5205,7 @@ http://bigiptv.ovh:8000/live/oussema/oussema/1295.ts
 http://bigiptv.ovh:8000/live/oussema/oussema/1296.ts
 #EXTINF:-1,[FR] OCS CHOC HD
 http://bigiptv.ovh:8000/live/oussema/oussema/1297.ts
-#EXTINF:-1,¤¤¤¤¤ Decouverte ¤¤¤¤¤
+#EXTINF:-1,Â¤Â¤Â¤Â¤Â¤ Decouverte Â¤Â¤Â¤Â¤Â¤
 http://bigiptv.ovh:8000/live/oussema/oussema/8666.ts
 #EXTINF:-1,[FR][L] TOUTE L'HISTOIRE
 http://bigiptv.ovh:8000/live/oussema/oussema/1320.ts
@@ -5296,7 +5243,7 @@ http://bigiptv.ovh:8000/live/oussema/oussema/1653.ts
 http://bigiptv.ovh:8000/live/oussema/oussema/1647.ts
 #EXTINF:-1,[FR] HISTOIRE HD
 http://bigiptv.ovh:8000/live/oussema/oussema/1644.ts
-#EXTINF:-1,¤¤¤¤¤ Series et divertissement ¤¤¤¤¤
+#EXTINF:-1,Â¤Â¤Â¤Â¤Â¤ Series et divertissement Â¤Â¤Â¤Â¤Â¤
 http://bigiptv.ovh:8000/live/oussema/oussema/8668.ts
 #EXTINF:-1,[FR][L] SYFY HD
 http://bigiptv.ovh:8000/live/oussema/oussema/1284.ts
@@ -5320,7 +5267,7 @@ http://bigiptv.ovh:8000/live/oussema/oussema/1311.ts
 http://bigiptv.ovh:8000/live/oussema/oussema/1285.ts
 #EXTINF:-1,[FR][L] NICKELODEON
 http://bigiptv.ovh:8000/live/oussema/oussema/8687.ts
-#EXTINF:-1,¤¤¤¤¤ Sport ¤¤¤¤¤
+#EXTINF:-1,Â¤Â¤Â¤Â¤Â¤ Sport Â¤Â¤Â¤Â¤Â¤
 http://bigiptv.ovh:8000/live/oussema/oussema/8669.ts
 #EXTINF:-1,[FR] L'EQUIPE 21 HD
 http://bigiptv.ovh:8000/live/oussema/oussema/1331.ts
@@ -5352,7 +5299,7 @@ http://bigiptv.ovh:8000/live/oussema/oussema/1649.ts
 http://bigiptv.ovh:8000/live/oussema/oussema/8693.ts
 #EXTINF:-1,[FR] MOTORS TV
 http://bigiptv.ovh:8000/live/oussema/oussema/1332.ts
-#EXTINF:-1,¤¤¤¤¤ BEIN Sport ¤¤¤¤¤
+#EXTINF:-1,Â¤Â¤Â¤Â¤Â¤ BEIN Sport Â¤Â¤Â¤Â¤Â¤
 http://bigiptv.ovh:8000/live/oussema/oussema/8672.ts
 #EXTINF:-1,[FR] BEIN SPORTS 1 HD
 http://bigiptv.ovh:8000/live/oussema/oussema/1333.ts
@@ -5374,7 +5321,7 @@ http://bigiptv.ovh:8000/live/oussema/oussema/1340.ts
 http://bigiptv.ovh:8000/live/oussema/oussema/1341.ts
 #EXTINF:-1,[FR] BEIN SPORTS MAX 10
 http://bigiptv.ovh:8000/live/oussema/oussema/1342.ts
-#EXTINF:-1,¤¤¤¤¤ Enfants ¤¤¤¤¤
+#EXTINF:-1,Â¤Â¤Â¤Â¤Â¤ Enfants Â¤Â¤Â¤Â¤Â¤
 http://bigiptv.ovh:8000/live/oussema/oussema/8671.ts
 #EXTINF:-1,[FR] DISNEY CINEMA
 http://bigiptv.ovh:8000/live/oussema/oussema/1309.ts
@@ -5406,7 +5353,7 @@ http://bigiptv.ovh:8000/live/oussema/oussema/1642.ts
 http://bigiptv.ovh:8000/live/oussema/oussema/1305.ts
 #EXTINF:-1,[FR] Teletoon + HD
 http://bigiptv.ovh:8000/live/oussema/oussema/1663.ts
-#EXTINF:-1,¤¤¤¤¤ Musique ¤¤¤¤¤
+#EXTINF:-1,Â¤Â¤Â¤Â¤Â¤ Musique Â¤Â¤Â¤Â¤Â¤
 http://bigiptv.ovh:8000/live/oussema/oussema/8670.ts
 #EXTINF:-1,[FR][L] M6 MUSIC HD
 http://bigiptv.ovh:8000/live/oussema/oussema/1656.ts
@@ -5420,7 +5367,7 @@ http://bigiptv.ovh:8000/live/oussema/oussema/8697.ts
 http://bigiptv.ovh:8000/live/oussema/oussema/8698.ts
 #EXTINF:-1,[FR][L] Virgin TV
 http://bigiptv.ovh:8000/live/oussema/oussema/1667.ts
-#EXTINF:-1,¤¤¤¤¤ AUTRE ¤¤¤¤¤
+#EXTINF:-1,Â¤Â¤Â¤Â¤Â¤ AUTRE Â¤Â¤Â¤Â¤Â¤
 http://bigiptv.ovh:8000/live/oussema/oussema/8674.ts
 #EXTINF:-1,[FR] RTS Un
 http://bigiptv.ovh:8000/live/oussema/oussema/1329.ts
@@ -5450,7 +5397,7 @@ http://bigiptv.ovh:8000/live/oussema/oussema/1651.ts
 http://bigiptv.ovh:8000/live/oussema/oussema/1674.ts
 #EXTINF:-1,[FR] MCM
 http://bigiptv.ovh:8000/live/oussema/oussema/9980.ts
-#EXTINF:-1,¤¤¤¤¤ CANAL PLAY FR & A LA CARTE ¤¤¤¤¤
+#EXTINF:-1,Â¤Â¤Â¤Â¤Â¤ CANAL PLAY FR & A LA CARTE Â¤Â¤Â¤Â¤Â¤
 http://bigiptv.ovh:8000/live/oussema/oussema/9225.ts
 #EXTINF:-1,[FR] Orange_Cine 1
 http://bigiptv.ovh:8000/live/oussema/oussema/9234.ts
@@ -5528,7 +5475,7 @@ http://bigiptv.ovh:8000/live/oussema/oussema/9231.ts
 http://bigiptv.ovh:8000/live/oussema/oussema/9232.ts
 #EXTINF:-1,[FR] A_LA_CARTE_08
 http://bigiptv.ovh:8000/live/oussema/oussema/9233.ts
-#EXTINF:-1,¤¤¤¤¤ MBC HD VIP ¤¤¤¤¤
+#EXTINF:-1,Â¤Â¤Â¤Â¤Â¤ MBC HD VIP Â¤Â¤Â¤Â¤Â¤
 http://bigiptv.ovh:8000/live/oussema/oussema/7892.ts
 #EXTINF:-1,[AR][VIP] MBC 1 HD
 http://bigiptv.ovh:8000/live/oussema/oussema/446.ts
@@ -5556,7 +5503,7 @@ http://bigiptv.ovh:8000/live/oussema/oussema/444.ts
 http://bigiptv.ovh:8000/live/oussema/oussema/445.ts
 #EXTINF:-1,[AR][VIP] MBC PRO SPORTS 4 HD
 http://bigiptv.ovh:8000/live/oussema/oussema/9268.ts
-#EXTINF:-1,¤¤¤¤¤ OSN ¤¤¤¤¤
+#EXTINF:-1,Â¤Â¤Â¤Â¤Â¤ OSN Â¤Â¤Â¤Â¤Â¤
 http://bigiptv.ovh:8000/live/oussema/oussema/7890.ts
 #EXTINF:-1,[AR][OSN] Movies HD
 http://bigiptv.ovh:8000/live/oussema/oussema/889.ts
@@ -5662,7 +5609,7 @@ http://bigiptv.ovh:8000/live/oussema/oussema/1888.ts
 http://bigiptv.ovh:8000/live/oussema/oussema/1889.ts
 #EXTINF:-1,[AR][OSN] CINEMA 2
 http://bigiptv.ovh:8000/live/oussema/oussema/1887.ts
-#EXTINF:-1,¤¤¤¤¤ BEIN ¤¤¤¤¤
+#EXTINF:-1,Â¤Â¤Â¤Â¤Â¤ BEIN Â¤Â¤Â¤Â¤Â¤
 http://bigiptv.ovh:8000/live/oussema/oussema/7891.ts
 #EXTINF:-1,[AR][S] BEIN SPORTS 1
 http://bigiptv.ovh:8000/live/oussema/oussema/7901.ts
@@ -5746,7 +5693,7 @@ http://bigiptv.ovh:8000/live/oussema/oussema/7900.ts
 http://bigiptv.ovh:8000/live/oussema/oussema/1004.ts
 #EXTINF:-1,[AR][M] beIN Series
 http://bigiptv.ovh:8000/live/oussema/oussema/69.ts
-#EXTINF:-1,¤¤¤¤¤ ARABE ¤¤¤¤¤
+#EXTINF:-1,Â¤Â¤Â¤Â¤Â¤ ARABE Â¤Â¤Â¤Â¤Â¤
 http://bigiptv.ovh:8000/live/oussema/oussema/7889.ts
 #EXTINF:-1,****  TV_MBC  ****
 http://bigiptv.ovh:8000/live/oussema/oussema/7634.ts
@@ -6132,7 +6079,7 @@ http://bigiptv.ovh:8000/live/oussema/oussema/7832.ts
 http://bigiptv.ovh:8000/live/oussema/oussema/7812.ts
 #EXTINF:-1,[AR] ZEE AFLAM
 http://bigiptv.ovh:8000/live/oussema/oussema/7755.ts
-#EXTINF:-1,¤¤¤¤¤ BELGIQUE ¤¤¤¤¤
+#EXTINF:-1,Â¤Â¤Â¤Â¤Â¤ BELGIQUE Â¤Â¤Â¤Â¤Â¤
 http://bigiptv.ovh:8000/live/oussema/oussema/7895.ts
 #EXTINF:-1,BE: VTM.HD
 http://bigiptv.ovh:8000/live/oussema/oussema/8477.ts
@@ -6168,7 +6115,7 @@ http://bigiptv.ovh:8000/live/oussema/oussema/8490.ts
 http://bigiptv.ovh:8000/live/oussema/oussema/8485.ts
 #EXTINF:-1,BE: ACHT
 http://bigiptv.ovh:8000/live/oussema/oussema/8486.ts
-#EXTINF:-1,¤¤¤¤¤ TURQUE ¤¤¤¤¤
+#EXTINF:-1,Â¤Â¤Â¤Â¤Â¤ TURQUE Â¤Â¤Â¤Â¤Â¤
 http://bigiptv.ovh:8000/live/oussema/oussema/9224.ts
 #EXTINF:-1,[TR] DOST TV
 http://bigiptv.ovh:8000/live/oussema/oussema/9122.ts
@@ -6202,7 +6149,7 @@ http://bigiptv.ovh:8000/live/oussema/oussema/9062.ts
 http://bigiptv.ovh:8000/live/oussema/oussema/9058.ts
 #EXTINF:-1,[TR] TRT COCUK HD [ L ]
 http://bigiptv.ovh:8000/live/oussema/oussema/9219.ts
-#EXTINF:-1,[TR] TRT Ã‡OCUK HD
+#EXTINF:-1,[TR] TRT Ãâ¡OCUK HD
 http://bigiptv.ovh:8000/live/oussema/oussema/9171.ts
 #EXTINF:-1,[TR] TRT AVAZ [ L ]
 http://bigiptv.ovh:8000/live/oussema/oussema/9055.ts
@@ -6250,7 +6197,7 @@ http://bigiptv.ovh:8000/live/oussema/oussema/9189.ts
 http://bigiptv.ovh:8000/live/oussema/oussema/9190.ts
 #EXTINF:-1,[TR] PLANET TURK
 http://bigiptv.ovh:8000/live/oussema/oussema/9091.ts
-#EXTINF:-1,[TR] PLANET Ã‡OCUK HD
+#EXTINF:-1,[TR] PLANET Ãâ¡OCUK HD
 http://bigiptv.ovh:8000/live/oussema/oussema/9174.ts
 #EXTINF:-1,[TR] NTV SPORT HD [ L ]
 http://bigiptv.ovh:8000/live/oussema/oussema/9206.ts
@@ -6274,7 +6221,7 @@ http://bigiptv.ovh:8000/live/oussema/oussema/9178.ts
 http://bigiptv.ovh:8000/live/oussema/oussema/9095.ts
 #EXTINF:-1,[TR] MINIKA GO HD
 http://bigiptv.ovh:8000/live/oussema/oussema/9172.ts
-#EXTINF:-1,[TR] MINIKA Ã‡OCUK
+#EXTINF:-1,[TR] MINIKA Ãâ¡OCUK
 http://bigiptv.ovh:8000/live/oussema/oussema/9173.ts
 #EXTINF:-1,[TR] MESAJ TV
 http://bigiptv.ovh:8000/live/oussema/oussema/9119.ts
@@ -6388,9 +6335,9 @@ http://bigiptv.ovh:8000/live/oussema/oussema/9073.ts
 http://bigiptv.ovh:8000/live/oussema/oussema/9134.ts
 #EXTINF:-1,[TR] 360 TV [ L ]
 http://bigiptv.ovh:8000/live/oussema/oussema/9157.ts
-#EXTINF:-1,¤¤¤¤¤ USA ¤¤¤¤¤
+#EXTINF:-1,Â¤Â¤Â¤Â¤Â¤ USA Â¤Â¤Â¤Â¤Â¤
 http://bigiptv.ovh:8000/live/oussema/oussema/8087.ts
-#EXTINF:-1,¤¤¤¤¤ CANADA ¤¤¤¤¤
+#EXTINF:-1,Â¤Â¤Â¤Â¤Â¤ CANADA Â¤Â¤Â¤Â¤Â¤
 http://bigiptv.ovh:8000/live/oussema/oussema/8548.ts
 #EXTINF:-1,[CA] ytv
 http://bigiptv.ovh:8000/live/oussema/oussema/8496.ts
@@ -6450,7 +6397,7 @@ http://bigiptv.ovh:8000/live/oussema/oussema/8543.ts
 http://bigiptv.ovh:8000/live/oussema/oussema/8545.ts
 #EXTINF:-1,[CA] abc spark
 http://bigiptv.ovh:8000/live/oussema/oussema/8547.ts
-#EXTINF:-1,¤¤¤¤¤ DEUTSCH ¤¤¤¤¤
+#EXTINF:-1,Â¤Â¤Â¤Â¤Â¤ DEUTSCH Â¤Â¤Â¤Â¤Â¤
 http://bigiptv.ovh:8000/live/oussema/oussema/7897.ts
 #EXTINF:-1,[DE][L] Zee One
 http://bigiptv.ovh:8000/live/oussema/oussema/873.ts
@@ -6620,7 +6567,7 @@ http://bigiptv.ovh:8000/live/oussema/oussema/827.ts
 http://bigiptv.ovh:8000/live/oussema/oussema/791.ts
 #EXTINF:-1,[DE][L] ARD
 http://bigiptv.ovh:8000/live/oussema/oussema/826.ts
-#EXTINF:-1,¤¤¤¤¤ PORTUGAL ¤¤¤¤¤
+#EXTINF:-1,Â¤Â¤Â¤Â¤Â¤ PORTUGAL Â¤Â¤Â¤Â¤Â¤
 http://bigiptv.ovh:8000/live/oussema/oussema/7896.ts
 #EXTINF:-1,[PT] VH1 CLASSIC
 http://bigiptv.ovh:8000/live/oussema/oussema/1769.ts
@@ -6784,9 +6731,9 @@ http://bigiptv.ovh:8000/live/oussema/oussema/1718.ts
 http://bigiptv.ovh:8000/live/oussema/oussema/1756.ts
 #EXTINF:-1,[PT] Canal Panda
 http://bigiptv.ovh:8000/live/oussema/oussema/1758.ts
-#EXTINF:-1,[PT] CaÃ§aVision
+#EXTINF:-1,[PT] CaÃÂ§aVision
 http://bigiptv.ovh:8000/live/oussema/oussema/1728.ts
-#EXTINF:-1,[PT] CaÃ§a e Pesca
+#EXTINF:-1,[PT] CaÃÂ§a e Pesca
 http://bigiptv.ovh:8000/live/oussema/oussema/1729.ts
 #EXTINF:-1,[PT] BTV 1 FULL HD
 http://bigiptv.ovh:8000/live/oussema/oussema/1740.ts
@@ -6816,7 +6763,7 @@ http://bigiptv.ovh:8000/live/oussema/oussema/1755.ts
 http://bigiptv.ovh:8000/live/oussema/oussema/10078.ts
 #EXTINF:-1,[PT] MCS Lifestyle
 http://bigiptv.ovh:8000/live/oussema/oussema/10079.ts
-#EXTINF:-1,¤¤¤¤¤ ITALIE ¤¤¤¤¤
+#EXTINF:-1,Â¤Â¤Â¤Â¤Â¤ ITALIE Â¤Â¤Â¤Â¤Â¤
 http://bigiptv.ovh:8000/live/oussema/oussema/7923.ts
 #EXTINF:-1,[IT] Sportitalia
 http://bigiptv.ovh:8000/live/oussema/oussema/7985.ts
@@ -6960,7 +6907,7 @@ http://bigiptv.ovh:8000/live/oussema/oussema/7954.ts
 http://bigiptv.ovh:8000/live/oussema/oussema/7947.ts
 #EXTINF:-1,[IT] Canal 5 HD
 http://bigiptv.ovh:8000/live/oussema/oussema/7932.ts
-#EXTINF:-1,¤¤¤¤¤ SWISS ¤¤¤¤¤
+#EXTINF:-1,Â¤Â¤Â¤Â¤Â¤ SWISS Â¤Â¤Â¤Â¤Â¤
 http://bigiptv.ovh:8000/live/oussema/oussema/8085.ts
 #EXTINF:-1,[SWISS] Teleclub Star
 http://bigiptv.ovh:8000/live/oussema/oussema/8078.ts
@@ -6974,7 +6921,7 @@ http://bigiptv.ovh:8000/live/oussema/oussema/8082.ts
 http://bigiptv.ovh:8000/live/oussema/oussema/8077.ts
 #EXTINF:-1,[SWISS] Teleclub Cinema
 http://bigiptv.ovh:8000/live/oussema/oussema/8076.ts
-#EXTINF:-1,¤¤¤¤¤ UK ¤¤¤¤¤
+#EXTINF:-1,Â¤Â¤Â¤Â¤Â¤ UK Â¤Â¤Â¤Â¤Â¤
 http://bigiptv.ovh:8000/live/oussema/oussema/8086.ts
 #EXTINF:-1,[UK] Universal
 http://bigiptv.ovh:8000/live/oussema/oussema/8184.ts
@@ -7172,7 +7119,7 @@ http://bigiptv.ovh:8000/live/oussema/oussema/8092.ts
 http://bigiptv.ovh:8000/live/oussema/oussema/8090.ts
 #EXTINF:-1,[UK] Sky Cinema Action HD
 http://bigiptv.ovh:8000/live/oussema/oussema/8089.ts
-#EXTINF:-1,¤¤¤¤¤ ESPAGNE ¤¤¤¤¤
+#EXTINF:-1,Â¤Â¤Â¤Â¤Â¤ ESPAGNE Â¤Â¤Â¤Â¤Â¤
 http://bigiptv.ovh:8000/live/oussema/oussema/7894.ts
 #EXTINF:-1,[ES] Xtra
 http://bigiptv.ovh:8000/live/oussema/oussema/8302.ts
@@ -7286,7 +7233,7 @@ http://bigiptv.ovh:8000/live/oussema/oussema/8251.ts
 http://bigiptv.ovh:8000/live/oussema/oussema/8250.ts
 #EXTINF:-1,[ES] 24-Horas
 http://bigiptv.ovh:8000/live/oussema/oussema/8249.ts
-#EXTINF:-1,¤¤¤¤¤ African ¤¤¤¤¤
+#EXTINF:-1,Â¤Â¤Â¤Â¤Â¤ African Â¤Â¤Â¤Â¤Â¤
 http://bigiptv.ovh:8000/live/oussema/oussema/8985.ts
 #EXTINF:-1,[AF] WALF_TV
 http://bigiptv.ovh:8000/live/oussema/oussema/8984.ts
@@ -7320,7 +7267,7 @@ http://bigiptv.ovh:8000/live/oussema/oussema/8971.ts
 http://bigiptv.ovh:8000/live/oussema/oussema/8970.ts
 #EXTINF:-1,[AF]  TVI 1 MOZA
 http://bigiptv.ovh:8000/live/oussema/oussema/8969.ts
-#EXTINF:-1,¤¤¤¤¤ India ¤¤¤¤¤
+#EXTINF:-1,Â¤Â¤Â¤Â¤Â¤ India Â¤Â¤Â¤Â¤Â¤
 http://bigiptv.ovh:8000/live/oussema/oussema/8470.ts
 #EXTINF:-1,[India] Zing UK
 http://bigiptv.ovh:8000/live/oussema/oussema/8449.ts
@@ -7378,7 +7325,7 @@ http://bigiptv.ovh:8000/live/oussema/oussema/8466.ts
 http://bigiptv.ovh:8000/live/oussema/oussema/8468.ts
 #EXTINF:-1,[India] &TV UK
 http://bigiptv.ovh:8000/live/oussema/oussema/8469.ts
-#EXTINF:-1,¤¤¤¤¤ Ex-Yu ¤¤¤¤¤
+#EXTINF:-1,Â¤Â¤Â¤Â¤Â¤ Ex-Yu Â¤Â¤Â¤Â¤Â¤
 http://bigiptv.ovh:8000/live/oussema/oussema/8549.ts
 #EXTINF:-1,[Ex-Yu] Tv 1
 http://bigiptv.ovh:8000/live/oussema/oussema/8611.ts
@@ -7544,7 +7491,7 @@ http://bigiptv.ovh:8000/live/oussema/oussema/8577.ts
 http://bigiptv.ovh:8000/live/oussema/oussema/8578.ts
 #EXTINF:-1,[Ex-Yu] 24 Kitchen
 http://bigiptv.ovh:8000/live/oussema/oussema/8579.ts
-#EXTINF:-1,¤¤¤¤¤ Sweden ¤¤¤¤¤
+#EXTINF:-1,Â¤Â¤Â¤Â¤Â¤ Sweden Â¤Â¤Â¤Â¤Â¤
 http://bigiptv.ovh:8000/live/oussema/oussema/8768.ts
 #EXTINF:-1,SE:KANAL 5
 http://bigiptv.ovh:8000/live/oussema/oussema/8783.ts
@@ -7576,7 +7523,7 @@ http://bigiptv.ovh:8000/live/oussema/oussema/8778.ts
 http://bigiptv.ovh:8000/live/oussema/oussema/8781.ts
 #EXTINF:-1,SE:TV 10
 http://bigiptv.ovh:8000/live/oussema/oussema/8777.ts
-#EXTINF:-1,¤¤¤¤¤ Latino ¤¤¤¤¤
+#EXTINF:-1,Â¤Â¤Â¤Â¤Â¤ Latino Â¤Â¤Â¤Â¤Â¤
 http://bigiptv.ovh:8000/live/oussema/oussema/9504.ts
 #EXTINF:-1,[Latino]  Agro_Brasil_tv
 http://bigiptv.ovh:8000/live/oussema/oussema/9495.ts
@@ -7632,11 +7579,11 @@ http://bigiptv.ovh:8000/live/oussema/oussema/9456.ts
 http://bigiptv.ovh:8000/live/oussema/oussema/9457.ts
 #EXTINF:-1,[Latino]  Enlace Juvenil TV
 http://bigiptv.ovh:8000/live/oussema/oussema/9458.ts
-#EXTINF:-1,[Latino]  ES â€“ DXTV
+#EXTINF:-1,[Latino]  ES Ã¢â¬â DXTV
 http://bigiptv.ovh:8000/live/oussema/oussema/9460.ts
-#EXTINF:-1,[Latino]  ES â€“ EL PINGUINO TV HD
+#EXTINF:-1,[Latino]  ES Ã¢â¬â EL PINGUINO TV HD
 http://bigiptv.ovh:8000/live/oussema/oussema/9461.ts
-#EXTINF:-1,[Latino]  ES â€“ MEGA
+#EXTINF:-1,[Latino]  ES Ã¢â¬â MEGA
 http://bigiptv.ovh:8000/live/oussema/oussema/9462.ts
 #EXTINF:-1,[Latino]  FishTV
 http://bigiptv.ovh:8000/live/oussema/oussema/9433.ts
@@ -7650,7 +7597,7 @@ http://bigiptv.ovh:8000/live/oussema/oussema/9498.ts
 http://bigiptv.ovh:8000/live/oussema/oussema/9434.ts
 #EXTINF:-1,[Latino]  La Sexta
 http://bigiptv.ovh:8000/live/oussema/oussema/9468.ts
-#EXTINF:-1,[Latino]  MazatlÃ¡n
+#EXTINF:-1,[Latino]  MazatlÃÂ¡n
 http://bigiptv.ovh:8000/live/oussema/oussema/9470.ts
 #EXTINF:-1,[Latino]  Mcm_Top
 http://bigiptv.ovh:8000/live/oussema/oussema/9477.ts
@@ -7660,7 +7607,7 @@ http://bigiptv.ovh:8000/live/oussema/oussema/9452.ts
 http://bigiptv.ovh:8000/live/oussema/oussema/9472.ts
 #EXTINF:-1,[Latino]  Neox TV
 http://bigiptv.ovh:8000/live/oussema/oussema/9474.ts
-#EXTINF:-1,[Latino]  ObregÃ³n TV
+#EXTINF:-1,[Latino]  ObregÃÂ³n TV
 http://bigiptv.ovh:8000/live/oussema/oussema/9478.ts
 #EXTINF:-1,[Latino]  Ondaluz TV
 http://bigiptv.ovh:8000/live/oussema/oussema/9464.ts
@@ -7680,7 +7627,7 @@ http://bigiptv.ovh:8000/live/oussema/oussema/9500.ts
 http://bigiptv.ovh:8000/live/oussema/oussema/9501.ts
 #EXTINF:-1,[Latino]  Rede_Brasil
 http://bigiptv.ovh:8000/live/oussema/oussema/9459.ts
-#EXTINF:-1,[Latino]  Rede_FamÃ­lia
+#EXTINF:-1,[Latino]  Rede_FamÃÂ­lia
 http://bigiptv.ovh:8000/live/oussema/oussema/9487.ts
 #EXTINF:-1,[Latino]  REDE_GOSPEL
 http://bigiptv.ovh:8000/live/oussema/oussema/9438.ts
@@ -7720,7 +7667,7 @@ http://bigiptv.ovh:8000/live/oussema/oussema/9436.ts
 http://bigiptv.ovh:8000/live/oussema/oussema/9432.ts
 #EXTINF:-1,[Latino]  TV BRASIL 09
 http://bigiptv.ovh:8000/live/oussema/oussema/9466.ts
-#EXTINF:-1,[Latino]  TV CANÃ‡ÃƒO NOVA SP
+#EXTINF:-1,[Latino]  TV CANÃâ¡ÃÆO NOVA SP
 http://bigiptv.ovh:8000/live/oussema/oussema/9491.ts
 #EXTINF:-1,[Latino]  Tv Diario
 http://bigiptv.ovh:8000/live/oussema/oussema/9476.ts
@@ -7730,11 +7677,11 @@ http://bigiptv.ovh:8000/live/oussema/oussema/9492.ts
 http://bigiptv.ovh:8000/live/oussema/oussema/9469.ts
 #EXTINF:-1,[Latino]  TV_BRASIL
 http://bigiptv.ovh:8000/live/oussema/oussema/9428.ts
-#EXTINF:-1,[Latino]  TV_CÃMARA
+#EXTINF:-1,[Latino]  TV_CÃMARA
 http://bigiptv.ovh:8000/live/oussema/oussema/9424.ts
 #EXTINF:-1,[Latino]  TV_Cultura_HD
 http://bigiptv.ovh:8000/live/oussema/oussema/9443.ts
-#EXTINF:-1,[Latino]  TV_JustiÃ§a_HD
+#EXTINF:-1,[Latino]  TV_JustiÃÂ§a_HD
 http://bigiptv.ovh:8000/live/oussema/oussema/9473.ts
 #EXTINF:-1,[Latino]  TV_Record_HD
 http://bigiptv.ovh:8000/live/oussema/oussema/9503.ts
@@ -8040,7 +7987,7 @@ http://bigiptv.ovh:8000/live/oussema/oussema/10344.ts
 http://bigiptv.ovh:8000/live/oussema/oussema/10342.ts
 #EXTINF:-1,BR: Canal Do Boi TV
 http://bigiptv.ovh:8000/live/oussema/oussema/10341.ts
-#EXTINF:-1,BR: Cançao Nova
+#EXTINF:-1,BR: CanÃ§ao Nova
 http://bigiptv.ovh:8000/live/oussema/oussema/10339.ts
 #EXTINF:-1,BR: Cartoon Network Brasil
 http://bigiptv.ovh:8000/live/oussema/oussema/10338.ts
@@ -9431,7 +9378,7 @@ http://cdn.live247stream.com/propertybuzz/tv/playlist.m3u8
 http://toronto3.live247stream.com/toronto360/tv/toronto360/720/chunks.m3u8
 #EXTINF:0, group-title="Canada",Urdu TV Toronto
 http://cdn4.live247stream.com/urdu/tv/playlist.m3u8?no_cache=0.12008277603516793
-#EXTINF:0, group-title="Canada",tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/1/19/Assembl�e_nationale_du_Qu�bec.svg/1200px-Assembl�e_nationale_du_Qu�bec.svg.png",Assemblee Nationale du Quebec (French)
+#EXTINF:0, group-title="Canada",tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/1/19/Assemblée_nationale_du_Québec.svg/1200px-Assemblée_nationale_du_Québec.svg.png",Assemblee Nationale du Quebec (French)
 http://diffusionm4.assnat.qc.ca/canal9/250.sdp/playlist.m3u8
 #EXTINF:0, group-title="Canada",tvg-logo="http://www.douglas.qc.ca/uploads/Image/images_site/1377_logo_canal_savoir_retaille/canevas-canal-savoir.jpg",Canal Savoir (French)
 http://stream.canalsavoir.tv/livestream/stream.m3u8
@@ -9587,7 +9534,7 @@ http://granicus.mpl.miisolutions.net:1935/granicus-livepull-us-4/cabq/mp4:G1163_
 http://granicusliveus4-a.akamaihd.net/greenbeltmd/G0610_001/chunklist.m3u8
 #EXTINF:0,HEART TV (Music) 
 http://ooyalahd2-f.akamaihd.net/i/globalradio02_delivery@156522/master.m3u8
-#EXTINF:0,,HISTORY LAB � IT�LIA
+#EXTINF:0,,HISTORY LAB  ITÁLIA
 http://wma10.fluidstream.net/HistoryLab/livestream/playlist.m3u8
 #EXTINF:0,Hope International Channel (Family) 
 http://bcliveuniv-lh.akamaihd.net/i/HopeInternational_1@193092/master.m3u8
@@ -10350,21 +10297,6 @@ rtsp://62.210.204.108/livtv7vo/mystream700.sdp
 http://bein.website/ZonaLiveTV1/TV8.m3u8
 #EXTINF:0, group-title="International",Ushuaia TV (Chona)
 http://be.glo-star.com:4991/live/bestar1.tvv/whdjYKFf1l/94.ts|User-Agent=star5&.ts
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 #EXTINF:-1 group-title="ARABIC_IPTV_",Abu Dhabi Drama
@@ -11378,7 +11310,7 @@ http://bigiptv.ovh:8000/live/pierre/pierre/1317.ts
 #EXTINF:-1 group-title="FRANCE",NAT GEO WILD
 http://bigiptv.ovh:8000/live/oussema/oussema/1317.ts
 #EXTINF:-1 group-title="FRANCE",NatGeo Wild HD
-http://logo.ndasat.com/iptv/images/47590_tÃ©lÃ©chargement
+http://logo.ndasat.com/iptv/images/47590_tÃÂ©lÃÂ©chargement
 #EXTINF:-1 group-title="FRANCE",National Geo
 http://global.ipsatpro.tv:8000/live/1G8d7ROj7K/kOejo2H0FD/11736.ts
 #EXTINF:-1 group-title="FRANCE",National Geo Wild
@@ -11620,7 +11552,7 @@ http://bigiptv.ovh:8000/live/oussema/oussema/8685.ts
 #EXTINF:-1 group-title="FRANCE",Seasons Hd
 http://logo.ndasat.com/iptv/images/89244_Seasons_logo.png"
 #EXTINF:-1 group-title="FRANCE",SERIE CLUB
-http://logo.ndasat.com/iptv/images/59246_sÃ©rieclub.jpg"
+http://logo.ndasat.com/iptv/images/59246_sÃÂ©rieclub.jpg"
 #EXTINF:-1 group-title="FRANCE",Serie Club
 http://bigiptv.ovh:8000/live/pierre/pierre/1639.ts
 #EXTINF:-1 group-title="FRANCE",Serie Club
