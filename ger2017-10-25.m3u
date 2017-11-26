@@ -1,496 +1,871 @@
 #EXTM3U
-#EXTINF:-1,[DE][L] Zee One
-http://bigiptv.ovh:8000/live/oussema/oussema/873.ts
-#EXTINF:-1,[DE][L] ZDF HD
-http://bigiptv.ovh:8000/live/oussema/oussema/872.ts
-#EXTINF:-1,[DE][L] VOX HD
-http://bigiptv.ovh:8000/live/oussema/oussema/871.ts
-#EXTINF:-1,[DE][L] Universal Channel
-http://bigiptv.ovh:8000/live/oussema/oussema/870.ts
-#EXTINF:-1,[DE][L] TNT Comedy
-http://bigiptv.ovh:8000/live/oussema/oussema/825.ts
-#EXTINF:-1,[DE][L] TLC
-http://bigiptv.ovh:8000/live/oussema/oussema/869.ts
-#EXTINF:-1,[DE][L] Super Rtl
-http://bigiptv.ovh:8000/live/oussema/oussema/824.ts
-#EXTINF:-1,[DE][L] Sport1
-http://bigiptv.ovh:8000/live/oussema/oussema/868.ts
-#EXTINF:-1,[DE][L] Sport 1 US
-http://bigiptv.ovh:8000/live/oussema/oussema/867.ts
-#EXTINF:-1,[DE][L] Spiegel TV Geschichte
-http://bigiptv.ovh:8000/live/oussema/oussema/866.ts
-#EXTINF:-1,[DE][L] Sony HD
-http://bigiptv.ovh:8000/live/oussema/oussema/865.ts
-#EXTINF:-1,[DE][L] SKY TNT FILM
-http://bigiptv.ovh:8000/live/oussema/oussema/864.ts
-#EXTINF:-1,[DE][L] Sky Syfy
-http://bigiptv.ovh:8000/live/oussema/oussema/823.ts
-#EXTINF:-1,[DE][L] Sky Sport News
-http://bigiptv.ovh:8000/live/oussema/oussema/863.ts
-#EXTINF:-1,[DE][L] Sky Select 1 HD
-http://bigiptv.ovh:8000/live/oussema/oussema/815.ts
-#EXTINF:-1,[DE][L] Sky Select 2 HD
-http://bigiptv.ovh:8000/live/oussema/oussema/816.ts
-#EXTINF:-1,[DE][L] Sky Select 3 HD
-http://bigiptv.ovh:8000/live/oussema/oussema/817.ts
-#EXTINF:-1,[DE][L] Sky Select 4 HD
-http://bigiptv.ovh:8000/live/oussema/oussema/818.ts
-#EXTINF:-1,[DE][L] Sky Select 5 HD
-http://bigiptv.ovh:8000/live/oussema/oussema/819.ts
-#EXTINF:-1,[DE][L] Sky Select 6 HD
-http://bigiptv.ovh:8000/live/oussema/oussema/820.ts
-#EXTINF:-1,[DE][L] Sky Select 7 HD
-http://bigiptv.ovh:8000/live/oussema/oussema/821.ts
-#EXTINF:-1,[DE][L] Sky Select 8 HD
-http://bigiptv.ovh:8000/live/oussema/oussema/822.ts
-#EXTINF:-1,[DE][L] Sky Sport 3 HD (ONLY ON MATCHDAY)
-http://bigiptv.ovh:8000/live/oussema/oussema/856.ts
-#EXTINF:-1,[DE][L] Sky Sport 4 HD (ONLY ON MATCHDAY)
-http://bigiptv.ovh:8000/live/oussema/oussema/857.ts
-#EXTINF:-1,[DE][L] Sky Sport 5 HD (ONLY ON MATCHDAY)
-http://bigiptv.ovh:8000/live/oussema/oussema/858.ts
-#EXTINF:-1,[DE][L] Sky Sport 6 HD (ONLY ON MATCHDAY)
-http://bigiptv.ovh:8000/live/oussema/oussema/859.ts
-#EXTINF:-1,[DE][L] Sky Sport 7 HD (ONLY ON MATCHDAY)
-http://bigiptv.ovh:8000/live/oussema/oussema/860.ts
-#EXTINF:-1,[DE][L] Sky Sport 8 HD (ONLY ON MATCHDAY)
-http://bigiptv.ovh:8000/live/oussema/oussema/861.ts
-#EXTINF:-1,[DE][L] Sky Sport 9 HD (ONLY ON MATCHDAY)
-http://bigiptv.ovh:8000/live/oussema/oussema/862.ts
-#EXTINF:-1,[DE][L] Sky Sport 10 HD (ONLY ON MATCHDAY)
-http://bigiptv.ovh:8000/live/oussema/oussema/854.ts
-#EXTINF:-1,[DE][L] Sky Sport 11 HD (ONLY ON MATCHDAY)
-http://bigiptv.ovh:8000/live/oussema/oussema/855.ts
-#EXTINF:-1,[DE][L] Sky Germany TNT Serie HD
-http://bigiptv.ovh:8000/live/oussema/oussema/853.ts
-#EXTINF:-1,[DE][L] Sky Germany Sport 1 HD
-http://bigiptv.ovh:8000/live/oussema/oussema/813.ts
-#EXTINF:-1,[DE][L] Sky Germany Sport 2 HD
-http://bigiptv.ovh:8000/live/oussema/oussema/814.ts
-#EXTINF:-1,[DE][L] Sky Germany NatGeo Wild HD
-http://bigiptv.ovh:8000/live/oussema/oussema/812.ts
-#EXTINF:-1,[DE][L] Sky Germany Krimi
-http://bigiptv.ovh:8000/live/oussema/oussema/811.ts
-#EXTINF:-1,[DE][L] Sky Germany History Channel HD
-http://bigiptv.ovh:8000/live/oussema/oussema/810.ts
-#EXTINF:-1,[DE][L] Sky Germany Comedy
-http://bigiptv.ovh:8000/live/oussema/oussema/809.ts
-#EXTINF:-1,[DE][L] Sky Germany Cinema HD
-http://bigiptv.ovh:8000/live/oussema/oussema/808.ts
-#EXTINF:-1,[DE][L] Sky Germany Cinema Family
-http://bigiptv.ovh:8000/live/oussema/oussema/852.ts
-#EXTINF:-1,[DE][L] Sky Germany Cinema  Emotion
-http://bigiptv.ovh:8000/live/oussema/oussema/807.ts
-#EXTINF:-1,[DE][L] Sky Germany Cinema   24 HD
-http://bigiptv.ovh:8000/live/oussema/oussema/806.ts
-#EXTINF:-1,[DE][L] Sky Germany Bundesliga 1 HD
-http://bigiptv.ovh:8000/live/oussema/oussema/799.ts
-#EXTINF:-1,[DE][L] Sky Germany Bundesliga 2 HD (ONLY ON MATCHDAY)
-http://bigiptv.ovh:8000/live/oussema/oussema/800.ts
-#EXTINF:-1,[DE][L] Sky Germany Bundesliga 3 HD (ONLY ON MATCHDAY)
-http://bigiptv.ovh:8000/live/oussema/oussema/801.ts
-#EXTINF:-1,[DE][L] Sky Germany Bundesliga 4 HD (ONLY ON MATCHDAY)
-http://bigiptv.ovh:8000/live/oussema/oussema/802.ts
-#EXTINF:-1,[DE][L] Sky Germany Bundesliga 5 HD (ONLY ON MATCHDAY)
-http://bigiptv.ovh:8000/live/oussema/oussema/803.ts
-#EXTINF:-1,[DE][L] Sky Germany Bundesliga 6 HD (ONLY ON MATCHDAY)
-http://bigiptv.ovh:8000/live/oussema/oussema/804.ts
-#EXTINF:-1,[DE][L] Sky Germany Bundesliga 7 HD (ONLY ON MATCHDAY)
-http://bigiptv.ovh:8000/live/oussema/oussema/805.ts
-#EXTINF:-1,[DE][L] Sky Germany Action HD
-http://bigiptv.ovh:8000/live/oussema/oussema/798.ts
-#EXTINF:-1,[DE][L] Sky Germany 13 TH HD
-http://bigiptv.ovh:8000/live/oussema/oussema/797.ts
-#EXTINF:-1,[DE][L] Sky Atlantic
-http://bigiptv.ovh:8000/live/oussema/oussema/851.ts
-#EXTINF:-1,[DE][L] Sky  Hits HD
-http://bigiptv.ovh:8000/live/oussema/oussema/796.ts
-#EXTINF:-1,[DE][L] Sixx HD
-http://bigiptv.ovh:8000/live/oussema/oussema/850.ts
-#EXTINF:-1,[DE][L] Sat 1
-http://bigiptv.ovh:8000/live/oussema/oussema/795.ts
-#EXTINF:-1,[DE][L] RTL Plus
-http://bigiptv.ovh:8000/live/oussema/oussema/849.ts
-#EXTINF:-1,[DE][L] Rtl passion
-http://bigiptv.ovh:8000/live/oussema/oussema/794.ts
-#EXTINF:-1,[DE][L] RTL Nitro
-http://bigiptv.ovh:8000/live/oussema/oussema/848.ts
-#EXTINF:-1,[DE][L] Rtl Living
-http://bigiptv.ovh:8000/live/oussema/oussema/847.ts
-#EXTINF:-1,[DE][L] RTL HD
-http://bigiptv.ovh:8000/live/oussema/oussema/793.ts
-#EXTINF:-1,[DE][L] RTL Crime
-http://bigiptv.ovh:8000/live/oussema/oussema/846.ts
-#EXTINF:-1,[DE][L] RTL 2 HD
-http://bigiptv.ovh:8000/live/oussema/oussema/845.ts
-#EXTINF:-1,[DE][L] Romance TV HD
-http://bigiptv.ovh:8000/live/oussema/oussema/844.ts
-#EXTINF:-1,[DE][L] Pro 7 Maxx
-http://bigiptv.ovh:8000/live/oussema/oussema/843.ts
-#EXTINF:-1,[FR]  MTV FR
-http://bigiptv.ovh:8000/live/oussema/oussema/8696.ts
-#EXTINF:-1,[DE][L] National Geographic HD
-http://bigiptv.ovh:8000/live/oussema/oussema/842.ts
-#EXTINF:-1,[DE][L] Kino Welt
-http://bigiptv.ovh:8000/live/oussema/oussema/841.ts
-#EXTINF:-1,[DE][L] Kika
-http://bigiptv.ovh:8000/live/oussema/oussema/840.ts
-#EXTINF:-1,[DE][L] Kabel 1
-http://bigiptv.ovh:8000/live/oussema/oussema/839.ts
-#EXTINF:-1,[DE][L] Junior
-http://bigiptv.ovh:8000/live/oussema/oussema/838.ts
-#EXTINF:-1,[DE][L] FOX HD
-http://bigiptv.ovh:8000/live/oussema/oussema/837.ts
-#EXTINF:-1,[DE][L] Eurosport 2
-http://bigiptv.ovh:8000/live/oussema/oussema/836.ts
-#EXTINF:-1,[DE][L] Eurosport 1
-http://bigiptv.ovh:8000/live/oussema/oussema/835.ts
-#EXTINF:-1,[DE][L] Dmax
-http://bigiptv.ovh:8000/live/oussema/oussema/834.ts
-#EXTINF:-1,[DE][L] Disney Xd
-http://bigiptv.ovh:8000/live/oussema/oussema/833.ts
-#EXTINF:-1,[DE][L] Disney Junior
-http://bigiptv.ovh:8000/live/oussema/oussema/832.ts
-#EXTINF:-1,[DE][L] Disney Cinemagic
-http://bigiptv.ovh:8000/live/oussema/oussema/831.ts
-#EXTINF:-1,[DE][L] Disney Channel
-http://bigiptv.ovh:8000/live/oussema/oussema/830.ts
-#EXTINF:-1,[DE][L] Discovery Channel HD
-http://bigiptv.ovh:8000/live/oussema/oussema/829.ts
-#EXTINF:-1,[DE][L] DE: Pro 7
-http://bigiptv.ovh:8000/live/oussema/oussema/792.ts
-#EXTINF:-1,[DE][L] Cartoon Network
-http://bigiptv.ovh:8000/live/oussema/oussema/828.ts
-#EXTINF:-1,[DE][L] Boomerang
-http://bigiptv.ovh:8000/live/oussema/oussema/827.ts
-#EXTINF:-1,[DE][L] Axn HD
-http://bigiptv.ovh:8000/live/oussema/oussema/791.ts
-#EXTINF:-1,[DE][L] ARD
-http://bigiptv.ovh:8000/live/oussema/oussema/826.ts
+#EXTINF:-1 tvg-name="Ger1" tvg-logo="" group-title="{BOUQUET_NAME}",Ger1
+http://iptv.atlasiptv.net:88/live/321282347089421/321282347089421/3699.m3u8
+#EXTINF:-1 tvg-name="Ger2" tvg-logo="" group-title="{BOUQUET_NAME}",Ger2
+http://iptv.atlasiptv.net:88/live/321282347089421/321282347089421/3700.m3u8
+#EXTINF:-1 tvg-name="Ger3" tvg-logo="" group-title="{BOUQUET_NAME}",Ger3
+http://iptv.atlasiptv.net:88/live/321282347089421/321282347089421/3701.m3u8
+#EXTINF:-1 tvg-name="Ger4" tvg-logo="" group-title="{BOUQUET_NAME}",Ger4
+http://iptv.atlasiptv.net:88/live/321282347089421/321282347089421/3702.m3u8
+#EXTINF:-1 tvg-name="Ger5" tvg-logo="" group-title="{BOUQUET_NAME}",Ger5
+http://iptv.atlasiptv.net:88/live/321282347089421/321282347089421/3703.m3u8
+#EXTINF:-1 tvg-name="Ger6" tvg-logo="" group-title="{BOUQUET_NAME}",Ger6
+http://iptv.atlasiptv.net:88/live/321282347089421/321282347089421/3704.m3u8
+#EXTINF:-1 tvg-name="Ger7" tvg-logo="" group-title="{BOUQUET_NAME}",Ger7
+http://iptv.atlasiptv.net:88/live/321282347089421/321282347089421/3705.m3u8
+#EXTINF:-1 tvg-name="Ger8" tvg-logo="" group-title="{BOUQUET_NAME}",Ger8
+http://iptv.atlasiptv.net:88/live/321282347089421/321282347089421/3706.m3u8
+#EXTINF:-1 tvg-name="Ger9" tvg-logo="" group-title="{BOUQUET_NAME}",Ger9
+http://iptv.atlasiptv.net:88/live/321282347089421/321282347089421/3707.m3u8
+#EXTINF:-1 tvg-name="Das Erste" tvg-logo="" group-title="{BOUQUET_NAME}",Das Erste
+http://iptv.atlasiptv.net:88/live/321282347089421/321282347089421/3605.m3u8
+#EXTINF:-1 tvg-name="ZDF" tvg-logo="http://logo.ndasat.com/iptv/images/61931_zdf.png" group-title="{BOUQUET_NAME}",ZDF
+http://iptv.atlasiptv.net:88/live/321282347089421/321282347089421/261.m3u8
+#EXTINF:-1 tvg-name="ARD" tvg-logo="http://logo.ndasat.com/iptv/images/22065_ard.png" group-title="{BOUQUET_NAME}",ARD
+http://iptv.atlasiptv.net:88/live/321282347089421/321282347089421/262.m3u8
+#EXTINF:-1 tvg-name="HR DE" tvg-logo="" group-title="{BOUQUET_NAME}",HR DE
+http://iptv.atlasiptv.net:88/live/321282347089421/321282347089421/3604.m3u8
+#EXTINF:-1 tvg-name="NDR" tvg-logo="http://logo.ndasat.com/iptv/images/73491_ndr.png" group-title="{BOUQUET_NAME}",NDR
+http://iptv.atlasiptv.net:88/live/321282347089421/321282347089421/243.m3u8
+#EXTINF:-1 tvg-name="WDR" tvg-logo="http://logo.ndasat.com/iptv/images/38274_wdr.png" group-title="{BOUQUET_NAME}",WDR
+http://iptv.atlasiptv.net:88/live/321282347089421/321282347089421/247.m3u8
+#EXTINF:-1 tvg-name="ARTE DE" tvg-logo="http://logo.ndasat.com/iptv/images/12891_arte.jpg" group-title="{BOUQUET_NAME}",ARTE DE
+http://iptv.atlasiptv.net:88/live/321282347089421/321282347089421/245.m3u8
+#EXTINF:-1 tvg-name="SWR" tvg-logo="http://logo.ndasat.com/iptv/images/13482_swr.png" group-title="{BOUQUET_NAME}",SWR
+http://iptv.atlasiptv.net:88/live/321282347089421/321282347089421/270.m3u8
+#EXTINF:-1 tvg-name="Sat1" tvg-logo="http://logo.ndasat.com/iptv/images/14447_sat1.png" group-title="{BOUQUET_NAME}",Sat1
+http://iptv.atlasiptv.net:88/live/321282347089421/321282347089421/260.m3u8
+#EXTINF:-1 tvg-name="Sat1 Gold" tvg-logo="http://logo.ndasat.com/iptv/images/55122_sat1gold.jpg" group-title="{BOUQUET_NAME}",Sat1 Gold
+http://iptv.atlasiptv.net:88/live/321282347089421/321282347089421/3418.m3u8
+#EXTINF:-1 tvg-name="RTL" tvg-logo="http://logo.ndasat.com/iptv/images/21533_rtl.jpg" group-title="{BOUQUET_NAME}",RTL
+http://iptv.atlasiptv.net:88/live/321282347089421/321282347089421/252.m3u8
+#EXTINF:-1 tvg-name="RTL 2" tvg-logo="http://logo.ndasat.com/iptv/images/779_rtl2.png" group-title="{BOUQUET_NAME}",RTL 2
+http://iptv.atlasiptv.net:88/live/321282347089421/321282347089421/250.m3u8
+#EXTINF:-1 tvg-name="RTL Nitro" tvg-logo="http://logo.ndasat.com/iptv/images/9419_rtlnitro.png" group-title="{BOUQUET_NAME}",RTL Nitro
+http://iptv.atlasiptv.net:88/live/321282347089421/321282347089421/269.m3u8
+#EXTINF:-1 tvg-name="RTL Crime" tvg-logo="http://logo.ndasat.com/iptv/images/68067_rtlcrime.jpg" group-title="{BOUQUET_NAME}",RTL Crime
+http://iptv.atlasiptv.net:88/live/321282347089421/321282347089421/3417.m3u8
+#EXTINF:-1 tvg-name="Super RTL" tvg-logo="http://logo.ndasat.com/iptv/images/91051_superrtl.png" group-title="{BOUQUET_NAME}",Super RTL
+http://iptv.atlasiptv.net:88/live/321282347089421/321282347089421/251.m3u8
+#EXTINF:-1 tvg-name="RTL Living" tvg-logo="" group-title="{BOUQUET_NAME}",RTL Living
+http://iptv.atlasiptv.net:88/live/321282347089421/321282347089421/3606.m3u8
+#EXTINF:-1 tvg-name="RTL Passion" tvg-logo="http://logo.ndasat.com/iptv/images/5022_rtlpassion.jpg" group-title="{BOUQUET_NAME}",RTL Passion
+http://iptv.atlasiptv.net:88/live/321282347089421/321282347089421/3416.m3u8
+#EXTINF:-1 tvg-name="PRO 7" tvg-logo="http://logo.ndasat.com/iptv/images/59549_pro7.png" group-title="{BOUQUET_NAME}",PRO 7
+http://iptv.atlasiptv.net:88/live/321282347089421/321282347089421/259.m3u8
+#EXTINF:-1 tvg-name="Kinowelt" tvg-logo="http://logo.ndasat.com/iptv/images/50985_kinowelt.png" group-title="{BOUQUET_NAME}",Kinowelt
+http://iptv.atlasiptv.net:88/live/321282347089421/321282347089421/3433.m3u8
+#EXTINF:-1 tvg-name="Sixx" tvg-logo="http://logo.ndasat.com/iptv/images/5732_sixx.png" group-title="{BOUQUET_NAME}",Sixx
+http://iptv.atlasiptv.net:88/live/321282347089421/321282347089421/276.m3u8
+#EXTINF:-1 tvg-name="3Sat" tvg-logo="http://logo.ndasat.com/iptv/images/28469_3sat.jpg" group-title="{BOUQUET_NAME}",3Sat
+http://iptv.atlasiptv.net:88/live/321282347089421/321282347089421/3419.m3u8
+#EXTINF:-1 tvg-name="KIKA" tvg-logo="http://logo.ndasat.com/iptv/images/65335_kika.jpg" group-title="{BOUQUET_NAME}",KIKA
+http://iptv.atlasiptv.net:88/live/321282347089421/321282347089421/258.m3u8
+#EXTINF:-1 tvg-name="PRO 7 Maxx" tvg-logo="http://logo.ndasat.com/iptv/images/66460_pro7maxx.jpg" group-title="{BOUQUET_NAME}",PRO 7 Maxx
+http://iptv.atlasiptv.net:88/live/321282347089421/321282347089421/257.m3u8
+#EXTINF:-1 tvg-name="NTV DE" tvg-logo="http://logo.ndasat.com/iptv/images/96224_ntv.jpg" group-title="{BOUQUET_NAME}",NTV DE
+http://iptv.atlasiptv.net:88/live/321282347089421/321282347089421/254.m3u8
+#EXTINF:-1 tvg-name="Kabel1" tvg-logo="http://logo.ndasat.com/iptv/images/99611_kabel1.png" group-title="{BOUQUET_NAME}",Kabel1
+http://iptv.atlasiptv.net:88/live/321282347089421/321282347089421/274.m3u8
+#EXTINF:-1 tvg-name="VOX" tvg-logo="http://logo.ndasat.com/iptv/images/73023_vox.jpg" group-title="{BOUQUET_NAME}",VOX
+http://iptv.atlasiptv.net:88/live/321282347089421/321282347089421/253.m3u8
+#EXTINF:-1 tvg-name="N24" tvg-logo="http://logo.ndasat.com/iptv/images/88138_n24.png" group-title="{BOUQUET_NAME}",N24
+http://iptv.atlasiptv.net:88/live/321282347089421/321282347089421/273.m3u8
+#EXTINF:-1 tvg-name="Junior DE" tvg-logo="http://logo.ndasat.com/iptv/images/65128_junior.jpg" group-title="{BOUQUET_NAME}",Junior DE
+http://iptv.atlasiptv.net:88/live/321282347089421/321282347089421/3444.m3u8
+#EXTINF:-1 tvg-name="Disney Junior DE" tvg-logo="http://logo.ndasat.com/iptv/images/9391_disneyjunior.jpg" group-title="{BOUQUET_NAME}",Disney Junior DE
+http://iptv.atlasiptv.net:88/live/321282347089421/321282347089421/933.m3u8
+#EXTINF:-1 tvg-name="Disney XD DE" tvg-logo="http://logo.ndasat.com/iptv/images/80923_disneyxd.jpg" group-title="{BOUQUET_NAME}",Disney XD DE
+http://iptv.atlasiptv.net:88/live/321282347089421/321282347089421/244.m3u8
+#EXTINF:-1 tvg-name="Disney DE" tvg-logo="http://logo.ndasat.com/iptv/images/63085_disney.jpg" group-title="{BOUQUET_NAME}",Disney DE
+http://iptv.atlasiptv.net:88/live/321282347089421/321282347089421/3441.m3u8
+#EXTINF:-1 tvg-name="Disney Cine DE" tvg-logo="http://logo.ndasat.com/iptv/images/38619_disney_cinema_fr.png" group-title="{BOUQUET_NAME}",Disney Cine DE
+http://iptv.atlasiptv.net:88/live/321282347089421/321282347089421/3442.m3u8
+#EXTINF:-1 tvg-name="Boomerang DE" tvg-logo="http://logo.ndasat.com/iptv/images/89928_boomerang.png" group-title="{BOUQUET_NAME}",Boomerang DE
+http://iptv.atlasiptv.net:88/live/321282347089421/321282347089421/3440.m3u8
+#EXTINF:-1 tvg-name="Toggo Plus" tvg-logo="http://logo.ndasat.com/iptv/images/36778_toggoplus.png" group-title="{BOUQUET_NAME}",Toggo Plus
+http://iptv.atlasiptv.net:88/live/321282347089421/321282347089421/3443.m3u8
+#EXTINF:-1 tvg-name="Nickelodeon DE" tvg-logo="" group-title="{BOUQUET_NAME}",Nickelodeon DE
+http://iptv.atlasiptv.net:88/live/321282347089421/321282347089421/3607.m3u8
+#EXTINF:-1 tvg-name="ORF1" tvg-logo="http://logo.ndasat.com/iptv/images/78029_orf1.jpg" group-title="{BOUQUET_NAME}",ORF1
+http://iptv.atlasiptv.net:88/live/321282347089421/321282347089421/248.m3u8
+#EXTINF:-1 tvg-name="ORF2" tvg-logo="http://logo.ndasat.com/iptv/images/1547_orf2.jpg" group-title="{BOUQUET_NAME}",ORF2
+http://iptv.atlasiptv.net:88/live/321282347089421/321282347089421/249.m3u8
+#EXTINF:-1 tvg-name="SRF1" tvg-logo="http://logo.ndasat.com/iptv/images/51997_srf1.png" group-title="{BOUQUET_NAME}",SRF1
+http://iptv.atlasiptv.net:88/live/321282347089421/321282347089421/778.m3u8
+#EXTINF:-1 tvg-name="SRF2" tvg-logo="http://logo.ndasat.com/iptv/images/98389_srf2.jpg" group-title="{BOUQUET_NAME}",SRF2
+http://iptv.atlasiptv.net:88/live/321282347089421/321282347089421/779.m3u8
+#EXTINF:-1 tvg-name="Sky Cinema DE" tvg-logo="http://logo.ndasat.com/iptv/images/31343_skycinema.jpg" group-title="{BOUQUET_NAME}",Sky Cinema DE
+http://iptv.atlasiptv.net:88/live/321282347089421/321282347089421/161.m3u8
+#EXTINF:-1 tvg-name="Sky Cinema +1" tvg-logo="http://logo.ndasat.com/iptv/images/24384_skyarts.jpg" group-title="{BOUQUET_NAME}",Sky Cinema +1
+http://iptv.atlasiptv.net:88/live/321282347089421/321282347089421/3435.m3u8
+#EXTINF:-1 tvg-name="Sky Cinema 24 DE" tvg-logo="http://logo.ndasat.com/iptv/images/21553_skycinema24.png" group-title="{BOUQUET_NAME}",Sky Cinema 24 DE
+http://iptv.atlasiptv.net:88/live/321282347089421/321282347089421/162.m3u8
+#EXTINF:-1 tvg-name="Sky Action DE" tvg-logo="http://logo.ndasat.com/iptv/images/17439_skyaction.jpg" group-title="{BOUQUET_NAME}",Sky Action DE
+http://iptv.atlasiptv.net:88/live/321282347089421/321282347089421/163.m3u8
+#EXTINF:-1 tvg-name="Sky Atlantic DE" tvg-logo="http://logo.ndasat.com/iptv/images/18026_skyatlantic.png" group-title="{BOUQUET_NAME}",Sky Atlantic DE
+http://iptv.atlasiptv.net:88/live/321282347089421/321282347089421/168.m3u8
+#EXTINF:-1 tvg-name="Sky Comedy DE" tvg-logo="http://logo.ndasat.com/iptv/images/49850_skycomedy.png" group-title="{BOUQUET_NAME}",Sky Comedy DE
+http://iptv.atlasiptv.net:88/live/321282347089421/321282347089421/164.m3u8
+#EXTINF:-1 tvg-name="Sky Emotion DE" tvg-logo="http://logo.ndasat.com/iptv/images/6724_skyemotion.png" group-title="{BOUQUET_NAME}",Sky Emotion DE
+http://iptv.atlasiptv.net:88/live/321282347089421/321282347089421/165.m3u8
+#EXTINF:-1 tvg-name="Sky Hits DE" tvg-logo="http://logo.ndasat.com/iptv/images/4686_skyhits.jpg" group-title="{BOUQUET_NAME}",Sky Hits DE
+http://iptv.atlasiptv.net:88/live/321282347089421/321282347089421/166.m3u8
+#EXTINF:-1 tvg-name="Sky Krimi" tvg-logo="http://logo.ndasat.com/iptv/images/42861_skykrimi.jpg" group-title="{BOUQUET_NAME}",Sky Krimi
+http://iptv.atlasiptv.net:88/live/321282347089421/321282347089421/3423.m3u8
+#EXTINF:-1 tvg-name="Sky Nostalgie" tvg-logo="http://logo.ndasat.com/iptv/images/10043_skynostalgie.jpg" group-title="{BOUQUET_NAME}",Sky Nostalgie
+http://iptv.atlasiptv.net:88/live/321282347089421/321282347089421/3422.m3u8
+#EXTINF:-1 tvg-name="AXN DE" tvg-logo="http://logo.ndasat.com/iptv/images/64233_AXN.png" group-title="{BOUQUET_NAME}",AXN DE
+http://iptv.atlasiptv.net:88/live/321282347089421/321282347089421/3426.m3u8
+#EXTINF:-1 tvg-name="Universal DE" tvg-logo="http://logo.ndasat.com/iptv/images/56892_universal.png" group-title="{BOUQUET_NAME}",Universal DE
+http://iptv.atlasiptv.net:88/live/321282347089421/321282347089421/3424.m3u8
+#EXTINF:-1 tvg-name="TNT Comedy" tvg-logo="http://logo.ndasat.com/iptv/images/88165_tntcomedy.png" group-title="{BOUQUET_NAME}",TNT Comedy
+http://iptv.atlasiptv.net:88/live/321282347089421/321282347089421/3431.m3u8
+#EXTINF:-1 tvg-name="TNT Film" tvg-logo="http://logo.ndasat.com/iptv/images/98973_tntfilm.jpg" group-title="{BOUQUET_NAME}",TNT Film
+http://iptv.atlasiptv.net:88/live/321282347089421/321282347089421/3430.m3u8
+#EXTINF:-1 tvg-name="TNT Serie" tvg-logo="http://logo.ndasat.com/iptv/images/31319_tntserie.png" group-title="{BOUQUET_NAME}",TNT Serie
+http://iptv.atlasiptv.net:88/live/321282347089421/321282347089421/3432.m3u8
+#EXTINF:-1 tvg-name="Syfy DE" tvg-logo="http://logo.ndasat.com/iptv/images/80054_syfy.png" group-title="{BOUQUET_NAME}",Syfy DE
+http://iptv.atlasiptv.net:88/live/321282347089421/321282347089421/3429.m3u8
+#EXTINF:-1 tvg-name="Fox DE" tvg-logo="http://logo.ndasat.com/iptv/images/5060_foxtv.jpg" group-title="{BOUQUET_NAME}",Fox DE
+http://iptv.atlasiptv.net:88/live/321282347089421/321282347089421/3425.m3u8
+#EXTINF:-1 tvg-name="Romance TV" tvg-logo="http://logo.ndasat.com/iptv/images/17509_romancetv.jpg" group-title="{BOUQUET_NAME}",Romance TV
+http://iptv.atlasiptv.net:88/live/321282347089421/321282347089421/3434.m3u8
+#EXTINF:-1 tvg-name="13th Street DE" tvg-logo="http://logo.ndasat.com/iptv/images/55404_13thstreet.jpg" group-title="{BOUQUET_NAME}",13th Street DE
+http://iptv.atlasiptv.net:88/live/321282347089421/321282347089421/3427.m3u8
+#EXTINF:-1 tvg-name="Classica DE" tvg-logo="" group-title="{BOUQUET_NAME}",Classica DE
+http://iptv.atlasiptv.net:88/live/321282347089421/321282347089421/3608.m3u8
+#EXTINF:-1 tvg-name="Discovery DE" tvg-logo="http://logo.ndasat.com/iptv/images/57158_discovery.jpg" group-title="{BOUQUET_NAME}",Discovery DE
+http://iptv.atlasiptv.net:88/live/321282347089421/321282347089421/268.m3u8
+#EXTINF:-1 tvg-name="DMAX DE" tvg-logo="http://logo.ndasat.com/iptv/images/55622_dmax.png" group-title="{BOUQUET_NAME}",DMAX DE
+http://iptv.atlasiptv.net:88/live/321282347089421/321282347089421/241.m3u8
+#EXTINF:-1 tvg-name="Nat Geo DE" tvg-logo="http://logo.ndasat.com/iptv/images/98491_natgeo.jpg" group-title="{BOUQUET_NAME}",Nat Geo DE
+http://iptv.atlasiptv.net:88/live/321282347089421/321282347089421/1027.m3u8
+#EXTINF:-1 tvg-name="Nat Geo Wild DE" tvg-logo="http://logo.ndasat.com/iptv/images/25070_natgeowild.png" group-title="{BOUQUET_NAME}",Nat Geo Wild DE
+http://iptv.atlasiptv.net:88/live/321282347089421/321282347089421/1028.m3u8
+#EXTINF:-1 tvg-name="History DE" tvg-logo="http://logo.ndasat.com/iptv/images/51679_history.png" group-title="{BOUQUET_NAME}",History DE
+http://iptv.atlasiptv.net:88/live/321282347089421/321282347089421/3439.m3u8
+#EXTINF:-1 tvg-name="Motorvision DE" tvg-logo="http://logo.ndasat.com/iptv/images/85813_motorvision.jpg" group-title="{BOUQUET_NAME}",Motorvision DE
+http://iptv.atlasiptv.net:88/live/321282347089421/321282347089421/3438.m3u8
+#EXTINF:-1 tvg-name="Animal planet DE" tvg-logo="" group-title="{BOUQUET_NAME}",Animal planet DE
+http://iptv.atlasiptv.net:88/live/321282347089421/321282347089421/3609.m3u8
+#EXTINF:-1 tvg-name="Family TV DE" tvg-logo="http://logo.ndasat.com/iptv/images/21013_familytv.jpg" group-title="{BOUQUET_NAME}",Family TV DE
+http://iptv.atlasiptv.net:88/live/321282347089421/321282347089421/3428.m3u8
+#EXTINF:-1 tvg-name="Phoenix" tvg-logo="http://logo.ndasat.com/iptv/images/99030_phoenix.png" group-title="{BOUQUET_NAME}",Phoenix
+http://iptv.atlasiptv.net:88/live/321282347089421/321282347089421/3421.m3u8
+#EXTINF:-1 tvg-name="Welt Der Wunder" tvg-logo="" group-title="{BOUQUET_NAME}",Welt Der Wunder
+http://iptv.atlasiptv.net:88/live/321282347089421/321282347089421/3610.m3u8
+#EXTINF:-1 tvg-name="ZDF Neo" tvg-logo="http://logo.ndasat.com/iptv/images/10868_zdfneo.png" group-title="{BOUQUET_NAME}",ZDF Neo
+http://iptv.atlasiptv.net:88/live/321282347089421/321282347089421/3420.m3u8
+#EXTINF:-1 tvg-name="Sky Sports News De" tvg-logo="http://logo.ndasat.com/iptv/images/57974_skysportnews.jpg" group-title="{BOUQUET_NAME}",Sky Sports News De
+http://iptv.atlasiptv.net:88/live/321282347089421/321282347089421/255.m3u8
+#EXTINF:-1 tvg-name="Sky Sport 1 DE" tvg-logo="http://logo.ndasat.com/iptv/images/69607_skysport.png" group-title="{BOUQUET_NAME}",Sky Sport 1 DE
+http://iptv.atlasiptv.net:88/live/321282347089421/321282347089421/52.m3u8
+#EXTINF:-1 tvg-name="Sky Sport 2 DE" tvg-logo="http://logo.ndasat.com/iptv/images/93351_skysport.png" group-title="{BOUQUET_NAME}",Sky Sport 2 DE
+http://iptv.atlasiptv.net:88/live/321282347089421/321282347089421/53.m3u8
+#EXTINF:-1 tvg-name="Eurosport DE" tvg-logo="http://logo.ndasat.com/iptv/images/69476_eurosport1.png" group-title="{BOUQUET_NAME}",Eurosport DE
+http://iptv.atlasiptv.net:88/live/321282347089421/321282347089421/266.m3u8
+#EXTINF:-1 tvg-name="Sport1 DE" tvg-logo="http://logo.ndasat.com/iptv/images/32182_sport1.png" group-title="{BOUQUET_NAME}",Sport1 DE
+http://iptv.atlasiptv.net:88/live/321282347089421/321282347089421/275.m3u8
+#EXTINF:-1 tvg-name="Sport1 USA DE" tvg-logo="http://logo.ndasat.com/iptv/images/51321_sport1usa.png" group-title="{BOUQUET_NAME}",Sport1 USA DE
+http://iptv.atlasiptv.net:88/live/321282347089421/321282347089421/3436.m3u8
+#EXTINF:-1 tvg-name="Sport Digital" tvg-logo="http://logo.ndasat.com/iptv/images/83240_sportdigital.png" group-title="{BOUQUET_NAME}",Sport Digital
+http://iptv.atlasiptv.net:88/live/321282347089421/321282347089421/3437.m3u8
+#EXTINF:-1 tvg-name="Sky Bundesliga1 de" tvg-logo="http://logo.ndasat.com/iptv/images/70870_skybunde.jpg" group-title="{BOUQUET_NAME}",Sky Bundesliga1 de
+http://iptv.atlasiptv.net:88/live/321282347089421/321282347089421/51.m3u8
+#EXTINF:-1 tvg-name="Sky Bundesliga2 (MT)" tvg-logo="http://logo.ndasat.com/iptv/images/50624_bundesliga2.jpg" group-title="{BOUQUET_NAME}",Sky Bundesliga2 (MT)
+http://iptv.atlasiptv.net:88/live/321282347089421/321282347089421/2291.m3u8
+#EXTINF:-1 tvg-name="Sky Bundesliga3 (MT)" tvg-logo="http://logo.ndasat.com/iptv/images/73825_bundesliga3.jpg" group-title="{BOUQUET_NAME}",Sky Bundesliga3 (MT)
+http://iptv.atlasiptv.net:88/live/321282347089421/321282347089421/2292.m3u8
+#EXTINF:-1 tvg-name="Sky Bundesliga4 (MT)" tvg-logo="http://logo.ndasat.com/iptv/images/29696_bunesliga4.jpg" group-title="{BOUQUET_NAME}",Sky Bundesliga4 (MT)
+http://iptv.atlasiptv.net:88/live/321282347089421/321282347089421/2293.m3u8
+#EXTINF:-1 tvg-name="Sky Bundesliga5 (MT)" tvg-logo="http://logo.ndasat.com/iptv/images/24854_bundesliga5.jpg" group-title="{BOUQUET_NAME}",Sky Bundesliga5 (MT)
+http://iptv.atlasiptv.net:88/live/321282347089421/321282347089421/2294.m3u8
+#EXTINF:-1 tvg-name="Sky Bundesliga6 (MT)" tvg-logo="http://logo.ndasat.com/iptv/images/91455_bundesliga6.jpg" group-title="{BOUQUET_NAME}",Sky Bundesliga6 (MT)
+http://iptv.atlasiptv.net:88/live/321282347089421/321282347089421/2295.m3u8
+#EXTINF:-1 tvg-name="VOD-Select1" tvg-logo="http://logo.ndasat.com/iptv/images/87066_germany.jpg" group-title="{BOUQUET_NAME}",VOD-Select1
+http://iptv.atlasiptv.net:88/live/321282347089421/321282347089421/557.m3u8
+#EXTINF:-1 tvg-name="VOD-Select2" tvg-logo="http://logo.ndasat.com/iptv/images/33521_germany.jpg" group-title="{BOUQUET_NAME}",VOD-Select2
+http://iptv.atlasiptv.net:88/live/321282347089421/321282347089421/556.m3u8
+#EXTINF:-1 tvg-name="VOD-Select3" tvg-logo="http://logo.ndasat.com/iptv/images/63848_germany.jpg" group-title="{BOUQUET_NAME}",VOD-Select3
+http://iptv.atlasiptv.net:88/live/321282347089421/321282347089421/555.m3u8
+#EXTINF:-1 tvg-name="VOD-select4" tvg-logo="http://logo.ndasat.com/iptv/images/39148_germany.jpg" group-title="{BOUQUET_NAME}",VOD-select4
+http://iptv.atlasiptv.net:88/live/321282347089421/321282347089421/554.m3u8
+#EXTINF:-1 tvg-name="VOD-Select5" tvg-logo="http://logo.ndasat.com/iptv/images/84948_germany.jpg" group-title="{BOUQUET_NAME}",VOD-Select5
+http://iptv.atlasiptv.net:88/live/321282347089421/321282347089421/553.m3u8
+#EXTINF:-1 tvg-name="VOD-Select6" tvg-logo="http://logo.ndasat.com/iptv/images/44453_germany.jpg" group-title="{BOUQUET_NAME}",VOD-Select6
+http://iptv.atlasiptv.net:88/live/321282347089421/321282347089421/552.m3u8
 
+#EXTINF:-1 tvg-name="Ger1" tvg-logo="" group-title="{BOUQUET_NAME}",Ger1
+http://iptv.ndasat.com:88/live/329995091896719/329995091896719/3699.m3u8
+#EXTINF:-1 tvg-name="Ger2" tvg-logo="" group-title="{BOUQUET_NAME}",Ger2
+http://iptv.ndasat.com:88/live/329995091896719/329995091896719/3700.m3u8
+#EXTINF:-1 tvg-name="Ger3" tvg-logo="" group-title="{BOUQUET_NAME}",Ger3
+http://iptv.ndasat.com:88/live/329995091896719/329995091896719/3701.m3u8
+#EXTINF:-1 tvg-name="Ger4" tvg-logo="" group-title="{BOUQUET_NAME}",Ger4
+http://iptv.ndasat.com:88/live/329995091896719/329995091896719/3702.m3u8
+#EXTINF:-1 tvg-name="Ger5" tvg-logo="" group-title="{BOUQUET_NAME}",Ger5
+http://iptv.ndasat.com:88/live/329995091896719/329995091896719/3703.m3u8
+#EXTINF:-1 tvg-name="Ger6" tvg-logo="" group-title="{BOUQUET_NAME}",Ger6
+http://iptv.ndasat.com:88/live/329995091896719/329995091896719/3704.m3u8
+#EXTINF:-1 tvg-name="Ger7" tvg-logo="" group-title="{BOUQUET_NAME}",Ger7
+http://iptv.ndasat.com:88/live/329995091896719/329995091896719/3705.m3u8
+#EXTINF:-1 tvg-name="Ger8" tvg-logo="" group-title="{BOUQUET_NAME}",Ger8
+http://iptv.ndasat.com:88/live/329995091896719/329995091896719/3706.m3u8
+#EXTINF:-1 tvg-name="Ger9" tvg-logo="" group-title="{BOUQUET_NAME}",Ger9
+http://iptv.ndasat.com:88/live/329995091896719/329995091896719/3707.m3u8
+#EXTINF:-1 tvg-name="Das Erste" tvg-logo="" group-title="{BOUQUET_NAME}",Das Erste
+http://iptv.ndasat.com:88/live/329995091896719/329995091896719/3605.m3u8
+#EXTINF:-1 tvg-name="ZDF" tvg-logo="http://logo.ndasat.com/iptv/images/61931_zdf.png" group-title="{BOUQUET_NAME}",ZDF
+http://iptv.ndasat.com:88/live/329995091896719/329995091896719/261.m3u8
+#EXTINF:-1 tvg-name="ARD" tvg-logo="http://logo.ndasat.com/iptv/images/22065_ard.png" group-title="{BOUQUET_NAME}",ARD
+http://iptv.ndasat.com:88/live/329995091896719/329995091896719/262.m3u8
+#EXTINF:-1 tvg-name="HR DE" tvg-logo="" group-title="{BOUQUET_NAME}",HR DE
+http://iptv.ndasat.com:88/live/329995091896719/329995091896719/3604.m3u8
+#EXTINF:-1 tvg-name="NDR" tvg-logo="http://logo.ndasat.com/iptv/images/73491_ndr.png" group-title="{BOUQUET_NAME}",NDR
+http://iptv.ndasat.com:88/live/329995091896719/329995091896719/243.m3u8
+#EXTINF:-1 tvg-name="WDR" tvg-logo="http://logo.ndasat.com/iptv/images/38274_wdr.png" group-title="{BOUQUET_NAME}",WDR
+http://iptv.ndasat.com:88/live/329995091896719/329995091896719/247.m3u8
+#EXTINF:-1 tvg-name="ARTE DE" tvg-logo="http://logo.ndasat.com/iptv/images/12891_arte.jpg" group-title="{BOUQUET_NAME}",ARTE DE
+http://iptv.ndasat.com:88/live/329995091896719/329995091896719/245.m3u8
+#EXTINF:-1 tvg-name="SWR" tvg-logo="http://logo.ndasat.com/iptv/images/13482_swr.png" group-title="{BOUQUET_NAME}",SWR
+http://iptv.ndasat.com:88/live/329995091896719/329995091896719/270.m3u8
+#EXTINF:-1 tvg-name="Sat1" tvg-logo="http://logo.ndasat.com/iptv/images/14447_sat1.png" group-title="{BOUQUET_NAME}",Sat1
+http://iptv.ndasat.com:88/live/329995091896719/329995091896719/260.m3u8
+#EXTINF:-1 tvg-name="Sat1 Gold" tvg-logo="http://logo.ndasat.com/iptv/images/55122_sat1gold.jpg" group-title="{BOUQUET_NAME}",Sat1 Gold
+http://iptv.ndasat.com:88/live/329995091896719/329995091896719/3418.m3u8
+#EXTINF:-1 tvg-name="RTL" tvg-logo="http://logo.ndasat.com/iptv/images/21533_rtl.jpg" group-title="{BOUQUET_NAME}",RTL
+http://iptv.ndasat.com:88/live/329995091896719/329995091896719/252.m3u8
+#EXTINF:-1 tvg-name="RTL 2" tvg-logo="http://logo.ndasat.com/iptv/images/779_rtl2.png" group-title="{BOUQUET_NAME}",RTL 2
+http://iptv.ndasat.com:88/live/329995091896719/329995091896719/250.m3u8
+#EXTINF:-1 tvg-name="RTL Nitro" tvg-logo="http://logo.ndasat.com/iptv/images/9419_rtlnitro.png" group-title="{BOUQUET_NAME}",RTL Nitro
+http://iptv.ndasat.com:88/live/329995091896719/329995091896719/269.m3u8
+#EXTINF:-1 tvg-name="RTL Crime" tvg-logo="http://logo.ndasat.com/iptv/images/68067_rtlcrime.jpg" group-title="{BOUQUET_NAME}",RTL Crime
+http://iptv.ndasat.com:88/live/329995091896719/329995091896719/3417.m3u8
+#EXTINF:-1 tvg-name="Super RTL" tvg-logo="http://logo.ndasat.com/iptv/images/91051_superrtl.png" group-title="{BOUQUET_NAME}",Super RTL
+http://iptv.ndasat.com:88/live/329995091896719/329995091896719/251.m3u8
+#EXTINF:-1 tvg-name="RTL Living" tvg-logo="" group-title="{BOUQUET_NAME}",RTL Living
+http://iptv.ndasat.com:88/live/329995091896719/329995091896719/3606.m3u8
+#EXTINF:-1 tvg-name="RTL Passion" tvg-logo="http://logo.ndasat.com/iptv/images/5022_rtlpassion.jpg" group-title="{BOUQUET_NAME}",RTL Passion
+http://iptv.ndasat.com:88/live/329995091896719/329995091896719/3416.m3u8
+#EXTINF:-1 tvg-name="PRO 7" tvg-logo="http://logo.ndasat.com/iptv/images/59549_pro7.png" group-title="{BOUQUET_NAME}",PRO 7
+http://iptv.ndasat.com:88/live/329995091896719/329995091896719/259.m3u8
+#EXTINF:-1 tvg-name="Kinowelt" tvg-logo="http://logo.ndasat.com/iptv/images/50985_kinowelt.png" group-title="{BOUQUET_NAME}",Kinowelt
+http://iptv.ndasat.com:88/live/329995091896719/329995091896719/3433.m3u8
+#EXTINF:-1 tvg-name="Sixx" tvg-logo="http://logo.ndasat.com/iptv/images/5732_sixx.png" group-title="{BOUQUET_NAME}",Sixx
+http://iptv.ndasat.com:88/live/329995091896719/329995091896719/276.m3u8
+#EXTINF:-1 tvg-name="3Sat" tvg-logo="http://logo.ndasat.com/iptv/images/28469_3sat.jpg" group-title="{BOUQUET_NAME}",3Sat
+http://iptv.ndasat.com:88/live/329995091896719/329995091896719/3419.m3u8
+#EXTINF:-1 tvg-name="KIKA" tvg-logo="http://logo.ndasat.com/iptv/images/65335_kika.jpg" group-title="{BOUQUET_NAME}",KIKA
+http://iptv.ndasat.com:88/live/329995091896719/329995091896719/258.m3u8
+#EXTINF:-1 tvg-name="PRO 7 Maxx" tvg-logo="http://logo.ndasat.com/iptv/images/66460_pro7maxx.jpg" group-title="{BOUQUET_NAME}",PRO 7 Maxx
+http://iptv.ndasat.com:88/live/329995091896719/329995091896719/257.m3u8
+#EXTINF:-1 tvg-name="NTV DE" tvg-logo="http://logo.ndasat.com/iptv/images/96224_ntv.jpg" group-title="{BOUQUET_NAME}",NTV DE
+http://iptv.ndasat.com:88/live/329995091896719/329995091896719/254.m3u8
+#EXTINF:-1 tvg-name="Kabel1" tvg-logo="http://logo.ndasat.com/iptv/images/99611_kabel1.png" group-title="{BOUQUET_NAME}",Kabel1
+http://iptv.ndasat.com:88/live/329995091896719/329995091896719/274.m3u8
+#EXTINF:-1 tvg-name="VOX" tvg-logo="http://logo.ndasat.com/iptv/images/73023_vox.jpg" group-title="{BOUQUET_NAME}",VOX
+http://iptv.ndasat.com:88/live/329995091896719/329995091896719/253.m3u8
+#EXTINF:-1 tvg-name="N24" tvg-logo="http://logo.ndasat.com/iptv/images/88138_n24.png" group-title="{BOUQUET_NAME}",N24
+http://iptv.ndasat.com:88/live/329995091896719/329995091896719/273.m3u8
+#EXTINF:-1 tvg-name="Junior DE" tvg-logo="http://logo.ndasat.com/iptv/images/65128_junior.jpg" group-title="{BOUQUET_NAME}",Junior DE
+http://iptv.ndasat.com:88/live/329995091896719/329995091896719/3444.m3u8
+#EXTINF:-1 tvg-name="Disney Junior DE" tvg-logo="http://logo.ndasat.com/iptv/images/9391_disneyjunior.jpg" group-title="{BOUQUET_NAME}",Disney Junior DE
+http://iptv.ndasat.com:88/live/329995091896719/329995091896719/933.m3u8
+#EXTINF:-1 tvg-name="Disney XD DE" tvg-logo="http://logo.ndasat.com/iptv/images/80923_disneyxd.jpg" group-title="{BOUQUET_NAME}",Disney XD DE
+http://iptv.ndasat.com:88/live/329995091896719/329995091896719/244.m3u8
+#EXTINF:-1 tvg-name="Disney DE" tvg-logo="http://logo.ndasat.com/iptv/images/63085_disney.jpg" group-title="{BOUQUET_NAME}",Disney DE
+http://iptv.ndasat.com:88/live/329995091896719/329995091896719/3441.m3u8
+#EXTINF:-1 tvg-name="Disney Cine DE" tvg-logo="http://logo.ndasat.com/iptv/images/38619_disney_cinema_fr.png" group-title="{BOUQUET_NAME}",Disney Cine DE
+http://iptv.ndasat.com:88/live/329995091896719/329995091896719/3442.m3u8
+#EXTINF:-1 tvg-name="Boomerang DE" tvg-logo="http://logo.ndasat.com/iptv/images/89928_boomerang.png" group-title="{BOUQUET_NAME}",Boomerang DE
+http://iptv.ndasat.com:88/live/329995091896719/329995091896719/3440.m3u8
+#EXTINF:-1 tvg-name="Toggo Plus" tvg-logo="http://logo.ndasat.com/iptv/images/36778_toggoplus.png" group-title="{BOUQUET_NAME}",Toggo Plus
+http://iptv.ndasat.com:88/live/329995091896719/329995091896719/3443.m3u8
+#EXTINF:-1 tvg-name="Nickelodeon DE" tvg-logo="" group-title="{BOUQUET_NAME}",Nickelodeon DE
+http://iptv.ndasat.com:88/live/329995091896719/329995091896719/3607.m3u8
+#EXTINF:-1 tvg-name="ORF1" tvg-logo="http://logo.ndasat.com/iptv/images/78029_orf1.jpg" group-title="{BOUQUET_NAME}",ORF1
+http://iptv.ndasat.com:88/live/329995091896719/329995091896719/248.m3u8
+#EXTINF:-1 tvg-name="ORF2" tvg-logo="http://logo.ndasat.com/iptv/images/1547_orf2.jpg" group-title="{BOUQUET_NAME}",ORF2
+http://iptv.ndasat.com:88/live/329995091896719/329995091896719/249.m3u8
+#EXTINF:-1 tvg-name="SRF1" tvg-logo="http://logo.ndasat.com/iptv/images/51997_srf1.png" group-title="{BOUQUET_NAME}",SRF1
+http://iptv.ndasat.com:88/live/329995091896719/329995091896719/778.m3u8
+#EXTINF:-1 tvg-name="SRF2" tvg-logo="http://logo.ndasat.com/iptv/images/98389_srf2.jpg" group-title="{BOUQUET_NAME}",SRF2
+http://iptv.ndasat.com:88/live/329995091896719/329995091896719/779.m3u8
+#EXTINF:-1 tvg-name="Sky Cinema DE" tvg-logo="http://logo.ndasat.com/iptv/images/31343_skycinema.jpg" group-title="{BOUQUET_NAME}",Sky Cinema DE
+http://iptv.ndasat.com:88/live/329995091896719/329995091896719/161.m3u8
+#EXTINF:-1 tvg-name="Sky Cinema +1" tvg-logo="http://logo.ndasat.com/iptv/images/24384_skyarts.jpg" group-title="{BOUQUET_NAME}",Sky Cinema +1
+http://iptv.ndasat.com:88/live/329995091896719/329995091896719/3435.m3u8
+#EXTINF:-1 tvg-name="Sky Cinema 24 DE" tvg-logo="http://logo.ndasat.com/iptv/images/21553_skycinema24.png" group-title="{BOUQUET_NAME}",Sky Cinema 24 DE
+http://iptv.ndasat.com:88/live/329995091896719/329995091896719/162.m3u8
+#EXTINF:-1 tvg-name="Sky Action DE" tvg-logo="http://logo.ndasat.com/iptv/images/17439_skyaction.jpg" group-title="{BOUQUET_NAME}",Sky Action DE
+http://iptv.ndasat.com:88/live/329995091896719/329995091896719/163.m3u8
+#EXTINF:-1 tvg-name="Sky Atlantic DE" tvg-logo="http://logo.ndasat.com/iptv/images/18026_skyatlantic.png" group-title="{BOUQUET_NAME}",Sky Atlantic DE
+http://iptv.ndasat.com:88/live/329995091896719/329995091896719/168.m3u8
+#EXTINF:-1 tvg-name="Sky Comedy DE" tvg-logo="http://logo.ndasat.com/iptv/images/49850_skycomedy.png" group-title="{BOUQUET_NAME}",Sky Comedy DE
+http://iptv.ndasat.com:88/live/329995091896719/329995091896719/164.m3u8
+#EXTINF:-1 tvg-name="Sky Emotion DE" tvg-logo="http://logo.ndasat.com/iptv/images/6724_skyemotion.png" group-title="{BOUQUET_NAME}",Sky Emotion DE
+http://iptv.ndasat.com:88/live/329995091896719/329995091896719/165.m3u8
+#EXTINF:-1 tvg-name="Sky Hits DE" tvg-logo="http://logo.ndasat.com/iptv/images/4686_skyhits.jpg" group-title="{BOUQUET_NAME}",Sky Hits DE
+http://iptv.ndasat.com:88/live/329995091896719/329995091896719/166.m3u8
+#EXTINF:-1 tvg-name="Sky Krimi" tvg-logo="http://logo.ndasat.com/iptv/images/42861_skykrimi.jpg" group-title="{BOUQUET_NAME}",Sky Krimi
+http://iptv.ndasat.com:88/live/329995091896719/329995091896719/3423.m3u8
+#EXTINF:-1 tvg-name="Sky Nostalgie" tvg-logo="http://logo.ndasat.com/iptv/images/10043_skynostalgie.jpg" group-title="{BOUQUET_NAME}",Sky Nostalgie
+http://iptv.ndasat.com:88/live/329995091896719/329995091896719/3422.m3u8
+#EXTINF:-1 tvg-name="AXN DE" tvg-logo="http://logo.ndasat.com/iptv/images/64233_AXN.png" group-title="{BOUQUET_NAME}",AXN DE
+http://iptv.ndasat.com:88/live/329995091896719/329995091896719/3426.m3u8
+#EXTINF:-1 tvg-name="Universal DE" tvg-logo="http://logo.ndasat.com/iptv/images/56892_universal.png" group-title="{BOUQUET_NAME}",Universal DE
+http://iptv.ndasat.com:88/live/329995091896719/329995091896719/3424.m3u8
+#EXTINF:-1 tvg-name="TNT Comedy" tvg-logo="http://logo.ndasat.com/iptv/images/88165_tntcomedy.png" group-title="{BOUQUET_NAME}",TNT Comedy
+http://iptv.ndasat.com:88/live/329995091896719/329995091896719/3431.m3u8
+#EXTINF:-1 tvg-name="TNT Film" tvg-logo="http://logo.ndasat.com/iptv/images/98973_tntfilm.jpg" group-title="{BOUQUET_NAME}",TNT Film
+http://iptv.ndasat.com:88/live/329995091896719/329995091896719/3430.m3u8
+#EXTINF:-1 tvg-name="TNT Serie" tvg-logo="http://logo.ndasat.com/iptv/images/31319_tntserie.png" group-title="{BOUQUET_NAME}",TNT Serie
+http://iptv.ndasat.com:88/live/329995091896719/329995091896719/3432.m3u8
+#EXTINF:-1 tvg-name="Syfy DE" tvg-logo="http://logo.ndasat.com/iptv/images/80054_syfy.png" group-title="{BOUQUET_NAME}",Syfy DE
+http://iptv.ndasat.com:88/live/329995091896719/329995091896719/3429.m3u8
+#EXTINF:-1 tvg-name="Fox DE" tvg-logo="http://logo.ndasat.com/iptv/images/5060_foxtv.jpg" group-title="{BOUQUET_NAME}",Fox DE
+http://iptv.ndasat.com:88/live/329995091896719/329995091896719/3425.m3u8
+#EXTINF:-1 tvg-name="Romance TV" tvg-logo="http://logo.ndasat.com/iptv/images/17509_romancetv.jpg" group-title="{BOUQUET_NAME}",Romance TV
+http://iptv.ndasat.com:88/live/329995091896719/329995091896719/3434.m3u8
+#EXTINF:-1 tvg-name="13th Street DE" tvg-logo="http://logo.ndasat.com/iptv/images/55404_13thstreet.jpg" group-title="{BOUQUET_NAME}",13th Street DE
+http://iptv.ndasat.com:88/live/329995091896719/329995091896719/3427.m3u8
+#EXTINF:-1 tvg-name="Classica DE" tvg-logo="" group-title="{BOUQUET_NAME}",Classica DE
+http://iptv.ndasat.com:88/live/329995091896719/329995091896719/3608.m3u8
+#EXTINF:-1 tvg-name="Discovery DE" tvg-logo="http://logo.ndasat.com/iptv/images/57158_discovery.jpg" group-title="{BOUQUET_NAME}",Discovery DE
+http://iptv.ndasat.com:88/live/329995091896719/329995091896719/268.m3u8
+#EXTINF:-1 tvg-name="DMAX DE" tvg-logo="http://logo.ndasat.com/iptv/images/55622_dmax.png" group-title="{BOUQUET_NAME}",DMAX DE
+http://iptv.ndasat.com:88/live/329995091896719/329995091896719/241.m3u8
+#EXTINF:-1 tvg-name="Nat Geo DE" tvg-logo="http://logo.ndasat.com/iptv/images/98491_natgeo.jpg" group-title="{BOUQUET_NAME}",Nat Geo DE
+http://iptv.ndasat.com:88/live/329995091896719/329995091896719/1027.m3u8
+#EXTINF:-1 tvg-name="Nat Geo Wild DE" tvg-logo="http://logo.ndasat.com/iptv/images/25070_natgeowild.png" group-title="{BOUQUET_NAME}",Nat Geo Wild DE
+http://iptv.ndasat.com:88/live/329995091896719/329995091896719/1028.m3u8
+#EXTINF:-1 tvg-name="History DE" tvg-logo="http://logo.ndasat.com/iptv/images/51679_history.png" group-title="{BOUQUET_NAME}",History DE
+http://iptv.ndasat.com:88/live/329995091896719/329995091896719/3439.m3u8
+#EXTINF:-1 tvg-name="Motorvision DE" tvg-logo="http://logo.ndasat.com/iptv/images/85813_motorvision.jpg" group-title="{BOUQUET_NAME}",Motorvision DE
+http://iptv.ndasat.com:88/live/329995091896719/329995091896719/3438.m3u8
+#EXTINF:-1 tvg-name="Animal planet DE" tvg-logo="" group-title="{BOUQUET_NAME}",Animal planet DE
+http://iptv.ndasat.com:88/live/329995091896719/329995091896719/3609.m3u8
+#EXTINF:-1 tvg-name="Family TV DE" tvg-logo="http://logo.ndasat.com/iptv/images/21013_familytv.jpg" group-title="{BOUQUET_NAME}",Family TV DE
+http://iptv.ndasat.com:88/live/329995091896719/329995091896719/3428.m3u8
+#EXTINF:-1 tvg-name="Phoenix" tvg-logo="http://logo.ndasat.com/iptv/images/99030_phoenix.png" group-title="{BOUQUET_NAME}",Phoenix
+http://iptv.ndasat.com:88/live/329995091896719/329995091896719/3421.m3u8
+#EXTINF:-1 tvg-name="Welt Der Wunder" tvg-logo="" group-title="{BOUQUET_NAME}",Welt Der Wunder
+http://iptv.ndasat.com:88/live/329995091896719/329995091896719/3610.m3u8
+#EXTINF:-1 tvg-name="ZDF Neo" tvg-logo="http://logo.ndasat.com/iptv/images/10868_zdfneo.png" group-title="{BOUQUET_NAME}",ZDF Neo
+http://iptv.ndasat.com:88/live/329995091896719/329995091896719/3420.m3u8
+#EXTINF:-1 tvg-name="Sky Sports News De" tvg-logo="http://logo.ndasat.com/iptv/images/57974_skysportnews.jpg" group-title="{BOUQUET_NAME}",Sky Sports News De
+http://iptv.ndasat.com:88/live/329995091896719/329995091896719/255.m3u8
+#EXTINF:-1 tvg-name="Sky Sport 1 DE" tvg-logo="http://logo.ndasat.com/iptv/images/69607_skysport.png" group-title="{BOUQUET_NAME}",Sky Sport 1 DE
+http://iptv.ndasat.com:88/live/329995091896719/329995091896719/52.m3u8
+#EXTINF:-1 tvg-name="Sky Sport 2 DE" tvg-logo="http://logo.ndasat.com/iptv/images/93351_skysport.png" group-title="{BOUQUET_NAME}",Sky Sport 2 DE
+http://iptv.ndasat.com:88/live/329995091896719/329995091896719/53.m3u8
+#EXTINF:-1 tvg-name="Eurosport DE" tvg-logo="http://logo.ndasat.com/iptv/images/69476_eurosport1.png" group-title="{BOUQUET_NAME}",Eurosport DE
+http://iptv.ndasat.com:88/live/329995091896719/329995091896719/266.m3u8
+#EXTINF:-1 tvg-name="Sport1 DE" tvg-logo="http://logo.ndasat.com/iptv/images/32182_sport1.png" group-title="{BOUQUET_NAME}",Sport1 DE
+http://iptv.ndasat.com:88/live/329995091896719/329995091896719/275.m3u8
+#EXTINF:-1 tvg-name="Sport1 USA DE" tvg-logo="http://logo.ndasat.com/iptv/images/51321_sport1usa.png" group-title="{BOUQUET_NAME}",Sport1 USA DE
+http://iptv.ndasat.com:88/live/329995091896719/329995091896719/3436.m3u8
+#EXTINF:-1 tvg-name="Sport Digital" tvg-logo="http://logo.ndasat.com/iptv/images/83240_sportdigital.png" group-title="{BOUQUET_NAME}",Sport Digital
+http://iptv.ndasat.com:88/live/329995091896719/329995091896719/3437.m3u8
+#EXTINF:-1 tvg-name="Sky Bundesliga1 de" tvg-logo="http://logo.ndasat.com/iptv/images/70870_skybunde.jpg" group-title="{BOUQUET_NAME}",Sky Bundesliga1 de
+http://iptv.ndasat.com:88/live/329995091896719/329995091896719/51.m3u8
+#EXTINF:-1 tvg-name="Sky Bundesliga2 (MT)" tvg-logo="http://logo.ndasat.com/iptv/images/50624_bundesliga2.jpg" group-title="{BOUQUET_NAME}",Sky Bundesliga2 (MT)
+http://iptv.ndasat.com:88/live/329995091896719/329995091896719/2291.m3u8
+#EXTINF:-1 tvg-name="Sky Bundesliga3 (MT)" tvg-logo="http://logo.ndasat.com/iptv/images/73825_bundesliga3.jpg" group-title="{BOUQUET_NAME}",Sky Bundesliga3 (MT)
+http://iptv.ndasat.com:88/live/329995091896719/329995091896719/2292.m3u8
+#EXTINF:-1 tvg-name="Sky Bundesliga4 (MT)" tvg-logo="http://logo.ndasat.com/iptv/images/29696_bunesliga4.jpg" group-title="{BOUQUET_NAME}",Sky Bundesliga4 (MT)
+http://iptv.ndasat.com:88/live/329995091896719/329995091896719/2293.m3u8
+#EXTINF:-1 tvg-name="Sky Bundesliga5 (MT)" tvg-logo="http://logo.ndasat.com/iptv/images/24854_bundesliga5.jpg" group-title="{BOUQUET_NAME}",Sky Bundesliga5 (MT)
+http://iptv.ndasat.com:88/live/329995091896719/329995091896719/2294.m3u8
+#EXTINF:-1 tvg-name="Sky Bundesliga6 (MT)" tvg-logo="http://logo.ndasat.com/iptv/images/91455_bundesliga6.jpg" group-title="{BOUQUET_NAME}",Sky Bundesliga6 (MT)
+http://iptv.ndasat.com:88/live/329995091896719/329995091896719/2295.m3u8
+#EXTINF:-1 tvg-name="VOD-Select1" tvg-logo="http://logo.ndasat.com/iptv/images/87066_germany.jpg" group-title="{BOUQUET_NAME}",VOD-Select1
+http://iptv.ndasat.com:88/live/329995091896719/329995091896719/557.m3u8
+#EXTINF:-1 tvg-name="VOD-Select2" tvg-logo="http://logo.ndasat.com/iptv/images/33521_germany.jpg" group-title="{BOUQUET_NAME}",VOD-Select2
+http://iptv.ndasat.com:88/live/329995091896719/329995091896719/556.m3u8
+#EXTINF:-1 tvg-name="VOD-Select3" tvg-logo="http://logo.ndasat.com/iptv/images/63848_germany.jpg" group-title="{BOUQUET_NAME}",VOD-Select3
+http://iptv.ndasat.com:88/live/329995091896719/329995091896719/555.m3u8
+#EXTINF:-1 tvg-name="VOD-select4" tvg-logo="http://logo.ndasat.com/iptv/images/39148_germany.jpg" group-title="{BOUQUET_NAME}",VOD-select4
+http://iptv.ndasat.com:88/live/329995091896719/329995091896719/554.m3u8
+#EXTINF:-1 tvg-name="VOD-Select5" tvg-logo="http://logo.ndasat.com/iptv/images/84948_germany.jpg" group-title="{BOUQUET_NAME}",VOD-Select5
+http://iptv.ndasat.com:88/live/329995091896719/329995091896719/553.m3u8
+#EXTINF:-1 tvg-name="VOD-Select6" tvg-logo="http://logo.ndasat.com/iptv/images/44453_germany.jpg" group-title="{BOUQUET_NAME}",VOD-Select6
+http://iptv.ndasat.com:88/live/329995091896719/329995091896719/552.m3u8
 
-#EXTINF:-1 tvg-id="bb6e43c692e493e5dcfb50c044998b47",1LIVE
-http://93.159.103.210:9981/stream/channelid/1178824379?ticket=826D737E8AB7487E27225D07FAD6D493F5EB65E5&profile=pass
-#EXTINF:-1 tvg-id="b96d9b50eb7803aafb126549cc11eef2",1LIVE diGGi
-http://93.159.103.210:9981/stream/channelid/1352363449?ticket=898552B505A060F9662AEEE36A3D463BE48E6933&profile=pass
-#EXTINF:-1 tvg-id="8e4af3f4bfdf55c7e8dc82fd803c4458",3sat
-http://93.159.103.210:9981/stream/channelid/1962101390?ticket=DFCA0F6A44C3651390159A4C52CFA0AB7A62BEC1&profile=pass
-#EXTINF:-1 tvg-id="307766fd112514899488bca7793da6fd",Antenne Brandenburg
-http://93.159.103.210:9981/stream/channelid/2103867184?ticket=B00866EFC95878298BFB3313527E17331293DE63&profile=pass
-#EXTINF:-1 tvg-id="4a26edd02c2fd4eb7860c1af67bda2d2",ARD-TEST-1
-http://93.159.103.210:9981/stream/channelid/1357719114?ticket=8668C27A95E0570DA7E63EF183E1C2660EF663D8&profile=pass
-#EXTINF:-1 tvg-id="9db160401bd06c9de2d4e931451e7dd1",B5 aktuell
-http://93.159.103.210:9981/stream/channelid/1080078749?ticket=398F80A6DDC58325C0B837B2D6CB0561645D7F8A&profile=pass
-#EXTINF:-1 tvg-id="e517679ccf16cae8b5822e320a5fc049",B5 plus
-http://93.159.103.210:9981/stream/channelid/476518373?ticket=734EC834F23C8353AE49226BA69B8E0FF2A3E663&profile=pass
-#EXTINF:-1 tvg-id="33230488579d4d89dc1c3b8fb58353b3",Bayern 1
-http://93.159.103.210:9981/stream/channelid/134488883?ticket=65B6E2861FB4A1F38121785D790B895E92A191C0&profile=pass
-#EXTINF:-1 tvg-id="4bb2485345e12dc2290a9b2df8a45750",Bayern 2
-http://93.159.103.210:9981/stream/channelid/1397273163?ticket=FAA5319CB88451CBE9194CA3FC62E10131B1EAF5&profile=pass
-#EXTINF:-1 tvg-id="3e18e77eefa223a2952a22d798f04ece",BAYERN 3
-http://93.159.103.210:9981/stream/channelid/2129074238?ticket=DC86260910BF34E64BAE71FAAB82BA686DB7758F&profile=pass
-#EXTINF:-1 tvg-id="d1d9c3b4abf63480f2353ceb2bdbbdb7",BAYERN plus
-http://93.159.103.210:9981/stream/channelid/885250513?ticket=CD34F9BBDBA715B52F63CB50DB6183B33933993D&profile=pass
-#EXTINF:-1 tvg-id="dec47eac82a1a34f02063546caa93bf6",Bibel TV HD
-http://93.159.103.210:9981/stream/channelid/746505438?ticket=69C179ACFB13D0702C94766D8FBC71415B7CBE6B&profile=pass
-#EXTINF:-1 tvg-id="8499a69713b8d7f54e49ec03a2cfd942",BR Fernsehen SÃ¼d HD
-http://93.159.103.210:9981/stream/channelid/396794244?ticket=8080F76C68ACC1E1543715D97ED770B57637E585&profile=pass
-#EXTINF:-1 tvg-id="a12e75b7b84e57254e65c1f01b3e8552",BR Heimat
-http://93.159.103.210:9981/stream/channelid/930426529?ticket=9519FA9F6D5E6D6A13148A1371C356E8507D9091&profile=pass
-#EXTINF:-1 tvg-id="4cc8f23396be3965da52805e164fe7fb",BR-KLASSIK
-http://93.159.103.210:9981/stream/channelid/871549004?ticket=BF77A2EA692A08902147D2D4B98632080ABF1D27&profile=pass
-#EXTINF:-1 tvg-id="5ebbf82611541a08d83b6430c63855dd",Bremen Eins
-http://93.159.103.210:9981/stream/channelid/653835102?ticket=2194E1AF3C7E3172584E5B2E803E9DC35FD49DC6&profile=pass
-#EXTINF:-1 tvg-id="3dbdb669a0f004c6328f1a2d286bc4f7",Bremen Vier
-http://93.159.103.210:9981/stream/channelid/1773583677?ticket=8DA10C5C7F012638785D502B94F9E45317907230&profile=pass
-#EXTINF:-1 tvg-id="1fc9fb7b7ebb900b762bb623e76fdc09",Bremen Zwei
-http://93.159.103.210:9981/stream/channelid/2080098591?ticket=098C0F31A28EFA1712BC15CA2F102BD56ABB2EAB&profile=pass
-#EXTINF:-1 tvg-id="7b785ff8faa6b652d34c68c29a1edeaf",COSMO
-http://93.159.103.210:9981/stream/channelid/2019522683?ticket=D2D87540AEF0570DF18578E7D68ABC208CCA06EC&profile=pass
-#EXTINF:-1 tvg-id="b8d6895378ee613ec87ae85d14edc6d0",DASDING
-http://93.159.103.210:9981/stream/channelid/1401542328?ticket=A30701C4B5687ED47AAF4B6D9D16042ED53952B4&profile=pass
-#EXTINF:-1 tvg-id="93822ec8664d3f3281f325cf8a2565e8",Dlf
-http://93.159.103.210:9981/stream/channelid/1211007635?ticket=D7DA1EAB5CDD288B6530A1C88609D162D632FD53&profile=pass
-#EXTINF:-1 tvg-id="9d85c874e0708b052cb6aaeb7d4a5d5d",Dlf Kultur
-http://93.159.103.210:9981/stream/channelid/1959298461?ticket=0E836B899D58A48780E88DB7F966E321112341F7&profile=pass
-#EXTINF:-1 tvg-id="c5c5c7415119c3e6a878227e9521e106",Dlf Nova
-http://93.159.103.210:9981/stream/channelid/1103611333?ticket=CBF4EE036E7C0A4EAA9C0D7FFFB82CD7DCF1874B&profile=pass
-#EXTINF:-1 tvg-id="b70cbd1777cc64563e6ab216ecce03e4",DRadio DokDeb
-http://93.159.103.210:9981/stream/channelid/398265527?ticket=D02558B0596D9314EA6A703E12F4ADF3DAB8A04E&profile=pass
-#EXTINF:-1 tvg-id="9db7dc1ee6b8061dd16bb19d3016a649",eoTV
-http://93.159.103.210:9981/stream/channelid/517781405?ticket=C528A1AD93A7313D0C38D05F85556D106C02A85C&profile=pass
-#EXTINF:-1 tvg-id="fc58ec75d35467985bd0d3485009a070",EURONEWS GERMAN SD
-http://93.159.103.210:9981/stream/channelid/1978423548?ticket=FFC8D65C00D864CE41B5776C0D6A6E4D71262CA4&profile=pass
-#EXTINF:-1 tvg-id="7f1a9dc963d6de6f177ca35be2026d81",Family TV
-http://93.159.103.210:9981/stream/channelid/1235032703?ticket=75905BA2B8F6382F8CE0E684171AB2DB4388E918&profile=pass
-#EXTINF:-1 tvg-id="1678e339fd8d0a6df228ef28b62c08c1",Fritz
-http://93.159.103.210:9981/stream/channelid/971208726?ticket=CD50B14271647972EFE1646410939CAD72A9D027&profile=pass
-#EXTINF:-1 tvg-id="62b6bbbda2bda919eabad03aaaa520a6",HOPE Channel HD
-http://93.159.103.210:9981/stream/channelid/1035712098?ticket=ACC55CE549F82EC8DB621D6AE0BB0293203E6065&profile=pass
-#EXTINF:-1 tvg-id="c58ae3e9f91cd6998b717973511d7779",hr-iNFO
-http://93.159.103.210:9981/stream/channelid/1776519877?ticket=52C2E33BBB72CA8386DA9C8E6380A4B1EAC487DB&profile=pass
-#EXTINF:-1 tvg-id="43f56ede411fe8e1fceae50317381278",hr1
-http://93.159.103.210:9981/stream/channelid/1584330051?ticket=72EA94BE30A3F10C7BB3F3DC5E3717D83C3D4A3B&profile=pass
-#EXTINF:-1 tvg-id="743d983c5ae621753e092f38b569214f",hr2
-http://93.159.103.210:9981/stream/channelid/1016610164?ticket=91F7C89EB662B45F3B566F6F241C96062651DA60&profile=pass
-#EXTINF:-1 tvg-id="628a4589a62898a937796fafe232aaa2",hr3
-http://93.159.103.210:9981/stream/channelid/155552354?ticket=590267D2ADE7B6C1DB525E5C8D7DB4B5118017CC&profile=pass
-#EXTINF:-1 tvg-id="1b7820ce1f5ec5bf726ba83b4f8a58f2",hr4
-http://93.159.103.210:9981/stream/channelid/1310750747?ticket=716AE708E5BE20DA9DEA5556F5096F8972D1F388&profile=pass
-#EXTINF:-1 tvg-id="2f85b2016e5a507bdccdc2f4a471aba7",HSE24 EXTRA HD
-http://93.159.103.210:9981/stream/channelid/28476719?ticket=DAE6598B0C05FEECD494B96C8BC511627DA8055F&profile=pass
-#EXTINF:-1 tvg-id="6c025aa8cd22728d0fba831d1a4d641a",Inforadio
-http://93.159.103.210:9981/stream/channelid/676987500?ticket=49A8F86DC9F64C1C0FA750F90061BF7C3E748026&profile=pass
-#EXTINF:-1 tvg-id="0cd487cbe0e39a196c03f58506d1cfb2",kabel eins Doku
-http://93.159.103.210:9981/stream/channelid/1267192844?ticket=5EC4CDF5AE26EB740A826DB968C80E636E34B802&profile=pass
-#EXTINF:-1 tvg-id="b525a651e5f150edce72058a15d5e4d1",KiKA
-http://93.159.103.210:9981/stream/channelid/1369843125?ticket=D2BDDF0EFE00EA94338C2A00C5A25CB8D0192E27&profile=pass
-#EXTINF:-1 tvg-id="e2585ca2ee6e77d4f1d440149c6c7ca3",KIRAKA
-http://93.159.103.210:9981/stream/channelid/576477410?ticket=7ACFFCB1DCF9578C6C3B7E7CCB53DC65A8505572&profile=pass
-#EXTINF:-1 tvg-id="3a816f3addde2d246ddf0bedde663653",Kulturradio
-http://93.159.103.210:9981/stream/channelid/980386106?ticket=49517D8D35BDBCE02FB9B6BE1E9FA025840A0D3C&profile=pass
-#EXTINF:-1 tvg-id="e5831d7fa2a8182d6a945d0293c7838d",MDR AKTUELL
-http://93.159.103.210:9981/stream/channelid/2132640741?ticket=FDE3420A4F3BC0C62AE513FA96ABCC6C840B5CC1&profile=pass
-#EXTINF:-1 tvg-id="7fc8605772c2651786d98c23472f933c",MDR JUMP
-http://93.159.103.210:9981/stream/channelid/1465960575?ticket=6AC3FE07B624B4D351FF1F546817D21D91EEE175&profile=pass
-#EXTINF:-1 tvg-id="5eb7da6caafb6b01a84e3b7bc5c8295c",MDR KLASSIK
-http://93.159.103.210:9981/stream/channelid/1826273118?ticket=54FF65902B7B96280ACAAAB54034276F35B50B7F&profile=pass
-#EXTINF:-1 tvg-id="fbc025a405022be935696a2b520710e8",MDR KULTUR
-http://93.159.103.210:9981/stream/channelid/606454011?ticket=399C2211EBD5DC92929D9F0A22B0EDA651A563A0&profile=pass
-#EXTINF:-1 tvg-id="82cc8c92d3ba08a222170172a4555c05",MDR S-ANHALT
-http://93.159.103.210:9981/stream/channelid/311217282?ticket=A0FED76907EAE414D33BF93ABD96EBE2DB00F851&profile=pass
-#EXTINF:-1 tvg-id="ce98ceb980176beb6c443da29b0037df",MDR SPUTNIK
-http://93.159.103.210:9981/stream/channelid/969840846?ticket=6DF1FEFF60484BF77E8D09A94FCEA4CDCB344571&profile=pass
-#EXTINF:-1 tvg-id="0a94f1caf937622ea18ee42b5fd00dd9",MDR THÃœRINGEN
-http://93.159.103.210:9981/stream/channelid/1257346058?ticket=925A8BF2AF16325B5C41C6685718B21F8C275BAB&profile=pass
-#EXTINF:-1 tvg-id="f44fe866c70aadd8c08907a99bb415ca",MDR ThÃ¼ringen HD
-http://93.159.103.210:9981/stream/channelid/1726500852?ticket=E5E814807911EC2B5AF0F751A7128B55A2232830&profile=pass
-#EXTINF:-1 tvg-id="c050abf3a59b8bdc5d6b2d792f977ff5",MELODIE TV
-http://93.159.103.210:9981/stream/channelid/1940607168?ticket=75364B5DC12585EB84C3A0795FE5D386C860CD6E&profile=pass
-#EXTINF:-1 tvg-id="4e2b249a83874c3616161ac99e74e855",N-JOY
-http://93.159.103.210:9981/stream/channelid/438577998?ticket=9B2D32BCC2BBCB2924D4B360324BB7F4CC14EF81&profile=pass
-#EXTINF:-1 tvg-id="d85c3e3a8e38f4ca4352b28f3977bcf4",NDR 1 Nieders.
-http://93.159.103.210:9981/stream/channelid/977165528?ticket=98F40C725552A27C65734A43D605E4D625723464&profile=pass
-#EXTINF:-1 tvg-id="f8539686bc2c5a59be592e480b7b0c55",NDR 1 Radio MV
-http://93.159.103.210:9981/stream/channelid/110515192?ticket=1205320847B3566FA76767D1AF727779DDEDEE73&profile=pass
-#EXTINF:-1 tvg-id="8f9c8822d244799dc4a339d1745d8edf",NDR 2
-http://93.159.103.210:9981/stream/channelid/579378319?ticket=05426DBC899C4E8C32F6D0BD06BA8C2615A8428C&profile=pass
-#EXTINF:-1 tvg-id="30500be37912112d43a9b914a3b74676",NDR 90,3
-http://93.159.103.210:9981/stream/channelid/1661685808?ticket=4F9B91A4A134901AB13E5067B3C2CBD9717CE0FF&profile=pass
-#EXTINF:-1 tvg-id="5e913e5d15cb3dfeeeb7b164ec939a73",NDR Blue
-http://93.159.103.210:9981/stream/channelid/1564381534?ticket=C8E1243466DF8B8FE58A3894AE6DAA9B7F05B849&profile=pass
-#EXTINF:-1 tvg-id="1a96ae2aec403c08166aea23140c09d9",NDR FS HH
-http://93.159.103.210:9981/stream/channelid/716084762?ticket=AB818895CE48179A58C5E51ACAAEB7A5701D7DE7&profile=pass
-#EXTINF:-1 tvg-id="aec121d1d7c4528a0a0f4c7a29e75ada",NDR FS NDS
-http://93.159.103.210:9981/stream/channelid/1361166766?ticket=BE6B7ECEE24427647FCDF64CBD919A2D49BAFE1C&profile=pass
-#EXTINF:-1 tvg-id="b5141b5c8b0ec8d094279471a8cc0f5d",NDR FS SH
-http://93.159.103.210:9981/stream/channelid/1545278645?ticket=8E03F1F2DADEBA30D1410E4F4BDF2DC20CA8EB53&profile=pass
-#EXTINF:-1 tvg-id="0cca5aab3ad715ebec2c0e917e8dd206",NDR Info
-http://93.159.103.210:9981/stream/channelid/727370252?ticket=33CB72FA77B349831CEF03C4224B96D0AAD59B92&profile=pass
-#EXTINF:-1 tvg-id="eda5365115da40e0a4a7609572b9b8f7",NDR Info Spez.
-http://93.159.103.210:9981/stream/channelid/1362535917?ticket=D91FD59CD0D38BD5E0E7DE92EFB693A1F19877AE&profile=pass
-#EXTINF:-1 tvg-id="6a94397096ec0246bb7180137af127d2",NDR Kultur
-http://93.159.103.210:9981/stream/channelid/1882821738?ticket=9344AADD7BFCF8CCDD20A12817D98DDE8E9A8201&profile=pass
-#EXTINF:-1 tvg-id="a52b0658c61487d9b4d51c3524bc08b0",NDR Plus
-http://93.159.103.210:9981/stream/channelid/1476799397?ticket=B3F43128DA9CB52841AA1A69359B7C441ED07E1E&profile=pass
-#EXTINF:-1 tvg-id="2f2678fbf826a70df1148f6baeced180",NDR1WelleNord
-http://93.159.103.210:9981/stream/channelid/2071471663?ticket=8E9F354AD8453186C170D0A96490A561B8FBFCBE&profile=pass
-#EXTINF:-1 tvg-id="fba2d5f2a66f139cfaffc9c33472aac1",PULS
-http://93.159.103.210:9981/stream/channelid/1926603515?ticket=D4B67D6AD6D01E669F9B819E43D518577D0A3058&profile=pass
-#EXTINF:-1 tvg-id="7edc01cc52982ae0516c46c257641fdb",QVC PLUS HD
-http://93.159.103.210:9981/stream/channelid/1275190398?ticket=6731E7548AA31F54E237919A05C21A907C39A312&profile=pass
-#EXTINF:-1 tvg-id="18b6f2b0454b3516938f0e6b42b4e933",radioBERLIN 88,8
-http://93.159.103.210:9981/stream/channelid/821212696?ticket=B7026BEE84C1939CF1D128332CAEA59BE9745133&profile=pass
-#EXTINF:-1 tvg-id="8f3e898e4bb9b42b5ad9a88469e2a408",radioeins
-http://93.159.103.210:9981/stream/channelid/243875471?ticket=E5F44BC5EE4DBD889CE696012AAAD207841F8AD9&profile=pass
-#EXTINF:-1 tvg-id="9dd80d0f67167b3f5492070f3e092b9a",rbb Brandenburg HD
-http://93.159.103.210:9981/stream/channelid/252565661?ticket=29FDA2EDEFEB51DE4F79433CE4299441D292C6B1&profile=pass
-#EXTINF:-1 tvg-id="1b6ab64fd7679919476736dc7f8f37a9",RTL Austria
-http://93.159.103.210:9981/stream/channelid/1337354779?ticket=D0CF07841D835222C1B8208522E4452EAAE945E0&profile=pass
-#EXTINF:-1 tvg-id="2130f570fdcce80ce028bfd08f861b62",RTL CH
-http://93.159.103.210:9981/stream/channelid/1895116833?ticket=B1E0995066DE2C8EC36BBC6FD07B2DE2655FF02F&profile=pass
-#EXTINF:-1 tvg-id="066e261eea15886781146473a9a202cb",RTL2 Austria
-http://93.159.103.210:9981/stream/channelid/505835014?ticket=A2E5EF56A2218377EA34E494BE420F7D6C3AAB5F&profile=pass
-#EXTINF:-1 tvg-id="bdcdc1722f25c07c0029c6793b386edc",SAT.1 Bayern
-http://93.159.103.210:9981/stream/channelid/1925303741?ticket=4E0F536A67E09AD4D8DF82A90D01BB8D9CDB5B6C&profile=pass
-#EXTINF:-1 tvg-id="86a4d5c30ac2c460d3a17c365ba0b930",SAT.1 NRW
-http://93.159.103.210:9981/stream/channelid/1138074758?ticket=714EE2C232EEBF0123F896B37E8CC0F2CE8FF270&profile=pass
-#EXTINF:-1 tvg-id="3210805a1977d551f2e12c4c8cca9b7b",Schau TV
-http://93.159.103.210:9981/stream/channelid/1518342194?ticket=488C5820283F87E0EC663F4B04D1AD317F48B85C&profile=pass
-#EXTINF:-1 tvg-id="90f935e9ccf1d9e2919a23d541525ef2",Sky Select
-http://93.159.103.210:9981/stream/channelid/1765144976?ticket=CE37953B6D71BA03F02667908BDD5F213AE97CA9&profile=pass
-#EXTINF:-1 tvg-id="d5f270e05afe707567702f3d744a9a1c",SR 1 Europawelle
-http://93.159.103.210:9981/stream/channelid/1618014933?ticket=E9B5066E6611473441949AD1551B20BA80FFFCC8&profile=pass
-#EXTINF:-1 tvg-id="315b16ddd301dcbcda18dafd1f1962cb",SR 2 KulturRadio
-http://93.159.103.210:9981/stream/channelid/1561746225?ticket=560D300085F4E27AFD742418D2F04E1DEA5300B6&profile=pass
-#EXTINF:-1 tvg-id="c291ee4247385bc3082966f1e420e812",SR 3 Saarlandwelle
-http://93.159.103.210:9981/stream/channelid/1122931138?ticket=F1296E6DA8CBAD492766D36AECB18E194F3FD02B&profile=pass
-#EXTINF:-1 tvg-id="d1d80329a7975ef9d3e94a6e821ef07c",SR Fernsehen
-http://93.159.103.210:9981/stream/channelid/688117969?ticket=3532C8BD539A0CEDFCEF883A832F653FCC838FF2&profile=pass
-#EXTINF:-1 tvg-id="10de0d48f4c31858bf65fa4189c71abc",Starparadies AT
-http://93.159.103.210:9981/stream/channelid/1208868368?ticket=C7DB0F9490BB7646A340F96E41B01EB760174F55&profile=pass
-#EXTINF:-1 tvg-id="e90bc04ab931844e8874f02db032e400",SUPER RTL A
-http://93.159.103.210:9981/stream/channelid/1254099945?ticket=5E7E045B3DC1214381AF72506D27D107EA895FC4&profile=pass
-#EXTINF:-1 tvg-id="4dbf9e19f194b115a17caf47f6974ecc",SWR Aktuell
-http://93.159.103.210:9981/stream/channelid/429834061?ticket=65E548E0BC4B32AF5C325BE472C9FFBA0E3C0364&profile=pass
-#EXTINF:-1 tvg-id="d9bc9685ff73ebfeb0fd4193d8a57f24",SWR Fernsehen RP
-http://93.159.103.210:9981/stream/channelid/93764825?ticket=0E8AB181D799F27F93A13694B4489C1E409EC4FC&profile=pass
-#EXTINF:-1 tvg-id="397d03f3f5c694340190ce60e349e99f",SWR RP HD
-http://93.159.103.210:9981/stream/channelid/1929608505?ticket=8724797C4EBDBC94D8FCC221B1E11202C9E6164F&profile=pass
-#EXTINF:-1 tvg-id="3827c7d35e02f2c344c6ebddccecbb08",SWR1 BW
-http://93.159.103.210:9981/stream/channelid/1405560632?ticket=E039FEFD051905EB3E7EA353F776F8A9882E9866&profile=pass
-#EXTINF:-1 tvg-id="9843bcbde60e564f5dc0b4fb1d0e76a8",SWR1 RP
-http://93.159.103.210:9981/stream/channelid/1035748248?ticket=06FFD520973F7A16185B3B7AFF06820E6DA590F6&profile=pass
-#EXTINF:-1 tvg-id="44d36b246824632fe07f44ae692acd9d",SWR2
-http://93.159.103.210:9981/stream/channelid/611046212?ticket=092306A6511EB129E2AEA886CB3545632A8098CE&profile=pass
-#EXTINF:-1 tvg-id="bee46006189343bb66c3d8220aa4243c",SWR3
-http://93.159.103.210:9981/stream/channelid/107013310?ticket=273180622071038A399E27ED206544D0BCEDACA2&profile=pass
-#EXTINF:-1 tvg-id="a728110745c2911ee26b0f3949770f90",SWR4 BW
-http://93.159.103.210:9981/stream/channelid/118565031?ticket=7EAB76494764E49841E271890E458FF2BC739E4D&profile=pass
-#EXTINF:-1 tvg-id="e4824537c8134f29a1cf212370531c1b",SWR4 RP
-http://93.159.103.210:9981/stream/channelid/927302372?ticket=D4125B8B658EFCA87AA655E244D586580FB5D797&profile=pass
-#EXTINF:-1 tvg-id="e9faf1bedf2996b437b78ba6103505d9",Volksmusik
-http://93.159.103.210:9981/stream/channelid/1056045801?ticket=ED1E66B2E3B74BB710B9FD6A2314B372B33AF460&profile=pass
-#EXTINF:-1 tvg-id="78357beedabc97c91336eb761cd3b956",VOX Austria
-http://93.159.103.210:9981/stream/channelid/1853568376?ticket=6298C5E3826281193E33DD017797E73360721E83&profile=pass
-#EXTINF:-1 tvg-id="de9a963a1c14e70ee2cdcc9a9f215d61",VOX CH
-http://93.159.103.210:9981/stream/channelid/982948574?ticket=01AA0E4BFB06A7FAECE5DA64F53D703E2EA18AC4&profile=pass
-#EXTINF:-1 tvg-id="8ce3ec8e7a072bcc5b09ddd4603eb1cb",WDR 2
-http://93.159.103.210:9981/stream/channelid/250405772?ticket=74B4F0B59BAFA5882F904E38C2F8CB47B34E7D5B&profile=pass
-#EXTINF:-1 tvg-id="e748651e1beef4498eaa31700a80e6ce",WDR 3
-http://93.159.103.210:9981/stream/channelid/509954279?ticket=75A7F77F09F627828039267D2555FB5118C45E7F&profile=pass
-#EXTINF:-1 tvg-id="bb966039f07e11e83d38138f98c52e6b",WDR 4
-http://93.159.103.210:9981/stream/channelid/962631355?ticket=485002172FEB2E55749BC0B97672C215D5220A36&profile=pass
-#EXTINF:-1 tvg-id="a135120f0c9086db097cec8eae207896",WDR 5
-http://93.159.103.210:9981/stream/channelid/252851617?ticket=5CEC31F0D49819C48935F89FFEC34DE06104BA0C&profile=pass
-#EXTINF:-1 tvg-id="282c0f77b117069055307f04991c6358",WDR Event
-http://93.159.103.210:9981/stream/channelid/1997483048?ticket=AF4B7F74FA838B78A13B13C25B7AAD33D8DDA562&profile=pass
-#EXTINF:-1 tvg-id="69bdd77e982f6c15669f6267e90b6369",YOU FM
-http://93.159.103.210:9981/stream/channelid/2128067945?ticket=A934AE8947B32B0AC19445EE8A105D0F690B8ACF&profile=pass
-#EXTINF:-1 tvg-id="3814e78628c4e34141bbb98b512ae73e",ZDFinfo
-http://93.159.103.210:9981/stream/channelid/115807288?ticket=01AE1C1D9176B92EA0D0BD5D84995CD53EE40232&profile=pass
-#EXTINF:-1 tvg-id="881b4eacec17bbf1b00bed2559dc3a4f",Zee One
-http://93.159.103.210:9981/stream/channelid/743316360?ticket=7C222E3D483FBF2134B3C16662030662B76FFA02&profile=pass
-#EXTINF:-1 tvg-id="34da6426195319d62ad0611beccc25ce",Das Erste HD
-http://93.159.103.210:9981/stream/channelid/644143668?ticket=26A246DAC5DF7FBA82BE358C759FB8C5EFDFC15C&profile=pass
-#EXTINF:-1 tvg-id="a9689a8565f3670a7474b5da7e9eb092",ZDF HD
-http://93.159.103.210:9981/stream/channelid/94005417?ticket=CD934295AB541F9D563F6EC462E289E315D6504E&profile=pass
-#EXTINF:-1 tvg-id="d176e9d0b2ba84fedb2ea024c13d3d6d",MDR SACHSEN
-http://93.159.103.210:9981/stream/channelid/1357477585?ticket=350EA5D5BC0E19EDDE5C1B237B9CD976975C8741&profile=pass
-#EXTINF:-1 tvg-id="c7b57f01df4a2f570d7b502bbf3b1d54",SAT.1
-http://93.159.103.210:9981/stream/channelid/25146823?ticket=B1847A83B223B44D659A734E424AAFE169205E34&profile=pass
-#EXTINF:-1 tvg-id="328372d08b6dd21bfd893a67550fa5a8",ProSieben
-http://93.159.103.210:9981/stream/channelid/1349681970?ticket=5F714C82702478273A76BDA7FF61DAFD4FE7BF7A&profile=pass
-#EXTINF:-1 tvg-id="6c98fb8909fe30387b20cdf1e175be07",kabel eins
-http://93.159.103.210:9981/stream/channelid/167483500?ticket=F48B62456E58D340B663A2BBD65D10013269E6EB&profile=pass
-#EXTINF:-1 tvg-id="3806bdb13705060e61f3371999cb1e8a",BR Fernsehen Nord HD
-http://93.159.103.210:9981/stream/channelid/834471480?ticket=D5293823F4B9AFCCCF22696DFF16084720D4551F&profile=pass
-#EXTINF:-1 tvg-id="d86e6f2edd3a849010358f808d82ec08",hr-fernsehen HD
-http://93.159.103.210:9981/stream/channelid/779054808?ticket=6A25B9335CCC4739A8C0DEF518A552F8040CCF02&profile=pass
-#EXTINF:-1 tvg-id="314293bba053e6aaa228b430f930f4f3",NDR FS MV
-http://93.159.103.210:9981/stream/channelid/999506481?ticket=5EDD160FE50B5406F6A5415B042967721D4D1B2E&profile=pass
-#EXTINF:-1 tvg-id="a2eca443f0777ed4021662d310daf259",rbb Berlin HD
-http://93.159.103.210:9981/stream/channelid/1134881954?ticket=EAF77813AE5CE48463D74714B5D77E70B24D6A3C&profile=pass
-#EXTINF:-1 tvg-id="59035a1237bd5a67ee45c67a2d50a802",SWR BW HD
-http://93.159.103.210:9981/stream/channelid/307888985?ticket=32EB52C9A660DA8F96A5117C5F72E65D03FA2EDA&profile=pass
-#EXTINF:-1 tvg-id="12ee5cb87608c3de27733c7685393255",arte HD
-http://93.159.103.210:9981/stream/channelid/945614354?ticket=8FB2DB7CAF64263606E5772044F432FA7403271A&profile=pass
-#EXTINF:-1 tvg-id="ede33da351e4d3529b1d3b6abd0e50af",SAT.1 Gold
-http://93.159.103.210:9981/stream/channelid/591258605?ticket=6B962172F975FCBD41484A528A36098F24008B69&profile=pass
-#EXTINF:-1 tvg-id="18d671fea6f9a3bf39cf469ecf5f53f7",Pro7 MAXX
-http://93.159.103.210:9981/stream/channelid/2121389592?ticket=C4BFFC7821F225FA9E527DA1F4340198E38532D0&profile=pass
-#EXTINF:-1 tvg-id="1ae33ea8147bc46a4e2d8e352975a13e",Eurosport 1 Deutschland
-http://93.159.103.210:9981/stream/channelid/675210010?ticket=5F54EEA5B125FC26DB1E47D8F5C1B6B61540AE40&profile=pass
-#EXTINF:-1 tvg-id="0de70a154cc118ec4c285f5c35660a47",N24
-http://93.159.103.210:9981/stream/channelid/353036045?ticket=A45CBAC2276434349575BFAA07F9B14C3C576B28&profile=pass
-#EXTINF:-1 tvg-id="bef874cbe2f392c33bc4a2888230486c",EURONEWS FRENCH SD
-http://93.159.103.210:9981/stream/channelid/1265957054?ticket=E08FD24F8DF14686EAEA5A185BE7916247FF8B5A&profile=pass
-#EXTINF:-1 tvg-id="0f98819a76896a3846f23e060098ed51",PHOENIX HD
-http://93.159.103.210:9981/stream/channelid/444700687?ticket=CCDB10A256DE8960EA594FA0D386EFD57CDB183F&profile=pass
-#EXTINF:-1 tvg-id="f68813823e2c4f4e1ac289473b884f02",zdf_neo HD
-http://93.159.103.210:9981/stream/channelid/34834678?ticket=546731EED482EC4C14431A1E306800478AB4E35E&profile=pass
-#EXTINF:-1 tvg-id="487de30cc9208ec3b5ee611b22a5b0c4",sonnenklar.TV HD
-http://93.159.103.210:9981/stream/channelid/216235336?ticket=26EADBCD3E02E8DCFC4F635863FB57B2BFF637AF&profile=pass
-#EXTINF:-1 tvg-id="1748819aedcff43bcd49877919637eed",ARD-alpha
-http://93.159.103.210:9981/stream/channelid/444680215?ticket=73A88E3B68AE6E9FC232D0883AB60209FA8D3163&profile=pass
-#EXTINF:-1 tvg-id="114c14398fbf79720bfe01fcd7d0b865",1-2-3.tv HD
-http://93.159.103.210:9981/stream/channelid/957631505?ticket=F1E2E81200C5364FBDE97AC8F4C3414A9B0B7229&profile=pass
-#EXTINF:-1 tvg-id="64e66c3ede1723635bec92ced9ba551c",HSE24 EXTRA
-http://93.159.103.210:9981/stream/channelid/1047324260?ticket=73F4FDEB73B1DAF7ACE309BC5C54F26697368DA8&profile=pass
-#EXTINF:-1 tvg-id="e53ef065dc8d49ccad653b0a59800035",Juwelo HD
-http://93.159.103.210:9981/stream/channelid/1710243557?ticket=3DD34D32BF168CDC88AC09E1F01BEFBA53831931&profile=pass
-#EXTINF:-1 tvg-id="91865d5710b759b904919e8a4253b358",pearl.tv HD Shop
-http://93.159.103.210:9981/stream/channelid/1465747089?ticket=355FC9795267676DE23EACCAB0D6683FC022E9E6&profile=pass
-#EXTINF:-1 tvg-id="2a0b3bcf15eccd87ccc80665a93dab4b",Sky Sport News
-http://93.159.103.210:9981/stream/channelid/1329269546?ticket=06B4A8804E935BE673328F7E0509581A01BF3316&profile=pass
-
-
-#EXTINF:-1 logo="http://95.91.149.24:9981/imagecache/432" tvg-id="cbb5ffd1ffb1a03cba72a3fee3b97938",Das Erste HD
-http://95.91.149.24:9981/stream/channelid/1375712715?ticket=912ED4FADB90EF042D21C7CB55FD8514F64CEAD0&profile=pass
-#EXTINF:-1 logo="http://95.91.149.24:9981/imagecache/241" tvg-id="8e14ae22202aaa842f0905e20b5b8f3a",zdf_neo HD
-http://95.91.149.24:9981/stream/channelid/581833870?ticket=A66266A0811B043CC293C7825A26DE2405A5030B&profile=pass
-#EXTINF:-1 logo="http://95.91.149.24:9981/imagecache/230" tvg-id="7346150149e6a9554478dac6aad345d1",RTL
-http://95.91.149.24:9981/stream/channelid/18171507?ticket=4BEBDFA4FBEC9A0841529EB4DDE367BBCD0108BD&profile=pass
-#EXTINF:-1 logo="http://95.91.149.24:9981/imagecache/428" tvg-id="090f4a26d38ae42f9c96c9157bf77892",RTL II
-http://95.91.149.24:9981/stream/channelid/642387721?ticket=3DD87F99FC135722725986E68E0FEF092AD3135D&profile=pass
-#EXTINF:-1 logo="http://95.91.149.24:9981/imagecache/95" tvg-id="9d0c8d4688c0935e7f6c7998e386b466",COMEDY CENTRAL/VIVA
-http://95.91.149.24:9981/stream/channelid/1183648925?ticket=2A42768A2F153E235E51689C6C34CA0744E3D1D6&profile=pass
-#EXTINF:-1 logo="http://95.91.149.24:9981/imagecache/15" tvg-id="036197cecfb1c80ff6a1b20aa19e8b45",ProSieben
-http://95.91.149.24:9981/stream/channelid/1318543619?ticket=C903472AD55F2A0C2BD36424814390BCC1F37A91&profile=pass
-#EXTINF:-1 logo="http://95.91.149.24:9981/imagecache/16" tvg-id="5a753c147b8bf7c2705fdb887aba29ba",kabel eins
-http://95.91.149.24:9981/stream/channelid/339506522?ticket=6FB3339CCDB31F401B96AC45196720A3BFCC9B7A&profile=pass
-#EXTINF:-1 logo="http://95.91.149.24:9981/imagecache/403" tvg-id="4c70f094a75c15a8284b31826ec45afb",kabel eins Doku
-http://95.91.149.24:9981/stream/channelid/351301708?ticket=9AB66AC4E2DA1AAD1041BCEBCD2E7A03A4F7079C&profile=pass
-#EXTINF:-1 logo="http://95.91.149.24:9981/imagecache/120" tvg-id="e76988857af2d4fb5fc812cb485aec1d",tagesschau24
-http://95.91.149.24:9981/stream/channelid/92826087?ticket=012B5220626A35701987FA85CB11C95F7FD21604&profile=pass
-#EXTINF:-1 logo="http://95.91.149.24:9981/imagecache/144" tvg-id="fb1631006ce00051ae48492558cf1cd4",RTLplus
-http://95.91.149.24:9981/stream/channelid/3217147?ticket=0C2E609C81C5BC8F9C43211A2E7FB96B9A8D8DC5&profile=pass
-#EXTINF:-1 logo="http://95.91.149.24:9981/imagecache/84" tvg-id="8c787b8ee5777f2cf7180da70995086a",SPORT1+
-http://95.91.149.24:9981/stream/channelid/242972812?ticket=3E256480E1F508622222D544E28F4D8C8C6F4C3C&profile=pass
-#EXTINF:-1 logo="http://95.91.149.24:9981/imagecache/425" tvg-id="b3dcf19d9a804aad9fc06b8a85f9236d",SAT.1 emotions
-http://95.91.149.24:9981/stream/channelid/502389939?ticket=7BF8472296A7E2BB328EB2749BC917B385186819&profile=pass
-#EXTINF:-1 logo="http://95.91.149.24:9981/imagecache/427" tvg-id="ac1e7e1b331d3be8755bb906745d7e19",SUPER RTL
-http://95.91.149.24:9981/stream/channelid/461250220?ticket=C5CCDFB2195811A156A4E98F0B6F78953D746A74&profile=pass
-#EXTINF:-1 logo="http://95.91.149.24:9981/imagecache/102" tvg-id="5e3b0ea6a312c937614f3a24a2da2460",Das Erste
-http://95.91.149.24:9981/stream/channelid/638466910?ticket=79AE66083D006DC9DD6C2A7E41E08931A89CD568&profile=pass
-#EXTINF:-1 logo="http://95.91.149.24:9981/imagecache/426" tvg-id="90af34283723da2ea5e94f08fb532030",kabel eins CLASSICS
-http://95.91.149.24:9981/stream/channelid/674541456?ticket=03F0EF4FFF218F5C438ED596DA61C8C9008569D6&profile=pass
-#EXTINF:-1 logo="http://95.91.149.24:9981/imagecache/101" tvg-id="a33e462fe29eb1714e40360f6f6d8906",MDR Sachsen HD
-http://95.91.149.24:9981/stream/channelid/793132707?ticket=F5F5347747BEE67C86D1E87A64AE9BB9BD57911A&profile=pass
-#EXTINF:-1 logo="http://95.91.149.24:9981/imagecache/397" tvg-id="93e1dab9d9103e22ebf957430ef67765",hr-fernsehen HD
-http://95.91.149.24:9981/stream/channelid/970645907?ticket=E66BB097278F7904A3FE32E60E3A1CEE2BF38148&profile=pass
-#EXTINF:-1 logo="http://95.91.149.24:9981/imagecache/122" tvg-id="c174dd3db3e4fc137b8627a0fcd93881",arte
-http://95.91.149.24:9981/stream/channelid/1037923521?ticket=FCD83D13DB97918CA44E4A1F56766B5D00DB739A&profile=pass
-#EXTINF:-1 logo="http://95.91.149.24:9981/imagecache/372" tvg-id="2b44ecbeb95e52a31145908c74987925",RTL Crime
-http://95.91.149.24:9981/stream/channelid/1055671339?ticket=A6EC0C0269BA35512EBBAAA170E74376C3E84183&profile=pass
-#EXTINF:-1 logo="http://95.91.149.24:9981/imagecache/408" tvg-id="f5d8e0c8f56ead16f3dab4792bc9f358",N24 Doku
-http://95.91.149.24:9981/stream/channelid/1222695157?ticket=C1448A63DED2CA4487B4055D4989E9AC2AD3B0AE&profile=pass
-#EXTINF:-1 logo="http://95.91.149.24:9981/imagecache/5" tvg-id="1264604f9a1a7421170f816c61204fe4",sixx
-http://95.91.149.24:9981/stream/channelid/1331717138?ticket=36E9777EBC7FDC242AEA7F6573D3413788E38A69&profile=pass
-#EXTINF:-1 logo="http://95.91.149.24:9981/imagecache/339" tvg-id="d887dbd1d8a7796d910287eb2fac6d25",RTL Living
-http://95.91.149.24:9981/stream/channelid/1373341656?ticket=8E4D77FD9E53F110A102B2F2FC4620ED090B17F4&profile=pass
-#EXTINF:-1 logo="http://95.91.149.24:9981/imagecache/340" tvg-id="f3be435e7a5ff3ee228278a115767602",ProSieben MAXX
-http://95.91.149.24:9981/stream/channelid/1581498099?ticket=510918B66E2872826F8270947F14D4916B531B38&profile=pass
-#EXTINF:-1 logo="http://95.91.149.24:9981/imagecache/60" tvg-id="8f713761586759509329634f2e4c9a1f",ZDFinfo
-http://95.91.149.24:9981/stream/channelid/1631023503?ticket=463ADCD3A260B7F292C028C98E5C0AC43785E961&profile=pass
-#EXTINF:-1 logo="http://95.91.149.24:9981/imagecache/56" tvg-id="29ac55625bef322d5be588a749aa534b",ZDF HD
-http://95.91.149.24:9981/stream/channelid/1649781801?ticket=DE04BC75F99F2ADE04605731A107624DB0D4F973&profile=pass
-#EXTINF:-1 logo="http://95.91.149.24:9981/imagecache/208" tvg-id="29835ce685ae595d2a092d58feef63a8",TLC
-http://95.91.149.24:9981/stream/channelid/1717338921?ticket=4E1E8CFD8CFE43B7FDFEDDD695582BE174FB135C&profile=pass
-#EXTINF:-1 logo="http://95.91.149.24:9981/imagecache/353" tvg-id="47aeed2586fdf59520dc6e6af0ed1b34",TNT Serie
-http://95.91.149.24:9981/stream/channelid/636333639?ticket=D30727F8A0D26A064438154A5B554569AD5A0076&profile=pass
-#EXTINF:-1 logo="http://95.91.149.24:9981/imagecache/429" tvg-id="aab17f68a0c5e09fc3ddc077833ed7ff",VOX
-http://95.91.149.24:9981/stream/channelid/1753199018?ticket=7BF261EAD1173A2025AC45DAF7B06DEF144888B6&profile=pass
-#EXTINF:-1 logo="http://95.91.149.24:9981/imagecache/207" tvg-id="42c422ec9156a2025aeedec434352d5a",NITRO
-http://95.91.149.24:9981/stream/channelid/1814217794?ticket=FD7E135D3763FCB6B72A5164F07B8775D213AF40&profile=pass
-#EXTINF:-1 logo="http://95.91.149.24:9981/imagecache/90" tvg-id="49193fee9ed0e3f30997485cdae4db8a",Nick
-http://95.91.149.24:9981/stream/channelid/1849629001?ticket=B441DC1CC990A6C21C12DDCEF7208B411C5F7829&profile=pass
-#EXTINF:-1 logo="http://95.91.149.24:9981/imagecache/373" tvg-id="3c9558f6294473b201404a534bac85f6",RTL Passion
-http://95.91.149.24:9981/stream/channelid/1985516860?ticket=83B4C4463EEE55BB0B2BA093DDE2CC9B7F03AF23&profile=pass
-#EXTINF:-1 logo="http://95.91.149.24:9981/imagecache/334" tvg-id="53b409f8014e009782af4a538a8706b3",3sat HD
-http://95.91.149.24:9981/stream/channelid/2013901907?ticket=1B21B593334A9262F97C7A4307DCF078A6643A18&profile=pass
-#EXTINF:-1 logo="http://95.91.149.24:9981/imagecache/97" tvg-id="56fd49fe273a17f1641b907da4c50ddd",DMAX
-http://95.91.149.24:9981/stream/channelid/2118778198?ticket=2E57590A4003FFE986B8476A826FA66173ACF233&profile=pass
-#EXTINF:-1 logo="http://95.91.149.24:9981/imagecache/231" tvg-id="3d2f8fe4c299634c61953ee7cbc2a28f",SAT.1
-http://95.91.149.24:9981/stream/channelid/1687105341?ticket=51FE250719962175868D461AABB810A5247B467D&profile=pass
-
+#EXTINF:-1,13th Street DE
+http://clientportal.link:8080/live/6vFVk7NzDU/luH1S6ft7V/3428.m3u8
+#EXTINF:-1,13th Street FHD DE
+http://clientportal.link:8080/live/6vFVk7NzDU/luH1S6ft7V/14060.m3u8
+#EXTINF:-1,3sat DE
+http://clientportal.link:8080/live/6vFVk7NzDU/luH1S6ft7V/12341.m3u8
+#EXTINF:-1,3sat FHD DE
+http://clientportal.link:8080/live/6vFVk7NzDU/luH1S6ft7V/16497.m3u8
+#EXTINF:-1,A&E DE
+http://clientportal.link:8080/live/6vFVk7NzDU/luH1S6ft7V/13109.m3u8
+#EXTINF:-1,A&E FHD DE
+http://clientportal.link:8080/live/6vFVk7NzDU/luH1S6ft7V/14059.m3u8
+#EXTINF:-1,Animal Planet HD DE
+http://clientportal.link:8080/live/6vFVk7NzDU/luH1S6ft7V/9561.m3u8
+#EXTINF:-1,ANIXE DE
+http://clientportal.link:8080/live/6vFVk7NzDU/luH1S6ft7V/3445.m3u8
+#EXTINF:-1,ANIXE FHD DE
+http://clientportal.link:8080/live/6vFVk7NzDU/luH1S6ft7V/14576.m3u8
+#EXTINF:-1,Arte FHD DE
+http://clientportal.link:8080/live/6vFVk7NzDU/luH1S6ft7V/16496.m3u8
+#EXTINF:-1,Astro TV DE
+http://clientportal.link:8080/live/6vFVk7NzDU/luH1S6ft7V/12339.m3u8
+#EXTINF:-1,AXN DE
+http://clientportal.link:8080/live/6vFVk7NzDU/luH1S6ft7V/9562.m3u8
+#EXTINF:-1,AXN HD DE
+http://clientportal.link:8080/live/6vFVk7NzDU/luH1S6ft7V/17498.m3u8
+#EXTINF:-1,Boomerang DE
+http://clientportal.link:8080/live/6vFVk7NzDU/luH1S6ft7V/12315.m3u8
+#EXTINF:-1,BR Fernsehen Nord DE
+http://clientportal.link:8080/live/6vFVk7NzDU/luH1S6ft7V/12322.m3u8
+#EXTINF:-1,BR Fernsehen Nord HD DE
+http://clientportal.link:8080/live/6vFVk7NzDU/luH1S6ft7V/16495.m3u8
+#EXTINF:-1,Cartoon Network DE
+http://clientportal.link:8080/live/6vFVk7NzDU/luH1S6ft7V/15565.m3u8
+#EXTINF:-1,CLASSICA DE
+http://clientportal.link:8080/live/6vFVk7NzDU/luH1S6ft7V/9555.m3u8
+#EXTINF:-1,Comedy Central FHD DE
+http://clientportal.link:8080/live/6vFVk7NzDU/luH1S6ft7V/17280.m3u8
+#EXTINF:-1,Das Erste FHD DE
+http://clientportal.link:8080/live/6vFVk7NzDU/luH1S6ft7V/16493.m3u8
+#EXTINF:-1,Das Erste DE
+http://clientportal.link:8080/live/6vFVk7NzDU/luH1S6ft7V/3451.m3u8
+#EXTINF:-1,Deluxe Music DE
+http://clientportal.link:8080/live/6vFVk7NzDU/luH1S6ft7V/9554.m3u8
+#EXTINF:-1,Deluxe Music FHD DE
+http://clientportal.link:8080/live/6vFVk7NzDU/luH1S6ft7V/14057.m3u8
+#EXTINF:-1,Deutsches Musik Fernsehen DE
+http://clientportal.link:8080/live/6vFVk7NzDU/luH1S6ft7V/12334.m3u8
+#EXTINF:-1,Discovery Channel FHD DE
+http://clientportal.link:8080/live/6vFVk7NzDU/luH1S6ft7V/14063.m3u8
+#EXTINF:-1,Discovery Channel HD DE
+http://clientportal.link:8080/live/6vFVk7NzDU/luH1S6ft7V/3426.m3u8
+#EXTINF:-1,Disney Channel DE
+http://clientportal.link:8080/live/6vFVk7NzDU/luH1S6ft7V/3622.m3u8
+#EXTINF:-1,Disney Channel FHD DE
+http://clientportal.link:8080/live/6vFVk7NzDU/luH1S6ft7V/14056.m3u8
+#EXTINF:-1,Disney Cinemagic FHD DE
+http://clientportal.link:8080/live/6vFVk7NzDU/luH1S6ft7V/14312.m3u8
+#EXTINF:-1,Disney Cinemagic DE
+http://clientportal.link:8080/live/6vFVk7NzDU/luH1S6ft7V/9548.m3u8
+#EXTINF:-1,Disney Junior DE
+http://clientportal.link:8080/live/6vFVk7NzDU/luH1S6ft7V/9549.m3u8
+#EXTINF:-1,Disney Junior HD DE
+http://clientportal.link:8080/live/6vFVk7NzDU/luH1S6ft7V/15566.m3u8
+#EXTINF:-1,Disney XD DE
+http://clientportal.link:8080/live/6vFVk7NzDU/luH1S6ft7V/9547.m3u8
+#EXTINF:-1,DMAX DE
+http://clientportal.link:8080/live/6vFVk7NzDU/luH1S6ft7V/3431.m3u8
+#EXTINF:-1,E! Entertainment HD DE
+http://clientportal.link:8080/live/6vFVk7NzDU/luH1S6ft7V/15567.m3u8
+#EXTINF:-1,Eurosport 1 HD DE
+http://clientportal.link:8080/live/6vFVk7NzDU/luH1S6ft7V/3435.m3u8
+#EXTINF:-1,Eurosport 2 DE
+http://clientportal.link:8080/live/6vFVk7NzDU/luH1S6ft7V/9553.m3u8
+#EXTINF:-1,Eurosport 2 HD DE
+http://clientportal.link:8080/live/6vFVk7NzDU/luH1S6ft7V/15568.m3u8
+#EXTINF:-1,Eurosport 2 Xtra HD DE
+http://clientportal.link:8080/live/6vFVk7NzDU/luH1S6ft7V/17281.m3u8
+#EXTINF:-1,Family TV DE
+http://clientportal.link:8080/live/6vFVk7NzDU/luH1S6ft7V/13108.m3u8
+#EXTINF:-1,Folx TV DE
+http://clientportal.link:8080/live/6vFVk7NzDU/luH1S6ft7V/12319.m3u8
+#EXTINF:-1,FOX FHD DE
+http://clientportal.link:8080/live/6vFVk7NzDU/luH1S6ft7V/14055.m3u8
+#EXTINF:-1,FOX HD DE
+http://clientportal.link:8080/live/6vFVk7NzDU/luH1S6ft7V/3425.m3u8
+#EXTINF:-1,FOX Series DE
+http://clientportal.link:8080/live/6vFVk7NzDU/luH1S6ft7V/12294.m3u8
+#EXTINF:-1,GOTV DE
+http://clientportal.link:8080/live/6vFVk7NzDU/luH1S6ft7V/12318.m3u8
+#EXTINF:-1,Gute Laune TV DE
+http://clientportal.link:8080/live/6vFVk7NzDU/luH1S6ft7V/13110.m3u8
+#EXTINF:-1,Heimatkanal DE
+http://clientportal.link:8080/live/6vFVk7NzDU/luH1S6ft7V/9558.m3u8
+#EXTINF:-1,History DE
+http://clientportal.link:8080/live/6vFVk7NzDU/luH1S6ft7V/3424.m3u8
+#EXTINF:-1,History FHD DE
+http://clientportal.link:8080/live/6vFVk7NzDU/luH1S6ft7V/14311.m3u8
+#EXTINF:-1,hr-Fernsehen DE
+http://clientportal.link:8080/live/6vFVk7NzDU/luH1S6ft7V/12316.m3u8
+#EXTINF:-1,JukeBox DE
+http://clientportal.link:8080/live/6vFVk7NzDU/luH1S6ft7V/15579.m3u8
+#EXTINF:-1,Kabel Eins Classics DE
+http://clientportal.link:8080/live/6vFVk7NzDU/luH1S6ft7V/16581.m3u8
+#EXTINF:-1,Kabel Eins FHD DE
+http://clientportal.link:8080/live/6vFVk7NzDU/luH1S6ft7V/1649.m3u8
+#EXTINF:-1,KiKa DE
+http://clientportal.link:8080/live/6vFVk7NzDU/luH1S6ft7V/1648.m3u8
+#EXTINF:-1,KiKA FHD DE
+http://clientportal.link:8080/live/6vFVk7NzDU/luH1S6ft7V/16492.m3u8
+#EXTINF:-1,Kinowelt TV DE
+http://clientportal.link:8080/live/6vFVk7NzDU/luH1S6ft7V/12291.m3u8
+#EXTINF:-1,MDR SACHSEN-ANHALT FHD DE
+http://clientportal.link:8080/live/6vFVk7NzDU/luH1S6ft7V/15750.m3u8
+#EXTINF:-1,Motorvision TV DE
+http://clientportal.link:8080/live/6vFVk7NzDU/luH1S6ft7V/9564.m3u8
+#EXTINF:-1,MTV HD DE
+http://clientportal.link:8080/live/6vFVk7NzDU/luH1S6ft7V/15759.m3u8
+#EXTINF:-1,n-tv DE
+http://clientportal.link:8080/live/6vFVk7NzDU/luH1S6ft7V/3449.m3u8
+#EXTINF:-1,n-tv FHD DE
+http://clientportal.link:8080/live/6vFVk7NzDU/luH1S6ft7V/14054.m3u8
+#EXTINF:-1,N24 FHD DE
+http://clientportal.link:8080/live/6vFVk7NzDU/luH1S6ft7V/14573.m3u8
+#EXTINF:-1,N24 DE
+http://clientportal.link:8080/live/6vFVk7NzDU/luH1S6ft7V/3448.m3u8
+#EXTINF:-1,Nat Geo Wild FHD DE
+http://clientportal.link:8080/live/6vFVk7NzDU/luH1S6ft7V/14062.m3u8
+#EXTINF:-1,National Geographic Wild HD DE
+http://clientportal.link:8080/live/6vFVk7NzDU/luH1S6ft7V/1646.m3u8
+#EXTINF:-1,National Geographic DE
+http://clientportal.link:8080/live/6vFVk7NzDU/luH1S6ft7V/3419.m3u8
+#EXTINF:-1,National Geographic FHD DE
+http://clientportal.link:8080/live/6vFVk7NzDU/luH1S6ft7V/14053.m3u8
+#EXTINF:-1,NDR Fernsehen Schleswig-Holstein FHD DE
+http://clientportal.link:8080/live/6vFVk7NzDU/luH1S6ft7V/16488.m3u8
+#EXTINF:-1,NDR HD DE
+http://clientportal.link:8080/live/6vFVk7NzDU/luH1S6ft7V/3443.m3u8
+#EXTINF:-1,Nickelodeon FHD DE
+http://clientportal.link:8080/live/6vFVk7NzDU/luH1S6ft7V/14571.m3u8
+#EXTINF:-1,ORF 2 DE
+http://clientportal.link:8080/live/6vFVk7NzDU/luH1S6ft7V/1644.m3u8
+#EXTINF:-1,ORF eins DE
+http://clientportal.link:8080/live/6vFVk7NzDU/luH1S6ft7V/12302.m3u8
+#EXTINF:-1,ORF eins HD DE
+http://clientportal.link:8080/live/6vFVk7NzDU/luH1S6ft7V/1643.m3u8
+#EXTINF:-1,ORF III DE
+http://clientportal.link:8080/live/6vFVk7NzDU/luH1S6ft7V/12303.m3u8
+#EXTINF:-1,Phoenix DE
+http://clientportal.link:8080/live/6vFVk7NzDU/luH1S6ft7V/3454.m3u8
+#EXTINF:-1,Phoenix FHD DE
+http://clientportal.link:8080/live/6vFVk7NzDU/luH1S6ft7V/16487.m3u8
+#EXTINF:-1,Popcorn Select 1 FHD DE
+http://clientportal.link:8080/live/6vFVk7NzDU/luH1S6ft7V/18234.m3u8
+#EXTINF:-1,Popcorn Select 2 FHD DE
+http://clientportal.link:8080/live/6vFVk7NzDU/luH1S6ft7V/18235.m3u8
+#EXTINF:-1,Popcorn Select 3 FHD DE
+http://clientportal.link:8080/live/6vFVk7NzDU/luH1S6ft7V/18236.m3u8
+#EXTINF:-1,Popcorn Select 4 HD DE
+http://clientportal.link:8080/live/6vFVk7NzDU/luH1S6ft7V/18237.m3u8
+#EXTINF:-1,Popcorn Select 5 HD DE
+http://clientportal.link:8080/live/6vFVk7NzDU/luH1S6ft7V/18238.m3u8
+#EXTINF:-1,Popcorn Select 6 HD DE
+http://clientportal.link:8080/live/6vFVk7NzDU/luH1S6ft7V/18239.m3u8
+#EXTINF:-1,ProSieben DE
+http://clientportal.link:8080/live/6vFVk7NzDU/luH1S6ft7V/1642.m3u8
+#EXTINF:-1,ProSieben FHD DE
+http://clientportal.link:8080/live/6vFVk7NzDU/luH1S6ft7V/14052.m3u8
+#EXTINF:-1,ProSieben Maxx DE
+http://clientportal.link:8080/live/6vFVk7NzDU/luH1S6ft7V/3444.m3u8
+#EXTINF:-1,ProSieben Maxx FHD DE
+http://clientportal.link:8080/live/6vFVk7NzDU/luH1S6ft7V/14051.m3u8
+#EXTINF:-1,rbb Fernsehen Berlin FHD DE
+http://clientportal.link:8080/live/6vFVk7NzDU/luH1S6ft7V/15747.m3u8
+#EXTINF:-1,rbb Fernsehen Brandenburg FHD DE
+http://clientportal.link:8080/live/6vFVk7NzDU/luH1S6ft7V/15754.m3u8
+#EXTINF:-1,One FHD DE
+http://clientportal.link:8080/live/6vFVk7NzDU/luH1S6ft7V/15751.m3u8
+#EXTINF:-1,Regio TV DE
+http://clientportal.link:8080/live/6vFVk7NzDU/luH1S6ft7V/12328.m3u8
+#EXTINF:-1,Romance TV DE
+http://clientportal.link:8080/live/6vFVk7NzDU/luH1S6ft7V/13111.m3u8
+#EXTINF:-1,RiC DE
+http://clientportal.link:8080/live/6vFVk7NzDU/luH1S6ft7V/18233.m3u8
+#EXTINF:-1,RTL Crime DE
+http://clientportal.link:8080/live/6vFVk7NzDU/luH1S6ft7V/1650.m3u8
+#EXTINF:-1,RTL Crime HD DE
+http://clientportal.link:8080/live/6vFVk7NzDU/luH1S6ft7V/15570.m3u8
+#EXTINF:-1,RTL FS DE
+http://clientportal.link:8080/live/6vFVk7NzDU/luH1S6ft7V/12300.m3u8
+#EXTINF:-1,RTL HB NDS DE
+http://clientportal.link:8080/live/6vFVk7NzDU/luH1S6ft7V/12299.m3u8
+#EXTINF:-1,RTL FHD DE
+http://clientportal.link:8080/live/6vFVk7NzDU/luH1S6ft7V/14049.m3u8
+#EXTINF:-1,RTL HD DE
+http://clientportal.link:8080/live/6vFVk7NzDU/luH1S6ft7V/3825.m3u8
+#EXTINF:-1,RTL II DE
+http://clientportal.link:8080/live/6vFVk7NzDU/luH1S6ft7V/3826.m3u8
+#EXTINF:-1,RTL II FHD DE
+http://clientportal.link:8080/live/6vFVk7NzDU/luH1S6ft7V/14050.m3u8
+#EXTINF:-1,RTL Living DE
+http://clientportal.link:8080/live/6vFVk7NzDU/luH1S6ft7V/3202.m3u8
+#EXTINF:-1,RTL NITRO DE
+http://clientportal.link:8080/live/6vFVk7NzDU/luH1S6ft7V/1639.m3u8
+#EXTINF:-1,RTL NITRO FHD DE
+http://clientportal.link:8080/live/6vFVk7NzDU/luH1S6ft7V/14048.m3u8
+#EXTINF:-1,RTL WEST DE
+http://clientportal.link:8080/live/6vFVk7NzDU/luH1S6ft7V/12298.m3u8
+#EXTINF:-1,RTL Passion DE
+http://clientportal.link:8080/live/6vFVk7NzDU/luH1S6ft7V/9563.m3u8
+#EXTINF:-1,Silverline DE
+http://clientportal.link:8080/live/6vFVk7NzDU/luH1S6ft7V/16501.m3u8
+#EXTINF:-1,RTLplus DE
+http://clientportal.link:8080/live/6vFVk7NzDU/luH1S6ft7V/12297.m3u8
+#EXTINF:-1,SAT.1 Gold DE
+http://clientportal.link:8080/live/6vFVk7NzDU/luH1S6ft7V/12309.m3u8
+#EXTINF:-1,SAT.1 FHD DE
+http://clientportal.link:8080/live/6vFVk7NzDU/luH1S6ft7V/14047.m3u8
+#EXTINF:-1,SAT.1 HD DE
+http://clientportal.link:8080/live/6vFVk7NzDU/luH1S6ft7V/1637.m3u8
+#EXTINF:-1,SAT.1 NRW DE
+http://clientportal.link:8080/live/6vFVk7NzDU/luH1S6ft7V/12308.m3u8
+#EXTINF:-1,ServusTV Deutschland DE
+http://clientportal.link:8080/live/6vFVk7NzDU/luH1S6ft7V/12307.m3u8
+#EXTINF:-1,Sixx DE
+http://clientportal.link:8080/live/6vFVk7NzDU/luH1S6ft7V/9560.m3u8
+#EXTINF:-1,Sixx FHD DE
+http://clientportal.link:8080/live/6vFVk7NzDU/luH1S6ft7V/14046.m3u8
+#EXTINF:-1,Sky 1 HD DE
+http://clientportal.link:8080/live/6vFVk7NzDU/luH1S6ft7V/9557.m3u8
+#EXTINF:-1,Sky Arts FHD DE
+http://clientportal.link:8080/live/6vFVk7NzDU/luH1S6ft7V/15573.m3u8
+#EXTINF:-1,Sky Atlantic FHD DE
+http://clientportal.link:8080/live/6vFVk7NzDU/luH1S6ft7V/14306.m3u8
+#EXTINF:-1,Sky Atlantic DE
+http://clientportal.link:8080/live/6vFVk7NzDU/luH1S6ft7V/1645.m3u8
+#EXTINF:-1,Sky Cinema +1 DE
+http://clientportal.link:8080/live/6vFVk7NzDU/luH1S6ft7V/3434.m3u8
+#EXTINF:-1,Sky Cinema +1 HD DE
+http://clientportal.link:8080/live/6vFVk7NzDU/luH1S6ft7V/15574.m3u8
+#EXTINF:-1,Sky Cinema +24 DE
+http://clientportal.link:8080/live/6vFVk7NzDU/luH1S6ft7V/1633.m3u8
+#EXTINF:-1,Sky Cinema +24 HD DE
+http://clientportal.link:8080/live/6vFVk7NzDU/luH1S6ft7V/15575.m3u8
+#EXTINF:-1,Sky Cinema Action FHD DE
+http://clientportal.link:8080/live/6vFVk7NzDU/luH1S6ft7V/14307.m3u8
+#EXTINF:-1,Sky Cinema Action DE
+http://clientportal.link:8080/live/6vFVk7NzDU/luH1S6ft7V/3432.m3u8
+#EXTINF:-1,Sky Cinema DE
+http://clientportal.link:8080/live/6vFVk7NzDU/luH1S6ft7V/1634.m3u8
+#EXTINF:-1,Sky Cinema Family FHD DE
+http://clientportal.link:8080/live/6vFVk7NzDU/luH1S6ft7V/15576.m3u8
+#EXTINF:-1,Sky Cinema FHD DE
+http://clientportal.link:8080/live/6vFVk7NzDU/luH1S6ft7V/14061.m3u8
+#EXTINF:-1,Sky Cinema HD DE
+http://clientportal.link:8080/live/6vFVk7NzDU/luH1S6ft7V/3420.m3u8
+#EXTINF:-1,Sky Cinema Hits FHD DE
+http://clientportal.link:8080/live/6vFVk7NzDU/luH1S6ft7V/14305.m3u8
+#EXTINF:-1,Sky Cinema Comedy DE
+http://clientportal.link:8080/live/6vFVk7NzDU/luH1S6ft7V/3430.m3u8
+#EXTINF:-1,Sky Emotion DE
+http://clientportal.link:8080/live/6vFVk7NzDU/luH1S6ft7V/1631.m3u8
+#EXTINF:-1,Sky Krimi DE
+http://clientportal.link:8080/live/6vFVk7NzDU/luH1S6ft7V/3429.m3u8
+#EXTINF:-1,Sky Nostalgie DE
+http://clientportal.link:8080/live/6vFVk7NzDU/luH1S6ft7V/9556.m3u8
+#EXTINF:-1,Sky Select 1 Live DE
+http://clientportal.link:8080/live/6vFVk7NzDU/luH1S6ft7V/11265.m3u8
+#EXTINF:-1,Sky Select 2 Live DE
+http://clientportal.link:8080/live/6vFVk7NzDU/luH1S6ft7V/11266.m3u8
+#EXTINF:-1,E! DE
+http://clientportal.link:8080/live/6vFVk7NzDU/luH1S6ft7V/16502.m3u8
+#EXTINF:-1,Sky Select 3 Live DE
+http://clientportal.link:8080/live/6vFVk7NzDU/luH1S6ft7V/11267.m3u8
+#EXTINF:-1,Sky Select 4 Live DE
+http://clientportal.link:8080/live/6vFVk7NzDU/luH1S6ft7V/11268.m3u8
+#EXTINF:-1,Sky Select 5 Live DE
+http://clientportal.link:8080/live/6vFVk7NzDU/luH1S6ft7V/11269.m3u8
+#EXTINF:-1,Sky Select 6 Live DE
+http://clientportal.link:8080/live/6vFVk7NzDU/luH1S6ft7V/11270.m3u8
+#EXTINF:-1,Sky Select 7 Live DE
+http://clientportal.link:8080/live/6vFVk7NzDU/luH1S6ft7V/11271.m3u8
+#EXTINF:-1,Sky Select 8 Live DE
+http://clientportal.link:8080/live/6vFVk7NzDU/luH1S6ft7V/11272.m3u8
+#EXTINF:-1,Sky Select Live 9 DE
+http://clientportal.link:8080/live/6vFVk7NzDU/luH1S6ft7V/12290.m3u8
+#EXTINF:-1,Sky Sport 1 DE
+http://clientportal.link:8080/live/6vFVk7NzDU/luH1S6ft7V/14559.m3u8
+#EXTINF:-1,Sky Sport 1 HD DE
+http://clientportal.link:8080/live/6vFVk7NzDU/luH1S6ft7V/1479.m3u8
+#EXTINF:-1,Sky Sport 1 FHD DE
+http://clientportal.link:8080/live/6vFVk7NzDU/luH1S6ft7V/7326.m3u8
+#EXTINF:-1,Sky Sport 10 FHD DE
+http://clientportal.link:8080/live/6vFVk7NzDU/luH1S6ft7V/7335.m3u8
+#EXTINF:-1,Sky Sport 11 HD DE
+http://clientportal.link:8080/live/6vFVk7NzDU/luH1S6ft7V/7336.m3u8
+#EXTINF:-1,Sky Sport 2 DE
+http://clientportal.link:8080/live/6vFVk7NzDU/luH1S6ft7V/14560.m3u8
+#EXTINF:-1,Sky Sport 2 HD DE
+http://clientportal.link:8080/live/6vFVk7NzDU/luH1S6ft7V/1480.m3u8
+#EXTINF:-1,Sky Sport 2 FHD DE
+http://clientportal.link:8080/live/6vFVk7NzDU/luH1S6ft7V/7327.m3u8
+#EXTINF:-1,Sky Sport 3 DE
+http://clientportal.link:8080/live/6vFVk7NzDU/luH1S6ft7V/14561.m3u8
+#EXTINF:-1,Sky Sport 3 FHD DE
+http://clientportal.link:8080/live/6vFVk7NzDU/luH1S6ft7V/7328.m3u8
+#EXTINF:-1,Sky Sport 4 DE
+http://clientportal.link:8080/live/6vFVk7NzDU/luH1S6ft7V/14562.m3u8
+#EXTINF:-1,Sky Sport 4 FHD DE
+http://clientportal.link:8080/live/6vFVk7NzDU/luH1S6ft7V/7329.m3u8
+#EXTINF:-1,Sky Sport 5 DE
+http://clientportal.link:8080/live/6vFVk7NzDU/luH1S6ft7V/14563.m3u8
+#EXTINF:-1,Sky Sport 5 FHD DE
+http://clientportal.link:8080/live/6vFVk7NzDU/luH1S6ft7V/7330.m3u8
+#EXTINF:-1,Sky Sport 6 DE
+http://clientportal.link:8080/live/6vFVk7NzDU/luH1S6ft7V/14564.m3u8
+#EXTINF:-1,Sky Sport 6 FHD DE
+http://clientportal.link:8080/live/6vFVk7NzDU/luH1S6ft7V/7331.m3u8
+#EXTINF:-1,Sky Sport 7 DE
+http://clientportal.link:8080/live/6vFVk7NzDU/luH1S6ft7V/14565.m3u8
+#EXTINF:-1,Sky Sport 7 FHD DE
+http://clientportal.link:8080/live/6vFVk7NzDU/luH1S6ft7V/7332.m3u8
+#EXTINF:-1,Sky Sport 8 DE
+http://clientportal.link:8080/live/6vFVk7NzDU/luH1S6ft7V/14566.m3u8
+#EXTINF:-1,Sky Sport 8 FHD DE
+http://clientportal.link:8080/live/6vFVk7NzDU/luH1S6ft7V/7333.m3u8
+#EXTINF:-1,Sky Sport 9 DE
+http://clientportal.link:8080/live/6vFVk7NzDU/luH1S6ft7V/14567.m3u8
+#EXTINF:-1,Sky Sport 9 FHD DE
+http://clientportal.link:8080/live/6vFVk7NzDU/luH1S6ft7V/7334.m3u8
+#EXTINF:-1,Sky Sport Austria DE
+http://clientportal.link:8080/live/6vFVk7NzDU/luH1S6ft7V/9551.m3u8
+#EXTINF:-1,Sky Sport Austria HD DE
+http://clientportal.link:8080/live/6vFVk7NzDU/luH1S6ft7V/15578.m3u8
+#EXTINF:-1,Sky Sport Bundesliga 1 DE
+http://clientportal.link:8080/live/6vFVk7NzDU/luH1S6ft7V/14550.m3u8
+#EXTINF:-1,Sky Sport Bundesliga 1 HD DE
+http://clientportal.link:8080/live/6vFVk7NzDU/luH1S6ft7V/3436.m3u8
+#EXTINF:-1,Sky Sport Bundesliga 1 FHD DE
+http://clientportal.link:8080/live/6vFVk7NzDU/luH1S6ft7V/7338.m3u8
+#EXTINF:-1,Sky Sport Bundesliga 10 DE
+http://clientportal.link:8080/live/6vFVk7NzDU/luH1S6ft7V/14558.m3u8
+#EXTINF:-1,Sky Sport Bundesliga 10 FHD DE
+http://clientportal.link:8080/live/6vFVk7NzDU/luH1S6ft7V/7347.m3u8
+#EXTINF:-1,Sky Sport Bundesliga 2 DE
+http://clientportal.link:8080/live/6vFVk7NzDU/luH1S6ft7V/14551.m3u8
+#EXTINF:-1,Sky Sport Bundesliga 2 FHD DE
+http://clientportal.link:8080/live/6vFVk7NzDU/luH1S6ft7V/7339.m3u8
+#EXTINF:-1,Sky Sport Bundesliga 3 DE
+http://clientportal.link:8080/live/6vFVk7NzDU/luH1S6ft7V/14552.m3u8
+#EXTINF:-1,Sky Sport Bundesliga 3 FHD DE
+http://clientportal.link:8080/live/6vFVk7NzDU/luH1S6ft7V/7340.m3u8
+#EXTINF:-1,Sky Sport Bundesliga 4 DE
+http://clientportal.link:8080/live/6vFVk7NzDU/luH1S6ft7V/14553.m3u8
+#EXTINF:-1,Sky Sport Bundesliga 4 FHD DE
+http://clientportal.link:8080/live/6vFVk7NzDU/luH1S6ft7V/7341.m3u8
+#EXTINF:-1,Sky Sport Bundesliga 5 DE
+http://clientportal.link:8080/live/6vFVk7NzDU/luH1S6ft7V/14554.m3u8
+#EXTINF:-1,Sky Sport Bundesliga 5 FHD DE
+http://clientportal.link:8080/live/6vFVk7NzDU/luH1S6ft7V/7342.m3u8
+#EXTINF:-1,Sky Sport Bundesliga 6 DE
+http://clientportal.link:8080/live/6vFVk7NzDU/luH1S6ft7V/14555.m3u8
+#EXTINF:-1,Sky Sport Bundesliga 6 FHD DE
+http://clientportal.link:8080/live/6vFVk7NzDU/luH1S6ft7V/7343.m3u8
+#EXTINF:-1,Sky Sport Bundesliga 7 FHD DE
+http://clientportal.link:8080/live/6vFVk7NzDU/luH1S6ft7V/7344.m3u8
+#EXTINF:-1,Sky Sport Bundesliga 8 DE
+http://clientportal.link:8080/live/6vFVk7NzDU/luH1S6ft7V/14556.m3u8
+#EXTINF:-1,Sky Sport Bundesliga 8 FHD DE
+http://clientportal.link:8080/live/6vFVk7NzDU/luH1S6ft7V/7345.m3u8
+#EXTINF:-1,Sky Sport Bundesliga 9 DE
+http://clientportal.link:8080/live/6vFVk7NzDU/luH1S6ft7V/14557.m3u8
+#EXTINF:-1,Sky Sport Bundesliga 9 FHD DE
+http://clientportal.link:8080/live/6vFVk7NzDU/luH1S6ft7V/7346.m3u8
+#EXTINF:-1,Sky Sport News DE
+http://clientportal.link:8080/live/6vFVk7NzDU/luH1S6ft7V/14577.m3u8
+#EXTINF:-1,Sky Sport News HD VIP DE
+http://clientportal.link:8080/live/6vFVk7NzDU/luH1S6ft7V/7337.m3u8
+#EXTINF:-1,Sony TV HD DE
+http://clientportal.link:8080/live/6vFVk7NzDU/luH1S6ft7V/3447.m3u8
+#EXTINF:-1,SPIEGEL Geschichte DE
+http://clientportal.link:8080/live/6vFVk7NzDU/luH1S6ft7V/3621.m3u8
+#EXTINF:-1,SPIEGEL TV Wissen FHD DE
+http://clientportal.link:8080/live/6vFVk7NzDU/luH1S6ft7V/14045.m3u8
+#EXTINF:-1,Sport1 DE
+http://clientportal.link:8080/live/6vFVk7NzDU/luH1S6ft7V/9552.m3u8
+#EXTINF:-1,SPORT1 FHD DE
+http://clientportal.link:8080/live/6vFVk7NzDU/luH1S6ft7V/15745.m3u8
+#EXTINF:-1,sportdigital DE
+http://clientportal.link:8080/live/6vFVk7NzDU/luH1S6ft7V/3841.m3u8
+#EXTINF:-1,Sportdigital FHD DE
+http://clientportal.link:8080/live/6vFVk7NzDU/luH1S6ft7V/16582.m3u8
+#EXTINF:-1,SR Fernsehen FHD DE
+http://clientportal.link:8080/live/6vFVk7NzDU/luH1S6ft7V/15749.m3u8
+#EXTINF:-1,SRF 1 HD DE
+http://clientportal.link:8080/live/6vFVk7NzDU/luH1S6ft7V/3446.m3u8
+#EXTINF:-1,SRF Zwei DE
+http://clientportal.link:8080/live/6vFVk7NzDU/luH1S6ft7V/3440.m3u8
+#EXTINF:-1,Super RTL DE
+http://clientportal.link:8080/live/6vFVk7NzDU/luH1S6ft7V/3456.m3u8
+#EXTINF:-1,Super RTL FHD DE
+http://clientportal.link:8080/live/6vFVk7NzDU/luH1S6ft7V/14044.m3u8
+#EXTINF:-1,SWR BW FHD DE
+http://clientportal.link:8080/live/6vFVk7NzDU/luH1S6ft7V/16486.m3u8
+#EXTINF:-1,SWR DE
+http://clientportal.link:8080/live/6vFVk7NzDU/luH1S6ft7V/12296.m3u8
+#EXTINF:-1,Syfy DE
+http://clientportal.link:8080/live/6vFVk7NzDU/luH1S6ft7V/3204.m3u8
+#EXTINF:-1,Syfy FHD DE
+http://clientportal.link:8080/live/6vFVk7NzDU/luH1S6ft7V/14043.m3u8
+#EXTINF:-1,tagesschau24 FHD DE
+http://clientportal.link:8080/live/6vFVk7NzDU/luH1S6ft7V/15752.m3u8
+#EXTINF:-1,Tele 5 DE
+http://clientportal.link:8080/live/6vFVk7NzDU/luH1S6ft7V/12325.m3u8
+#EXTINF:-1,TLC DE
+http://clientportal.link:8080/live/6vFVk7NzDU/luH1S6ft7V/12324.m3u8
+#EXTINF:-1,TLC FHD DE
+http://clientportal.link:8080/live/6vFVk7NzDU/luH1S6ft7V/15757.m3u8
+#EXTINF:-1,TNT Comedy HD DE
+http://clientportal.link:8080/live/6vFVk7NzDU/luH1S6ft7V/15577.m3u8
+#EXTINF:-1,TNT Film DE
+http://clientportal.link:8080/live/6vFVk7NzDU/luH1S6ft7V/3422.m3u8
+#EXTINF:-1,TNT Serie DE
+http://clientportal.link:8080/live/6vFVk7NzDU/luH1S6ft7V/3421.m3u8
+#EXTINF:-1,TNT Serie FHD DE
+http://clientportal.link:8080/live/6vFVk7NzDU/luH1S6ft7V/14303.m3u8
+#EXTINF:-1,TOGGO plus DE
+http://clientportal.link:8080/live/6vFVk7NzDU/luH1S6ft7V/12323.m3u8
+#EXTINF:-1,Universal Channel HD DE
+http://clientportal.link:8080/live/6vFVk7NzDU/luH1S6ft7V/3439.m3u8
+#EXTINF:-1,Comedy Central DE
+http://clientportal.link:8080/live/6vFVk7NzDU/luH1S6ft7V/12317.m3u8
+#EXTINF:-1,VOX FHD DE
+http://clientportal.link:8080/live/6vFVk7NzDU/luH1S6ft7V/14291.m3u8
+#EXTINF:-1,VOX HD DE
+http://clientportal.link:8080/live/6vFVk7NzDU/luH1S6ft7V/1630.m3u8
+#EXTINF:-1,WDR DE
+http://clientportal.link:8080/live/6vFVk7NzDU/luH1S6ft7V/3442.m3u8
+#EXTINF:-1,Welt der Wunder DE
+http://clientportal.link:8080/live/6vFVk7NzDU/luH1S6ft7V/12305.m3u8
+#EXTINF:-1,ZDF DE
+http://clientportal.link:8080/live/6vFVk7NzDU/luH1S6ft7V/1629.m3u8
+#EXTINF:-1,ZDF HD DE
+http://clientportal.link:8080/live/6vFVk7NzDU/luH1S6ft7V/16484.m3u8
+#EXTINF:-1,ZDFinfo DE
+http://clientportal.link:8080/live/6vFVk7NzDU/luH1S6ft7V/12295.m3u8
+#EXTINF:-1,ZDFneo DE
+http://clientportal.link:8080/live/6vFVk7NzDU/luH1S6ft7V/3453.m3u8
+#EXTINF:-1,ZDFneo FHD DE
+http://clientportal.link:8080/live/6vFVk7NzDU/luH1S6ft7V/16482.m3u8
+#EXTINF:-1,ZDFinfo FHD DE
+http://clientportal.link:8080/live/6vFVk7NzDU/luH1S6ft7V/16483.m3u8
+#EXTINF:-1,Zee One DE
+http://clientportal.link:8080/live/6vFVk7NzDU/luH1S6ft7V/13112.m3u8
+#EXTINF:-1,Zee One FHD DE
+http://clientportal.link:8080/live/6vFVk7NzDU/luH1S6ft7V/15748.m3u8
+#EXTINF:-1,München TV CH
+http://clientportal.link:8080/live/6vFVk7NzDU/luH1S6ft7V/11659.m3u8
+#EXTINF:-1,FC Bayern FHD DE
+http://clientportal.link:8080/live/6vFVk7NzDU/luH1S6ft7V/16767.m3u8
+#EXTINF:-1,Sky Cinema Hits DE
+http://clientportal.link:8080/live/6vFVk7NzDU/luH1S6ft7V/16803.m3u8
+#EXTINF:-1,SPIEGEL Geschichte HD DE
+http://clientportal.link:8080/live/6vFVk7NzDU/luH1S6ft7V/16573.m3u8
+#EXTINF:-1,Sat. 1 Emotions DE
+http://clientportal.link:8080/live/6vFVk7NzDU/luH1S6ft7V/16836.m3u8
+#EXTINF:-1,Pro Sieben Fun HD DE
+http://clientportal.link:8080/live/6vFVk7NzDU/luH1S6ft7V/16627.m3u8
+#EXTINF:-1,TNT Film FHD DE
+http://clientportal.link:8080/live/6vFVk7NzDU/luH1S6ft7V/16628.m3u8
+#EXTINF:-1,Sport 1+ FHD DE
+http://clientportal.link:8080/live/6vFVk7NzDU/luH1S6ft7V/17166.m3u8
+#EXTINF:-1,Kabel Eins Doku DE
+http://clientportal.link:8080/live/6vFVk7NzDU/luH1S6ft7V/17167.m3u8
+#EXTINF:-1,DW English DE
+http://clientportal.link:8080/live/6vFVk7NzDU/luH1S6ft7V/17300.m3u8
