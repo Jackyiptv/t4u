@@ -1,913 +1,156 @@
 #EXTM3U
+#EXTINF:-1,|US| A&E
+http://4462.ipfox.co:8080/live/winsor_zqAq2S/dsD2rGJS/338.ts
+#EXTINF:-1,|US| ABC
+http://4462.ipfox.co:8080/live/winsor_zqAq2S/dsD2rGJS/328.ts
+#EXTINF:-1,|US| ABC News
+http://4462.ipfox.co:8080/live/winsor_zqAq2S/dsD2rGJS/339.ts
+#EXTINF:-1,|US| Action Max HD
+http://4462.ipfox.co:8080/live/winsor_zqAq2S/dsD2rGJS/296.ts
+#EXTINF:-1,|US| AMC HD
+http://4462.ipfox.co:8080/live/winsor_zqAq2S/dsD2rGJS/295.ts
+#EXTINF:-1,|US| Animal Planet
+http://4462.ipfox.co:8080/live/winsor_zqAq2S/dsD2rGJS/329.ts
+#EXTINF:-1,|US| Bein Sports
+http://4462.ipfox.co:8080/live/winsor_zqAq2S/dsD2rGJS/294.ts
+#EXTINF:-1,|US| Cartoon Network
+http://4462.ipfox.co:8080/live/winsor_zqAq2S/dsD2rGJS/331.ts
+#EXTINF:-1,|US| CBS HD
+http://4462.ipfox.co:8080/live/winsor_zqAq2S/dsD2rGJS/307.ts
+#EXTINF:-1,|US| CBS Sports Network HD
+http://4462.ipfox.co:8080/live/winsor_zqAq2S/dsD2rGJS/316.ts
+#EXTINF:-1,|US| CNN HD
+http://4462.ipfox.co:8080/live/winsor_zqAq2S/dsD2rGJS/306.ts
+#EXTINF:-1,|US| Comedy Central
+http://4462.ipfox.co:8080/live/winsor_zqAq2S/dsD2rGJS/305.ts
+#EXTINF:-1,|US| CW HD
+http://4462.ipfox.co:8080/live/winsor_zqAq2S/dsD2rGJS/332.ts
+#EXTINF:-1,|US| Discovery HD
+http://4462.ipfox.co:8080/live/winsor_zqAq2S/dsD2rGJS/292.ts
+#EXTINF:-1,|US| Discovery Science HD
+http://4462.ipfox.co:8080/live/winsor_zqAq2S/dsD2rGJS/333.ts
+#EXTINF:-1,|US| E!
+http://4462.ipfox.co:8080/live/winsor_zqAq2S/dsD2rGJS/334.ts
+#EXTINF:-1,|US| ESPN 2 HD
+http://4462.ipfox.co:8080/live/winsor_zqAq2S/dsD2rGJS/322.ts
+#EXTINF:-1,|US| ESPN Deportes
+http://4462.ipfox.co:8080/live/winsor_zqAq2S/dsD2rGJS/340.ts
+#EXTINF:-1,|US| ESPN News HD
+http://4462.ipfox.co:8080/live/winsor_zqAq2S/dsD2rGJS/324.ts
+#EXTINF:-1,|US| ESPN U HD
+http://4462.ipfox.co:8080/live/winsor_zqAq2S/dsD2rGJS/321.ts
+#EXTINF:-1,|US| ESPN USA HD
+http://4462.ipfox.co:8080/live/winsor_zqAq2S/dsD2rGJS/323.ts
+#EXTINF:-1,|US| Fight Network
+http://4462.ipfox.co:8080/live/winsor_zqAq2S/dsD2rGJS/265.ts
+#EXTINF:-1,|US| Fox HD
+http://4462.ipfox.co:8080/live/winsor_zqAq2S/dsD2rGJS/304.ts
+#EXTINF:-1,|US| Fox News HD
+http://4462.ipfox.co:8080/live/winsor_zqAq2S/dsD2rGJS/291.ts
+#EXTINF:-1,|US| Fox Sports 1 HD
+http://4462.ipfox.co:8080/live/winsor_zqAq2S/dsD2rGJS/320.ts
+#EXTINF:-1,|US| Fox Sports 2 HD
+http://4462.ipfox.co:8080/live/winsor_zqAq2S/dsD2rGJS/319.ts
+#EXTINF:-1,|US| Fox Sports West
+http://4462.ipfox.co:8080/live/winsor_zqAq2S/dsD2rGJS/278.ts
+#EXTINF:-1,|US| FX
+http://4462.ipfox.co:8080/live/winsor_zqAq2S/dsD2rGJS/290.ts
+#EXTINF:-1,|US| FXX
+http://4462.ipfox.co:8080/live/winsor_zqAq2S/dsD2rGJS/289.ts
+#EXTINF:-1,|US| 5 Star Max
+http://4462.ipfox.co:8080/live/winsor_zqAq2S/dsD2rGJS/264.ts
+#EXTINF:-1,|US| Golf HD
+http://4462.ipfox.co:8080/live/winsor_zqAq2S/dsD2rGJS/315.ts
+#EXTINF:-1,|US| HBO
+http://4462.ipfox.co:8080/live/winsor_zqAq2S/dsD2rGJS/285.ts
+#EXTINF:-1,|US| HBO Comedy
+http://4462.ipfox.co:8080/live/winsor_zqAq2S/dsD2rGJS/288.ts
+#EXTINF:-1,|US| HBO Signature
+http://4462.ipfox.co:8080/live/winsor_zqAq2S/dsD2rGJS/287.ts
+#EXTINF:-1,|US| HBO Zone
+http://4462.ipfox.co:8080/live/winsor_zqAq2S/dsD2rGJS/286.ts
+#EXTINF:-1,|US| HGTV
+http://4462.ipfox.co:8080/live/winsor_zqAq2S/dsD2rGJS/344.ts
+#EXTINF:-1,|US| History
+http://4462.ipfox.co:8080/live/winsor_zqAq2S/dsD2rGJS/284.ts
+#EXTINF:-1,|US| Investigation Discovery HD
+http://4462.ipfox.co:8080/live/winsor_zqAq2S/dsD2rGJS/283.ts
+#EXTINF:-1,|US| MLB Network HD
+http://4462.ipfox.co:8080/live/winsor_zqAq2S/dsD2rGJS/275.ts
+#EXTINF:-1,|US| MoreMax HD
+http://4462.ipfox.co:8080/live/winsor_zqAq2S/dsD2rGJS/282.ts
+#EXTINF:-1,|US| National Geographic
+http://4462.ipfox.co:8080/live/winsor_zqAq2S/dsD2rGJS/325.ts
+#EXTINF:-1,|US| NBA HD
+http://4462.ipfox.co:8080/live/winsor_zqAq2S/dsD2rGJS/318.ts
+#EXTINF:-1,|US| NBC
+http://4462.ipfox.co:8080/live/winsor_zqAq2S/dsD2rGJS/303.ts
+#EXTINF:-1,|US| NBC Sports Network HD
+http://4462.ipfox.co:8080/live/winsor_zqAq2S/dsD2rGJS/314.ts
+#EXTINF:-1,|US| NFL Channel HD
+http://4462.ipfox.co:8080/live/winsor_zqAq2S/dsD2rGJS/317.ts
+#EXTINF:-1,|US| NHL Network HD
+http://4462.ipfox.co:8080/live/winsor_zqAq2S/dsD2rGJS/313.ts
+#EXTINF:-1,|US| Nickelodeon
+http://4462.ipfox.co:8080/live/winsor_zqAq2S/dsD2rGJS/335.ts
+#EXTINF:-1,|US| PAC-12 Arizona HD
+http://4462.ipfox.co:8080/live/winsor_zqAq2S/dsD2rGJS/274.ts
+#EXTINF:-1,|US| PAC-12 Bay Area HD
+http://4462.ipfox.co:8080/live/winsor_zqAq2S/dsD2rGJS/273.ts
+#EXTINF:-1,|US| PAC-12 Los Angeles HD
+http://4462.ipfox.co:8080/live/winsor_zqAq2S/dsD2rGJS/272.ts
+#EXTINF:-1,|US| PAC-12 Mountain HD
+http://4462.ipfox.co:8080/live/winsor_zqAq2S/dsD2rGJS/271.ts
+#EXTINF:-1,|US| PAC-12 Oregon HD
+http://4462.ipfox.co:8080/live/winsor_zqAq2S/dsD2rGJS/270.ts
+#EXTINF:-1,|US| PAC-12 Washington HD
+http://4462.ipfox.co:8080/live/winsor_zqAq2S/dsD2rGJS/269.ts
+#EXTINF:-1,|US| Showtime
+http://4462.ipfox.co:8080/live/winsor_zqAq2S/dsD2rGJS/280.ts
+#EXTINF:-1,|US| Spike HD
+http://4462.ipfox.co:8080/live/winsor_zqAq2S/dsD2rGJS/281.ts
+#EXTINF:-1,|US| Sports Net 360 HD
+http://4462.ipfox.co:8080/live/winsor_zqAq2S/dsD2rGJS/310.ts
+#EXTINF:-1,|US| Sports Net One HD
+http://4462.ipfox.co:8080/live/winsor_zqAq2S/dsD2rGJS/302.ts
+#EXTINF:-1,|US| Sports Net Ontario HD
+http://4462.ipfox.co:8080/live/winsor_zqAq2S/dsD2rGJS/309.ts
+#EXTINF:-1,|US| Sports Net Pacific HD
+http://4462.ipfox.co:8080/live/winsor_zqAq2S/dsD2rGJS/268.ts
+#EXTINF:-1,|US| Sports Net West HD
+http://4462.ipfox.co:8080/live/winsor_zqAq2S/dsD2rGJS/267.ts
+#EXTINF:-1,|US| Sports Net World HD
+http://4462.ipfox.co:8080/live/winsor_zqAq2S/dsD2rGJS/308.ts
+#EXTINF:-1,|US| Starz Cinema HD
+http://4462.ipfox.co:8080/live/winsor_zqAq2S/dsD2rGJS/279.ts
+#EXTINF:-1,|US| Starz HD
+http://4462.ipfox.co:8080/live/winsor_zqAq2S/dsD2rGJS/277.ts
+#EXTINF:-1,|US| Syfy HD
+http://4462.ipfox.co:8080/live/winsor_zqAq2S/dsD2rGJS/336.ts
+#EXTINF:-1,|US| TBS HD
+http://4462.ipfox.co:8080/live/winsor_zqAq2S/dsD2rGJS/326.ts
+#EXTINF:-1,|US| Tennis Channel HD
+http://4462.ipfox.co:8080/live/winsor_zqAq2S/dsD2rGJS/312.ts
+#EXTINF:-1,|US| TLC HD
+http://4462.ipfox.co:8080/live/winsor_zqAq2S/dsD2rGJS/341.ts
+#EXTINF:-1,|US| TNT HD
+http://4462.ipfox.co:8080/live/winsor_zqAq2S/dsD2rGJS/327.ts
+#EXTINF:-1,|US| TSN 1 HD-CA
+http://4462.ipfox.co:8080/live/winsor_zqAq2S/dsD2rGJS/301.ts
+#EXTINF:-1,|US| TSN 2 HD-CA
+http://4462.ipfox.co:8080/live/winsor_zqAq2S/dsD2rGJS/300.ts
+#EXTINF:-1,|US| TSN 3 HD-CA
+http://4462.ipfox.co:8080/live/winsor_zqAq2S/dsD2rGJS/299.ts
+#EXTINF:-1,|US| TSN 4 HD-CA
+http://4462.ipfox.co:8080/live/winsor_zqAq2S/dsD2rGJS/298.ts
+#EXTINF:-1,|US| TSN 5 HD-CA
+http://4462.ipfox.co:8080/live/winsor_zqAq2S/dsD2rGJS/297.ts
+#EXTINF:-1,|US| Univision Deportes
+http://4462.ipfox.co:8080/live/winsor_zqAq2S/dsD2rGJS/342.ts
+#EXTINF:-1,|US| USA Network
+http://4462.ipfox.co:8080/live/winsor_zqAq2S/dsD2rGJS/276.ts
+#EXTINF:-1,|US| Viceland
+http://4462.ipfox.co:8080/live/winsor_zqAq2S/dsD2rGJS/343.ts
+#EXTINF:-1,|US| WWE Network HD
+http://4462.ipfox.co:8080/live/winsor_zqAq2S/dsD2rGJS/311.ts
 
-
-#EXTINF:-1 group-title="UNITED STATES",A&E
-http://bigiptv.ovh:8000/live/oussema/oussema/10050.ts
-#EXTINF:-1 group-title="UNITED STATES",A&E
-http://bigiptv.ovh:8000/live/pierre/pierre/10050.ts
-#EXTINF:-1 group-title="UNITED STATES",A&E HD
-http://global.ipsatpro.tv:8000/live/1G8d7ROj7K/kOejo2H0FD/1688.ts
-#EXTINF:-1 group-title="UNITED STATES",ABC
-http://bigiptv.ovh:8000/live/oussema/oussema/10060.ts
-#EXTINF:-1 group-title="UNITED STATES",ABC
-http://bigiptv.ovh:8000/live/pierre/pierre/10060.ts
-#EXTINF:-1 group-title="UNITED STATES",ABC HD
-http://global.ipsatpro.tv:8000/live/1G8d7ROj7K/kOejo2H0FD/2118.ts
-#EXTINF:-1 group-title="UNITED STATES",ABC HD
-http://global.ipsatpro.tv:8000/live/star11/star11/2118.ts
-#EXTINF:-1 group-title="UNITED STATES",ABC News
-http://bigiptv.ovh:8000/live/oussema/oussema/10049.ts
-#EXTINF:-1 group-title="UNITED STATES",ABC News
-http://bigiptv.ovh:8000/live/pierre/pierre/10049.ts
-#EXTINF:-1 group-title="UNITED STATES",ABC NEWS
-http://global.ipsatpro.tv:8000/live/1G8d7ROj7K/kOejo2H0FD/8918.ts
-#EXTINF:-1 group-title="UNITED STATES",ABC NEWS
-http://global.ipsatpro.tv:8000/live/star11/star11/8918.ts
-#EXTINF:-1 group-title="UNITED STATES",ABC News HD
-http://global.ipsatpro.tv:8000/live/1G8d7ROj7K/kOejo2H0FD/982.ts
-#EXTINF:-1 group-title="UNITED STATES",ABC News HD
-http://global.ipsatpro.tv:8000/live/star11/star11/982.ts
-#EXTINF:-1 group-title="UNITED STATES",ABC SPARK CAN
-http://global.ipsatpro.tv:8000/live/1G8d7ROj7K/kOejo2H0FD/8864.ts
-#EXTINF:-1 group-title="UNITED STATES",ABC SPARK CAN
-http://global.ipsatpro.tv:8000/live/star11/star11/8864.ts
-#EXTINF:-1 group-title="UNITED STATES",Action Max HD
-http://bigiptv.ovh:8000/live/oussema/oussema/10009.ts
-#EXTINF:-1 group-title="UNITED STATES",Action Max HD
-http://bigiptv.ovh:8000/live/pierre/pierre/10009.ts
-#EXTINF:-1 group-title="UNITED STATES",AFN FAMILY MOVIE
-http://global.ipsatpro.tv:8000/live/1G8d7ROj7K/kOejo2H0FD/8089.ts
-#EXTINF:-1 group-title="UNITED STATES",AFN FAMILY MOVIE
-http://global.ipsatpro.tv:8000/live/star11/star11/8089.ts
-#EXTINF:-1 group-title="UNITED STATES",AFN MOVIE
-http://global.ipsatpro.tv:8000/live/1G8d7ROj7K/kOejo2H0FD/8092.ts
-#EXTINF:-1 group-title="UNITED STATES",AFN MOVIE
-http://global.ipsatpro.tv:8000/live/star11/star11/8092.ts
-#EXTINF:-1 group-title="UNITED STATES",AFN PRIME ATLANTIC
-http://global.ipsatpro.tv:8000/live/1G8d7ROj7K/kOejo2H0FD/8088.ts
-#EXTINF:-1 group-title="UNITED STATES",AFN PRIME ATLANTIC
-http://global.ipsatpro.tv:8000/live/star11/star11/8088.ts
-#EXTINF:-1 group-title="UNITED STATES",AFN PRIME PACIFIC
-http://global.ipsatpro.tv:8000/live/1G8d7ROj7K/kOejo2H0FD/8090.ts
-#EXTINF:-1 group-title="UNITED STATES",AFN PRIME PACIFIC
-http://global.ipsatpro.tv:8000/live/star11/star11/8090.ts
-#EXTINF:-1 group-title="UNITED STATES",AFN Sports 1 HD
-http://global.ipsatpro.tv:8000/live/1G8d7ROj7K/kOejo2H0FD/1007.ts
-#EXTINF:-1 group-title="UNITED STATES",AFN Sports 1 HD
-http://global.ipsatpro.tv:8000/live/star11/star11/1007.ts
-#EXTINF:-1 group-title="UNITED STATES",AFN SPORTS 2 HD
-http://global.ipsatpro.tv:8000/live/1G8d7ROj7K/kOejo2H0FD/1000.ts
-#EXTINF:-1 group-title="UNITED STATES",AFN SPORTS 2 HD
-http://global.ipsatpro.tv:8000/live/star11/star11/1000.ts
-#EXTINF:-1 group-title="UNITED STATES",AL JAZEERA US HD
-http://global.ipsatpro.tv:8000/live/star11/star11/8093.ts
-#EXTINF:-1 group-title="UNITED STATES",AMC HD
-http://bigiptv.ovh:8000/live/oussema/oussema/10008.ts
-#EXTINF:-1 group-title="UNITED STATES",AMC HD
-http://bigiptv.ovh:8000/live/pierre/pierre/10008.ts
-#EXTINF:-1 group-title="UNITED STATES",AMC HD
-http://global.ipsatpro.tv:8000/live/1G8d7ROj7K/kOejo2H0FD/1689.ts
-#EXTINF:-1 group-title="UNITED STATES",AMC HD
-http://global.ipsatpro.tv:8000/live/star11/star11/1689.ts
-#EXTINF:-1 group-title="UNITED STATES",Animal Planet
-http://bigiptv.ovh:8000/live/oussema/oussema/10059.ts
-#EXTINF:-1 group-title="UNITED STATES",Animal Planet
-http://bigiptv.ovh:8000/live/pierre/pierre/10059.ts
-#EXTINF:-1 group-title="UNITED STATES",ANIMAL PLANET HD
-http://global.ipsatpro.tv:8000/live/1G8d7ROj7K/kOejo2H0FD/2448.ts
-#EXTINF:-1 group-title="UNITED STATES",ANIMAL PLANET HD
-http://global.ipsatpro.tv:8000/live/star11/star11/2448.ts
-#EXTINF:-1 group-title="UNITED STATES",ASTRO SUPERSPORT 02
-http://global.ipsatpro.tv:8000/live/1G8d7ROj7K/kOejo2H0FD/5816.ts
-#EXTINF:-1 group-title="UNITED STATES",ASTRO SUPERSPORT 02
-http://global.ipsatpro.tv:8000/live/star11/star11/5816.ts
-#EXTINF:-1 group-title="UNITED STATES",ASTRO SUPERSPORT 03
-http://global.ipsatpro.tv:8000/live/1G8d7ROj7K/kOejo2H0FD/5817.ts
-#EXTINF:-1 group-title="UNITED STATES",ASTRO SUPERSPORT 03
-http://global.ipsatpro.tv:8000/live/star11/star11/5817.ts
-#EXTINF:-1 group-title="UNITED STATES",BBC WORLD NEWS
-http://global.ipsatpro.tv:8000/live/1G8d7ROj7K/kOejo2H0FD/8866.ts
-#EXTINF:-1 group-title="UNITED STATES",BBC WORLD NEWS
-http://global.ipsatpro.tv:8000/live/star11/star11/8866.ts
-#EXTINF:-1 group-title="UNITED STATES",Bein Sports
-http://bigiptv.ovh:8000/live/oussema/oussema/10007.ts
-#EXTINF:-1 group-title="UNITED STATES",Bein Sports
-http://bigiptv.ovh:8000/live/pierre/pierre/10007.ts
-#EXTINF:-1 group-title="UNITED STATES",Bein Sports US HD
-http://global.ipsatpro.tv:8000/live/1G8d7ROj7K/kOejo2H0FD/1687.ts
-#EXTINF:-1 group-title="UNITED STATES",Bein Sports US HD
-http://global.ipsatpro.tv:8000/live/star11/star11/1687.ts
-#EXTINF:-1 group-title="UNITED STATES",BET
-http://global.ipsatpro.tv:8000/live/1G8d7ROj7K/kOejo2H0FD/8079.ts
-#EXTINF:-1 group-title="UNITED STATES",BET
-http://global.ipsatpro.tv:8000/live/star11/star11/8079.ts
-#EXTINF:-1 group-title="UNITED STATES",BIG TEN NETWORK HD
-http://global.ipsatpro.tv:8000/live/star11/star11/8874.ts
-#EXTINF:-1 group-title="UNITED STATES",Bloomberg
-http://bigiptv.ovh:8000/live/oussema/oussema/10058.ts
-#EXTINF:-1 group-title="UNITED STATES",Bloomberg
-http://bigiptv.ovh:8000/live/pierre/pierre/10058.ts
-#EXTINF:-1 group-title="UNITED STATES",BLOOMBERG
-http://global.ipsatpro.tv:8000/live/1G8d7ROj7K/kOejo2H0FD/2446.ts
-#EXTINF:-1 group-title="UNITED STATES",BLOOMBERG
-http://global.ipsatpro.tv:8000/live/star11/star11/2446.ts
-#EXTINF:-1 group-title="UNITED STATES",BNN CAN
-http://global.ipsatpro.tv:8000/live/1G8d7ROj7K/kOejo2H0FD/8865.ts
-#EXTINF:-1 group-title="UNITED STATES",BRAVO HD
-http://global.ipsatpro.tv:8000/live/1G8d7ROj7K/kOejo2H0FD/3299.ts
-#EXTINF:-1 group-title="UNITED STATES",BRAVO HD
-http://global.ipsatpro.tv:8000/live/star11/star11/3299.ts
-#EXTINF:-1 group-title="UNITED STATES",C SPAN 1 HD
-http://global.ipsatpro.tv:8000/live/1G8d7ROj7K/kOejo2H0FD/8926.ts
-#EXTINF:-1 group-title="UNITED STATES",C SPAN 1 HD
-http://global.ipsatpro.tv:8000/live/star11/star11/8926.ts
-#EXTINF:-1 group-title="UNITED STATES",C SPAN 2 HD
-http://global.ipsatpro.tv:8000/live/1G8d7ROj7K/kOejo2H0FD/8925.ts
-#EXTINF:-1 group-title="UNITED STATES",C SPAN 2 HD
-http://global.ipsatpro.tv:8000/live/star11/star11/8925.ts
-#EXTINF:-1 group-title="UNITED STATES",C SPAN 3 HD
-http://global.ipsatpro.tv:8000/live/1G8d7ROj7K/kOejo2H0FD/8924.ts
-#EXTINF:-1 group-title="UNITED STATES",C SPAN 3 HD
-http://global.ipsatpro.tv:8000/live/star11/star11/8924.ts
-#EXTINF:-1 group-title="UNITED STATES",C8 HD CAN
-http://global.ipsatpro.tv:8000/live/1G8d7ROj7K/kOejo2H0FD/8863.ts
-#EXTINF:-1 group-title="UNITED STATES",C8 HD CAN
-http://global.ipsatpro.tv:8000/live/star11/star11/8863.ts
-#EXTINF:-1 group-title="UNITED STATES",CAPITAL TV
-http://global.ipsatpro.tv:8000/live/1G8d7ROj7K/kOejo2H0FD/8928.ts
-#EXTINF:-1 group-title="UNITED STATES",Cartoon Network
-http://bigiptv.ovh:8000/live/oussema/oussema/10057.ts
-#EXTINF:-1 group-title="UNITED STATES",Cartoon Network
-http://bigiptv.ovh:8000/live/pierre/pierre/10057.ts
-#EXTINF:-1 group-title="UNITED STATES",CARTOON NETWORK
-http://global.ipsatpro.tv:8000/live/1G8d7ROj7K/kOejo2H0FD/2444.ts
-#EXTINF:-1 group-title="UNITED STATES",CARTOON NETWORK
-http://global.ipsatpro.tv:8000/live/star11/star11/2444.ts
-#EXTINF:-1 group-title="UNITED STATES",CBC HD
-http://global.ipsatpro.tv:8000/live/1G8d7ROj7K/kOejo2H0FD/8087.ts
-#EXTINF:-1 group-title="UNITED STATES",CBC HD
-http://global.ipsatpro.tv:8000/live/star11/star11/8087.ts
-#EXTINF:-1 group-title="UNITED STATES",CBN NEWS HD
-http://global.ipsatpro.tv:8000/live/1G8d7ROj7K/kOejo2H0FD/8085.ts
-#EXTINF:-1 group-title="UNITED STATES",CBN NEWS HD
-http://global.ipsatpro.tv:8000/live/star11/star11/8085.ts
-#EXTINF:-1 group-title="UNITED STATES",CBS HD
-http://bigiptv.ovh:8000/live/oussema/oussema/10021.ts
-#EXTINF:-1 group-title="UNITED STATES",CBS HD
-http://bigiptv.ovh:8000/live/pierre/pierre/10021.ts
-#EXTINF:-1 group-title="UNITED STATES",CBS HD
-http://global.ipsatpro.tv:8000/live/1G8d7ROj7K/kOejo2H0FD/2117.ts
-#EXTINF:-1 group-title="UNITED STATES",CBS HD
-http://global.ipsatpro.tv:8000/live/star11/star11/2117.ts
-#EXTINF:-1 group-title="UNITED STATES",CBS NEWS HD
-http://global.ipsatpro.tv:8000/live/1G8d7ROj7K/kOejo2H0FD/2443.ts
-#EXTINF:-1 group-title="UNITED STATES",CBS NEWS HD
-http://global.ipsatpro.tv:8000/live/star11/star11/2443.ts
-#EXTINF:-1 group-title="UNITED STATES",CBS Sports Network HD
-http://bigiptv.ovh:8000/live/oussema/oussema/10030.ts
-#EXTINF:-1 group-title="UNITED STATES",CBS Sports Network HD
-http://bigiptv.ovh:8000/live/pierre/pierre/10030.ts
-#EXTINF:-1 group-title="UNITED STATES",CBS SPORTS NETWORK HD
-http://global.ipsatpro.tv:8000/live/1G8d7ROj7K/kOejo2H0FD/5818.ts
-#EXTINF:-1 group-title="UNITED STATES",CBS SPORTS NETWORK HD
-http://global.ipsatpro.tv:8000/live/star11/star11/5818.ts
-#EXTINF:-1 group-title="UNITED STATES",CBSN NEWS
-http://global.ipsatpro.tv:8000/live/1G8d7ROj7K/kOejo2H0FD/8850.ts
-#EXTINF:-1 group-title="UNITED STATES",CBSN NEWS
-http://global.ipsatpro.tv:8000/live/star11/star11/8850.ts
-#EXTINF:-1 group-title="UNITED STATES",CINEMAX 5 STARMAX
-http://global.ipsatpro.tv:8000/live/1G8d7ROj7K/kOejo2H0FD/4306.ts
-#EXTINF:-1 group-title="UNITED STATES",CINEMAX 5 STARMAX
-http://global.ipsatpro.tv:8000/live/star11/star11/4306.ts
-#EXTINF:-1 group-title="UNITED STATES",CINEMAX ACTIONMAX HD
-http://global.ipsatpro.tv:8000/live/1G8d7ROj7K/kOejo2H0FD/8074.ts
-#EXTINF:-1 group-title="UNITED STATES",CINEMAX ACTIONMAX HD
-http://global.ipsatpro.tv:8000/live/star11/star11/8074.ts
-#EXTINF:-1 group-title="UNITED STATES",CINEMAX EAST
-http://global.ipsatpro.tv:8000/live/1G8d7ROj7K/kOejo2H0FD/3305.ts
-#EXTINF:-1 group-title="UNITED STATES",CINEMAX EAST
-http://global.ipsatpro.tv:8000/live/star11/star11/3305.ts
-#EXTINF:-1 group-title="UNITED STATES",Cinemax HD
-http://bigiptv.ovh:8000/live/oussema/oussema/10064.ts
-#EXTINF:-1 group-title="UNITED STATES",Cinemax HD
-http://bigiptv.ovh:8000/live/pierre/pierre/10064.ts
-#EXTINF:-1 group-title="UNITED STATES",CINEMAX HD
-http://global.ipsatpro.tv:8000/live/1G8d7ROj7K/kOejo2H0FD/4304.ts
-#EXTINF:-1 group-title="UNITED STATES",CINEMAX HD
-http://global.ipsatpro.tv:8000/live/star11/star11/4304.ts
-#EXTINF:-1 group-title="UNITED STATES",CINEMAX MOREMAX HD
-http://global.ipsatpro.tv:8000/live/1G8d7ROj7K/kOejo2H0FD/8073.ts
-#EXTINF:-1 group-title="UNITED STATES",CINEMAX MOREMAX HD
-http://global.ipsatpro.tv:8000/live/star11/star11/8073.ts
-#EXTINF:-1 group-title="UNITED STATES",CNBC
-http://bigiptv.ovh:8000/live/oussema/oussema/10063.ts
-#EXTINF:-1 group-title="UNITED STATES",CNBC
-http://bigiptv.ovh:8000/live/pierre/pierre/10063.ts
-#EXTINF:-1 group-title="UNITED STATES",CNBC HD
-http://global.ipsatpro.tv:8000/live/1G8d7ROj7K/kOejo2H0FD/4321.ts
-#EXTINF:-1 group-title="UNITED STATES",CNBC HD
-http://global.ipsatpro.tv:8000/live/star11/star11/4321.ts
-#EXTINF:-1 group-title="UNITED STATES",CNN HD
-http://bigiptv.ovh:8000/live/oussema/oussema/10020.ts
-#EXTINF:-1 group-title="UNITED STATES",CNN HD
-http://bigiptv.ovh:8000/live/pierre/pierre/10020.ts
-#EXTINF:-1 group-title="UNITED STATES",CNN HD
-http://global.ipsatpro.tv:8000/live/1G8d7ROj7K/kOejo2H0FD/2133.ts
-#EXTINF:-1 group-title="UNITED STATES",CNN HD
-http://global.ipsatpro.tv:8000/live/star11/star11/2133.ts
-#EXTINF:-1 group-title="UNITED STATES",Comedy Central
-http://bigiptv.ovh:8000/live/oussema/oussema/10019.ts
-#EXTINF:-1 group-title="UNITED STATES",Comedy Central
-http://bigiptv.ovh:8000/live/pierre/pierre/10019.ts
-#EXTINF:-1 group-title="UNITED STATES",Comedy CENTRAL HD
-http://global.ipsatpro.tv:8000/live/1G8d7ROj7K/kOejo2H0FD/2156.ts
-#EXTINF:-1 group-title="UNITED STATES",Comedy CENTRAL HD
-http://global.ipsatpro.tv:8000/live/star11/star11/2156.ts
-#EXTINF:-1 group-title="UNITED STATES",CSTAR HD CAN
-http://global.ipsatpro.tv:8000/live/1G8d7ROj7K/kOejo2H0FD/8862.ts
-#EXTINF:-1 group-title="UNITED STATES",CSTAR HD CAN
-http://global.ipsatpro.tv:8000/live/star11/star11/8862.ts
-#EXTINF:-1 group-title="UNITED STATES",CW HD
-http://bigiptv.ovh:8000/live/oussema/oussema/10056.ts
-#EXTINF:-1 group-title="UNITED STATES",CW HD
-http://bigiptv.ovh:8000/live/pierre/pierre/10056.ts
-#EXTINF:-1 group-title="UNITED STATES",CW HD
-http://global.ipsatpro.tv:8000/live/1G8d7ROj7K/kOejo2H0FD/4323.ts
-#EXTINF:-1 group-title="UNITED STATES",CW HD
-http://global.ipsatpro.tv:8000/live/star11/star11/4323.ts
-#EXTINF:-1 group-title="UNITED STATES",DISCOVERY CHANNEL HD
-http://global.ipsatpro.tv:8000/live/1G8d7ROj7K/kOejo2H0FD/8075.ts
-#EXTINF:-1 group-title="UNITED STATES",DISCOVERY CHANNEL HD
-http://global.ipsatpro.tv:8000/live/star11/star11/8075.ts
-#EXTINF:-1 group-title="UNITED STATES",Discovery HD
-http://bigiptv.ovh:8000/live/oussema/oussema/10062.ts
-#EXTINF:-1 group-title="UNITED STATES",Discovery HD
-http://bigiptv.ovh:8000/live/pierre/pierre/10062.ts
-#EXTINF:-1 group-title="UNITED STATES",Discovery Science HD
-http://bigiptv.ovh:8000/live/oussema/oussema/10055.ts
-#EXTINF:-1 group-title="UNITED STATES",Discovery Science HD
-http://bigiptv.ovh:8000/live/pierre/pierre/10055.ts
-#EXTINF:-1 group-title="UNITED STATES",DISCOVERY SCIENCE HD
-http://global.ipsatpro.tv:8000/live/1G8d7ROj7K/kOejo2H0FD/2441.ts
-#EXTINF:-1 group-title="UNITED STATES",DISCOVERY SCIENCE HD
-http://global.ipsatpro.tv:8000/live/star11/star11/2441.ts
-#EXTINF:-1 group-title="UNITED STATES",DISCOVERY VELOCITY
-http://global.ipsatpro.tv:8000/live/1G8d7ROj7K/kOejo2H0FD/8869.ts
-#EXTINF:-1 group-title="UNITED STATES",DISCOVERY VELOCITY
-http://global.ipsatpro.tv:8000/live/star11/star11/8869.ts
-#EXTINF:-1 group-title="UNITED STATES",E!
-http://bigiptv.ovh:8000/live/oussema/oussema/10054.ts
-#EXTINF:-1 group-title="UNITED STATES",E!
-http://bigiptv.ovh:8000/live/pierre/pierre/10054.ts
-#EXTINF:-1 group-title="UNITED STATES",E! NETWORK HD
-http://global.ipsatpro.tv:8000/live/1G8d7ROj7K/kOejo2H0FD/8067.ts
-#EXTINF:-1 group-title="UNITED STATES",E! NETWORK HD
-http://global.ipsatpro.tv:8000/live/star11/star11/8067.ts
-#EXTINF:-1 group-title="UNITED STATES",E4 HD
-http://global.ipsatpro.tv:8000/live/1G8d7ROj7K/kOejo2H0FD/8851.ts
-#EXTINF:-1 group-title="UNITED STATES",E4 HD
-http://global.ipsatpro.tv:8000/live/star11/star11/8851.ts
-#EXTINF:-1 group-title="UNITED STATES",Eng1
-http://iptv.ndasat.com:88/live/329995091896719/329995091896719/3751.ts
-#EXTINF:-1 group-title="UNITED STATES",Eng2
-http://iptv.ndasat.com:88/live/329995091896719/329995091896719/3752.ts
-#EXTINF:-1 group-title="UNITED STATES",Eng3
-http://iptv.ndasat.com:88/live/329995091896719/329995091896719/3753.ts
-#EXTINF:-1 group-title="UNITED STATES",Eng4
-http://iptv.ndasat.com:88/live/329995091896719/329995091896719/3754.ts
-#EXTINF:-1 group-title="UNITED STATES",Eng5
-http://iptv.ndasat.com:88/live/329995091896719/329995091896719/3755.ts
-#EXTINF:-1 group-title="UNITED STATES",Eng6
-http://iptv.ndasat.com:88/live/329995091896719/329995091896719/3756.ts
-#EXTINF:-1 group-title="UNITED STATES",Eng7
-http://iptv.ndasat.com:88/live/329995091896719/329995091896719/3757.ts
-#EXTINF:-1 group-title="UNITED STATES",Eng8
-http://iptv.ndasat.com:88/live/329995091896719/329995091896719/3762.ts
-#EXTINF:-1 group-title="UNITED STATES",Eng9
-http://iptv.ndasat.com:88/live/329995091896719/329995091896719/3763.ts
-#EXTINF:-1 group-title="UNITED STATES",ESPN
-http://global.ipsatpro.tv:8000/live/star11/star11/8865.ts
-#EXTINF:-1 group-title="UNITED STATES",ESPN
-http://global.ipsatpro.tv:8000/live/star11/star11/8052.ts
-#EXTINF:-1 group-title="UNITED STATES",ESPN 2 HD
-http://bigiptv.ovh:8000/live/oussema/oussema/10038.ts
-#EXTINF:-1 group-title="UNITED STATES",ESPN 2 HD
-http://bigiptv.ovh:8000/live/pierre/pierre/10038.ts
-#EXTINF:-1 group-title="UNITED STATES",ESPN 2 HD
-http://global.ipsatpro.tv:8000/live/1G8d7ROj7K/kOejo2H0FD/8052.ts
-#EXTINF:-1 group-title="UNITED STATES",ESPN Deportes
-http://bigiptv.ovh:8000/live/oussema/oussema/10048.ts
-#EXTINF:-1 group-title="UNITED STATES",ESPN Deportes
-http://bigiptv.ovh:8000/live/pierre/pierre/10048.ts
-#EXTINF:-1 group-title="UNITED STATES",ESPN News HD
-http://bigiptv.ovh:8000/live/oussema/oussema/10037.ts
-#EXTINF:-1 group-title="UNITED STATES",ESPN News HD
-http://bigiptv.ovh:8000/live/pierre/pierre/10037.ts
-#EXTINF:-1 group-title="UNITED STATES",ESPN U HD
-http://bigiptv.ovh:8000/live/oussema/oussema/10036.ts
-#EXTINF:-1 group-title="UNITED STATES",ESPN U HD
-http://bigiptv.ovh:8000/live/pierre/pierre/10036.ts
-#EXTINF:-1 group-title="UNITED STATES",ESPN USA HD
-http://bigiptv.ovh:8000/live/oussema/oussema/10035.ts
-#EXTINF:-1 group-title="UNITED STATES",ESPN USA HD
-http://bigiptv.ovh:8000/live/pierre/pierre/10035.ts
-#EXTINF:-1 group-title="UNITED STATES",EURO NEWS
-http://global.ipsatpro.tv:8000/live/1G8d7ROj7K/kOejo2H0FD/8929.ts
-#EXTINF:-1 group-title="UNITED STATES",Fight Network
-http://bigiptv.ovh:8000/live/oussema/oussema/10029.ts
-#EXTINF:-1 group-title="UNITED STATES",Fight Network
-http://bigiptv.ovh:8000/live/pierre/pierre/10029.ts
-#EXTINF:-1 group-title="UNITED STATES",FIGHT SPORTS
-http://global.ipsatpro.tv:8000/live/1G8d7ROj7K/kOejo2H0FD/2111.ts
-#EXTINF:-1 group-title="UNITED STATES",FIGHT SPORTS
-http://global.ipsatpro.tv:8000/live/star11/star11/2111.ts
-#EXTINF:-1 group-title="UNITED STATES",FIX TV HD
-http://global.ipsatpro.tv:8000/live/1G8d7ROj7K/kOejo2H0FD/8096.ts
-#EXTINF:-1 group-title="UNITED STATES",FIX TV HD
-http://global.ipsatpro.tv:8000/live/star11/star11/8096.ts
-#EXTINF:-1 group-title="UNITED STATES",FOOD NETWORK
-http://global.ipsatpro.tv:8000/live/1G8d7ROj7K/kOejo2H0FD/2435.ts
-#EXTINF:-1 group-title="UNITED STATES",FOOD NETWORK
-http://global.ipsatpro.tv:8000/live/star11/star11/2435.ts
-#EXTINF:-1 group-title="UNITED STATES",Fox HD
-http://bigiptv.ovh:8000/live/oussema/oussema/10018.ts
-#EXTINF:-1 group-title="UNITED STATES",Fox HD
-http://bigiptv.ovh:8000/live/pierre/pierre/10018.ts
-#EXTINF:-1 group-title="UNITED STATES",FOX HD
-http://global.ipsatpro.tv:8000/live/1G8d7ROj7K/kOejo2H0FD/3303.ts
-#EXTINF:-1 group-title="UNITED STATES",FOX HD
-http://global.ipsatpro.tv:8000/live/star11/star11/3303.ts
-#EXTINF:-1 group-title="UNITED STATES",FOX NEWS CAN
-http://global.ipsatpro.tv:8000/live/1G8d7ROj7K/kOejo2H0FD/8874.ts
-#EXTINF:-1 group-title="UNITED STATES",FOX NEWS HD
-http://bigiptv.ovh:8000/live/oussema/oussema/10006.ts
-#EXTINF:-1 group-title="UNITED STATES",FOX NEWS HD
-http://bigiptv.ovh:8000/live/pierre/pierre/10006.ts
-#EXTINF:-1 group-title="UNITED STATES",Fox News HD
-http://global.ipsatpro.tv:8000/live/1G8d7ROj7K/kOejo2H0FD/2152.ts
-#EXTINF:-1 group-title="UNITED STATES",Fox News HD
-http://global.ipsatpro.tv:8000/live/star11/star11/2152.ts
-#EXTINF:-1 group-title="UNITED STATES",Fox Sports 1 HD
-http://bigiptv.ovh:8000/live/oussema/oussema/10034.ts
-#EXTINF:-1 group-title="UNITED STATES",Fox Sports 1 HD
-http://bigiptv.ovh:8000/live/pierre/pierre/10034.ts
-#EXTINF:-1 group-title="UNITED STATES",Fox Sports 1 HD
-http://global.ipsatpro.tv:8000/live/1G8d7ROj7K/kOejo2H0FD/954.ts
-#EXTINF:-1 group-title="UNITED STATES",Fox Sports 1 HD
-http://global.ipsatpro.tv:8000/live/star11/star11/954.ts
-#EXTINF:-1 group-title="UNITED STATES",Fox Sports 2 HD
-http://bigiptv.ovh:8000/live/oussema/oussema/10033.ts
-#EXTINF:-1 group-title="UNITED STATES",Fox Sports 2 HD
-http://bigiptv.ovh:8000/live/pierre/pierre/10033.ts
-#EXTINF:-1 group-title="UNITED STATES",Fox Sports 2 HD
-http://global.ipsatpro.tv:8000/live/1G8d7ROj7K/kOejo2H0FD/955.ts
-#EXTINF:-1 group-title="UNITED STATES",Fox Sports 2 HD
-http://global.ipsatpro.tv:8000/live/star11/star11/955.ts
-#EXTINF:-1 group-title="UNITED STATES",FOX SPORTS 3 HD
-http://global.ipsatpro.tv:8000/live/1G8d7ROj7K/kOejo2H0FD/8091.ts
-#EXTINF:-1 group-title="UNITED STATES",FOX SPORTS 3 HD
-http://global.ipsatpro.tv:8000/live/star11/star11/8091.ts
-#EXTINF:-1 group-title="UNITED STATES",FREEFORM HD
-http://global.ipsatpro.tv:8000/live/1G8d7ROj7K/kOejo2H0FD/4307.ts
-#EXTINF:-1 group-title="UNITED STATES",FREEFORM HD
-http://global.ipsatpro.tv:8000/live/star11/star11/4307.ts
-#EXTINF:-1 group-title="UNITED STATES",FreeRom HD
-http://bigiptv.ovh:8000/live/oussema/oussema/10053.ts
-#EXTINF:-1 group-title="UNITED STATES",FreeRom HD
-http://bigiptv.ovh:8000/live/pierre/pierre/10053.ts
-#EXTINF:-1 group-title="UNITED STATES",FX
-http://bigiptv.ovh:8000/live/oussema/oussema/10005.ts
-#EXTINF:-1 group-title="UNITED STATES",FX
-http://bigiptv.ovh:8000/live/pierre/pierre/10005.ts
-#EXTINF:-1 group-title="UNITED STATES",FX HD
-http://global.ipsatpro.tv:8000/live/1G8d7ROj7K/kOejo2H0FD/2400.ts
-#EXTINF:-1 group-title="UNITED STATES",FX HD
-http://global.ipsatpro.tv:8000/live/star11/star11/2400.ts
-#EXTINF:-1 group-title="UNITED STATES",FXX
-http://bigiptv.ovh:8000/live/oussema/oussema/10004.ts
-#EXTINF:-1 group-title="UNITED STATES",FXX
-http://bigiptv.ovh:8000/live/pierre/pierre/10004.ts
-#EXTINF:-1 group-title="UNITED STATES",FXX
-http://global.ipsatpro.tv:8000/live/1G8d7ROj7K/kOejo2H0FD/8061.ts
-#EXTINF:-1 group-title="UNITED STATES",Golf HD
-http://bigiptv.ovh:8000/live/oussema/oussema/10028.ts
-#EXTINF:-1 group-title="UNITED STATES",Golf HD
-http://bigiptv.ovh:8000/live/pierre/pierre/10028.ts
-#EXTINF:-1 group-title="UNITED STATES",GSN CAN
-http://global.ipsatpro.tv:8000/live/1G8d7ROj7K/kOejo2H0FD/8879.ts
-#EXTINF:-1 group-title="UNITED STATES",GSN CAN
-http://global.ipsatpro.tv:8000/live/star11/star11/8879.ts
-#EXTINF:-1 group-title="UNITED STATES",HALLMARK HD
-http://global.ipsatpro.tv:8000/live/1G8d7ROj7K/kOejo2H0FD/4294.ts
-#EXTINF:-1 group-title="UNITED STATES",HALLMARK HD
-http://global.ipsatpro.tv:8000/live/star11/star11/4294.ts
-#EXTINF:-1 group-title="UNITED STATES",HBO
-http://bigiptv.ovh:8000/live/oussema/oussema/10003.ts
-#EXTINF:-1 group-title="UNITED STATES",HBO
-http://bigiptv.ovh:8000/live/pierre/pierre/10003.ts
-#EXTINF:-1 group-title="UNITED STATES",HBO Comedy
-http://bigiptv.ovh:8000/live/oussema/oussema/10002.ts
-#EXTINF:-1 group-title="UNITED STATES",HBO Comedy
-http://bigiptv.ovh:8000/live/pierre/pierre/10002.ts
-#EXTINF:-1 group-title="UNITED STATES",HBO COMEDY HD
-http://global.ipsatpro.tv:8000/live/1G8d7ROj7K/kOejo2H0FD/2431.ts
-#EXTINF:-1 group-title="UNITED STATES",HBO COMEDY HD
-http://global.ipsatpro.tv:8000/live/star11/star11/2431.ts
-#EXTINF:-1 group-title="UNITED STATES",HBO FAMILY HD
-http://global.ipsatpro.tv:8000/live/star11/star11/8061.ts
-#EXTINF:-1 group-title="UNITED STATES",HBO Signature
-http://bigiptv.ovh:8000/live/oussema/oussema/10001.ts
-#EXTINF:-1 group-title="UNITED STATES",HBO Signature
-http://bigiptv.ovh:8000/live/pierre/pierre/10001.ts
-#EXTINF:-1 group-title="UNITED STATES",HBO SIGNATURE HD
-http://global.ipsatpro.tv:8000/live/1G8d7ROj7K/kOejo2H0FD/8068.ts
-#EXTINF:-1 group-title="UNITED STATES",HBO SIGNATURE HD
-http://global.ipsatpro.tv:8000/live/star11/star11/8068.ts
-#EXTINF:-1 group-title="UNITED STATES",HBO US
-http://global.ipsatpro.tv:8000/live/1G8d7ROj7K/kOejo2H0FD/2121.ts
-#EXTINF:-1 group-title="UNITED STATES",HBO US
-http://global.ipsatpro.tv:8000/live/star11/star11/2121.ts
-#EXTINF:-1 group-title="UNITED STATES",HBO Zone
-http://bigiptv.ovh:8000/live/oussema/oussema/10000.ts
-#EXTINF:-1 group-title="UNITED STATES",HBO Zone
-http://bigiptv.ovh:8000/live/pierre/pierre/10000.ts
-#EXTINF:-1 group-title="UNITED STATES",HBO ZONE HD
-http://global.ipsatpro.tv:8000/live/1G8d7ROj7K/kOejo2H0FD/950.ts
-#EXTINF:-1 group-title="UNITED STATES",HBO ZONE HD
-http://global.ipsatpro.tv:8000/live/star11/star11/950.ts
-#EXTINF:-1 group-title="UNITED STATES",HEART TV
-http://global.ipsatpro.tv:8000/live/1G8d7ROj7K/kOejo2H0FD/8927.ts
-#EXTINF:-1 group-title="UNITED STATES",HEART TV
-http://global.ipsatpro.tv:8000/live/star11/star11/8927.ts
-#EXTINF:-1 group-title="UNITED STATES",HGTV
-http://bigiptv.ovh:8000/live/oussema/oussema/10061.ts
-#EXTINF:-1 group-title="UNITED STATES",HGTV
-http://bigiptv.ovh:8000/live/pierre/pierre/10061.ts
-#EXTINF:-1 group-title="UNITED STATES",HGTV HD
-http://global.ipsatpro.tv:8000/live/1G8d7ROj7K/kOejo2H0FD/4312.ts
-#EXTINF:-1 group-title="UNITED STATES",HGTV HD
-http://global.ipsatpro.tv:8000/live/star11/star11/4312.ts
-#EXTINF:-1 group-title="UNITED STATES",HISTORY
-http://bigiptv.ovh:8000/live/oussema/oussema/9999.ts
-#EXTINF:-1 group-title="UNITED STATES",HISTORY
-http://bigiptv.ovh:8000/live/pierre/pierre/9999.ts
-#EXTINF:-1 group-title="UNITED STATES",HISTORY HD
-http://global.ipsatpro.tv:8000/live/1G8d7ROj7K/kOejo2H0FD/3382.ts
-#EXTINF:-1 group-title="UNITED STATES",HISTORY HD
-http://global.ipsatpro.tv:8000/live/star11/star11/3382.ts
-#EXTINF:-1 group-title="UNITED STATES",HSN 1
-http://global.ipsatpro.tv:8000/live/1G8d7ROj7K/kOejo2H0FD/2100.ts
-#EXTINF:-1 group-title="UNITED STATES",HSN 1
-http://global.ipsatpro.tv:8000/live/star11/star11/2100.ts
-#EXTINF:-1 group-title="UNITED STATES",HSN YT LIVE 1080P HD
-http://global.ipsatpro.tv:8000/live/1G8d7ROj7K/kOejo2H0FD/3284.ts
-#EXTINF:-1 group-title="UNITED STATES",HSN YT LIVE 1080P HD
-http://global.ipsatpro.tv:8000/live/star11/star11/3284.ts
-#EXTINF:-1 group-title="UNITED STATES",Investigation Discovery HD
-http://bigiptv.ovh:8000/live/oussema/oussema/9998.ts
-#EXTINF:-1 group-title="UNITED STATES",Investigation Discovery HD
-http://bigiptv.ovh:8000/live/pierre/pierre/9998.ts
-#EXTINF:-1 group-title="UNITED STATES",INVESTIGATION DISCOVERY HD
-http://global.ipsatpro.tv:8000/live/1G8d7ROj7K/kOejo2H0FD/8852.ts
-#EXTINF:-1 group-title="UNITED STATES",INVESTIGATION DISCOVERY HD
-http://global.ipsatpro.tv:8000/live/star11/star11/8852.ts
-#EXTINF:-1 group-title="UNITED STATES",KIDS READING TV
-http://global.ipsatpro.tv:8000/live/1G8d7ROj7K/kOejo2H0FD/8910.ts
-#EXTINF:-1 group-title="UNITED STATES",KIDS READING TV
-http://global.ipsatpro.tv:8000/live/star11/star11/8910.ts
-#EXTINF:-1 group-title="UNITED STATES",LIFETIME HD
-http://global.ipsatpro.tv:8000/live/1G8d7ROj7K/kOejo2H0FD/8058.ts
-#EXTINF:-1 group-title="UNITED STATES",LIFETIME HD
-http://global.ipsatpro.tv:8000/live/star11/star11/8058.ts
-#EXTINF:-1 group-title="UNITED STATES",MLB Network HD
-http://bigiptv.ovh:8000/live/oussema/oussema/9991.ts
-#EXTINF:-1 group-title="UNITED STATES",MLB Network HD
-http://bigiptv.ovh:8000/live/pierre/pierre/9991.ts
-#EXTINF:-1 group-title="UNITED STATES",MLB NETWORK HD
-http://global.ipsatpro.tv:8000/live/1G8d7ROj7K/kOejo2H0FD/4314.ts
-#EXTINF:-1 group-title="UNITED STATES",MLB NETWORK HD
-http://global.ipsatpro.tv:8000/live/star11/star11/4314.ts
-#EXTINF:-1 group-title="UNITED STATES",MoreMax HD
-http://bigiptv.ovh:8000/live/oussema/oussema/9997.ts
-#EXTINF:-1 group-title="UNITED STATES",MoreMax HD
-http://bigiptv.ovh:8000/live/pierre/pierre/9997.ts
-#EXTINF:-1 group-title="UNITED STATES",MOVIETIME
-http://global.ipsatpro.tv:8000/live/1G8d7ROj7K/kOejo2H0FD/8881.ts
-#EXTINF:-1 group-title="UNITED STATES",MOVIETIME
-http://global.ipsatpro.tv:8000/live/star11/star11/8881.ts
-#EXTINF:-1 group-title="UNITED STATES",MTV HD
-http://global.ipsatpro.tv:8000/live/star11/star11/8929.ts
-#EXTINF:-1 group-title="UNITED STATES",MUSIC CHOICE RAP
-http://global.ipsatpro.tv:8000/live/star11/star11/8914.ts
-#EXTINF:-1 group-title="UNITED STATES",MY 9TV
-http://global.ipsatpro.tv:8000/live/1G8d7ROj7K/kOejo2H0FD/8914.ts
-#EXTINF:-1 group-title="UNITED STATES",NASA HD
-http://global.ipsatpro.tv:8000/live/1G8d7ROj7K/kOejo2H0FD/8084.ts
-#EXTINF:-1 group-title="UNITED STATES",NASA HD
-http://global.ipsatpro.tv:8000/live/star11/star11/8084.ts
-#EXTINF:-1 group-title="UNITED STATES",NAT GEO HD
-http://global.ipsatpro.tv:8000/live/1G8d7ROj7K/kOejo2H0FD/3304.ts
-#EXTINF:-1 group-title="UNITED STATES",NAT GEO HD
-http://global.ipsatpro.tv:8000/live/star11/star11/3304.ts
-#EXTINF:-1 group-title="UNITED STATES",National Geographic
-http://bigiptv.ovh:8000/live/oussema/oussema/10039.ts
-#EXTINF:-1 group-title="UNITED STATES",National Geographic
-http://bigiptv.ovh:8000/live/pierre/pierre/10039.ts
-#EXTINF:-1 group-title="UNITED STATES",National Geographic HD
-http://global.ipsatpro.tv:8000/live/1G8d7ROj7K/kOejo2H0FD/3301.ts
-#EXTINF:-1 group-title="UNITED STATES",National Geographic HD
-http://global.ipsatpro.tv:8000/live/star11/star11/3301.ts
-#EXTINF:-1 group-title="UNITED STATES",NBA HD
-http://bigiptv.ovh:8000/live/oussema/oussema/10032.ts
-#EXTINF:-1 group-title="UNITED STATES",NBA HD
-http://bigiptv.ovh:8000/live/pierre/pierre/10032.ts
-#EXTINF:-1 group-title="UNITED STATES",NBA NETWORK
-http://global.ipsatpro.tv:8000/live/1G8d7ROj7K/kOejo2H0FD/992.ts
-#EXTINF:-1 group-title="UNITED STATES",NBA NETWORK
-http://global.ipsatpro.tv:8000/live/star11/star11/992.ts
-#EXTINF:-1 group-title="UNITED STATES",NBA TV HD
-http://global.ipsatpro.tv:8000/live/1G8d7ROj7K/kOejo2H0FD/999.ts
-#EXTINF:-1 group-title="UNITED STATES",NBA TV HD
-http://global.ipsatpro.tv:8000/live/star11/star11/999.ts
-#EXTINF:-1 group-title="UNITED STATES",NBC
-http://bigiptv.ovh:8000/live/oussema/oussema/10017.ts
-#EXTINF:-1 group-title="UNITED STATES",NBC
-http://bigiptv.ovh:8000/live/pierre/pierre/10017.ts
-#EXTINF:-1 group-title="UNITED STATES",NBC GOLF HD
-http://global.ipsatpro.tv:8000/live/1G8d7ROj7K/kOejo2H0FD/8071.ts
-#EXTINF:-1 group-title="UNITED STATES",NBC GOLF HD
-http://global.ipsatpro.tv:8000/live/star11/star11/8071.ts
-#EXTINF:-1 group-title="UNITED STATES",NBC SPORT
-http://global.ipsatpro.tv:8000/live/1G8d7ROj7K/kOejo2H0FD/2407.ts
-#EXTINF:-1 group-title="UNITED STATES",NBC SPORT
-http://global.ipsatpro.tv:8000/live/star11/star11/2407.ts
-#EXTINF:-1 group-title="UNITED STATES",NBC Sports Network HD
-http://bigiptv.ovh:8000/live/oussema/oussema/10042.ts
-#EXTINF:-1 group-title="UNITED STATES",NBC Sports Network HD
-http://bigiptv.ovh:8000/live/pierre/pierre/10042.ts
-#EXTINF:-1 group-title="UNITED STATES",NBC TV LEAGUE PASS DURING MATCH TIME ONLY
-http://global.ipsatpro.tv:8000/live/1G8d7ROj7K/kOejo2H0FD/8906.ts
-#EXTINF:-1 group-title="UNITED STATES",NBC TV LEAGUE PASS DURING MATCH TIME ONLY
-http://global.ipsatpro.tv:8000/live/star11/star11/8906.ts
-#EXTINF:-1 group-title="UNITED STATES",NFL Channel HD
-http://bigiptv.ovh:8000/live/oussema/oussema/10031.ts
-#EXTINF:-1 group-title="UNITED STATES",NFL Channel HD
-http://bigiptv.ovh:8000/live/pierre/pierre/10031.ts
-#EXTINF:-1 group-title="UNITED STATES",NFL Network HD
-http://global.ipsatpro.tv:8000/live/1G8d7ROj7K/kOejo2H0FD/957.ts
-#EXTINF:-1 group-title="UNITED STATES",NFL Network HD
-http://global.ipsatpro.tv:8000/live/star11/star11/957.ts
-#EXTINF:-1 group-title="UNITED STATES",NFL NOW
-http://global.ipsatpro.tv:8000/live/1G8d7ROj7K/kOejo2H0FD/8853.ts
-#EXTINF:-1 group-title="UNITED STATES",NFL NOW
-http://global.ipsatpro.tv:8000/live/star11/star11/8853.ts
-#EXTINF:-1 group-title="UNITED STATES",NHL Network HD
-http://bigiptv.ovh:8000/live/oussema/oussema/10027.ts
-#EXTINF:-1 group-title="UNITED STATES",NHL Network HD
-http://bigiptv.ovh:8000/live/pierre/pierre/10027.ts
-#EXTINF:-1 group-title="UNITED STATES",NHL NETWORK HD
-http://global.ipsatpro.tv:8000/live/1G8d7ROj7K/kOejo2H0FD/4318.ts
-#EXTINF:-1 group-title="UNITED STATES",NHL NETWORK HD
-http://global.ipsatpro.tv:8000/live/star11/star11/4318.ts
-#EXTINF:-1 group-title="UNITED STATES",NICK HD
-http://global.ipsatpro.tv:8000/live/1G8d7ROj7K/kOejo2H0FD/8913.ts
-#EXTINF:-1 group-title="UNITED STATES",NICK HD
-http://global.ipsatpro.tv:8000/live/star11/star11/8913.ts
-#EXTINF:-1 group-title="UNITED STATES",Nickelodeon HD
-http://bigiptv.ovh:8000/live/oussema/oussema/10052.ts
-#EXTINF:-1 group-title="UNITED STATES",Nickelodeon HD
-http://bigiptv.ovh:8000/live/pierre/pierre/10052.ts
-#EXTINF:-1 group-title="UNITED STATES",NICKELODEON HD
-http://global.ipsatpro.tv:8000/live/1G8d7ROj7K/kOejo2H0FD/4319.ts
-#EXTINF:-1 group-title="UNITED STATES",NICKELODEON HD
-http://global.ipsatpro.tv:8000/live/star11/star11/4319.ts
-#EXTINF:-1 group-title="UNITED STATES",NICKTOONS
-http://global.ipsatpro.tv:8000/live/1G8d7ROj7K/kOejo2H0FD/8912.ts
-#EXTINF:-1 group-title="UNITED STATES",NICKTOONS
-http://global.ipsatpro.tv:8000/live/star11/star11/8912.ts
-#EXTINF:-1 group-title="UNITED STATES",NURSERY RHYMES
-http://global.ipsatpro.tv:8000/live/1G8d7ROj7K/kOejo2H0FD/8911.ts
-#EXTINF:-1 group-title="UNITED STATES",NURSERY RHYMES
-http://global.ipsatpro.tv:8000/live/star11/star11/8911.ts
-#EXTINF:-1 group-title="UNITED STATES",Oprah Winfrey Network
-http://bigiptv.ovh:8000/live/oussema/oussema/9981.ts
-#EXTINF:-1 group-title="UNITED STATES",Oprah Winfrey Network
-http://bigiptv.ovh:8000/live/pierre/pierre/9981.ts
-#EXTINF:-1 group-title="UNITED STATES",OWN HD
-http://global.ipsatpro.tv:8000/live/1G8d7ROj7K/kOejo2H0FD/8923.ts
-#EXTINF:-1 group-title="UNITED STATES",OWN HD
-http://global.ipsatpro.tv:8000/live/star11/star11/8923.ts
-#EXTINF:-1 group-title="UNITED STATES",PAC 12 ARIZONA FHD
-http://global.ipsatpro.tv:8000/live/1G8d7ROj7K/kOejo2H0FD/8854.ts
-#EXTINF:-1 group-title="UNITED STATES",PAC 12 ARIZONA FHD
-http://global.ipsatpro.tv:8000/live/star11/star11/8854.ts
-#EXTINF:-1 group-title="UNITED STATES",PAC 12 Arizona HD
-http://bigiptv.ovh:8000/live/oussema/oussema/9989.ts
-#EXTINF:-1 group-title="UNITED STATES",PAC 12 Arizona HD
-http://bigiptv.ovh:8000/live/pierre/pierre/9989.ts
-#EXTINF:-1 group-title="UNITED STATES",PAC 12 BAY AREA FHD
-http://global.ipsatpro.tv:8000/live/1G8d7ROj7K/kOejo2H0FD/8855.ts
-#EXTINF:-1 group-title="UNITED STATES",PAC 12 BAY AREA FHD
-http://global.ipsatpro.tv:8000/live/star11/star11/8855.ts
-#EXTINF:-1 group-title="UNITED STATES",PAC 12 Bay Area HD
-http://bigiptv.ovh:8000/live/oussema/oussema/9988.ts
-#EXTINF:-1 group-title="UNITED STATES",PAC 12 Bay Area HD
-http://bigiptv.ovh:8000/live/pierre/pierre/9988.ts
-#EXTINF:-1 group-title="UNITED STATES",PAC 12 LOS ANGELES FHD
-http://global.ipsatpro.tv:8000/live/1G8d7ROj7K/kOejo2H0FD/8856.ts
-#EXTINF:-1 group-title="UNITED STATES",PAC 12 LOS ANGELES FHD
-http://global.ipsatpro.tv:8000/live/star11/star11/8856.ts
-#EXTINF:-1 group-title="UNITED STATES",PAC 12 Los Angeles HD
-http://bigiptv.ovh:8000/live/oussema/oussema/9987.ts
-#EXTINF:-1 group-title="UNITED STATES",PAC 12 Los Angeles HD
-http://bigiptv.ovh:8000/live/pierre/pierre/9987.ts
-#EXTINF:-1 group-title="UNITED STATES",PAC 12 MOUNTAIN FHD
-http://global.ipsatpro.tv:8000/live/1G8d7ROj7K/kOejo2H0FD/4324.ts
-#EXTINF:-1 group-title="UNITED STATES",PAC 12 MOUNTAIN FHD
-http://global.ipsatpro.tv:8000/live/star11/star11/4324.ts
-#EXTINF:-1 group-title="UNITED STATES",PAC 12 Mountain HD
-http://bigiptv.ovh:8000/live/oussema/oussema/9986.ts
-#EXTINF:-1 group-title="UNITED STATES",PAC 12 Mountain HD
-http://bigiptv.ovh:8000/live/pierre/pierre/9986.ts
-#EXTINF:-1 group-title="UNITED STATES",PAC 12 NETWORK HD
-http://global.ipsatpro.tv:8000/live/1G8d7ROj7K/kOejo2H0FD/8078.ts
-#EXTINF:-1 group-title="UNITED STATES",PAC 12 NETWORK HD
-http://global.ipsatpro.tv:8000/live/star11/star11/8078.ts
-#EXTINF:-1 group-title="UNITED STATES",PAC 12 OREGON FHD
-http://global.ipsatpro.tv:8000/live/1G8d7ROj7K/kOejo2H0FD/8857.ts
-#EXTINF:-1 group-title="UNITED STATES",PAC 12 OREGON FHD
-http://global.ipsatpro.tv:8000/live/star11/star11/8857.ts
-#EXTINF:-1 group-title="UNITED STATES",PAC 12 Oregon HD
-http://bigiptv.ovh:8000/live/oussema/oussema/9985.ts
-#EXTINF:-1 group-title="UNITED STATES",PAC 12 Oregon HD
-http://bigiptv.ovh:8000/live/pierre/pierre/9985.ts
-#EXTINF:-1 group-title="UNITED STATES",PAC 12 WASHINGTON FHD
-http://global.ipsatpro.tv:8000/live/1G8d7ROj7K/kOejo2H0FD/8858.ts
-#EXTINF:-1 group-title="UNITED STATES",PAC 12 WASHINGTON FHD
-http://global.ipsatpro.tv:8000/live/star11/star11/8858.ts
-#EXTINF:-1 group-title="UNITED STATES",PAC 12 Washington HD
-http://bigiptv.ovh:8000/live/oussema/oussema/9984.ts
-#EXTINF:-1 group-title="UNITED STATES",PAC 12 Washington HD
-http://bigiptv.ovh:8000/live/pierre/pierre/9984.ts
-#EXTINF:-1 group-title="UNITED STATES",PBS HD
-http://global.ipsatpro.tv:8000/live/star11/star11/8859.ts
-#EXTINF:-1 group-title="UNITED STATES",QVC BEAUTY IQ
-http://global.ipsatpro.tv:8000/live/1G8d7ROj7K/kOejo2H0FD/8909.ts
-#EXTINF:-1 group-title="UNITED STATES",QVC BEAUTY IQ
-http://global.ipsatpro.tv:8000/live/star11/star11/8909.ts
-#EXTINF:-1 group-title="UNITED STATES",QVC LIVE
-http://global.ipsatpro.tv:8000/live/1G8d7ROj7K/kOejo2H0FD/8908.ts
-#EXTINF:-1 group-title="UNITED STATES",QVC LIVE
-http://global.ipsatpro.tv:8000/live/star11/star11/8908.ts
-#EXTINF:-1 group-title="UNITED STATES",QVC PLUS
-http://global.ipsatpro.tv:8000/live/1G8d7ROj7K/kOejo2H0FD/8907.ts
-#EXTINF:-1 group-title="UNITED STATES",QVC PLUS
-http://global.ipsatpro.tv:8000/live/star11/star11/8907.ts
-#EXTINF:-1 group-title="UNITED STATES",RT DOCUMENTARY
-http://global.ipsatpro.tv:8000/live/1G8d7ROj7K/kOejo2H0FD/8081.ts
-#EXTINF:-1 group-title="UNITED STATES",RT DOCUMENTARY
-http://global.ipsatpro.tv:8000/live/star11/star11/8081.ts
-#EXTINF:-1 group-title="UNITED STATES",S
-http://global.ipsatpro.tv:8000/live/star11/star11/8928.ts
-#EXTINF:-1 group-title="UNITED STATES",SHOWTIME 2 HD
-http://global.ipsatpro.tv:8000/live/1G8d7ROj7K/kOejo2H0FD/2369.ts
-#EXTINF:-1 group-title="UNITED STATES",SHOWTIME 2 HD
-http://global.ipsatpro.tv:8000/live/star11/star11/2369.ts
-#EXTINF:-1 group-title="UNITED STATES",SHOWTIME EXTREME
-http://global.ipsatpro.tv:8000/live/1G8d7ROj7K/kOejo2H0FD/8070.ts
-#EXTINF:-1 group-title="UNITED STATES",SHOWTIME EXTREME
-http://global.ipsatpro.tv:8000/live/star11/star11/8070.ts
-#EXTINF:-1 group-title="UNITED STATES",SHOWTIME HD
-http://global.ipsatpro.tv:8000/live/1G8d7ROj7K/kOejo2H0FD/8069.ts
-#EXTINF:-1 group-title="UNITED STATES",SHOWTIME HD
-http://global.ipsatpro.tv:8000/live/star11/star11/8069.ts
-#EXTINF:-1 group-title="UNITED STATES",SPIKE CAN
-http://global.ipsatpro.tv:8000/live/1G8d7ROj7K/kOejo2H0FD/8893.ts
-#EXTINF:-1 group-title="UNITED STATES",SPIKE CAN
-http://global.ipsatpro.tv:8000/live/star11/star11/8893.ts
-#EXTINF:-1 group-title="UNITED STATES",SPIKE HD
-http://bigiptv.ovh:8000/live/oussema/oussema/9996.ts
-#EXTINF:-1 group-title="UNITED STATES",SPIKE HD
-http://bigiptv.ovh:8000/live/pierre/pierre/9996.ts
-#EXTINF:-1 group-title="UNITED STATES",SPORT NET 1 HD
-http://global.ipsatpro.tv:8000/live/1G8d7ROj7K/kOejo2H0FD/8083.ts
-#EXTINF:-1 group-title="UNITED STATES",SPORT NET 1 HD
-http://global.ipsatpro.tv:8000/live/star11/star11/8083.ts
-#EXTINF:-1 group-title="UNITED STATES",Sports Net 360 HD
-http://bigiptv.ovh:8000/live/oussema/oussema/10024.ts
-#EXTINF:-1 group-title="UNITED STATES",Sports Net 360 HD
-http://bigiptv.ovh:8000/live/pierre/pierre/10024.ts
-#EXTINF:-1 group-title="UNITED STATES",Sports Net One HD
-http://bigiptv.ovh:8000/live/oussema/oussema/10016.ts
-#EXTINF:-1 group-title="UNITED STATES",Sports Net One HD
-http://bigiptv.ovh:8000/live/pierre/pierre/10016.ts
-#EXTINF:-1 group-title="UNITED STATES",SPORTS NET ONE HD
-http://global.ipsatpro.tv:8000/live/1G8d7ROj7K/kOejo2H0FD/4326.ts
-#EXTINF:-1 group-title="UNITED STATES",SPORTS NET ONE HD
-http://global.ipsatpro.tv:8000/live/star11/star11/4326.ts
-#EXTINF:-1 group-title="UNITED STATES",SPORTS NET ONE HD CAN
-http://global.ipsatpro.tv:8000/live/1G8d7ROj7K/kOejo2H0FD/8895.ts
-#EXTINF:-1 group-title="UNITED STATES",SPORTS NET ONE HD CAN
-http://global.ipsatpro.tv:8000/live/star11/star11/8895.ts
-#EXTINF:-1 group-title="UNITED STATES",Sports Net Ontario HD
-http://bigiptv.ovh:8000/live/oussema/oussema/10023.ts
-#EXTINF:-1 group-title="UNITED STATES",Sports Net Ontario HD
-http://bigiptv.ovh:8000/live/pierre/pierre/10023.ts
-#EXTINF:-1 group-title="UNITED STATES",SPORTS NET ONTARIO HD
-http://global.ipsatpro.tv:8000/live/1G8d7ROj7K/kOejo2H0FD/8894.ts
-#EXTINF:-1 group-title="UNITED STATES",SPORTS NET ONTARIO HD
-http://global.ipsatpro.tv:8000/live/star11/star11/8894.ts
-#EXTINF:-1 group-title="UNITED STATES",Sports Net Pacific HD
-http://bigiptv.ovh:8000/live/oussema/oussema/9983.ts
-#EXTINF:-1 group-title="UNITED STATES",Sports Net Pacific HD
-http://bigiptv.ovh:8000/live/pierre/pierre/9983.ts
-#EXTINF:-1 group-title="UNITED STATES",Sports Net West HD
-http://bigiptv.ovh:8000/live/oussema/oussema/9982.ts
-#EXTINF:-1 group-title="UNITED STATES",Sports Net West HD
-http://bigiptv.ovh:8000/live/pierre/pierre/9982.ts
-#EXTINF:-1 group-title="UNITED STATES",SPORTS NET WEST HD CAN
-http://global.ipsatpro.tv:8000/live/1G8d7ROj7K/kOejo2H0FD/8896.ts
-#EXTINF:-1 group-title="UNITED STATES",SPORTS NET WEST HD CAN
-http://global.ipsatpro.tv:8000/live/star11/star11/8896.ts
-#EXTINF:-1 group-title="UNITED STATES",Sports Net World HD
-http://bigiptv.ovh:8000/live/oussema/oussema/10022.ts
-#EXTINF:-1 group-title="UNITED STATES",Sports Net World HD
-http://bigiptv.ovh:8000/live/pierre/pierre/10022.ts
-#EXTINF:-1 group-title="UNITED STATES",SPORTS NET WORLD HD
-http://global.ipsatpro.tv:8000/live/1G8d7ROj7K/kOejo2H0FD/4330.ts
-#EXTINF:-1 group-title="UNITED STATES",SPORTS NET WORLD HD
-http://global.ipsatpro.tv:8000/live/star11/star11/4330.ts
-#EXTINF:-1 group-title="UNITED STATES",SPORTS NET WORLD HD CAN
-http://global.ipsatpro.tv:8000/live/1G8d7ROj7K/kOejo2H0FD/8897.ts
-#EXTINF:-1 group-title="UNITED STATES",SPORTS NET WORLD HD CAN
-http://global.ipsatpro.tv:8000/live/star11/star11/8897.ts
-#EXTINF:-1 group-title="UNITED STATES",Starz Cinema HD
-http://bigiptv.ovh:8000/live/oussema/oussema/9995.ts
-#EXTINF:-1 group-title="UNITED STATES",Starz Cinema HD
-http://bigiptv.ovh:8000/live/pierre/pierre/9995.ts
-#EXTINF:-1 group-title="UNITED STATES",STARZ CINEMA HD
-http://global.ipsatpro.tv:8000/live/1G8d7ROj7K/kOejo2H0FD/4302.ts
-#EXTINF:-1 group-title="UNITED STATES",STARZ CINEMA HD
-http://global.ipsatpro.tv:8000/live/star11/star11/4302.ts
-#EXTINF:-1 group-title="UNITED STATES",STARZ ENCORE HD
-http://global.ipsatpro.tv:8000/live/1G8d7ROj7K/kOejo2H0FD/8093.ts
-#EXTINF:-1 group-title="UNITED STATES",Starz HD
-http://bigiptv.ovh:8000/live/oussema/oussema/9993.ts
-#EXTINF:-1 group-title="UNITED STATES",Starz HD
-http://bigiptv.ovh:8000/live/pierre/pierre/9993.ts
-#EXTINF:-1 group-title="UNITED STATES",SYFY HD
-http://bigiptv.ovh:8000/live/oussema/oussema/10051.ts
-#EXTINF:-1 group-title="UNITED STATES",SYFY HD
-http://bigiptv.ovh:8000/live/pierre/pierre/10051.ts
-#EXTINF:-1 group-title="UNITED STATES",SYFY HD
-http://global.ipsatpro.tv:8000/live/1G8d7ROj7K/kOejo2H0FD/1696.ts
-#EXTINF:-1 group-title="UNITED STATES",SYFY HD
-http://global.ipsatpro.tv:8000/live/star11/star11/1696.ts
-#EXTINF:-1 group-title="UNITED STATES",TBS
-http://global.ipsatpro.tv:8000/live/1G8d7ROj7K/kOejo2H0FD/8859.ts
-#EXTINF:-1 group-title="UNITED STATES",TBS HD
-http://bigiptv.ovh:8000/live/oussema/oussema/10040.ts
-#EXTINF:-1 group-title="UNITED STATES",TBS HD
-http://bigiptv.ovh:8000/live/pierre/pierre/10040.ts
-#EXTINF:-1 group-title="UNITED STATES",TBS HD
-http://global.ipsatpro.tv:8000/live/1G8d7ROj7K/kOejo2H0FD/2131.ts
-#EXTINF:-1 group-title="UNITED STATES",TBS HD
-http://global.ipsatpro.tv:8000/live/star11/star11/2131.ts
-#EXTINF:-1 group-title="UNITED STATES",TELEMUNDO
-http://global.ipsatpro.tv:8000/live/1G8d7ROj7K/kOejo2H0FD/8848.ts
-#EXTINF:-1 group-title="UNITED STATES",TELEMUNDO
-http://global.ipsatpro.tv:8000/live/star11/star11/8848.ts
-#EXTINF:-1 group-title="UNITED STATES",Tennis Channel HD
-http://bigiptv.ovh:8000/live/oussema/oussema/10026.ts
-#EXTINF:-1 group-title="UNITED STATES",Tennis Channel HD
-http://bigiptv.ovh:8000/live/pierre/pierre/10026.ts
-#EXTINF:-1 group-title="UNITED STATES",TENNIS CHANNEL HD
-http://global.ipsatpro.tv:8000/live/1G8d7ROj7K/kOejo2H0FD/8086.ts
-#EXTINF:-1 group-title="UNITED STATES",TENNIS CHANNEL HD
-http://global.ipsatpro.tv:8000/live/star11/star11/8086.ts
-#EXTINF:-1 group-title="UNITED STATES",TLC
-http://global.ipsatpro.tv:8000/live/1G8d7ROj7K/kOejo2H0FD/8860.ts
-#EXTINF:-1 group-title="UNITED STATES",TLC
-http://global.ipsatpro.tv:8000/live/star11/star11/8860.ts
-#EXTINF:-1 group-title="UNITED STATES",TLC HD
-http://bigiptv.ovh:8000/live/oussema/oussema/10047.ts
-#EXTINF:-1 group-title="UNITED STATES",TLC HD
-http://bigiptv.ovh:8000/live/pierre/pierre/10047.ts
-#EXTINF:-1 group-title="UNITED STATES",TLC HD
-http://global.ipsatpro.tv:8000/live/1G8d7ROj7K/kOejo2H0FD/2112.ts
-#EXTINF:-1 group-title="UNITED STATES",TLC HD
-http://global.ipsatpro.tv:8000/live/star11/star11/2112.ts
-#EXTINF:-1 group-title="UNITED STATES",TNT HD
-http://bigiptv.ovh:8000/live/oussema/oussema/10041.ts
-#EXTINF:-1 group-title="UNITED STATES",TNT HD
-http://bigiptv.ovh:8000/live/pierre/pierre/10041.ts
-#EXTINF:-1 group-title="UNITED STATES",TNT HD
-http://global.ipsatpro.tv:8000/live/1G8d7ROj7K/kOejo2H0FD/997.ts
-#EXTINF:-1 group-title="UNITED STATES",TNT HD
-http://global.ipsatpro.tv:8000/live/star11/star11/997.ts
-#EXTINF:-1 group-title="UNITED STATES",Travel Channel HD
-http://global.ipsatpro.tv:8000/live/1G8d7ROj7K/kOejo2H0FD/2110.ts
-#EXTINF:-1 group-title="UNITED STATES",Travel Channel HD
-http://global.ipsatpro.tv:8000/live/star11/star11/2110.ts
-#EXTINF:-1 group-title="UNITED STATES",TRU TV
-http://global.ipsatpro.tv:8000/live/1G8d7ROj7K/kOejo2H0FD/8922.ts
-#EXTINF:-1 group-title="UNITED STATES",TRU TV
-http://global.ipsatpro.tv:8000/live/star11/star11/8922.ts
-#EXTINF:-1 group-title="UNITED STATES",TSN 1 HD
-http://bigiptv.ovh:8000/live/oussema/oussema/10015.ts
-#EXTINF:-1 group-title="UNITED STATES",TSN 1 HD
-http://bigiptv.ovh:8000/live/pierre/pierre/10015.ts
-#EXTINF:-1 group-title="UNITED STATES",TSN 1 HD
-http://global.ipsatpro.tv:8000/live/1G8d7ROj7K/kOejo2H0FD/967.ts
-#EXTINF:-1 group-title="UNITED STATES",TSN 1 HD
-http://global.ipsatpro.tv:8000/live/star11/star11/967.ts
-#EXTINF:-1 group-title="UNITED STATES",TSN 2 HD
-http://bigiptv.ovh:8000/live/oussema/oussema/10014.ts
-#EXTINF:-1 group-title="UNITED STATES",TSN 2 HD
-http://bigiptv.ovh:8000/live/pierre/pierre/10014.ts
-#EXTINF:-1 group-title="UNITED STATES",TSN 2 HD
-http://global.ipsatpro.tv:8000/live/1G8d7ROj7K/kOejo2H0FD/968.ts
-#EXTINF:-1 group-title="UNITED STATES",TSN 2 HD
-http://global.ipsatpro.tv:8000/live/star11/star11/968.ts
-#EXTINF:-1 group-title="UNITED STATES",TSN 3 HD
-http://bigiptv.ovh:8000/live/oussema/oussema/10013.ts
-#EXTINF:-1 group-title="UNITED STATES",TSN 3 HD
-http://bigiptv.ovh:8000/live/pierre/pierre/10013.ts
-#EXTINF:-1 group-title="UNITED STATES",TSN 3 HD
-http://global.ipsatpro.tv:8000/live/1G8d7ROj7K/kOejo2H0FD/969.ts
-#EXTINF:-1 group-title="UNITED STATES",TSN 3 HD
-http://global.ipsatpro.tv:8000/live/star11/star11/969.ts
-#EXTINF:-1 group-title="UNITED STATES",TSN 4 HD
-http://bigiptv.ovh:8000/live/oussema/oussema/10012.ts
-#EXTINF:-1 group-title="UNITED STATES",TSN 4 HD
-http://bigiptv.ovh:8000/live/pierre/pierre/10012.ts
-#EXTINF:-1 group-title="UNITED STATES",TSN 4 HD
-http://global.ipsatpro.tv:8000/live/1G8d7ROj7K/kOejo2H0FD/970.ts
-#EXTINF:-1 group-title="UNITED STATES",TSN 4 HD
-http://global.ipsatpro.tv:8000/live/star11/star11/970.ts
-#EXTINF:-1 group-title="UNITED STATES",TSN 5 HD
-http://bigiptv.ovh:8000/live/oussema/oussema/10011.ts
-#EXTINF:-1 group-title="UNITED STATES",TSN 5 HD
-http://bigiptv.ovh:8000/live/pierre/pierre/10011.ts
-#EXTINF:-1 group-title="UNITED STATES",TSN 5 HD
-http://global.ipsatpro.tv:8000/live/1G8d7ROj7K/kOejo2H0FD/951.ts
-#EXTINF:-1 group-title="UNITED STATES",TSN 5 HD
-http://global.ipsatpro.tv:8000/live/star11/star11/951.ts
-#EXTINF:-1 group-title="UNITED STATES",TV SKY ONE
-http://global.ipsatpro.tv:8000/live/1G8d7ROj7K/kOejo2H0FD/8921.ts
-#EXTINF:-1 group-title="UNITED STATES",TV SKY ONE
-http://global.ipsatpro.tv:8000/live/star11/star11/8921.ts
-#EXTINF:-1 group-title="UNITED STATES",UNIVERSITY OF CALIFORNIA
-http://global.ipsatpro.tv:8000/live/star11/star11/8076.ts
-#EXTINF:-1 group-title="UNITED STATES",UNIVISION
-http://global.ipsatpro.tv:8000/live/1G8d7ROj7K/kOejo2H0FD/8849.ts
-#EXTINF:-1 group-title="UNITED STATES",Univision Deportes
-http://bigiptv.ovh:8000/live/oussema/oussema/10046.ts
-#EXTINF:-1 group-title="UNITED STATES",Univision Deportes
-http://bigiptv.ovh:8000/live/pierre/pierre/10046.ts
-#EXTINF:-1 group-title="UNITED STATES",USA NETWORK HD
-http://bigiptv.ovh:8000/live/oussema/oussema/9992.ts
-#EXTINF:-1 group-title="UNITED STATES",USA NETWORK HD
-http://bigiptv.ovh:8000/live/pierre/pierre/9992.ts
-#EXTINF:-1 group-title="UNITED STATES",USA Network HD
-http://global.ipsatpro.tv:8000/live/1G8d7ROj7K/kOejo2H0FD/1700.ts
-#EXTINF:-1 group-title="UNITED STATES",USA Network HD
-http://global.ipsatpro.tv:8000/live/star11/star11/1700.ts
-#EXTINF:-1 group-title="UNITED STATES",USA SPORTS NETWORK HD
-http://global.ipsatpro.tv:8000/live/1G8d7ROj7K/kOejo2H0FD/2412.ts
-#EXTINF:-1 group-title="UNITED STATES",USA SPORTS NETWORK HD
-http://global.ipsatpro.tv:8000/live/star11/star11/2412.ts
-#EXTINF:-1 group-title="UNITED STATES",Viceland
-http://bigiptv.ovh:8000/live/oussema/oussema/10044.ts
-#EXTINF:-1 group-title="UNITED STATES",Viceland
-http://bigiptv.ovh:8000/live/pierre/pierre/10044.ts
-#EXTINF:-1 group-title="UNITED STATES",VICELAND HD
-http://global.ipsatpro.tv:8000/live/1G8d7ROj7K/kOejo2H0FD/8861.ts
-#EXTINF:-1 group-title="UNITED STATES",VICELAND HD
-http://global.ipsatpro.tv:8000/live/star11/star11/8861.ts
-#EXTINF:-1 group-title="UNITED STATES",WEATHER CHANNEL
-http://global.ipsatpro.tv:8000/live/1G8d7ROj7K/kOejo2H0FD/8905.ts
-#EXTINF:-1 group-title="UNITED STATES",WEATHER CHANNEL
-http://global.ipsatpro.tv:8000/live/star11/star11/8905.ts
-#EXTINF:-1 group-title="UNITED STATES",WGN HD
-http://global.ipsatpro.tv:8000/live/1G8d7ROj7K/kOejo2H0FD/1008.ts
-#EXTINF:-1 group-title="UNITED STATES",WGN HD
-http://global.ipsatpro.tv:8000/live/star11/star11/1008.ts
-#EXTINF:-1 group-title="UNITED STATES",Willow Cricket HD
-http://bigiptv.ovh:8000/live/oussema/oussema/10045.ts
-#EXTINF:-1 group-title="UNITED STATES",Willow Cricket HD
-http://bigiptv.ovh:8000/live/pierre/pierre/10045.ts
-#EXTINF:-1 group-title="UNITED STATES",Willow Cricket HD
-http://global.ipsatpro.tv:8000/live/1G8d7ROj7K/kOejo2H0FD/1701.ts
-#EXTINF:-1 group-title="UNITED STATES",Willow Cricket HD
-http://global.ipsatpro.tv:8000/live/star11/star11/1701.ts
-#EXTINF:-1 group-title="UNITED STATES",WWE Network HD
-http://bigiptv.ovh:8000/live/oussema/oussema/10025.ts
-#EXTINF:-1 group-title="UNITED STATES",WWE Network HD
-http://bigiptv.ovh:8000/live/pierre/pierre/10025.ts
-#EXTINF:-1 group-title="UNITED STATES",WWE Raw Network HD
-http://global.ipsatpro.tv:8000/live/1G8d7ROj7K/kOejo2H0FD/981.ts
-#EXTINF:-1 group-title="UNITED STATES",WWE Raw Network HD
-http://global.ipsatpro.tv:8000/live/star11/star11/981.ts
-#EXTINF:-1 group-title="WORLD WIDE",6ter HD FR
-http://clientportal.link:8080/live/abc123/321cba/3723.ts
