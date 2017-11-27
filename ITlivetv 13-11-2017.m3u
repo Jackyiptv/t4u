@@ -1,4 +1,9 @@
 #EXTM3U
+#EXTINF:-1 tvg-name="Ger1" tvg-logo="" group-title="{BOUQUET_NAME}",IF Link Stops Working Check Later IT will be Updated
+http://www.lengua.com/anthems/Indonesia.mp3
+#EXTINF:-1 tvg-name="Ger1" tvg-logo="" group-title="{BOUQUET_NAME}",Channel Kick Out in 15-20Sec Visit http://bit.ly/fixkick
+http://www.lengua.com/anthems/Indonesia.mp3
+
 
 #EXTINF:-1 tvg-ID="Rai1.it" tvg-name="Rai1 HD" tvg-logo="" group-title="",Rai1 HD
 http://cdnlive1.win:80/live/FxXilfIelJ/jH0SGeXK1k/38.m3u8
