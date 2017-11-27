@@ -1,5 +1,9 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-name="Ger1" tvg-logo="" group-title="{BOUQUET_NAME}",IF Link Stops Working Check Later IT will be Updated
+http://www.lengua.com/anthems/Indonesia.mp3
+#EXTINF:-1 tvg-name="Ger1" tvg-logo="" group-title="{BOUQUET_NAME}",Channel Kick Out in 15-20Sec Visit http://bit.ly/fixkick
+http://www.lengua.com/anthems/Indonesia.mp3
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/E2YR6Oa.png" group-title="WORLD NEWS",Al Jazeera (Qatar)
 http://aljazeera-eng-hd-live.hls.adaptive.level3.net/aljazeera/english2/index.m3u8
@@ -706,10 +710,10 @@ http://csm-e.cds1.yospace.com/csm/live/74246610.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/db/Rtenewsnownewlogo.png" group-title="IRELAND",RTE News Now
 http://wmsrtsp1.rte.ie/live/android.sdp/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/RTÉ_logo.svg/229px-RTÉ_logo.svg.png" group-title="IRELAND",RTE 1
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/RTÃ‰_logo.svg/229px-RTÃ‰_logo.svg.png" group-title="IRELAND",RTE 1
 http://akamai.rasset.ie/hls-live/_definst_/rte1/rte1-720.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/11/RTÉ2_logo.svg/1280px-RTÉ2_logo.svg.png" group-title="IRELAND",RTE 2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/11/RTÃ‰2_logo.svg/1280px-RTÃ‰2_logo.svg.png" group-title="IRELAND",RTE 2
 http://akamai.rasset.ie/hls-live/_definst_/rte2/rte2-720.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://rtejr.rte.ie/wp-content/themes/rtejr-2013/img/rtejr-logo-large.jpg" group-title="IRELAND",RTE Jr.
@@ -1162,7 +1166,7 @@ http://urtmpkal-f.akamaihd.net/i/1ef9833b4_1@128347/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.frontview-magazine.be/sites/default/files/news/30843-tvo-digitext-de-nieuwe-digitale-teletekst-van-tv-oost-528130.jpg" group-title="BELGIUM",TV OOST
 http://urtmpkal-f.akamaihd.net/i/156m2vpg5_1@322941/index_1_av-p.m3u8
 
-#EXTINF:-1 tvg-logo="http://civiltarsulas.hu/uploads/icons/language/Français.png" group-title="LABEL",~ France TV ~
+#EXTINF:-1 tvg-logo="http://civiltarsulas.hu/uploads/icons/language/FranÃ§ais.png" group-title="LABEL",~ France TV ~
 http://www.lengua.com/anthems/France.mp3
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/46/AB1_channel_logo.png" group-title="FRANCE",AB1
@@ -1228,7 +1232,7 @@ http://live.lachainenormande.fr/live/lcn/livestream/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/789467576015421446/Ny4bF54R.jpg" group-title="FRANCE",Monaco Info (Monaco)
 http://46.105.34.238/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/7/73/Logo_RMC_Découverte_2012.png" group-title="FRANCE",RMC Decouverte
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/7/73/Logo_RMC_DÃ©couverte_2012.png" group-title="FRANCE",RMC Decouverte
 http://streaming-hub.com/stream/rmc.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/RTL_logo.svg/1200px-RTL_logo.svg.png" group-title="FRANCE",RTL
@@ -1594,7 +1598,7 @@ http://streaming2.inforede.inf.br:1935/c1076ev2932/aovivo/live.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://recordtv.r7.com/emissoras-record/files/2015/01/PB-TV-CORREIO.png" group-title="BRAZIL",TV Correio
 http://flash1.crossdigital.com.br/491/491/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://vignette1.wikia.nocookie.net/logopedia/images/5/5e/TV_Diário_logo_2015.png" group-title="BRAZIL",TV Diario
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://vignette1.wikia.nocookie.net/logopedia/images/5/5e/TV_DiÃ¡rio_logo_2015.png" group-title="BRAZIL",TV Diario
 http://slrp.sambavideos.sambatech.com:80/liveevent/tvdiario_7a683b067e5eee5c8d45e1e1883f69b9/livestream/live.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://roquettepinto.org.br/wp-content/uploads/2014/12/tvescola-home-alt2-300x227.png" group-title="BRAZIL",TV Escola
@@ -1609,10 +1613,10 @@ http://api.new.livestream.com/accounts/5381476/events/2395418/live.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://4.bp.blogspot.com/__V5pVKfEbbc/TTogzfvKkGI/AAAAAAAAABY/ISzMSn12zw8/s250/tvgeral.jpg" group-title="BRAZIL",TV Geral
 http://fms1.tacitus.com.br:1935/tvgeral/tvgeral/live.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/f/ff/Logotipo_TV_Guará.png" group-title="BRAZIL",TV Guara
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/f/ff/Logotipo_TV_GuarÃ¡.png" group-title="BRAZIL",TV Guara
 http://v1.fabricahost.com.br/tvguara/tvguara/live.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/93/Logotipo_da_TV_Itararé.jpg" group-title="BRAZIL",TV Itarare
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/93/Logotipo_da_TV_ItararÃ©.jpg" group-title="BRAZIL",TV Itarare
 http://177.73.84.49/hls/live/live.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.bastidoresdatv.com.br/wp-content/uploads/2015/07/Jornal.png" group-title="BRAZIL",TV Jornal Caruaru
@@ -1621,7 +1625,7 @@ http://evp.mm.uol.com.br:1935/ne10/_definst_/ne10-tvjornal-caruaru-video-web.sdp
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://musikcity.mus.br/TV/figuras/tvjornal.png" group-title="BRAZIL",TV Jornal Recife
 http://evp.mm.uol.com.br:1935/ne10/ne10-tvjornal-recife-video-mobile.sdp/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/e/e7/TV_Metrópole.png" group-title="BRAZIL",TV Metropole
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/e/e7/TV_MetrÃ³pole.png" group-title="BRAZIL",TV Metropole
 http://wse2.player.tv.br:1935/fmoriginal/fmoriginal/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/XNF7iTqRwBE/hqdefault.jpg" group-title="BRAZIL",TV MCJ
@@ -1759,10 +1763,10 @@ http://cast.streamingconnect.com:1935/csflamenco/csflamenco/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.ptvtelecom.com/ficheros/imagennoticia311_0.jpg" group-title="SPAIN",Canal Parlamento
 http://congresodirectomobile.edgesuite.net/live/live6.stream/manifest.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vignette1.wikia.nocookie.net/logopedia/images/c/cd/Televisión_Canaria_SAT_logo_2008.png" group-title="SPAIN",Canaria SAT
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vignette1.wikia.nocookie.net/logopedia/images/c/cd/TelevisiÃ³n_Canaria_SAT_logo_2008.png" group-title="SPAIN",Canaria SAT
 http://streaming2.mad.idec.net/rtvcnet/rtvcnet.drb.360plr.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vignette1.wikia.nocookie.net/logopedia/images/c/cd/Televisión_Canaria_SAT_logo_2008.png" group-title="SPAIN",Canaria SAT*
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vignette1.wikia.nocookie.net/logopedia/images/c/cd/TelevisiÃ³n_Canaria_SAT_logo_2008.png" group-title="SPAIN",Canaria SAT*
 http://streaming2.mad.idec.net/rtvcnet/rtvcnet.drb.smil/chunklist_w117839380_b480000_sles.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.brandemia.org/sites/default/files/sites/default/files/logo_castilla_la-mancha-tv.jpg" group-title="SPAIN",Castilla-La Mancha TV
@@ -1999,13 +2003,13 @@ http://188.165.135.22/15o8376r/mystream/chunklist_w511176900.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://certamencoralfiratotssants.com/wp-content/uploads/2012/05/TVA-ALCOI.jpg" group-title="SPAIN",TV Alcoi
 http://92.222.37.18/hls/tvaxa.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://teatrobus.net/wp-content/uploads/2016/03/Televisión-de-Galicia.jpg" group-title="SPAIN",TVG America
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://teatrobus.net/wp-content/uploads/2016/03/TelevisiÃ³n-de-Galicia.jpg" group-title="SPAIN",TVG America
 http://media1.crtvg.es:1935/live/tvga/livestream.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://teatrobus.net/wp-content/uploads/2016/03/Televisión-de-Galicia.jpg" group-title="SPAIN",TVG Europa
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://teatrobus.net/wp-content/uploads/2016/03/TelevisiÃ³n-de-Galicia.jpg" group-title="SPAIN",TVG Europa
 http://media1.crtvg.es:1935/live/tvge/livestream.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://teatrobus.net/wp-content/uploads/2016/03/Televisión-de-Galicia.jpg" group-title="SPAIN",TVG Europa*
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://teatrobus.net/wp-content/uploads/2016/03/TelevisiÃ³n-de-Galicia.jpg" group-title="SPAIN",TVG Europa*
 http://media3.crtvg.es:1935/live/tvge_2/livestream.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.enetres.tv/img/slider-projects/mediterraneo-tv.jpg" group-title="SPAIN",TV Mediterraneo
@@ -2488,13 +2492,13 @@ http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/MGEN/tu1_1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.canalmimusica.com/wp-content/uploads/2012/10/MIMUSICA-HD-GRANDE1.png" group-title="COLOMBIA",MiMusica
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/MMHD/tu1_1.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/RCN_Televisión_logo.svg/2000px-RCN_Televisión_logo.svg.png" group-title="COLOMBIA",RCN
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/RCN_TelevisiÃ³n_logo.svg/2000px-RCN_TelevisiÃ³n_logo.svg.png" group-title="COLOMBIA",RCN
 https://mdstrm.com/live-stream-playlist/58a36704896500b908cf1abe.m3u8?exabytetv.info?.m3u
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.brandsoftheworld.com/sites/default/files/styles/logo-thumbnail/public/052014/untitled-1_56.png" group-title="COLOMBIA",Senal Colombia
 http://live10.cdnmedia.tv/rtvcscolombialive/smil:live.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Señal_Institucional_logo.svg/1200px-Señal_Institucional_logo.svg.png" group-title="COLOMBIA",Senal Institucional
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/SeÃ±al_Institucional_logo.svg/1200px-SeÃ±al_Institucional_logo.svg.png" group-title="COLOMBIA",Senal Institucional
 http://live10.cdnmedia.tv/rtvcsinstitucionallive/smil:live.smil/master.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://yt3.ggpht.com/-3y0PLzhwrig/AAAAAAAAAAI/AAAAAAAAAAA/u423NXvcb_4/s900-c-k-no-mo-rj-c0xffffff/photo.jpg" group-title="COLOMBIA",Teleantioquia
@@ -3655,7 +3659,7 @@ http://www.lengua.com/anthems/Azerbaijan.mp3
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/Azad_Azerbaycan_TV_logosu.png" group-title="AZERBAIJAN",Azad Azerbaijan TV
 http://85.132.71.6/iptv_atv_az/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/az/5/5d/AzTV_loqosu_%2814_fevral_2011-günümüz%29.png" group-title="AZERBAIJAN",AzTV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/az/5/5d/AzTV_loqosu_%2814_fevral_2011-gÃ¼nÃ¼mÃ¼z%29.png" group-title="AZERBAIJAN",AzTV
 http://85.132.71.6/azeri/aztv/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://cbc.az/assets/uploads/sites/Logo_fin.png" group-title="AZERBAIJAN",CBC Azerbaijan
