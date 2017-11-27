@@ -1,4 +1,8 @@
 #EXTM3U
+#EXTINF:-1 tvg-name="Ger1" tvg-logo="" group-title="{BOUQUET_NAME}",IF Link Stops Working Check Later IT will be Updated
+http://www.lengua.com/anthems/Indonesia.mp3
+#EXTINF:-1 tvg-name="Ger1" tvg-logo="" group-title="{BOUQUET_NAME}",Channel Kick Out in 15-20Sec Visit http://bit.ly/fixkick
+http://www.lengua.com/anthems/Indonesia.mp3
 
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/RqbqQny.jpg" group-title="SPANISH",The Great Wall (2016)
