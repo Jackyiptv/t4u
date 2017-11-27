@@ -393,479 +393,1214 @@ http://iptv.ndasat.com:88/live/329995091896719/329995091896719/553.m3u8
 #EXTINF:-1 tvg-name="VOD-Select6" tvg-logo="http://logo.ndasat.com/iptv/images/44453_germany.jpg" group-title="{BOUQUET_NAME}",VOD-Select6
 http://iptv.ndasat.com:88/live/329995091896719/329995091896719/552.m3u8
 
-#EXTINF:-1,13th Street DE
-http://clientportal.link:8080/live/6vFVk7NzDU/luH1S6ft7V/3428.m3u8
+
+#EXTINF:-1 tvg-name="Das Erste" tvg-logo="" group-title="{BOUQUET_NAME}",Das Erste
+http://iptv.ndasat.com:88/live/329995091896719/329995091896719/3605.ts
+#EXTINF:-1 tvg-name="ZDF" tvg-logo="http://logo.ndasat.com/iptv/images/61931_zdf.png" group-title="{BOUQUET_NAME}",ZDF
+http://iptv.ndasat.com:88/live/329995091896719/329995091896719/261.ts
+#EXTINF:-1 tvg-name="ARD" tvg-logo="http://logo.ndasat.com/iptv/images/22065_ard.png" group-title="{BOUQUET_NAME}",ARD
+http://iptv.ndasat.com:88/live/329995091896719/329995091896719/262.ts
+#EXTINF:-1 tvg-name="HR DE" tvg-logo="" group-title="{BOUQUET_NAME}",HR DE
+http://iptv.ndasat.com:88/live/329995091896719/329995091896719/3604.ts
+#EXTINF:-1 tvg-name="NDR" tvg-logo="http://logo.ndasat.com/iptv/images/73491_ndr.png" group-title="{BOUQUET_NAME}",NDR
+http://iptv.ndasat.com:88/live/329995091896719/329995091896719/243.ts
+#EXTINF:-1 tvg-name="WDR" tvg-logo="http://logo.ndasat.com/iptv/images/38274_wdr.png" group-title="{BOUQUET_NAME}",WDR
+http://iptv.ndasat.com:88/live/329995091896719/329995091896719/247.ts
+#EXTINF:-1 tvg-name="ARTE DE" tvg-logo="http://logo.ndasat.com/iptv/images/12891_arte.jpg" group-title="{BOUQUET_NAME}",ARTE DE
+http://iptv.ndasat.com:88/live/329995091896719/329995091896719/245.ts
+#EXTINF:-1 tvg-name="SWR" tvg-logo="http://logo.ndasat.com/iptv/images/13482_swr.png" group-title="{BOUQUET_NAME}",SWR
+http://iptv.ndasat.com:88/live/329995091896719/329995091896719/270.ts
+#EXTINF:-1 tvg-name="Sat1" tvg-logo="http://logo.ndasat.com/iptv/images/14447_sat1.png" group-title="{BOUQUET_NAME}",Sat1
+http://iptv.ndasat.com:88/live/329995091896719/329995091896719/260.ts
+#EXTINF:-1 tvg-name="Sat1 Gold" tvg-logo="http://logo.ndasat.com/iptv/images/55122_sat1gold.jpg" group-title="{BOUQUET_NAME}",Sat1 Gold
+http://iptv.ndasat.com:88/live/329995091896719/329995091896719/3418.ts
+#EXTINF:-1 tvg-name="RTL" tvg-logo="http://logo.ndasat.com/iptv/images/21533_rtl.jpg" group-title="{BOUQUET_NAME}",RTL
+http://iptv.ndasat.com:88/live/329995091896719/329995091896719/252.ts
+#EXTINF:-1 tvg-name="RTL 2" tvg-logo="http://logo.ndasat.com/iptv/images/779_rtl2.png" group-title="{BOUQUET_NAME}",RTL 2
+http://iptv.ndasat.com:88/live/329995091896719/329995091896719/250.ts
+#EXTINF:-1 tvg-name="RTL Nitro" tvg-logo="http://logo.ndasat.com/iptv/images/9419_rtlnitro.png" group-title="{BOUQUET_NAME}",RTL Nitro
+http://iptv.ndasat.com:88/live/329995091896719/329995091896719/269.ts
+#EXTINF:-1 tvg-name="RTL Crime" tvg-logo="http://logo.ndasat.com/iptv/images/68067_rtlcrime.jpg" group-title="{BOUQUET_NAME}",RTL Crime
+http://iptv.ndasat.com:88/live/329995091896719/329995091896719/3417.ts
+#EXTINF:-1 tvg-name="Super RTL" tvg-logo="http://logo.ndasat.com/iptv/images/91051_superrtl.png" group-title="{BOUQUET_NAME}",Super RTL
+http://iptv.ndasat.com:88/live/329995091896719/329995091896719/251.ts
+#EXTINF:-1 tvg-name="RTL Living" tvg-logo="" group-title="{BOUQUET_NAME}",RTL Living
+http://iptv.ndasat.com:88/live/329995091896719/329995091896719/3606.ts
+#EXTINF:-1 tvg-name="RTL Passion" tvg-logo="http://logo.ndasat.com/iptv/images/5022_rtlpassion.jpg" group-title="{BOUQUET_NAME}",RTL Passion
+http://iptv.ndasat.com:88/live/329995091896719/329995091896719/3416.ts
+#EXTINF:-1 tvg-name="PRO 7" tvg-logo="http://logo.ndasat.com/iptv/images/59549_pro7.png" group-title="{BOUQUET_NAME}",PRO 7
+http://iptv.ndasat.com:88/live/329995091896719/329995091896719/259.ts
+#EXTINF:-1 tvg-name="Kinowelt" tvg-logo="http://logo.ndasat.com/iptv/images/50985_kinowelt.png" group-title="{BOUQUET_NAME}",Kinowelt
+http://iptv.ndasat.com:88/live/329995091896719/329995091896719/3433.ts
+#EXTINF:-1 tvg-name="Sixx" tvg-logo="http://logo.ndasat.com/iptv/images/5732_sixx.png" group-title="{BOUQUET_NAME}",Sixx
+http://iptv.ndasat.com:88/live/329995091896719/329995091896719/276.ts
+#EXTINF:-1 tvg-name="3Sat" tvg-logo="http://logo.ndasat.com/iptv/images/28469_3sat.jpg" group-title="{BOUQUET_NAME}",3Sat
+http://iptv.ndasat.com:88/live/329995091896719/329995091896719/3419.ts
+#EXTINF:-1 tvg-name="KIKA" tvg-logo="http://logo.ndasat.com/iptv/images/65335_kika.jpg" group-title="{BOUQUET_NAME}",KIKA
+http://iptv.ndasat.com:88/live/329995091896719/329995091896719/258.ts
+#EXTINF:-1 tvg-name="PRO 7 Maxx" tvg-logo="http://logo.ndasat.com/iptv/images/66460_pro7maxx.jpg" group-title="{BOUQUET_NAME}",PRO 7 Maxx
+http://iptv.ndasat.com:88/live/329995091896719/329995091896719/257.ts
+#EXTINF:-1 tvg-name="NTV DE" tvg-logo="http://logo.ndasat.com/iptv/images/96224_ntv.jpg" group-title="{BOUQUET_NAME}",NTV DE
+http://iptv.ndasat.com:88/live/329995091896719/329995091896719/254.ts
+#EXTINF:-1 tvg-name="Kabel1" tvg-logo="http://logo.ndasat.com/iptv/images/99611_kabel1.png" group-title="{BOUQUET_NAME}",Kabel1
+http://iptv.ndasat.com:88/live/329995091896719/329995091896719/274.ts
+#EXTINF:-1 tvg-name="VOX" tvg-logo="http://logo.ndasat.com/iptv/images/73023_vox.jpg" group-title="{BOUQUET_NAME}",VOX
+http://iptv.ndasat.com:88/live/329995091896719/329995091896719/253.ts
+#EXTINF:-1 tvg-name="N24" tvg-logo="http://logo.ndasat.com/iptv/images/88138_n24.png" group-title="{BOUQUET_NAME}",N24
+http://iptv.ndasat.com:88/live/329995091896719/329995091896719/273.ts
+#EXTINF:-1 tvg-name="Junior DE" tvg-logo="http://logo.ndasat.com/iptv/images/65128_junior.jpg" group-title="{BOUQUET_NAME}",Junior DE
+http://iptv.ndasat.com:88/live/329995091896719/329995091896719/3444.ts
+#EXTINF:-1 tvg-name="Disney Junior DE" tvg-logo="http://logo.ndasat.com/iptv/images/9391_disneyjunior.jpg" group-title="{BOUQUET_NAME}",Disney Junior DE
+http://iptv.ndasat.com:88/live/329995091896719/329995091896719/933.ts
+#EXTINF:-1 tvg-name="Disney XD DE" tvg-logo="http://logo.ndasat.com/iptv/images/80923_disneyxd.jpg" group-title="{BOUQUET_NAME}",Disney XD DE
+http://iptv.ndasat.com:88/live/329995091896719/329995091896719/244.ts
+#EXTINF:-1 tvg-name="Disney DE" tvg-logo="http://logo.ndasat.com/iptv/images/63085_disney.jpg" group-title="{BOUQUET_NAME}",Disney DE
+http://iptv.ndasat.com:88/live/329995091896719/329995091896719/3441.ts
+#EXTINF:-1 tvg-name="Disney Cine DE" tvg-logo="http://logo.ndasat.com/iptv/images/38619_disney_cinema_fr.png" group-title="{BOUQUET_NAME}",Disney Cine DE
+http://iptv.ndasat.com:88/live/329995091896719/329995091896719/3442.ts
+#EXTINF:-1 tvg-name="Boomerang DE" tvg-logo="http://logo.ndasat.com/iptv/images/89928_boomerang.png" group-title="{BOUQUET_NAME}",Boomerang DE
+http://iptv.ndasat.com:88/live/329995091896719/329995091896719/3440.ts
+#EXTINF:-1 tvg-name="Toggo Plus" tvg-logo="http://logo.ndasat.com/iptv/images/36778_toggoplus.png" group-title="{BOUQUET_NAME}",Toggo Plus
+http://iptv.ndasat.com:88/live/329995091896719/329995091896719/3443.ts
+#EXTINF:-1 tvg-name="Nickelodeon DE" tvg-logo="" group-title="{BOUQUET_NAME}",Nickelodeon DE
+http://iptv.ndasat.com:88/live/329995091896719/329995091896719/3607.ts
+#EXTINF:-1 tvg-name="ORF1" tvg-logo="http://logo.ndasat.com/iptv/images/78029_orf1.jpg" group-title="{BOUQUET_NAME}",ORF1
+http://iptv.ndasat.com:88/live/329995091896719/329995091896719/248.ts
+#EXTINF:-1 tvg-name="ORF2" tvg-logo="http://logo.ndasat.com/iptv/images/1547_orf2.jpg" group-title="{BOUQUET_NAME}",ORF2
+http://iptv.ndasat.com:88/live/329995091896719/329995091896719/249.ts
+#EXTINF:-1 tvg-name="SRF1" tvg-logo="http://logo.ndasat.com/iptv/images/51997_srf1.png" group-title="{BOUQUET_NAME}",SRF1
+http://iptv.ndasat.com:88/live/329995091896719/329995091896719/778.ts
+#EXTINF:-1 tvg-name="SRF2" tvg-logo="http://logo.ndasat.com/iptv/images/98389_srf2.jpg" group-title="{BOUQUET_NAME}",SRF2
+http://iptv.ndasat.com:88/live/329995091896719/329995091896719/779.ts
+#EXTINF:-1 tvg-name="Sky Cinema DE" tvg-logo="http://logo.ndasat.com/iptv/images/31343_skycinema.jpg" group-title="{BOUQUET_NAME}",Sky Cinema DE
+http://iptv.ndasat.com:88/live/329995091896719/329995091896719/161.ts
+#EXTINF:-1 tvg-name="Sky Cinema +1" tvg-logo="http://logo.ndasat.com/iptv/images/24384_skyarts.jpg" group-title="{BOUQUET_NAME}",Sky Cinema +1
+http://iptv.ndasat.com:88/live/329995091896719/329995091896719/3435.ts
+#EXTINF:-1 tvg-name="Sky Cinema 24 DE" tvg-logo="http://logo.ndasat.com/iptv/images/21553_skycinema24.png" group-title="{BOUQUET_NAME}",Sky Cinema 24 DE
+http://iptv.ndasat.com:88/live/329995091896719/329995091896719/162.ts
+#EXTINF:-1 tvg-name="Sky Action DE" tvg-logo="http://logo.ndasat.com/iptv/images/17439_skyaction.jpg" group-title="{BOUQUET_NAME}",Sky Action DE
+http://iptv.ndasat.com:88/live/329995091896719/329995091896719/163.ts
+#EXTINF:-1 tvg-name="Sky Atlantic DE" tvg-logo="http://logo.ndasat.com/iptv/images/18026_skyatlantic.png" group-title="{BOUQUET_NAME}",Sky Atlantic DE
+http://iptv.ndasat.com:88/live/329995091896719/329995091896719/168.ts
+#EXTINF:-1 tvg-name="Sky Comedy DE" tvg-logo="http://logo.ndasat.com/iptv/images/49850_skycomedy.png" group-title="{BOUQUET_NAME}",Sky Comedy DE
+http://iptv.ndasat.com:88/live/329995091896719/329995091896719/164.ts
+#EXTINF:-1 tvg-name="Sky Emotion DE" tvg-logo="http://logo.ndasat.com/iptv/images/6724_skyemotion.png" group-title="{BOUQUET_NAME}",Sky Emotion DE
+http://iptv.ndasat.com:88/live/329995091896719/329995091896719/165.ts
+#EXTINF:-1 tvg-name="Sky Hits DE" tvg-logo="http://logo.ndasat.com/iptv/images/4686_skyhits.jpg" group-title="{BOUQUET_NAME}",Sky Hits DE
+http://iptv.ndasat.com:88/live/329995091896719/329995091896719/166.ts
+#EXTINF:-1 tvg-name="Sky Krimi" tvg-logo="http://logo.ndasat.com/iptv/images/42861_skykrimi.jpg" group-title="{BOUQUET_NAME}",Sky Krimi
+http://iptv.ndasat.com:88/live/329995091896719/329995091896719/3423.ts
+#EXTINF:-1 tvg-name="Sky Nostalgie" tvg-logo="http://logo.ndasat.com/iptv/images/10043_skynostalgie.jpg" group-title="{BOUQUET_NAME}",Sky Nostalgie
+http://iptv.ndasat.com:88/live/329995091896719/329995091896719/3422.ts
+#EXTINF:-1 tvg-name="AXN DE" tvg-logo="http://logo.ndasat.com/iptv/images/64233_AXN.png" group-title="{BOUQUET_NAME}",AXN DE
+http://iptv.ndasat.com:88/live/329995091896719/329995091896719/3426.ts
+#EXTINF:-1 tvg-name="Universal DE" tvg-logo="http://logo.ndasat.com/iptv/images/56892_universal.png" group-title="{BOUQUET_NAME}",Universal DE
+http://iptv.ndasat.com:88/live/329995091896719/329995091896719/3424.ts
+#EXTINF:-1 tvg-name="TNT Comedy" tvg-logo="http://logo.ndasat.com/iptv/images/88165_tntcomedy.png" group-title="{BOUQUET_NAME}",TNT Comedy
+http://iptv.ndasat.com:88/live/329995091896719/329995091896719/3431.ts
+#EXTINF:-1 tvg-name="TNT Film" tvg-logo="http://logo.ndasat.com/iptv/images/98973_tntfilm.jpg" group-title="{BOUQUET_NAME}",TNT Film
+http://iptv.ndasat.com:88/live/329995091896719/329995091896719/3430.ts
+#EXTINF:-1 tvg-name="TNT Serie" tvg-logo="http://logo.ndasat.com/iptv/images/31319_tntserie.png" group-title="{BOUQUET_NAME}",TNT Serie
+http://iptv.ndasat.com:88/live/329995091896719/329995091896719/3432.ts
+#EXTINF:-1 tvg-name="Syfy DE" tvg-logo="http://logo.ndasat.com/iptv/images/80054_syfy.png" group-title="{BOUQUET_NAME}",Syfy DE
+http://iptv.ndasat.com:88/live/329995091896719/329995091896719/3429.ts
+#EXTINF:-1 tvg-name="Fox DE" tvg-logo="http://logo.ndasat.com/iptv/images/5060_foxtv.jpg" group-title="{BOUQUET_NAME}",Fox DE
+http://iptv.ndasat.com:88/live/329995091896719/329995091896719/3425.ts
+#EXTINF:-1 tvg-name="Romance TV" tvg-logo="http://logo.ndasat.com/iptv/images/17509_romancetv.jpg" group-title="{BOUQUET_NAME}",Romance TV
+http://iptv.ndasat.com:88/live/329995091896719/329995091896719/3434.ts
+#EXTINF:-1 tvg-name="13th Street DE" tvg-logo="http://logo.ndasat.com/iptv/images/55404_13thstreet.jpg" group-title="{BOUQUET_NAME}",13th Street DE
+http://iptv.ndasat.com:88/live/329995091896719/329995091896719/3427.ts
+#EXTINF:-1 tvg-name="Classica DE" tvg-logo="" group-title="{BOUQUET_NAME}",Classica DE
+http://iptv.ndasat.com:88/live/329995091896719/329995091896719/3608.ts
+#EXTINF:-1 tvg-name="Discovery DE" tvg-logo="http://logo.ndasat.com/iptv/images/57158_discovery.jpg" group-title="{BOUQUET_NAME}",Discovery DE
+http://iptv.ndasat.com:88/live/329995091896719/329995091896719/268.ts
+#EXTINF:-1 tvg-name="DMAX DE" tvg-logo="http://logo.ndasat.com/iptv/images/55622_dmax.png" group-title="{BOUQUET_NAME}",DMAX DE
+http://iptv.ndasat.com:88/live/329995091896719/329995091896719/241.ts
+#EXTINF:-1 tvg-name="Nat Geo DE" tvg-logo="http://logo.ndasat.com/iptv/images/98491_natgeo.jpg" group-title="{BOUQUET_NAME}",Nat Geo DE
+http://iptv.ndasat.com:88/live/329995091896719/329995091896719/1027.ts
+#EXTINF:-1 tvg-name="Nat Geo Wild DE" tvg-logo="http://logo.ndasat.com/iptv/images/25070_natgeowild.png" group-title="{BOUQUET_NAME}",Nat Geo Wild DE
+http://iptv.ndasat.com:88/live/329995091896719/329995091896719/1028.ts
+#EXTINF:-1 tvg-name="History DE" tvg-logo="http://logo.ndasat.com/iptv/images/51679_history.png" group-title="{BOUQUET_NAME}",History DE
+http://iptv.ndasat.com:88/live/329995091896719/329995091896719/3439.ts
+#EXTINF:-1 tvg-name="Motorvision DE" tvg-logo="http://logo.ndasat.com/iptv/images/85813_motorvision.jpg" group-title="{BOUQUET_NAME}",Motorvision DE
+http://iptv.ndasat.com:88/live/329995091896719/329995091896719/3438.ts
+#EXTINF:-1 tvg-name="Animal planet DE" tvg-logo="" group-title="{BOUQUET_NAME}",Animal planet DE
+http://iptv.ndasat.com:88/live/329995091896719/329995091896719/3609.ts
+#EXTINF:-1 tvg-name="Family TV DE" tvg-logo="http://logo.ndasat.com/iptv/images/21013_familytv.jpg" group-title="{BOUQUET_NAME}",Family TV DE
+http://iptv.ndasat.com:88/live/329995091896719/329995091896719/3428.ts
+#EXTINF:-1 tvg-name="Phoenix" tvg-logo="http://logo.ndasat.com/iptv/images/99030_phoenix.png" group-title="{BOUQUET_NAME}",Phoenix
+http://iptv.ndasat.com:88/live/329995091896719/329995091896719/3421.ts
+#EXTINF:-1 tvg-name="Welt Der Wunder" tvg-logo="" group-title="{BOUQUET_NAME}",Welt Der Wunder
+http://iptv.ndasat.com:88/live/329995091896719/329995091896719/3610.ts
+#EXTINF:-1 tvg-name="ZDF Neo" tvg-logo="http://logo.ndasat.com/iptv/images/10868_zdfneo.png" group-title="{BOUQUET_NAME}",ZDF Neo
+http://iptv.ndasat.com:88/live/329995091896719/329995091896719/3420.ts
+#EXTINF:-1 tvg-name="Sky Sports News De" tvg-logo="http://logo.ndasat.com/iptv/images/57974_skysportnews.jpg" group-title="{BOUQUET_NAME}",Sky Sports News De
+http://iptv.ndasat.com:88/live/329995091896719/329995091896719/255.ts
+#EXTINF:-1 tvg-name="Sky Sport 1 DE" tvg-logo="http://logo.ndasat.com/iptv/images/69607_skysport.png" group-title="{BOUQUET_NAME}",Sky Sport 1 DE
+http://iptv.ndasat.com:88/live/329995091896719/329995091896719/52.ts
+#EXTINF:-1 tvg-name="Sky Sport 2 DE" tvg-logo="http://logo.ndasat.com/iptv/images/93351_skysport.png" group-title="{BOUQUET_NAME}",Sky Sport 2 DE
+http://iptv.ndasat.com:88/live/329995091896719/329995091896719/53.ts
+#EXTINF:-1 tvg-name="Eurosport DE" tvg-logo="http://logo.ndasat.com/iptv/images/69476_eurosport1.png" group-title="{BOUQUET_NAME}",Eurosport DE
+http://iptv.ndasat.com:88/live/329995091896719/329995091896719/266.ts
+#EXTINF:-1 tvg-name="Sport1 DE" tvg-logo="http://logo.ndasat.com/iptv/images/32182_sport1.png" group-title="{BOUQUET_NAME}",Sport1 DE
+http://iptv.ndasat.com:88/live/329995091896719/329995091896719/275.ts
+#EXTINF:-1 tvg-name="Sport1 USA DE" tvg-logo="http://logo.ndasat.com/iptv/images/51321_sport1usa.png" group-title="{BOUQUET_NAME}",Sport1 USA DE
+http://iptv.ndasat.com:88/live/329995091896719/329995091896719/3436.ts
+#EXTINF:-1 tvg-name="Sport Digital" tvg-logo="http://logo.ndasat.com/iptv/images/83240_sportdigital.png" group-title="{BOUQUET_NAME}",Sport Digital
+http://iptv.ndasat.com:88/live/329995091896719/329995091896719/3437.ts
+#EXTINF:-1 tvg-name="Sky Bundesliga1 de" tvg-logo="http://logo.ndasat.com/iptv/images/70870_skybunde.jpg" group-title="{BOUQUET_NAME}",Sky Bundesliga1 de
+http://iptv.ndasat.com:88/live/329995091896719/329995091896719/51.ts
+#EXTINF:-1 tvg-name="Sky Bundesliga2 (MT)" tvg-logo="http://logo.ndasat.com/iptv/images/50624_bundesliga2.jpg" group-title="{BOUQUET_NAME}",Sky Bundesliga2 (MT)
+http://iptv.ndasat.com:88/live/329995091896719/329995091896719/2291.ts
+#EXTINF:-1 tvg-name="Sky Bundesliga3 (MT)" tvg-logo="http://logo.ndasat.com/iptv/images/73825_bundesliga3.jpg" group-title="{BOUQUET_NAME}",Sky Bundesliga3 (MT)
+http://iptv.ndasat.com:88/live/329995091896719/329995091896719/2292.ts
+#EXTINF:-1 tvg-name="Sky Bundesliga4 (MT)" tvg-logo="http://logo.ndasat.com/iptv/images/29696_bunesliga4.jpg" group-title="{BOUQUET_NAME}",Sky Bundesliga4 (MT)
+http://iptv.ndasat.com:88/live/329995091896719/329995091896719/2293.ts
+#EXTINF:-1 tvg-name="Sky Bundesliga5 (MT)" tvg-logo="http://logo.ndasat.com/iptv/images/24854_bundesliga5.jpg" group-title="{BOUQUET_NAME}",Sky Bundesliga5 (MT)
+http://iptv.ndasat.com:88/live/329995091896719/329995091896719/2294.ts
+#EXTINF:-1 tvg-name="Sky Bundesliga6 (MT)" tvg-logo="http://logo.ndasat.com/iptv/images/91455_bundesliga6.jpg" group-title="{BOUQUET_NAME}",Sky Bundesliga6 (MT)
+http://iptv.ndasat.com:88/live/329995091896719/329995091896719/2295.ts
+#EXTINF:-1 tvg-name="VOD-Select1" tvg-logo="http://logo.ndasat.com/iptv/images/87066_germany.jpg" group-title="{BOUQUET_NAME}",VOD-Select1
+http://iptv.ndasat.com:88/live/329995091896719/329995091896719/557.ts
+#EXTINF:-1 tvg-name="VOD-Select2" tvg-logo="http://logo.ndasat.com/iptv/images/33521_germany.jpg" group-title="{BOUQUET_NAME}",VOD-Select2
+http://iptv.ndasat.com:88/live/329995091896719/329995091896719/556.ts
+#EXTINF:-1 tvg-name="VOD-Select3" tvg-logo="http://logo.ndasat.com/iptv/images/63848_germany.jpg" group-title="{BOUQUET_NAME}",VOD-Select3
+http://iptv.ndasat.com:88/live/329995091896719/329995091896719/555.ts
+#EXTINF:-1 tvg-name="VOD-select4" tvg-logo="http://logo.ndasat.com/iptv/images/39148_germany.jpg" group-title="{BOUQUET_NAME}",VOD-select4
+http://iptv.ndasat.com:88/live/329995091896719/329995091896719/554.ts
+#EXTINF:-1 tvg-name="VOD-Select5" tvg-logo="http://logo.ndasat.com/iptv/images/84948_germany.jpg" group-title="{BOUQUET_NAME}",VOD-Select5
+http://iptv.ndasat.com:88/live/329995091896719/329995091896719/553.ts
+#EXTINF:-1 tvg-name="VOD-Select6" tvg-logo="http://logo.ndasat.com/iptv/images/44453_germany.jpg" group-title="{BOUQUET_NAME}",VOD-Select6
+http://iptv.ndasat.com:88/live/329995091896719/329995091896719/552.ts
+#EXTINF:-1 tvg-name="Ger1" tvg-logo="" group-title="{BOUQUET_NAME}",Ger1
+http://iptv.ndasat.com:88/live/329995091896719/329995091896719/3699.ts
+#EXTINF:-1 tvg-name="Ger2" tvg-logo="" group-title="{BOUQUET_NAME}",Ger2
+http://iptv.ndasat.com:88/live/329995091896719/329995091896719/3700.ts
+#EXTINF:-1 tvg-name="Ger3" tvg-logo="" group-title="{BOUQUET_NAME}",Ger3
+http://iptv.ndasat.com:88/live/329995091896719/329995091896719/3701.ts
+#EXTINF:-1 tvg-name="Ger4" tvg-logo="" group-title="{BOUQUET_NAME}",Ger4
+http://iptv.ndasat.com:88/live/329995091896719/329995091896719/3702.ts
+#EXTINF:-1 tvg-name="Ger5" tvg-logo="" group-title="{BOUQUET_NAME}",Ger5
+http://iptv.ndasat.com:88/live/329995091896719/329995091896719/3703.ts
+#EXTINF:-1 tvg-name="Ger6" tvg-logo="" group-title="{BOUQUET_NAME}",Ger6
+http://iptv.ndasat.com:88/live/329995091896719/329995091896719/3704.ts
+#EXTINF:-1 tvg-name="Ger7" tvg-logo="" group-title="{BOUQUET_NAME}",Ger7
+http://iptv.ndasat.com:88/live/329995091896719/329995091896719/3705.ts
+#EXTINF:-1 tvg-name="Ger8" tvg-logo="" group-title="{BOUQUET_NAME}",Ger8
+http://iptv.ndasat.com:88/live/329995091896719/329995091896719/3706.ts
+#EXTINF:-1 tvg-name="Ger9" tvg-logo="" group-title="{BOUQUET_NAME}",Ger9
+http://iptv.ndasat.com:88/live/329995091896719/329995091896719/3707.ts
+#EXTINF:-1,13th Street HD
+http://300canada300.com:8000/live/yalcinmenej0212/yalmen0212/4230.ts
+#EXTINF:-1,Ard HD
+http://300canada300.com:8000/live/yalcinmenej0212/yalmen0212/4228.ts
+#EXTINF:-1,Arte / ARD
+http://300canada300.com:8000/live/yalcinmenej0212/yalmen0212/4194.ts
+#EXTINF:-1,AXN HD
+http://300canada300.com:8000/live/yalcinmenej0212/yalmen0212/4219.ts
+#EXTINF:-1,DE | D MAX HD
+http://300canada300.com:8000/live/yalcinmenej0212/yalmen0212/4198.ts
+#EXTINF:-1,DE | DISCOVERY CHANNEL HD
+http://300canada300.com:8000/live/yalcinmenej0212/yalmen0212/4183.ts
+#EXTINF:-1,Disney Channel.
+http://300canada300.com:8000/live/yalcinmenej0212/yalmen0212/4196.ts
+#EXTINF:-1,Disney Cinemagic HD
+http://300canada300.com:8000/live/yalcinmenej0212/yalmen0212/4185.ts
+#EXTINF:-1,DE | Disney Junior / SKY uuu
+http://300canada300.com:8000/live/yalcinmenej0212/yalmen0212/4193.ts
+#EXTINF:-1,DE | Disney XD
+http://300canada300.com:8000/live/yalcinmenej0212/yalmen0212/4192.ts
+#EXTINF:-1,Eurosport 1 HD
+http://300canada300.com:8000/live/yalcinmenej0212/yalmen0212/4233.ts
+#EXTINF:-1,Eurosport 2 HD
+http://300canada300.com:8000/live/yalcinmenej0212/yalmen0212/4232.ts
+#EXTINF:-1,Fox HD
+http://300canada300.com:8000/live/yalcinmenej0212/yalmen0212/4221.ts
+#EXTINF:-1,Fox Serie
+http://300canada300.com:8000/live/yalcinmenej0212/yalmen0212/4220.ts
+#EXTINF:-1,Heimat Kanal
+http://300canada300.com:8000/live/yalcinmenej0212/yalmen0212/4186.ts
+#EXTINF:-1,DE | HISTORY CHANNEL HD
+http://300canada300.com:8000/live/yalcinmenej0212/yalmen0212/4197.ts
+#EXTINF:-1,DE | KIKA
+http://300canada300.com:8000/live/yalcinmenej0212/yalmen0212/4268.ts
+#EXTINF:-1,N24
+http://300canada300.com:8000/live/yalcinmenej0212/yalmen0212/4231.ts
+#EXTINF:-1,DE | NATIONAL GEOGRAPHIC
+http://300canada300.com:8000/live/yalcinmenej0212/yalmen0212/4182.ts
+#EXTINF:-1,Ndr HD
+http://300canada300.com:8000/live/yalcinmenej0212/yalmen0212/4222.ts
+#EXTINF:-1,DE | NICK JR
+http://300canada300.com:8000/live/yalcinmenej0212/yalmen0212/4191.ts
+#EXTINF:-1,ORF HD 1
+http://300canada300.com:8000/live/yalcinmenej0212/yalmen0212/4229.ts
+#EXTINF:-1,ORF 2
+http://300canada300.com:8000/live/yalcinmenej0212/yalmen0212/4199.ts
+#EXTINF:-1,PRO 7 HD
+http://300canada300.com:8000/live/yalcinmenej0212/yalmen0212/4266.ts
+#EXTINF:-1,PRO7 MAXX
+http://300canada300.com:8000/live/yalcinmenej0212/yalmen0212/4267.ts
+#EXTINF:-1,DE | ProSieben / ProSiebenSat.1 uuu
+http://300canada300.com:8000/live/yalcinmenej0212/yalmen0212/4224.ts
+#EXTINF:-1,Romance TV
+http://300canada300.com:8000/live/yalcinmenej0212/yalmen0212/4215.ts
+#EXTINF:-1,RTL Crime HD
+http://300canada300.com:8000/live/yalcinmenej0212/yalmen0212/4262.ts
+#EXTINF:-1,RTL HD
+http://300canada300.com:8000/live/yalcinmenej0212/yalmen0212/4261.ts
+#EXTINF:-1,RTL Living
+http://300canada300.com:8000/live/yalcinmenej0212/yalmen0212/4265.ts
+#EXTINF:-1,RTL Nitro
+http://300canada300.com:8000/live/yalcinmenej0212/yalmen0212/4259.ts
+#EXTINF:-1,RTL Passion
+http://300canada300.com:8000/live/yalcinmenej0212/yalmen0212/4257.ts
+#EXTINF:-1,RTL Television
+http://300canada300.com:8000/live/yalcinmenej0212/yalmen0212/4264.ts
+#EXTINF:-1,RTL HD 2
+http://300canada300.com:8000/live/yalcinmenej0212/yalmen0212/4260.ts
+#EXTINF:-1,RTL II HD
+http://300canada300.com:8000/live/yalcinmenej0212/yalmen0212/4263.ts
+#EXTINF:-1,RTL Plus
+http://300canada300.com:8000/live/yalcinmenej0212/yalmen0212/4258.ts
+#EXTINF:-1,SAT 1 Gold
+http://300canada300.com:8000/live/yalcinmenej0212/yalmen0212/4237.ts
+#EXTINF:-1,SAT 1 NRW
+http://300canada300.com:8000/live/yalcinmenej0212/yalmen0212/4236.ts
+#EXTINF:-1,Sat HD 1
+http://300canada300.com:8000/live/yalcinmenej0212/yalmen0212/4218.ts
+#EXTINF:-1,DE | Servus TV
+http://300canada300.com:8000/live/yalcinmenej0212/yalmen0212/4223.ts
+#EXTINF:-1,Sixx
+http://300canada300.com:8000/live/yalcinmenej0212/yalmen0212/4188.ts
+#EXTINF:-1,Sky Atlantic HD
+http://300canada300.com:8000/live/yalcinmenej0212/yalmen0212/4249.ts
+#EXTINF:-1,Sky Cinema+1
+http://300canada300.com:8000/live/yalcinmenej0212/yalmen0212/4246.ts
+#EXTINF:-1,Sky Action HD.
+http://300canada300.com:8000/live/yalcinmenej0212/yalmen0212/4244.ts
+#EXTINF:-1,Sky Comedy
+http://300canada300.com:8000/live/yalcinmenej0212/yalmen0212/4252.ts
+#EXTINF:-1,Sky Emotion
+http://300canada300.com:8000/live/yalcinmenej0212/yalmen0212/4245.ts
+#EXTINF:-1,Sky Hits
+http://300canada300.com:8000/live/yalcinmenej0212/yalmen0212/4254.ts
+#EXTINF:-1,Sky Nostalgie
+http://300canada300.com:8000/live/yalcinmenej0212/yalmen0212/4253.ts
+#EXTINF:-1,Sky Cinema HD
+http://300canada300.com:8000/live/yalcinmenej0212/yalmen0212/4251.ts
+#EXTINF:-1,Sky Krimi
+http://300canada300.com:8000/live/yalcinmenej0212/yalmen0212/4255.ts
+#EXTINF:-1,DE | SKY NATGEO WILD HD
+http://300canada300.com:8000/live/yalcinmenej0212/yalmen0212/4241.ts
+#EXTINF:-1,Sky Select HD 1
+http://300canada300.com:8000/live/yalcinmenej0212/yalmen0212/4207.ts
+#EXTINF:-1,Sky Select HD 2
+http://300canada300.com:8000/live/yalcinmenej0212/yalmen0212/4206.ts
+#EXTINF:-1,Sky Select HD 3
+http://300canada300.com:8000/live/yalcinmenej0212/yalmen0212/4205.ts
+#EXTINF:-1,Sky Select HD 4
+http://300canada300.com:8000/live/yalcinmenej0212/yalmen0212/4204.ts
+#EXTINF:-1,Sky Select HD 5
+http://300canada300.com:8000/live/yalcinmenej0212/yalmen0212/4203.ts
+#EXTINF:-1,Sky Select HD 6
+http://300canada300.com:8000/live/yalcinmenej0212/yalmen0212/4202.ts
+#EXTINF:-1,Sky Select HD 7
+http://300canada300.com:8000/live/yalcinmenej0212/yalmen0212/4201.ts
+#EXTINF:-1,Sky Select HD 8
+http://300canada300.com:8000/live/yalcinmenej0212/yalmen0212/4200.ts
+#EXTINF:-1,Sky Sport HD 2
+http://300canada300.com:8000/live/yalcinmenej0212/yalmen0212/4234.ts
+#EXTINF:-1,Sky Bundesliga HD 1
+http://300canada300.com:8000/live/yalcinmenej0212/yalmen0212/4212.ts
+#EXTINF:-1,Sky Sport News HD
+http://300canada300.com:8000/live/yalcinmenej0212/yalmen0212/4211.ts
+#EXTINF:-1,Sky Sport HD 1
+http://300canada300.com:8000/live/yalcinmenej0212/yalmen0212/4235.ts
+#EXTINF:-1,TNT Film HD
+http://300canada300.com:8000/live/yalcinmenej0212/yalmen0212/4242.ts
+#EXTINF:-1,TNT Serie HD.
+http://300canada300.com:8000/live/yalcinmenej0212/yalmen0212/4243.ts
+#EXTINF:-1,Sky Action HD
+http://300canada300.com:8000/live/yalcinmenej0212/yalmen0212/4250.ts
+#EXTINF:-1,Sky Cinema
+http://300canada300.com:8000/live/yalcinmenej0212/yalmen0212/4247.ts
+#EXTINF:-1,Sky Cinema+24
+http://300canada300.com:8000/live/yalcinmenej0212/yalmen0212/4248.ts
+#EXTINF:-1,Sky Sport Austria HD
+http://300canada300.com:8000/live/yalcinmenej0212/yalmen0212/4210.ts
+#EXTINF:-1,Sport1+ HD
+http://300canada300.com:8000/live/yalcinmenej0212/yalmen0212/4208.ts
+#EXTINF:-1,Sport1 US HD
+http://300canada300.com:8000/live/yalcinmenej0212/yalmen0212/4209.ts
+#EXTINF:-1,SFR Sport 1
+http://300canada300.com:8000/live/yalcinmenej0212/yalmen0212/4217.ts
+#EXTINF:-1,Super RTL
+http://300canada300.com:8000/live/yalcinmenej0212/yalmen0212/4256.ts
+#EXTINF:-1,Syfy HD
+http://300canada300.com:8000/live/yalcinmenej0212/yalmen0212/4190.ts
+#EXTINF:-1,TLC
+http://300canada300.com:8000/live/yalcinmenej0212/yalmen0212/4269.ts
+#EXTINF:-1,TNT Serie HD
+http://300canada300.com:8000/live/yalcinmenej0212/yalmen0212/4195.ts
+#EXTINF:-1,VOX HD
+http://300canada300.com:8000/live/yalcinmenej0212/yalmen0212/4227.ts
+#EXTINF:-1,DE | WDR
+http://300canada300.com:8000/live/yalcinmenej0212/yalmen0212/4189.ts
+#EXTINF:-1,WDR HD
+http://300canada300.com:8000/live/yalcinmenej0212/yalmen0212/4213.ts
+#EXTINF:-1,ZDF HD
+http://300canada300.com:8000/live/yalcinmenej0212/yalmen0212/4226.ts
+#EXTINF:-1,ZDF info
+http://300canada300.com:8000/live/yalcinmenej0212/yalmen0212/4225.ts
+#EXTINF:-1,ZDF Neo
+http://300canada300.com:8000/live/yalcinmenej0212/yalmen0212/4214.ts
+#EXTINF:-1,DE | 3 SAT HD
+http://300canada300.com:8000/live/yalcinmenej0212/yalmen0212/6301.ts
+#EXTINF:-1,DE | ANIMAL PLANET HD
+http://300canada300.com:8000/live/yalcinmenej0212/yalmen0212/6302.ts
+#EXTINF:-1,DE | DISCOVERY CHANNEL
+http://300canada300.com:8000/live/yalcinmenej0212/yalmen0212/6303.ts
+#EXTINF:-1,DE | EUROSPORT 2 XTRA
+http://300canada300.com:8000/live/yalcinmenej0212/yalmen0212/6304.ts
+
+#EXTINF:-1 tvg-name="Ger1" tvg-logo="" group-title="{BOUQUET_NAME}",Ger1
+http://iptv.atlasiptv.net:88/live/321282347089421/321282347089421/3699.ts
+#EXTINF:-1 tvg-name="Ger2" tvg-logo="" group-title="{BOUQUET_NAME}",Ger2
+http://iptv.atlasiptv.net:88/live/321282347089421/321282347089421/3700.ts
+#EXTINF:-1 tvg-name="Ger3" tvg-logo="" group-title="{BOUQUET_NAME}",Ger3
+http://iptv.atlasiptv.net:88/live/321282347089421/321282347089421/3701.ts
+#EXTINF:-1 tvg-name="Ger4" tvg-logo="" group-title="{BOUQUET_NAME}",Ger4
+http://iptv.atlasiptv.net:88/live/321282347089421/321282347089421/3702.ts
+#EXTINF:-1 tvg-name="Ger5" tvg-logo="" group-title="{BOUQUET_NAME}",Ger5
+http://iptv.atlasiptv.net:88/live/321282347089421/321282347089421/3703.ts
+#EXTINF:-1 tvg-name="Ger6" tvg-logo="" group-title="{BOUQUET_NAME}",Ger6
+http://iptv.atlasiptv.net:88/live/321282347089421/321282347089421/3704.ts
+#EXTINF:-1 tvg-name="Ger7" tvg-logo="" group-title="{BOUQUET_NAME}",Ger7
+http://iptv.atlasiptv.net:88/live/321282347089421/321282347089421/3705.ts
+#EXTINF:-1 tvg-name="Ger8" tvg-logo="" group-title="{BOUQUET_NAME}",Ger8
+http://iptv.atlasiptv.net:88/live/321282347089421/321282347089421/3706.ts
+#EXTINF:-1 tvg-name="Ger9" tvg-logo="" group-title="{BOUQUET_NAME}",Ger9
+http://iptv.atlasiptv.net:88/live/321282347089421/321282347089421/3707.ts
+#EXTINF:-1 tvg-name="Das Erste" tvg-logo="" group-title="{BOUQUET_NAME}",Das Erste
+http://iptv.atlasiptv.net:88/live/321282347089421/321282347089421/3605.ts
+#EXTINF:-1 tvg-name="ZDF" tvg-logo="http://logo.ndasat.com/iptv/images/61931_zdf.png" group-title="{BOUQUET_NAME}",ZDF
+http://iptv.atlasiptv.net:88/live/321282347089421/321282347089421/261.ts
+#EXTINF:-1 tvg-name="ARD" tvg-logo="http://logo.ndasat.com/iptv/images/22065_ard.png" group-title="{BOUQUET_NAME}",ARD
+http://iptv.atlasiptv.net:88/live/321282347089421/321282347089421/262.ts
+#EXTINF:-1 tvg-name="HR DE" tvg-logo="" group-title="{BOUQUET_NAME}",HR DE
+http://iptv.atlasiptv.net:88/live/321282347089421/321282347089421/3604.ts
+#EXTINF:-1 tvg-name="NDR" tvg-logo="http://logo.ndasat.com/iptv/images/73491_ndr.png" group-title="{BOUQUET_NAME}",NDR
+http://iptv.atlasiptv.net:88/live/321282347089421/321282347089421/243.ts
+#EXTINF:-1 tvg-name="WDR" tvg-logo="http://logo.ndasat.com/iptv/images/38274_wdr.png" group-title="{BOUQUET_NAME}",WDR
+http://iptv.atlasiptv.net:88/live/321282347089421/321282347089421/247.ts
+#EXTINF:-1 tvg-name="ARTE DE" tvg-logo="http://logo.ndasat.com/iptv/images/12891_arte.jpg" group-title="{BOUQUET_NAME}",ARTE DE
+http://iptv.atlasiptv.net:88/live/321282347089421/321282347089421/245.ts
+#EXTINF:-1 tvg-name="SWR" tvg-logo="http://logo.ndasat.com/iptv/images/13482_swr.png" group-title="{BOUQUET_NAME}",SWR
+http://iptv.atlasiptv.net:88/live/321282347089421/321282347089421/270.ts
+#EXTINF:-1 tvg-name="Sat1" tvg-logo="http://logo.ndasat.com/iptv/images/14447_sat1.png" group-title="{BOUQUET_NAME}",Sat1
+http://iptv.atlasiptv.net:88/live/321282347089421/321282347089421/260.ts
+#EXTINF:-1 tvg-name="Sat1 Gold" tvg-logo="http://logo.ndasat.com/iptv/images/55122_sat1gold.jpg" group-title="{BOUQUET_NAME}",Sat1 Gold
+http://iptv.atlasiptv.net:88/live/321282347089421/321282347089421/3418.ts
+#EXTINF:-1 tvg-name="RTL" tvg-logo="http://logo.ndasat.com/iptv/images/21533_rtl.jpg" group-title="{BOUQUET_NAME}",RTL
+http://iptv.atlasiptv.net:88/live/321282347089421/321282347089421/252.ts
+#EXTINF:-1 tvg-name="RTL 2" tvg-logo="http://logo.ndasat.com/iptv/images/779_rtl2.png" group-title="{BOUQUET_NAME}",RTL 2
+http://iptv.atlasiptv.net:88/live/321282347089421/321282347089421/250.ts
+#EXTINF:-1 tvg-name="RTL Nitro" tvg-logo="http://logo.ndasat.com/iptv/images/9419_rtlnitro.png" group-title="{BOUQUET_NAME}",RTL Nitro
+http://iptv.atlasiptv.net:88/live/321282347089421/321282347089421/269.ts
+#EXTINF:-1 tvg-name="RTL Crime" tvg-logo="http://logo.ndasat.com/iptv/images/68067_rtlcrime.jpg" group-title="{BOUQUET_NAME}",RTL Crime
+http://iptv.atlasiptv.net:88/live/321282347089421/321282347089421/3417.ts
+#EXTINF:-1 tvg-name="Super RTL" tvg-logo="http://logo.ndasat.com/iptv/images/91051_superrtl.png" group-title="{BOUQUET_NAME}",Super RTL
+http://iptv.atlasiptv.net:88/live/321282347089421/321282347089421/251.ts
+#EXTINF:-1 tvg-name="RTL Living" tvg-logo="" group-title="{BOUQUET_NAME}",RTL Living
+http://iptv.atlasiptv.net:88/live/321282347089421/321282347089421/3606.ts
+#EXTINF:-1 tvg-name="RTL Passion" tvg-logo="http://logo.ndasat.com/iptv/images/5022_rtlpassion.jpg" group-title="{BOUQUET_NAME}",RTL Passion
+http://iptv.atlasiptv.net:88/live/321282347089421/321282347089421/3416.ts
+#EXTINF:-1 tvg-name="PRO 7" tvg-logo="http://logo.ndasat.com/iptv/images/59549_pro7.png" group-title="{BOUQUET_NAME}",PRO 7
+http://iptv.atlasiptv.net:88/live/321282347089421/321282347089421/259.ts
+#EXTINF:-1 tvg-name="Kinowelt" tvg-logo="http://logo.ndasat.com/iptv/images/50985_kinowelt.png" group-title="{BOUQUET_NAME}",Kinowelt
+http://iptv.atlasiptv.net:88/live/321282347089421/321282347089421/3433.ts
+#EXTINF:-1 tvg-name="Sixx" tvg-logo="http://logo.ndasat.com/iptv/images/5732_sixx.png" group-title="{BOUQUET_NAME}",Sixx
+http://iptv.atlasiptv.net:88/live/321282347089421/321282347089421/276.ts
+#EXTINF:-1 tvg-name="3Sat" tvg-logo="http://logo.ndasat.com/iptv/images/28469_3sat.jpg" group-title="{BOUQUET_NAME}",3Sat
+http://iptv.atlasiptv.net:88/live/321282347089421/321282347089421/3419.ts
+#EXTINF:-1 tvg-name="KIKA" tvg-logo="http://logo.ndasat.com/iptv/images/65335_kika.jpg" group-title="{BOUQUET_NAME}",KIKA
+http://iptv.atlasiptv.net:88/live/321282347089421/321282347089421/258.ts
+#EXTINF:-1 tvg-name="PRO 7 Maxx" tvg-logo="http://logo.ndasat.com/iptv/images/66460_pro7maxx.jpg" group-title="{BOUQUET_NAME}",PRO 7 Maxx
+http://iptv.atlasiptv.net:88/live/321282347089421/321282347089421/257.ts
+#EXTINF:-1 tvg-name="NTV DE" tvg-logo="http://logo.ndasat.com/iptv/images/96224_ntv.jpg" group-title="{BOUQUET_NAME}",NTV DE
+http://iptv.atlasiptv.net:88/live/321282347089421/321282347089421/254.ts
+#EXTINF:-1 tvg-name="Kabel1" tvg-logo="http://logo.ndasat.com/iptv/images/99611_kabel1.png" group-title="{BOUQUET_NAME}",Kabel1
+http://iptv.atlasiptv.net:88/live/321282347089421/321282347089421/274.ts
+#EXTINF:-1 tvg-name="VOX" tvg-logo="http://logo.ndasat.com/iptv/images/73023_vox.jpg" group-title="{BOUQUET_NAME}",VOX
+http://iptv.atlasiptv.net:88/live/321282347089421/321282347089421/253.ts
+#EXTINF:-1 tvg-name="N24" tvg-logo="http://logo.ndasat.com/iptv/images/88138_n24.png" group-title="{BOUQUET_NAME}",N24
+http://iptv.atlasiptv.net:88/live/321282347089421/321282347089421/273.ts
+#EXTINF:-1 tvg-name="Junior DE" tvg-logo="http://logo.ndasat.com/iptv/images/65128_junior.jpg" group-title="{BOUQUET_NAME}",Junior DE
+http://iptv.atlasiptv.net:88/live/321282347089421/321282347089421/3444.ts
+#EXTINF:-1 tvg-name="Disney Junior DE" tvg-logo="http://logo.ndasat.com/iptv/images/9391_disneyjunior.jpg" group-title="{BOUQUET_NAME}",Disney Junior DE
+http://iptv.atlasiptv.net:88/live/321282347089421/321282347089421/933.ts
+#EXTINF:-1 tvg-name="Disney XD DE" tvg-logo="http://logo.ndasat.com/iptv/images/80923_disneyxd.jpg" group-title="{BOUQUET_NAME}",Disney XD DE
+http://iptv.atlasiptv.net:88/live/321282347089421/321282347089421/244.ts
+#EXTINF:-1 tvg-name="Disney DE" tvg-logo="http://logo.ndasat.com/iptv/images/63085_disney.jpg" group-title="{BOUQUET_NAME}",Disney DE
+http://iptv.atlasiptv.net:88/live/321282347089421/321282347089421/3441.ts
+#EXTINF:-1 tvg-name="Disney Cine DE" tvg-logo="http://logo.ndasat.com/iptv/images/38619_disney_cinema_fr.png" group-title="{BOUQUET_NAME}",Disney Cine DE
+http://iptv.atlasiptv.net:88/live/321282347089421/321282347089421/3442.ts
+#EXTINF:-1 tvg-name="Boomerang DE" tvg-logo="http://logo.ndasat.com/iptv/images/89928_boomerang.png" group-title="{BOUQUET_NAME}",Boomerang DE
+http://iptv.atlasiptv.net:88/live/321282347089421/321282347089421/3440.ts
+#EXTINF:-1 tvg-name="Toggo Plus" tvg-logo="http://logo.ndasat.com/iptv/images/36778_toggoplus.png" group-title="{BOUQUET_NAME}",Toggo Plus
+http://iptv.atlasiptv.net:88/live/321282347089421/321282347089421/3443.ts
+#EXTINF:-1 tvg-name="Nickelodeon DE" tvg-logo="" group-title="{BOUQUET_NAME}",Nickelodeon DE
+http://iptv.atlasiptv.net:88/live/321282347089421/321282347089421/3607.ts
+#EXTINF:-1 tvg-name="ORF1" tvg-logo="http://logo.ndasat.com/iptv/images/78029_orf1.jpg" group-title="{BOUQUET_NAME}",ORF1
+http://iptv.atlasiptv.net:88/live/321282347089421/321282347089421/248.ts
+#EXTINF:-1 tvg-name="ORF2" tvg-logo="http://logo.ndasat.com/iptv/images/1547_orf2.jpg" group-title="{BOUQUET_NAME}",ORF2
+http://iptv.atlasiptv.net:88/live/321282347089421/321282347089421/249.ts
+#EXTINF:-1 tvg-name="SRF1" tvg-logo="http://logo.ndasat.com/iptv/images/51997_srf1.png" group-title="{BOUQUET_NAME}",SRF1
+http://iptv.atlasiptv.net:88/live/321282347089421/321282347089421/778.ts
+#EXTINF:-1 tvg-name="SRF2" tvg-logo="http://logo.ndasat.com/iptv/images/98389_srf2.jpg" group-title="{BOUQUET_NAME}",SRF2
+http://iptv.atlasiptv.net:88/live/321282347089421/321282347089421/779.ts
+#EXTINF:-1 tvg-name="Sky Cinema DE" tvg-logo="http://logo.ndasat.com/iptv/images/31343_skycinema.jpg" group-title="{BOUQUET_NAME}",Sky Cinema DE
+http://iptv.atlasiptv.net:88/live/321282347089421/321282347089421/161.ts
+#EXTINF:-1 tvg-name="Sky Cinema +1" tvg-logo="http://logo.ndasat.com/iptv/images/24384_skyarts.jpg" group-title="{BOUQUET_NAME}",Sky Cinema +1
+http://iptv.atlasiptv.net:88/live/321282347089421/321282347089421/3435.ts
+#EXTINF:-1 tvg-name="Sky Cinema 24 DE" tvg-logo="http://logo.ndasat.com/iptv/images/21553_skycinema24.png" group-title="{BOUQUET_NAME}",Sky Cinema 24 DE
+http://iptv.atlasiptv.net:88/live/321282347089421/321282347089421/162.ts
+#EXTINF:-1 tvg-name="Sky Action DE" tvg-logo="http://logo.ndasat.com/iptv/images/17439_skyaction.jpg" group-title="{BOUQUET_NAME}",Sky Action DE
+http://iptv.atlasiptv.net:88/live/321282347089421/321282347089421/163.ts
+#EXTINF:-1 tvg-name="Sky Atlantic DE" tvg-logo="http://logo.ndasat.com/iptv/images/18026_skyatlantic.png" group-title="{BOUQUET_NAME}",Sky Atlantic DE
+http://iptv.atlasiptv.net:88/live/321282347089421/321282347089421/168.ts
+#EXTINF:-1 tvg-name="Sky Comedy DE" tvg-logo="http://logo.ndasat.com/iptv/images/49850_skycomedy.png" group-title="{BOUQUET_NAME}",Sky Comedy DE
+http://iptv.atlasiptv.net:88/live/321282347089421/321282347089421/164.ts
+#EXTINF:-1 tvg-name="Sky Emotion DE" tvg-logo="http://logo.ndasat.com/iptv/images/6724_skyemotion.png" group-title="{BOUQUET_NAME}",Sky Emotion DE
+http://iptv.atlasiptv.net:88/live/321282347089421/321282347089421/165.ts
+#EXTINF:-1 tvg-name="Sky Hits DE" tvg-logo="http://logo.ndasat.com/iptv/images/4686_skyhits.jpg" group-title="{BOUQUET_NAME}",Sky Hits DE
+http://iptv.atlasiptv.net:88/live/321282347089421/321282347089421/166.ts
+#EXTINF:-1 tvg-name="Sky Krimi" tvg-logo="http://logo.ndasat.com/iptv/images/42861_skykrimi.jpg" group-title="{BOUQUET_NAME}",Sky Krimi
+http://iptv.atlasiptv.net:88/live/321282347089421/321282347089421/3423.ts
+#EXTINF:-1 tvg-name="Sky Nostalgie" tvg-logo="http://logo.ndasat.com/iptv/images/10043_skynostalgie.jpg" group-title="{BOUQUET_NAME}",Sky Nostalgie
+http://iptv.atlasiptv.net:88/live/321282347089421/321282347089421/3422.ts
+#EXTINF:-1 tvg-name="AXN DE" tvg-logo="http://logo.ndasat.com/iptv/images/64233_AXN.png" group-title="{BOUQUET_NAME}",AXN DE
+http://iptv.atlasiptv.net:88/live/321282347089421/321282347089421/3426.ts
+#EXTINF:-1 tvg-name="Universal DE" tvg-logo="http://logo.ndasat.com/iptv/images/56892_universal.png" group-title="{BOUQUET_NAME}",Universal DE
+http://iptv.atlasiptv.net:88/live/321282347089421/321282347089421/3424.ts
+#EXTINF:-1 tvg-name="TNT Comedy" tvg-logo="http://logo.ndasat.com/iptv/images/88165_tntcomedy.png" group-title="{BOUQUET_NAME}",TNT Comedy
+http://iptv.atlasiptv.net:88/live/321282347089421/321282347089421/3431.ts
+#EXTINF:-1 tvg-name="TNT Film" tvg-logo="http://logo.ndasat.com/iptv/images/98973_tntfilm.jpg" group-title="{BOUQUET_NAME}",TNT Film
+http://iptv.atlasiptv.net:88/live/321282347089421/321282347089421/3430.ts
+#EXTINF:-1 tvg-name="TNT Serie" tvg-logo="http://logo.ndasat.com/iptv/images/31319_tntserie.png" group-title="{BOUQUET_NAME}",TNT Serie
+http://iptv.atlasiptv.net:88/live/321282347089421/321282347089421/3432.ts
+#EXTINF:-1 tvg-name="Syfy DE" tvg-logo="http://logo.ndasat.com/iptv/images/80054_syfy.png" group-title="{BOUQUET_NAME}",Syfy DE
+http://iptv.atlasiptv.net:88/live/321282347089421/321282347089421/3429.ts
+#EXTINF:-1 tvg-name="Fox DE" tvg-logo="http://logo.ndasat.com/iptv/images/5060_foxtv.jpg" group-title="{BOUQUET_NAME}",Fox DE
+http://iptv.atlasiptv.net:88/live/321282347089421/321282347089421/3425.ts
+#EXTINF:-1 tvg-name="Romance TV" tvg-logo="http://logo.ndasat.com/iptv/images/17509_romancetv.jpg" group-title="{BOUQUET_NAME}",Romance TV
+http://iptv.atlasiptv.net:88/live/321282347089421/321282347089421/3434.ts
+#EXTINF:-1 tvg-name="13th Street DE" tvg-logo="http://logo.ndasat.com/iptv/images/55404_13thstreet.jpg" group-title="{BOUQUET_NAME}",13th Street DE
+http://iptv.atlasiptv.net:88/live/321282347089421/321282347089421/3427.ts
+#EXTINF:-1 tvg-name="Classica DE" tvg-logo="" group-title="{BOUQUET_NAME}",Classica DE
+http://iptv.atlasiptv.net:88/live/321282347089421/321282347089421/3608.ts
+#EXTINF:-1 tvg-name="Discovery DE" tvg-logo="http://logo.ndasat.com/iptv/images/57158_discovery.jpg" group-title="{BOUQUET_NAME}",Discovery DE
+http://iptv.atlasiptv.net:88/live/321282347089421/321282347089421/268.ts
+#EXTINF:-1 tvg-name="DMAX DE" tvg-logo="http://logo.ndasat.com/iptv/images/55622_dmax.png" group-title="{BOUQUET_NAME}",DMAX DE
+http://iptv.atlasiptv.net:88/live/321282347089421/321282347089421/241.ts
+#EXTINF:-1 tvg-name="Nat Geo DE" tvg-logo="http://logo.ndasat.com/iptv/images/98491_natgeo.jpg" group-title="{BOUQUET_NAME}",Nat Geo DE
+http://iptv.atlasiptv.net:88/live/321282347089421/321282347089421/1027.ts
+#EXTINF:-1 tvg-name="Nat Geo Wild DE" tvg-logo="http://logo.ndasat.com/iptv/images/25070_natgeowild.png" group-title="{BOUQUET_NAME}",Nat Geo Wild DE
+http://iptv.atlasiptv.net:88/live/321282347089421/321282347089421/1028.ts
+#EXTINF:-1 tvg-name="History DE" tvg-logo="http://logo.ndasat.com/iptv/images/51679_history.png" group-title="{BOUQUET_NAME}",History DE
+http://iptv.atlasiptv.net:88/live/321282347089421/321282347089421/3439.ts
+#EXTINF:-1 tvg-name="Motorvision DE" tvg-logo="http://logo.ndasat.com/iptv/images/85813_motorvision.jpg" group-title="{BOUQUET_NAME}",Motorvision DE
+http://iptv.atlasiptv.net:88/live/321282347089421/321282347089421/3438.ts
+#EXTINF:-1 tvg-name="Animal planet DE" tvg-logo="" group-title="{BOUQUET_NAME}",Animal planet DE
+http://iptv.atlasiptv.net:88/live/321282347089421/321282347089421/3609.ts
+#EXTINF:-1 tvg-name="Family TV DE" tvg-logo="http://logo.ndasat.com/iptv/images/21013_familytv.jpg" group-title="{BOUQUET_NAME}",Family TV DE
+http://iptv.atlasiptv.net:88/live/321282347089421/321282347089421/3428.ts
+#EXTINF:-1 tvg-name="Phoenix" tvg-logo="http://logo.ndasat.com/iptv/images/99030_phoenix.png" group-title="{BOUQUET_NAME}",Phoenix
+http://iptv.atlasiptv.net:88/live/321282347089421/321282347089421/3421.ts
+#EXTINF:-1 tvg-name="Welt Der Wunder" tvg-logo="" group-title="{BOUQUET_NAME}",Welt Der Wunder
+http://iptv.atlasiptv.net:88/live/321282347089421/321282347089421/3610.ts
+#EXTINF:-1 tvg-name="ZDF Neo" tvg-logo="http://logo.ndasat.com/iptv/images/10868_zdfneo.png" group-title="{BOUQUET_NAME}",ZDF Neo
+http://iptv.atlasiptv.net:88/live/321282347089421/321282347089421/3420.ts
+#EXTINF:-1 tvg-name="Sky Sports News De" tvg-logo="http://logo.ndasat.com/iptv/images/57974_skysportnews.jpg" group-title="{BOUQUET_NAME}",Sky Sports News De
+http://iptv.atlasiptv.net:88/live/321282347089421/321282347089421/255.ts
+#EXTINF:-1 tvg-name="Sky Sport 1 DE" tvg-logo="http://logo.ndasat.com/iptv/images/69607_skysport.png" group-title="{BOUQUET_NAME}",Sky Sport 1 DE
+http://iptv.atlasiptv.net:88/live/321282347089421/321282347089421/52.ts
+#EXTINF:-1 tvg-name="Sky Sport 2 DE" tvg-logo="http://logo.ndasat.com/iptv/images/93351_skysport.png" group-title="{BOUQUET_NAME}",Sky Sport 2 DE
+http://iptv.atlasiptv.net:88/live/321282347089421/321282347089421/53.ts
+#EXTINF:-1 tvg-name="Eurosport DE" tvg-logo="http://logo.ndasat.com/iptv/images/69476_eurosport1.png" group-title="{BOUQUET_NAME}",Eurosport DE
+http://iptv.atlasiptv.net:88/live/321282347089421/321282347089421/266.ts
+#EXTINF:-1 tvg-name="Sport1 DE" tvg-logo="http://logo.ndasat.com/iptv/images/32182_sport1.png" group-title="{BOUQUET_NAME}",Sport1 DE
+http://iptv.atlasiptv.net:88/live/321282347089421/321282347089421/275.ts
+#EXTINF:-1 tvg-name="Sport1 USA DE" tvg-logo="http://logo.ndasat.com/iptv/images/51321_sport1usa.png" group-title="{BOUQUET_NAME}",Sport1 USA DE
+http://iptv.atlasiptv.net:88/live/321282347089421/321282347089421/3436.ts
+#EXTINF:-1 tvg-name="Sport Digital" tvg-logo="http://logo.ndasat.com/iptv/images/83240_sportdigital.png" group-title="{BOUQUET_NAME}",Sport Digital
+http://iptv.atlasiptv.net:88/live/321282347089421/321282347089421/3437.ts
+#EXTINF:-1 tvg-name="Sky Bundesliga1 de" tvg-logo="http://logo.ndasat.com/iptv/images/70870_skybunde.jpg" group-title="{BOUQUET_NAME}",Sky Bundesliga1 de
+http://iptv.atlasiptv.net:88/live/321282347089421/321282347089421/51.ts
+#EXTINF:-1 tvg-name="Sky Bundesliga2 (MT)" tvg-logo="http://logo.ndasat.com/iptv/images/50624_bundesliga2.jpg" group-title="{BOUQUET_NAME}",Sky Bundesliga2 (MT)
+http://iptv.atlasiptv.net:88/live/321282347089421/321282347089421/2291.ts
+#EXTINF:-1 tvg-name="Sky Bundesliga3 (MT)" tvg-logo="http://logo.ndasat.com/iptv/images/73825_bundesliga3.jpg" group-title="{BOUQUET_NAME}",Sky Bundesliga3 (MT)
+http://iptv.atlasiptv.net:88/live/321282347089421/321282347089421/2292.ts
+#EXTINF:-1 tvg-name="Sky Bundesliga4 (MT)" tvg-logo="http://logo.ndasat.com/iptv/images/29696_bunesliga4.jpg" group-title="{BOUQUET_NAME}",Sky Bundesliga4 (MT)
+http://iptv.atlasiptv.net:88/live/321282347089421/321282347089421/2293.ts
+#EXTINF:-1 tvg-name="Sky Bundesliga5 (MT)" tvg-logo="http://logo.ndasat.com/iptv/images/24854_bundesliga5.jpg" group-title="{BOUQUET_NAME}",Sky Bundesliga5 (MT)
+http://iptv.atlasiptv.net:88/live/321282347089421/321282347089421/2294.ts
+#EXTINF:-1 tvg-name="Sky Bundesliga6 (MT)" tvg-logo="http://logo.ndasat.com/iptv/images/91455_bundesliga6.jpg" group-title="{BOUQUET_NAME}",Sky Bundesliga6 (MT)
+http://iptv.atlasiptv.net:88/live/321282347089421/321282347089421/2295.ts
+#EXTINF:-1 tvg-name="VOD-Select1" tvg-logo="http://logo.ndasat.com/iptv/images/87066_germany.jpg" group-title="{BOUQUET_NAME}",VOD-Select1
+http://iptv.atlasiptv.net:88/live/321282347089421/321282347089421/557.ts
+#EXTINF:-1 tvg-name="VOD-Select2" tvg-logo="http://logo.ndasat.com/iptv/images/33521_germany.jpg" group-title="{BOUQUET_NAME}",VOD-Select2
+http://iptv.atlasiptv.net:88/live/321282347089421/321282347089421/556.ts
+#EXTINF:-1 tvg-name="VOD-Select3" tvg-logo="http://logo.ndasat.com/iptv/images/63848_germany.jpg" group-title="{BOUQUET_NAME}",VOD-Select3
+http://iptv.atlasiptv.net:88/live/321282347089421/321282347089421/555.ts
+#EXTINF:-1 tvg-name="VOD-select4" tvg-logo="http://logo.ndasat.com/iptv/images/39148_germany.jpg" group-title="{BOUQUET_NAME}",VOD-select4
+http://iptv.atlasiptv.net:88/live/321282347089421/321282347089421/554.ts
+#EXTINF:-1 tvg-name="VOD-Select5" tvg-logo="http://logo.ndasat.com/iptv/images/84948_germany.jpg" group-title="{BOUQUET_NAME}",VOD-Select5
+http://iptv.atlasiptv.net:88/live/321282347089421/321282347089421/553.ts
+#EXTINF:-1 tvg-name="VOD-Select6" tvg-logo="http://logo.ndasat.com/iptv/images/44453_germany.jpg" group-title="{BOUQUET_NAME}",VOD-Select6
+http://iptv.atlasiptv.net:88/live/321282347089421/321282347089421/552.ts
+
+#EXTINF:-1,DE: Sky Cinema HD
+http://naxosteam.ddns.net:8000/live/cP5Ox0f1uI/wjrKbbvIlt/21281.ts
+#EXTINF:-1,DE: Sky Cinema  1 HD
+http://naxosteam.ddns.net:8000/live/cP5Ox0f1uI/wjrKbbvIlt/21280.ts
+#EXTINF:-1,DE: Sky Cinema  24 HD
+http://naxosteam.ddns.net:8000/live/cP5Ox0f1uI/wjrKbbvIlt/21279.ts
+#EXTINF:-1,DE: Sky Cinema Action HD
+http://naxosteam.ddns.net:8000/live/cP5Ox0f1uI/wjrKbbvIlt/21278.ts
+#EXTINF:-1,DE: Sky Cinema Comedy HD
+http://naxosteam.ddns.net:8000/live/cP5Ox0f1uI/wjrKbbvIlt/21277.ts
+#EXTINF:-1,DE: Sky Cinema Emotion HD
+http://naxosteam.ddns.net:8000/live/cP5Ox0f1uI/wjrKbbvIlt/21276.ts
+#EXTINF:-1,DE: Sky Cinema Nostalgie HD
+http://naxosteam.ddns.net:8000/live/cP5Ox0f1uI/wjrKbbvIlt/21275.ts
+#EXTINF:-1,De: Sky Cinema Hits HD
+http://naxosteam.ddns.net:8000/live/cP5Ox0f1uI/wjrKbbvIlt/21274.ts
+#EXTINF:-1,DE: Kinowelt TV HD
+http://naxosteam.ddns.net:8000/live/cP5Ox0f1uI/wjrKbbvIlt/21273.ts
+#EXTINF:-1,DE: TNT Comedy HD
+http://naxosteam.ddns.net:8000/live/cP5Ox0f1uI/wjrKbbvIlt/21272.ts
+#EXTINF:-1,DE: TNT Film HD
+http://naxosteam.ddns.net:8000/live/cP5Ox0f1uI/wjrKbbvIlt/21271.ts
+#EXTINF:-1,DE: TNT Serie HD
+http://naxosteam.ddns.net:8000/live/cP5Ox0f1uI/wjrKbbvIlt/21261.ts
+#EXTINF:-1,=== Unterhaltung ===
+http://naxosteam.ddns.net:8000/live/cP5Ox0f1uI/wjrKbbvIlt/21269.ts
+#EXTINF:-1,DE: Sky Atlantic
+http://naxosteam.ddns.net:8000/live/cP5Ox0f1uI/wjrKbbvIlt/21268.ts
+#EXTINF:-1,DE: FOX HD
+http://naxosteam.ddns.net:8000/live/cP5Ox0f1uI/wjrKbbvIlt/21267.ts
+#EXTINF:-1,DE: SYFY HD
+http://naxosteam.ddns.net:8000/live/cP5Ox0f1uI/wjrKbbvIlt/21266.ts
+#EXTINF:-1,DE: Sky Krimi
+http://naxosteam.ddns.net:8000/live/cP5Ox0f1uI/wjrKbbvIlt/21265.ts
+#EXTINF:-1,DE: Universal Channel HD
+http://naxosteam.ddns.net:8000/live/cP5Ox0f1uI/wjrKbbvIlt/21264.ts
+#EXTINF:-1,DE: 13th Street HD
+http://naxosteam.ddns.net:8000/live/cP5Ox0f1uI/wjrKbbvIlt/21263.ts
+#EXTINF:-1,DE: 13th Street
+http://naxosteam.ddns.net:8000/live/cP5Ox0f1uI/wjrKbbvIlt/21262.ts
+#EXTINF:-1,DE: E! HD
+http://naxosteam.ddns.net:8000/live/cP5Ox0f1uI/wjrKbbvIlt/21260.ts
+#EXTINF:-1,DE: Sky DMAX
+http://naxosteam.ddns.net:8000/live/cP5Ox0f1uI/wjrKbbvIlt/21256.ts
+#EXTINF:-1,DE: Romance TV HD
+http://naxosteam.ddns.net:8000/live/cP5Ox0f1uI/wjrKbbvIlt/21254.ts
+#EXTINF:-1,DE: VIVA / COMEDY CENTRAL
+http://naxosteam.ddns.net:8000/live/cP5Ox0f1uI/wjrKbbvIlt/21253.ts
+#EXTINF:-1,DE: ZDF
+http://naxosteam.ddns.net:8000/live/cP5Ox0f1uI/wjrKbbvIlt/21314.ts
+#EXTINF:-1,DE: RTL HD
+http://naxosteam.ddns.net:8000/live/cP5Ox0f1uI/wjrKbbvIlt/21313.ts
+#EXTINF:-1,DE: RTL SD
+http://naxosteam.ddns.net:8000/live/cP5Ox0f1uI/wjrKbbvIlt/21312.ts
+#EXTINF:-1,DE: RTL 2 HD
+http://naxosteam.ddns.net:8000/live/cP5Ox0f1uI/wjrKbbvIlt/21311.ts
+#EXTINF:-1,DE: RTL 2 SD
+http://naxosteam.ddns.net:8000/live/cP5Ox0f1uI/wjrKbbvIlt/21310.ts
+#EXTINF:-1,DE: RTL Crime
+http://naxosteam.ddns.net:8000/live/cP5Ox0f1uI/wjrKbbvIlt/21259.ts
+#EXTINF:-1,DE: RTL Living HD
+http://naxosteam.ddns.net:8000/live/cP5Ox0f1uI/wjrKbbvIlt/21257.ts
+#EXTINF:-1,DE: RTL Passion
+http://naxosteam.ddns.net:8000/live/cP5Ox0f1uI/wjrKbbvIlt/21258.ts
+#EXTINF:-1,DE: Prosieben HD
+http://naxosteam.ddns.net:8000/live/cP5Ox0f1uI/wjrKbbvIlt/21307.ts
+#EXTINF:-1,DE: Pro7 Maxx HD
+http://naxosteam.ddns.net:8000/live/cP5Ox0f1uI/wjrKbbvIlt/21300.ts
+#EXTINF:-1,DE: ProSieben Maxx
+http://naxosteam.ddns.net:8000/live/cP5Ox0f1uI/wjrKbbvIlt/21301.ts
+#EXTINF:-1,DE: Prosieben Fun HD
+http://naxosteam.ddns.net:8000/live/cP5Ox0f1uI/wjrKbbvIlt/21287.ts
+#EXTINF:-1,DE: Sat 1
+http://naxosteam.ddns.net:8000/live/cP5Ox0f1uI/wjrKbbvIlt/21306.ts
+#EXTINF:-1,DE: Sat 1 Gold
+http://naxosteam.ddns.net:8000/live/cP5Ox0f1uI/wjrKbbvIlt/21255.ts
+#EXTINF:-1,DE: Sixx
+http://naxosteam.ddns.net:8000/live/cP5Ox0f1uI/wjrKbbvIlt/21308.ts
+#EXTINF:-1,DE: VOX HD
+http://naxosteam.ddns.net:8000/live/cP5Ox0f1uI/wjrKbbvIlt/21305.ts
+#EXTINF:-1,DE: KABEL 1 HD
+http://naxosteam.ddns.net:8000/live/cP5Ox0f1uI/wjrKbbvIlt/21304.ts
+#EXTINF:-1,DE: Kabel 1
+http://naxosteam.ddns.net:8000/live/cP5Ox0f1uI/wjrKbbvIlt/21303.ts
+#EXTINF:-1,DE: Kabel Classic HD
+http://naxosteam.ddns.net:8000/live/cP5Ox0f1uI/wjrKbbvIlt/21270.ts
+#EXTINF:-1,DE: Kabel1 Doku
+http://naxosteam.ddns.net:8000/live/cP5Ox0f1uI/wjrKbbvIlt/21209.ts
+#EXTINF:-1,DE: Tele 5 tv HD
+http://naxosteam.ddns.net:8000/live/cP5Ox0f1uI/wjrKbbvIlt/21302.ts
+#EXTINF:-1,DE:Arte HD
+http://naxosteam.ddns.net:8000/live/cP5Ox0f1uI/wjrKbbvIlt/21298.ts
+#EXTINF:-1,DE: 3Sat HD
+http://naxosteam.ddns.net:8000/live/cP5Ox0f1uI/wjrKbbvIlt/21297.ts
+#EXTINF:-1,DE: Anixe HD Series
+http://naxosteam.ddns.net:8000/live/cP5Ox0f1uI/wjrKbbvIlt/21296.ts
+#EXTINF:-1,DE: Zee one HD
+http://naxosteam.ddns.net:8000/live/cP5Ox0f1uI/wjrKbbvIlt/21295.ts
+#EXTINF:-1,DE: ORF 1 HD
+http://naxosteam.ddns.net:8000/live/cP5Ox0f1uI/wjrKbbvIlt/21294.ts
+#EXTINF:-1,DE: ORF 2 HD
+http://naxosteam.ddns.net:8000/live/cP5Ox0f1uI/wjrKbbvIlt/21293.ts
+#EXTINF:-1,DE: ORF 3 HD
+http://naxosteam.ddns.net:8000/live/cP5Ox0f1uI/wjrKbbvIlt/21292.ts
+#EXTINF:-1,DE: ORF Sport   HD
+http://naxosteam.ddns.net:8000/live/cP5Ox0f1uI/wjrKbbvIlt/21221.ts
+#EXTINF:-1,DE: Augsburg TV
+http://naxosteam.ddns.net:8000/live/cP5Ox0f1uI/wjrKbbvIlt/21291.ts
+#EXTINF:-1,DE: Austria 24
+http://naxosteam.ddns.net:8000/live/cP5Ox0f1uI/wjrKbbvIlt/21290.ts
+#EXTINF:-1,DE: Munchen TV
+http://naxosteam.ddns.net:8000/live/cP5Ox0f1uI/wjrKbbvIlt/21289.ts
+#EXTINF:-1,DE: NDR HD
+http://naxosteam.ddns.net:8000/live/cP5Ox0f1uI/wjrKbbvIlt/21288.ts
+#EXTINF:-1,DE: Sony HD
+http://naxosteam.ddns.net:8000/live/cP5Ox0f1uI/wjrKbbvIlt/21286.ts
+#EXTINF:-1,DE: SRF 1 HD
+http://naxosteam.ddns.net:8000/live/cP5Ox0f1uI/wjrKbbvIlt/21285.ts
+#EXTINF:-1,DE: SRF 2
+http://naxosteam.ddns.net:8000/live/cP5Ox0f1uI/wjrKbbvIlt/21284.ts
+#EXTINF:-1,=== Sport ===
+http://naxosteam.ddns.net:8000/live/cP5Ox0f1uI/wjrKbbvIlt/21252.ts
+#EXTINF:-1,DE: SKY Sport News HD
+http://naxosteam.ddns.net:8000/live/cP5Ox0f1uI/wjrKbbvIlt/21251.ts
+#EXTINF:-1,DE: Sport Digital HD
+http://naxosteam.ddns.net:8000/live/cP5Ox0f1uI/wjrKbbvIlt/21250.ts
+#EXTINF:-1,DE: Sky Sport 1 HD
+http://naxosteam.ddns.net:8000/live/cP5Ox0f1uI/wjrKbbvIlt/21249.ts
+#EXTINF:-1,DE: Sky Sport 1
+http://naxosteam.ddns.net:8000/live/cP5Ox0f1uI/wjrKbbvIlt/21248.ts
+#EXTINF:-1,DE: Sky Sport 2 HD
+http://naxosteam.ddns.net:8000/live/cP5Ox0f1uI/wjrKbbvIlt/21247.ts
+#EXTINF:-1,DE: Sky Sport 2
+http://naxosteam.ddns.net:8000/live/cP5Ox0f1uI/wjrKbbvIlt/21246.ts
+#EXTINF:-1,DE: Sky Sport 3 HD
+http://naxosteam.ddns.net:8000/live/cP5Ox0f1uI/wjrKbbvIlt/21245.ts
+#EXTINF:-1,DE: Sky Sport 4 HD
+http://naxosteam.ddns.net:8000/live/cP5Ox0f1uI/wjrKbbvIlt/21244.ts
+#EXTINF:-1,DE: Sky Sport 5 HD
+http://naxosteam.ddns.net:8000/live/cP5Ox0f1uI/wjrKbbvIlt/21243.ts
+#EXTINF:-1,DE: Sky Sport 6 HD
+http://naxosteam.ddns.net:8000/live/cP5Ox0f1uI/wjrKbbvIlt/21242.ts
+#EXTINF:-1,DE: Sky Sport 7 HD
+http://naxosteam.ddns.net:8000/live/cP5Ox0f1uI/wjrKbbvIlt/21241.ts
+#EXTINF:-1,DE: Sky Sport 8 HD
+http://naxosteam.ddns.net:8000/live/cP5Ox0f1uI/wjrKbbvIlt/21240.ts
+#EXTINF:-1,DE: Sky Sport 9 HD
+http://naxosteam.ddns.net:8000/live/cP5Ox0f1uI/wjrKbbvIlt/21239.ts
+#EXTINF:-1,DE: Sky Sport 10 HD
+http://naxosteam.ddns.net:8000/live/cP5Ox0f1uI/wjrKbbvIlt/21238.ts
+#EXTINF:-1,DE: Sky Sport Austria HD
+http://naxosteam.ddns.net:8000/live/cP5Ox0f1uI/wjrKbbvIlt/21222.ts
+#EXTINF:-1,DE: VIP: Sport 1 US HD
+http://naxosteam.ddns.net:8000/live/cP5Ox0f1uI/wjrKbbvIlt/21220.ts
+#EXTINF:-1,DE: Eurosport 1
+http://naxosteam.ddns.net:8000/live/cP5Ox0f1uI/wjrKbbvIlt/21219.ts
+#EXTINF:-1,DE: Eurosport 2
+http://naxosteam.ddns.net:8000/live/cP5Ox0f1uI/wjrKbbvIlt/21218.ts
+#EXTINF:-1,=== Kultur ===
+http://naxosteam.ddns.net:8000/live/cP5Ox0f1uI/wjrKbbvIlt/21217.ts
+#EXTINF:-1,DE: National Geographic HD
+http://naxosteam.ddns.net:8000/live/cP5Ox0f1uI/wjrKbbvIlt/21216.ts
+#EXTINF:-1,DE: Nat Geo People HD
+http://naxosteam.ddns.net:8000/live/cP5Ox0f1uI/wjrKbbvIlt/21215.ts
+#EXTINF:-1,DE: Nat Geo Wild HD
+http://naxosteam.ddns.net:8000/live/cP5Ox0f1uI/wjrKbbvIlt/21214.ts
+#EXTINF:-1,DE: Discovery Channel HD
+http://naxosteam.ddns.net:8000/live/cP5Ox0f1uI/wjrKbbvIlt/21213.ts
+#EXTINF:-1,DE: History Channel HD
+http://naxosteam.ddns.net:8000/live/cP5Ox0f1uI/wjrKbbvIlt/21212.ts
+#EXTINF:-1,DE: A&E HD
+http://naxosteam.ddns.net:8000/live/cP5Ox0f1uI/wjrKbbvIlt/21211.ts
+#EXTINF:-1,DE: ZDF Info HD
+http://naxosteam.ddns.net:8000/live/cP5Ox0f1uI/wjrKbbvIlt/21210.ts
+#EXTINF:-1,DE: PLANET HD
+http://naxosteam.ddns.net:8000/live/cP5Ox0f1uI/wjrKbbvIlt/21208.ts
+#EXTINF:-1,DE: Animal Planet HD
+http://naxosteam.ddns.net:8000/live/cP5Ox0f1uI/wjrKbbvIlt/21207.ts
+#EXTINF:-1,=== Musik ===
+http://naxosteam.ddns.net:8000/live/cP5Ox0f1uI/wjrKbbvIlt/21206.ts
+#EXTINF:-1,DE: MTV Germany
+http://naxosteam.ddns.net:8000/live/cP5Ox0f1uI/wjrKbbvIlt/21205.ts
+#EXTINF:-1,=== Kinder ===
+http://naxosteam.ddns.net:8000/live/cP5Ox0f1uI/wjrKbbvIlt/21204.ts
+#EXTINF:-1,DE: Disney Channel HD
+http://naxosteam.ddns.net:8000/live/cP5Ox0f1uI/wjrKbbvIlt/21203.ts
+#EXTINF:-1,DE: Disney Cinemagic HD
+http://naxosteam.ddns.net:8000/live/cP5Ox0f1uI/wjrKbbvIlt/21202.ts
+#EXTINF:-1,DE: Disney XD HD
+http://naxosteam.ddns.net:8000/live/cP5Ox0f1uI/wjrKbbvIlt/21201.ts
+#EXTINF:-1,DE:Disney Junior
+http://naxosteam.ddns.net:8000/live/cP5Ox0f1uI/wjrKbbvIlt/21200.ts
+#EXTINF:-1,DE: Sky Cartoon Network HD
+http://naxosteam.ddns.net:8000/live/cP5Ox0f1uI/wjrKbbvIlt/21199.ts
+#EXTINF:-1,DE: Boomerang HD
+http://naxosteam.ddns.net:8000/live/cP5Ox0f1uI/wjrKbbvIlt/21198.ts
+#EXTINF:-1,DE: Junior HD
+http://naxosteam.ddns.net:8000/live/cP5Ox0f1uI/wjrKbbvIlt/21197.ts
+#EXTINF:-1,DE: Nick JR HD
+http://naxosteam.ddns.net:8000/live/cP5Ox0f1uI/wjrKbbvIlt/21194.ts
+#EXTINF:-1,DE: Nickelodeon HD
+http://naxosteam.ddns.net:8000/live/cP5Ox0f1uI/wjrKbbvIlt/21196.ts
+#EXTINF:-1,DE: Nickelodeon Schweiz HD
+http://naxosteam.ddns.net:8000/live/cP5Ox0f1uI/wjrKbbvIlt/21195.ts
+#EXTINF:-1,DE: KIKA HD
+http://naxosteam.ddns.net:8000/live/cP5Ox0f1uI/wjrKbbvIlt/21193.ts
+#EXTINF:-1,=== Informationen ===
+http://naxosteam.ddns.net:8000/live/cP5Ox0f1uI/wjrKbbvIlt/21192.ts
+#EXTINF:-1,DE: N24
+http://naxosteam.ddns.net:8000/live/cP5Ox0f1uI/wjrKbbvIlt/21191.ts
+#EXTINF:-1,DE: Euronews DE
+http://naxosteam.ddns.net:8000/live/cP5Ox0f1uI/wjrKbbvIlt/21190.ts
+#EXTINF:-1,=== Sky Select ===
+http://naxosteam.ddns.net:8000/live/cP5Ox0f1uI/wjrKbbvIlt/21189.ts
+#EXTINF:-1,DE: Sky Select Live 1 (Guardians of the Galaxy Vol. 2)
+http://naxosteam.ddns.net:8000/live/cP5Ox0f1uI/wjrKbbvIlt/21187.ts
+#EXTINF:-1,DE: Sky Select Live 2 (Lommbock)
+http://naxosteam.ddns.net:8000/live/cP5Ox0f1uI/wjrKbbvIlt/21186.ts
+#EXTINF:-1,DE: Sky Select Live 3 (Alien-Covenant)
+http://naxosteam.ddns.net:8000/live/cP5Ox0f1uI/wjrKbbvIlt/21185.ts
+#EXTINF:-1,DE: Sky Select Live 4 (Pirates Of The Caribbean 5-Salazars Rache)
+http://naxosteam.ddns.net:8000/live/cP5Ox0f1uI/wjrKbbvIlt/21184.ts
+#EXTINF:-1,DE: Sky Select Live 5 (Die Schl
+http://naxosteam.ddns.net:8000/live/cP5Ox0f1uI/wjrKbbvIlt/21183.ts
+#EXTINF:-1,DE: Sky Select Live 6 (Fast & Furious 8)
+http://naxosteam.ddns.net:8000/live/cP5Ox0f1uI/wjrKbbvIlt/21182.ts
+#EXTINF:-1,DE: Sky Select Live 7 (Vier gegen die Bank)
+http://naxosteam.ddns.net:8000/live/cP5Ox0f1uI/wjrKbbvIlt/21181.ts
+#EXTINF:-1,DE: Sky Select Live 8 (Die Sch
+http://naxosteam.ddns.net:8000/live/cP5Ox0f1uI/wjrKbbvIlt/21180.ts
+#EXTINF:-1,DE: Sky Select Live 9 (Ghost in the Shell)
+http://naxosteam.ddns.net:8000/live/cP5Ox0f1uI/wjrKbbvIlt/21179.ts
+#EXTINF:-1,DE: Sky Select Live 10 (Kong Skull Island)
+http://naxosteam.ddns.net:8000/live/cP5Ox0f1uI/wjrKbbvIlt/21178.ts
+#EXTINF:-1,DE: Sky Select Live 11 (Life)
+http://naxosteam.ddns.net:8000/live/cP5Ox0f1uI/wjrKbbvIlt/21177.ts
+#EXTINF:-1,DE: Sky Select Live 12 (The Boss Baby)
+http://naxosteam.ddns.net:8000/live/cP5Ox0f1uI/wjrKbbvIlt/21176.ts
+#EXTINF:-1,VOD: >>>>>SKY SELECT DE<<<<<
+http://naxosteam.ddns.net:8000/movie/cP5Ox0f1uI/wjrKbbvIlt/20481.mp4
+#EXTINF:-1,VOD: Sky Select 1 (Guardians of the Galaxy Vol. 2)
+http://naxosteam.ddns.net:8000/movie/cP5Ox0f1uI/wjrKbbvIlt/20480.mp4
+#EXTINF:-1,VOD: Sky Select 2 (Abgang mit Stil)
+http://naxosteam.ddns.net:8000/movie/cP5Ox0f1uI/wjrKbbvIlt/20479.mp4
+#EXTINF:-1,VOD: Sky Select 3 (Get Out)
+http://naxosteam.ddns.net:8000/movie/cP5Ox0f1uI/wjrKbbvIlt/20478.mp4
+#EXTINF:-1,VOD: Sky Select 4 (Boston)
+http://naxosteam.ddns.net:8000/movie/cP5Ox0f1uI/wjrKbbvIlt/20477.mp4
+#EXTINF:-1,VOD: Sky Select 5 (Die Schlümpfe-Das verlorenen Dorf)
+http://naxosteam.ddns.net:8000/movie/cP5Ox0f1uI/wjrKbbvIlt/20476.mp4
+#EXTINF:-1,VOD: Sky Select 6 (Fast & Furious 8)
+http://naxosteam.ddns.net:8000/movie/cP5Ox0f1uI/wjrKbbvIlt/20475.mp4
+#EXTINF:-1,VOD: Sky Select 7 (Vier gegen die Bank)
+http://naxosteam.ddns.net:8000/movie/cP5Ox0f1uI/wjrKbbvIlt/20474.mp4
+#EXTINF:-1,VOD: Sky Select 8 (Die Schöne und das Biest)
+http://naxosteam.ddns.net:8000/movie/cP5Ox0f1uI/wjrKbbvIlt/20473.mp4
+#EXTINF:-1,VOD:  Sky Select 9 (Ghost In The Shell)
+http://naxosteam.ddns.net:8000/movie/cP5Ox0f1uI/wjrKbbvIlt/20472.mp4
+#EXTINF:-1,VOD: Sky Select 10 (Kong-Skull Island)
+http://naxosteam.ddns.net:8000/movie/cP5Ox0f1uI/wjrKbbvIlt/20471.mp4
+#EXTINF:-1,VOD: Sky Select 11 (Life)
+http://naxosteam.ddns.net:8000/movie/cP5Ox0f1uI/wjrKbbvIlt/20470.mp4
+#EXTINF:-1,VOD: Sky Select 12 (The Boss Baby)
+http://naxosteam.ddns.net:8000/movie/cP5Ox0f1uI/wjrKbbvIlt/20469.mp4
+#EXTINF:-1,13th Street HD DE
+http://portal.geniptv.com:8080/live/delmar/delmar/80.ts
 #EXTINF:-1,13th Street FHD DE
-http://clientportal.link:8080/live/6vFVk7NzDU/luH1S6ft7V/14060.m3u8
-#EXTINF:-1,3sat DE
-http://clientportal.link:8080/live/6vFVk7NzDU/luH1S6ft7V/12341.m3u8
-#EXTINF:-1,3sat FHD DE
-http://clientportal.link:8080/live/6vFVk7NzDU/luH1S6ft7V/16497.m3u8
-#EXTINF:-1,A&E DE
-http://clientportal.link:8080/live/6vFVk7NzDU/luH1S6ft7V/13109.m3u8
-#EXTINF:-1,A&E FHD DE
-http://clientportal.link:8080/live/6vFVk7NzDU/luH1S6ft7V/14059.m3u8
+http://portal.geniptv.com:8080/live/delmar/delmar/3948.ts
+#EXTINF:-1,3sat HD DE
+http://portal.geniptv.com:8080/live/delmar/delmar/2565.ts
 #EXTINF:-1,Animal Planet HD DE
-http://clientportal.link:8080/live/6vFVk7NzDU/luH1S6ft7V/9561.m3u8
-#EXTINF:-1,ANIXE DE
-http://clientportal.link:8080/live/6vFVk7NzDU/luH1S6ft7V/3445.m3u8
-#EXTINF:-1,ANIXE FHD DE
-http://clientportal.link:8080/live/6vFVk7NzDU/luH1S6ft7V/14576.m3u8
-#EXTINF:-1,Arte FHD DE
-http://clientportal.link:8080/live/6vFVk7NzDU/luH1S6ft7V/16496.m3u8
+http://portal.geniptv.com:8080/live/delmar/delmar/2564.ts
+#EXTINF:-1,Animal Planet FHD DE
+http://portal.geniptv.com:8080/live/delmar/delmar/3946.ts
+#EXTINF:-1,ANIXE HD DE
+http://portal.geniptv.com:8080/live/delmar/delmar/2563.ts
+#EXTINF:-1,ARD Alpha DE
+http://portal.geniptv.com:8080/live/delmar/delmar/107.ts
+#EXTINF:-1,arte DE
+http://portal.geniptv.com:8080/live/delmar/delmar/106.ts
+#EXTINF:-1,arte FHD DE
+http://portal.geniptv.com:8080/live/delmar/delmar/4173.ts
 #EXTINF:-1,Astro TV DE
-http://clientportal.link:8080/live/6vFVk7NzDU/luH1S6ft7V/12339.m3u8
-#EXTINF:-1,AXN DE
-http://clientportal.link:8080/live/6vFVk7NzDU/luH1S6ft7V/9562.m3u8
+http://portal.geniptv.com:8080/live/delmar/delmar/5432.ts
+#EXTINF:-1,Augsburg TV DE
+http://portal.geniptv.com:8080/live/delmar/delmar/103.ts
 #EXTINF:-1,AXN HD DE
-http://clientportal.link:8080/live/6vFVk7NzDU/luH1S6ft7V/17498.m3u8
+http://portal.geniptv.com:8080/live/delmar/delmar/105.ts
+#EXTINF:-1,AXN FHD DE
+http://portal.geniptv.com:8080/live/delmar/delmar/3945.ts
+#EXTINF:-1,A&E FHD DE
+http://portal.geniptv.com:8080/live/delmar/delmar/3947.ts
+#EXTINF:-1,Baby TV DE
+http://portal.geniptv.com:8080/live/delmar/delmar/104.ts
+#EXTINF:-1,BR DE
+http://portal.geniptv.com:8080/live/delmar/delmar/5431.ts
 #EXTINF:-1,Boomerang DE
-http://clientportal.link:8080/live/6vFVk7NzDU/luH1S6ft7V/12315.m3u8
-#EXTINF:-1,BR Fernsehen Nord DE
-http://clientportal.link:8080/live/6vFVk7NzDU/luH1S6ft7V/12322.m3u8
-#EXTINF:-1,BR Fernsehen Nord HD DE
-http://clientportal.link:8080/live/6vFVk7NzDU/luH1S6ft7V/16495.m3u8
-#EXTINF:-1,Cartoon Network DE
-http://clientportal.link:8080/live/6vFVk7NzDU/luH1S6ft7V/15565.m3u8
-#EXTINF:-1,CLASSICA DE
-http://clientportal.link:8080/live/6vFVk7NzDU/luH1S6ft7V/9555.m3u8
-#EXTINF:-1,Comedy Central FHD DE
-http://clientportal.link:8080/live/6vFVk7NzDU/luH1S6ft7V/17280.m3u8
-#EXTINF:-1,Das Erste FHD DE
-http://clientportal.link:8080/live/6vFVk7NzDU/luH1S6ft7V/16493.m3u8
+http://portal.geniptv.com:8080/live/delmar/delmar/3185.ts
+#EXTINF:-1,CLASSICA FHD DE
+http://portal.geniptv.com:8080/live/delmar/delmar/102.ts
 #EXTINF:-1,Das Erste DE
-http://clientportal.link:8080/live/6vFVk7NzDU/luH1S6ft7V/3451.m3u8
+http://portal.geniptv.com:8080/live/delmar/delmar/2562.ts
+#EXTINF:-1,Das Erste FHD DE
+http://portal.geniptv.com:8080/live/delmar/delmar/4177.ts
 #EXTINF:-1,Deluxe Music DE
-http://clientportal.link:8080/live/6vFVk7NzDU/luH1S6ft7V/9554.m3u8
-#EXTINF:-1,Deluxe Music FHD DE
-http://clientportal.link:8080/live/6vFVk7NzDU/luH1S6ft7V/14057.m3u8
+http://portal.geniptv.com:8080/live/delmar/delmar/3184.ts
 #EXTINF:-1,Deutsches Musik Fernsehen DE
-http://clientportal.link:8080/live/6vFVk7NzDU/luH1S6ft7V/12334.m3u8
-#EXTINF:-1,Discovery Channel FHD DE
-http://clientportal.link:8080/live/6vFVk7NzDU/luH1S6ft7V/14063.m3u8
+http://portal.geniptv.com:8080/live/delmar/delmar/5430.ts
 #EXTINF:-1,Discovery Channel HD DE
-http://clientportal.link:8080/live/6vFVk7NzDU/luH1S6ft7V/3426.m3u8
+http://portal.geniptv.com:8080/live/delmar/delmar/59.ts
+#EXTINF:-1,Discovery Channel FHD DE
+http://portal.geniptv.com:8080/live/delmar/delmar/3944.ts
 #EXTINF:-1,Disney Channel DE
-http://clientportal.link:8080/live/6vFVk7NzDU/luH1S6ft7V/3622.m3u8
+http://portal.geniptv.com:8080/live/delmar/delmar/99.ts
 #EXTINF:-1,Disney Channel FHD DE
-http://clientportal.link:8080/live/6vFVk7NzDU/luH1S6ft7V/14056.m3u8
+http://portal.geniptv.com:8080/live/delmar/delmar/3943.ts
+#EXTINF:-1,Disney Cinemagic HD DE
+http://portal.geniptv.com:8080/live/delmar/delmar/3183.ts
 #EXTINF:-1,Disney Cinemagic FHD DE
-http://clientportal.link:8080/live/6vFVk7NzDU/luH1S6ft7V/14312.m3u8
-#EXTINF:-1,Disney Cinemagic DE
-http://clientportal.link:8080/live/6vFVk7NzDU/luH1S6ft7V/9548.m3u8
+http://portal.geniptv.com:8080/live/delmar/delmar/3942.ts
 #EXTINF:-1,Disney Junior DE
-http://clientportal.link:8080/live/6vFVk7NzDU/luH1S6ft7V/9549.m3u8
-#EXTINF:-1,Disney Junior HD DE
-http://clientportal.link:8080/live/6vFVk7NzDU/luH1S6ft7V/15566.m3u8
+http://portal.geniptv.com:8080/live/delmar/delmar/58.ts
 #EXTINF:-1,Disney XD DE
-http://clientportal.link:8080/live/6vFVk7NzDU/luH1S6ft7V/9547.m3u8
-#EXTINF:-1,DMAX DE
-http://clientportal.link:8080/live/6vFVk7NzDU/luH1S6ft7V/3431.m3u8
-#EXTINF:-1,E! Entertainment HD DE
-http://clientportal.link:8080/live/6vFVk7NzDU/luH1S6ft7V/15567.m3u8
-#EXTINF:-1,Eurosport 1 HD DE
-http://clientportal.link:8080/live/6vFVk7NzDU/luH1S6ft7V/3435.m3u8
-#EXTINF:-1,Eurosport 2 DE
-http://clientportal.link:8080/live/6vFVk7NzDU/luH1S6ft7V/9553.m3u8
-#EXTINF:-1,Eurosport 2 HD DE
-http://clientportal.link:8080/live/6vFVk7NzDU/luH1S6ft7V/15568.m3u8
-#EXTINF:-1,Eurosport 2 Xtra HD DE
-http://clientportal.link:8080/live/6vFVk7NzDU/luH1S6ft7V/17281.m3u8
+http://portal.geniptv.com:8080/live/delmar/delmar/98.ts
+#EXTINF:-1,DMAX HD DE
+http://portal.geniptv.com:8080/live/delmar/delmar/101.ts
+#EXTINF:-1,E! Entertaiment DE
+http://portal.geniptv.com:8080/live/delmar/delmar/5429.ts
 #EXTINF:-1,Family TV DE
-http://clientportal.link:8080/live/6vFVk7NzDU/luH1S6ft7V/13108.m3u8
-#EXTINF:-1,Folx TV DE
-http://clientportal.link:8080/live/6vFVk7NzDU/luH1S6ft7V/12319.m3u8
-#EXTINF:-1,FOX FHD DE
-http://clientportal.link:8080/live/6vFVk7NzDU/luH1S6ft7V/14055.m3u8
+http://portal.geniptv.com:8080/live/delmar/delmar/5426.ts
+#EXTINF:-1,Franken Fernsehen FHD DE
+http://portal.geniptv.com:8080/live/delmar/delmar/5424.ts
 #EXTINF:-1,FOX HD DE
-http://clientportal.link:8080/live/6vFVk7NzDU/luH1S6ft7V/3425.m3u8
-#EXTINF:-1,FOX Series DE
-http://clientportal.link:8080/live/6vFVk7NzDU/luH1S6ft7V/12294.m3u8
-#EXTINF:-1,GOTV DE
-http://clientportal.link:8080/live/6vFVk7NzDU/luH1S6ft7V/12318.m3u8
-#EXTINF:-1,Gute Laune TV DE
-http://clientportal.link:8080/live/6vFVk7NzDU/luH1S6ft7V/13110.m3u8
-#EXTINF:-1,Heimatkanal DE
-http://clientportal.link:8080/live/6vFVk7NzDU/luH1S6ft7V/9558.m3u8
-#EXTINF:-1,History DE
-http://clientportal.link:8080/live/6vFVk7NzDU/luH1S6ft7V/3424.m3u8
+http://portal.geniptv.com:8080/live/delmar/delmar/2556.ts
+#EXTINF:-1,FOX FHD DE
+http://portal.geniptv.com:8080/live/delmar/delmar/3941.ts
+#EXTINF:-1,Fox Serie DE
+http://portal.geniptv.com:8080/live/delmar/delmar/5425.ts
+#EXTINF:-1,Goldstar TV DE
+http://portal.geniptv.com:8080/live/delmar/delmar/84.ts
+#EXTINF:-1,HR DE
+http://portal.geniptv.com:8080/live/delmar/delmar/5422.ts
+#EXTINF:-1,HR FHD DE
+http://portal.geniptv.com:8080/live/delmar/delmar/5421.ts
+#EXTINF:-1,Heimatikanal DE
+http://portal.geniptv.com:8080/live/delmar/delmar/3182.ts
+#EXTINF:-1,History HD DE
+http://portal.geniptv.com:8080/live/delmar/delmar/95.ts
 #EXTINF:-1,History FHD DE
-http://clientportal.link:8080/live/6vFVk7NzDU/luH1S6ft7V/14311.m3u8
-#EXTINF:-1,hr-Fernsehen DE
-http://clientportal.link:8080/live/6vFVk7NzDU/luH1S6ft7V/12316.m3u8
-#EXTINF:-1,JukeBox DE
-http://clientportal.link:8080/live/6vFVk7NzDU/luH1S6ft7V/15579.m3u8
-#EXTINF:-1,Kabel Eins Classics DE
-http://clientportal.link:8080/live/6vFVk7NzDU/luH1S6ft7V/16581.m3u8
-#EXTINF:-1,Kabel Eins FHD DE
-http://clientportal.link:8080/live/6vFVk7NzDU/luH1S6ft7V/1649.m3u8
+http://portal.geniptv.com:8080/live/delmar/delmar/3940.ts
+#EXTINF:-1,Home Shopping Europe DE
+http://portal.geniptv.com:8080/live/delmar/delmar/5423.ts
+#EXTINF:-1,Jukebox DE
+http://portal.geniptv.com:8080/live/delmar/delmar/3854.ts
+#EXTINF:-1,Junior DE
+http://portal.geniptv.com:8080/live/delmar/delmar/3850.ts
+#EXTINF:-1,kabel eins CLASSICS HD DE
+http://portal.geniptv.com:8080/live/delmar/delmar/94.ts
+#EXTINF:-1,kabel eins Doku DE
+http://portal.geniptv.com:8080/live/delmar/delmar/93.ts
+#EXTINF:-1,kabel eins HD DE
+http://portal.geniptv.com:8080/live/delmar/delmar/92.ts
+#EXTINF:-1,kabel eins FHD DE
+http://portal.geniptv.com:8080/live/delmar/delmar/4175.ts
+#EXTINF:-1,Kabel eins Journal DE
+http://portal.geniptv.com:8080/live/delmar/delmar/7083.ts
 #EXTINF:-1,KiKa DE
-http://clientportal.link:8080/live/6vFVk7NzDU/luH1S6ft7V/1648.m3u8
-#EXTINF:-1,KiKA FHD DE
-http://clientportal.link:8080/live/6vFVk7NzDU/luH1S6ft7V/16492.m3u8
-#EXTINF:-1,Kinowelt TV DE
-http://clientportal.link:8080/live/6vFVk7NzDU/luH1S6ft7V/12291.m3u8
-#EXTINF:-1,MDR SACHSEN-ANHALT FHD DE
-http://clientportal.link:8080/live/6vFVk7NzDU/luH1S6ft7V/15750.m3u8
+http://portal.geniptv.com:8080/live/delmar/delmar/91.ts
+#EXTINF:-1,KiKa FHD DE
+http://portal.geniptv.com:8080/live/delmar/delmar/4174.ts
+#EXTINF:-1,KinoweltTV DE
+http://portal.geniptv.com:8080/live/delmar/delmar/90.ts
+#EXTINF:-1,MDR HD DE
+http://portal.geniptv.com:8080/live/delmar/delmar/89.ts
 #EXTINF:-1,Motorvision TV DE
-http://clientportal.link:8080/live/6vFVk7NzDU/luH1S6ft7V/9564.m3u8
-#EXTINF:-1,MTV HD DE
-http://clientportal.link:8080/live/6vFVk7NzDU/luH1S6ft7V/15759.m3u8
-#EXTINF:-1,n-tv DE
-http://clientportal.link:8080/live/6vFVk7NzDU/luH1S6ft7V/3449.m3u8
-#EXTINF:-1,n-tv FHD DE
-http://clientportal.link:8080/live/6vFVk7NzDU/luH1S6ft7V/14054.m3u8
-#EXTINF:-1,N24 FHD DE
-http://clientportal.link:8080/live/6vFVk7NzDU/luH1S6ft7V/14573.m3u8
-#EXTINF:-1,N24 DE
-http://clientportal.link:8080/live/6vFVk7NzDU/luH1S6ft7V/3448.m3u8
-#EXTINF:-1,Nat Geo Wild FHD DE
-http://clientportal.link:8080/live/6vFVk7NzDU/luH1S6ft7V/14062.m3u8
-#EXTINF:-1,National Geographic Wild HD DE
-http://clientportal.link:8080/live/6vFVk7NzDU/luH1S6ft7V/1646.m3u8
-#EXTINF:-1,National Geographic DE
-http://clientportal.link:8080/live/6vFVk7NzDU/luH1S6ft7V/3419.m3u8
+http://portal.geniptv.com:8080/live/delmar/delmar/3181.ts
+#EXTINF:-1,MTV Dance DE
+http://portal.geniptv.com:8080/live/delmar/delmar/3853.ts
+#EXTINF:-1,N24 HD DE
+http://portal.geniptv.com:8080/live/delmar/delmar/88.ts
+#EXTINF:-1,N24 Doku DE
+http://portal.geniptv.com:8080/live/delmar/delmar/5415.ts
+#EXTINF:-1,Nat Geo People DE
+http://portal.geniptv.com:8080/live/delmar/delmar/5414.ts
+#EXTINF:-1,National Geographic HD DE
+http://portal.geniptv.com:8080/live/delmar/delmar/87.ts
 #EXTINF:-1,National Geographic FHD DE
-http://clientportal.link:8080/live/6vFVk7NzDU/luH1S6ft7V/14053.m3u8
-#EXTINF:-1,NDR Fernsehen Schleswig-Holstein FHD DE
-http://clientportal.link:8080/live/6vFVk7NzDU/luH1S6ft7V/16488.m3u8
+http://portal.geniptv.com:8080/live/delmar/delmar/3935.ts
+#EXTINF:-1,Nat Geo Wild DE
+http://portal.geniptv.com:8080/live/delmar/delmar/2561.ts
+#EXTINF:-1,Nat Geo Wild FHD DE
+http://portal.geniptv.com:8080/live/delmar/delmar/3937.ts
 #EXTINF:-1,NDR HD DE
-http://clientportal.link:8080/live/6vFVk7NzDU/luH1S6ft7V/3443.m3u8
+http://portal.geniptv.com:8080/live/delmar/delmar/86.ts
+#EXTINF:-1,Nickelodeon CH
+http://portal.geniptv.com:8080/live/delmar/delmar/2560.ts
+#EXTINF:-1,Nickelodeon DE
+http://portal.geniptv.com:8080/live/delmar/delmar/3852.ts
 #EXTINF:-1,Nickelodeon FHD DE
-http://clientportal.link:8080/live/6vFVk7NzDU/luH1S6ft7V/14571.m3u8
-#EXTINF:-1,ORF 2 DE
-http://clientportal.link:8080/live/6vFVk7NzDU/luH1S6ft7V/1644.m3u8
-#EXTINF:-1,ORF eins DE
-http://clientportal.link:8080/live/6vFVk7NzDU/luH1S6ft7V/12302.m3u8
+http://portal.geniptv.com:8080/live/delmar/delmar/4176.ts
+#EXTINF:-1,n-tv HD DE
+http://portal.geniptv.com:8080/live/delmar/delmar/85.ts
+#EXTINF:-1,n-tv FHD DE
+http://portal.geniptv.com:8080/live/delmar/delmar/3938.ts
 #EXTINF:-1,ORF eins HD DE
-http://clientportal.link:8080/live/6vFVk7NzDU/luH1S6ft7V/1643.m3u8
-#EXTINF:-1,ORF III DE
-http://clientportal.link:8080/live/6vFVk7NzDU/luH1S6ft7V/12303.m3u8
-#EXTINF:-1,Phoenix DE
-http://clientportal.link:8080/live/6vFVk7NzDU/luH1S6ft7V/3454.m3u8
-#EXTINF:-1,Phoenix FHD DE
-http://clientportal.link:8080/live/6vFVk7NzDU/luH1S6ft7V/16487.m3u8
-#EXTINF:-1,Popcorn Select 1 FHD DE
-http://clientportal.link:8080/live/6vFVk7NzDU/luH1S6ft7V/18234.m3u8
-#EXTINF:-1,Popcorn Select 2 FHD DE
-http://clientportal.link:8080/live/6vFVk7NzDU/luH1S6ft7V/18235.m3u8
-#EXTINF:-1,Popcorn Select 3 FHD DE
-http://clientportal.link:8080/live/6vFVk7NzDU/luH1S6ft7V/18236.m3u8
-#EXTINF:-1,Popcorn Select 4 HD DE
-http://clientportal.link:8080/live/6vFVk7NzDU/luH1S6ft7V/18237.m3u8
-#EXTINF:-1,Popcorn Select 5 HD DE
-http://clientportal.link:8080/live/6vFVk7NzDU/luH1S6ft7V/18238.m3u8
-#EXTINF:-1,Popcorn Select 6 HD DE
-http://clientportal.link:8080/live/6vFVk7NzDU/luH1S6ft7V/18239.m3u8
+http://portal.geniptv.com:8080/live/delmar/delmar/2559.ts
+#EXTINF:-1,ORF 2 HD DE
+http://portal.geniptv.com:8080/live/delmar/delmar/2558.ts
+#EXTINF:-1,Phoenix HD DE
+http://portal.geniptv.com:8080/live/delmar/delmar/3186.ts
+#EXTINF:-1,Planet HD DE
+http://portal.geniptv.com:8080/live/delmar/delmar/5413.ts
 #EXTINF:-1,ProSieben DE
-http://clientportal.link:8080/live/6vFVk7NzDU/luH1S6ft7V/1642.m3u8
+http://portal.geniptv.com:8080/live/delmar/delmar/3180.ts
+#EXTINF:-1,ProSieben HD DE
+http://portal.geniptv.com:8080/live/delmar/delmar/83.ts
 #EXTINF:-1,ProSieben FHD DE
-http://clientportal.link:8080/live/6vFVk7NzDU/luH1S6ft7V/14052.m3u8
-#EXTINF:-1,ProSieben Maxx DE
-http://clientportal.link:8080/live/6vFVk7NzDU/luH1S6ft7V/3444.m3u8
-#EXTINF:-1,ProSieben Maxx FHD DE
-http://clientportal.link:8080/live/6vFVk7NzDU/luH1S6ft7V/14051.m3u8
-#EXTINF:-1,rbb Fernsehen Berlin FHD DE
-http://clientportal.link:8080/live/6vFVk7NzDU/luH1S6ft7V/15747.m3u8
-#EXTINF:-1,rbb Fernsehen Brandenburg FHD DE
-http://clientportal.link:8080/live/6vFVk7NzDU/luH1S6ft7V/15754.m3u8
-#EXTINF:-1,One FHD DE
-http://clientportal.link:8080/live/6vFVk7NzDU/luH1S6ft7V/15751.m3u8
-#EXTINF:-1,Regio TV DE
-http://clientportal.link:8080/live/6vFVk7NzDU/luH1S6ft7V/12328.m3u8
+http://portal.geniptv.com:8080/live/delmar/delmar/4171.ts
+#EXTINF:-1,Pro7 Fun HD DE
+http://portal.geniptv.com:8080/live/delmar/delmar/6420.ts
+#EXTINF:-1,ProSieben MAXX HD DE
+http://portal.geniptv.com:8080/live/delmar/delmar/82.ts
+#EXTINF:-1,ProSieben MAXX FHD DE
+http://portal.geniptv.com:8080/live/delmar/delmar/3933.ts
+#EXTINF:-1,QVC Beauty & Style DE
+http://portal.geniptv.com:8080/live/delmar/delmar/5411.ts
+#EXTINF:-1,QVC DE
+http://portal.geniptv.com:8080/live/delmar/delmar/5412.ts
+#EXTINF:-1,rbb Berlin DE
+http://portal.geniptv.com:8080/live/delmar/delmar/5410.ts
+#EXTINF:-1,rbb Brandenburg DE
+http://portal.geniptv.com:8080/live/delmar/delmar/5409.ts
+#EXTINF:-1,RIC DE
+http://portal.geniptv.com:8080/live/delmar/delmar/5406.ts
 #EXTINF:-1,Romance TV DE
-http://clientportal.link:8080/live/6vFVk7NzDU/luH1S6ft7V/13111.m3u8
-#EXTINF:-1,RiC DE
-http://clientportal.link:8080/live/6vFVk7NzDU/luH1S6ft7V/18233.m3u8
+http://portal.geniptv.com:8080/live/delmar/delmar/3177.ts
 #EXTINF:-1,RTL Crime DE
-http://clientportal.link:8080/live/6vFVk7NzDU/luH1S6ft7V/1650.m3u8
-#EXTINF:-1,RTL Crime HD DE
-http://clientportal.link:8080/live/6vFVk7NzDU/luH1S6ft7V/15570.m3u8
-#EXTINF:-1,RTL FS DE
-http://clientportal.link:8080/live/6vFVk7NzDU/luH1S6ft7V/12300.m3u8
-#EXTINF:-1,RTL HB NDS DE
-http://clientportal.link:8080/live/6vFVk7NzDU/luH1S6ft7V/12299.m3u8
+http://portal.geniptv.com:8080/live/delmar/delmar/77.ts
+#EXTINF:-1,RTL DE
+http://portal.geniptv.com:8080/live/delmar/delmar/81.ts
 #EXTINF:-1,RTL FHD DE
-http://clientportal.link:8080/live/6vFVk7NzDU/luH1S6ft7V/14049.m3u8
-#EXTINF:-1,RTL HD DE
-http://clientportal.link:8080/live/6vFVk7NzDU/luH1S6ft7V/3825.m3u8
-#EXTINF:-1,RTL II DE
-http://clientportal.link:8080/live/6vFVk7NzDU/luH1S6ft7V/3826.m3u8
-#EXTINF:-1,RTL II FHD DE
-http://clientportal.link:8080/live/6vFVk7NzDU/luH1S6ft7V/14050.m3u8
-#EXTINF:-1,RTL Living DE
-http://clientportal.link:8080/live/6vFVk7NzDU/luH1S6ft7V/3202.m3u8
-#EXTINF:-1,RTL NITRO DE
-http://clientportal.link:8080/live/6vFVk7NzDU/luH1S6ft7V/1639.m3u8
-#EXTINF:-1,RTL NITRO FHD DE
-http://clientportal.link:8080/live/6vFVk7NzDU/luH1S6ft7V/14048.m3u8
-#EXTINF:-1,RTL WEST DE
-http://clientportal.link:8080/live/6vFVk7NzDU/luH1S6ft7V/12298.m3u8
+http://portal.geniptv.com:8080/live/delmar/delmar/4184.ts
+#EXTINF:-1,RTL Living HD DE
+http://portal.geniptv.com:8080/live/delmar/delmar/76.ts
+#EXTINF:-1,RTL Nitro HD DE
+http://portal.geniptv.com:8080/live/delmar/delmar/75.ts
+#EXTINF:-1,RTL Nitro FHD DE
+http://portal.geniptv.com:8080/live/delmar/delmar/3930.ts
 #EXTINF:-1,RTL Passion DE
-http://clientportal.link:8080/live/6vFVk7NzDU/luH1S6ft7V/9563.m3u8
-#EXTINF:-1,Silverline DE
-http://clientportal.link:8080/live/6vFVk7NzDU/luH1S6ft7V/16501.m3u8
-#EXTINF:-1,RTLplus DE
-http://clientportal.link:8080/live/6vFVk7NzDU/luH1S6ft7V/12297.m3u8
-#EXTINF:-1,SAT.1 Gold DE
-http://clientportal.link:8080/live/6vFVk7NzDU/luH1S6ft7V/12309.m3u8
-#EXTINF:-1,SAT.1 FHD DE
-http://clientportal.link:8080/live/6vFVk7NzDU/luH1S6ft7V/14047.m3u8
+http://portal.geniptv.com:8080/live/delmar/delmar/74.ts
+#EXTINF:-1,RTL II DE
+http://portal.geniptv.com:8080/live/delmar/delmar/79.ts
+#EXTINF:-1,RTL II FHD DE
+http://portal.geniptv.com:8080/live/delmar/delmar/3932.ts
+#EXTINF:-1,RTL II YOU HD DE
+http://portal.geniptv.com:8080/live/delmar/delmar/78.ts
 #EXTINF:-1,SAT.1 HD DE
-http://clientportal.link:8080/live/6vFVk7NzDU/luH1S6ft7V/1637.m3u8
-#EXTINF:-1,SAT.1 NRW DE
-http://clientportal.link:8080/live/6vFVk7NzDU/luH1S6ft7V/12308.m3u8
-#EXTINF:-1,ServusTV Deutschland DE
-http://clientportal.link:8080/live/6vFVk7NzDU/luH1S6ft7V/12307.m3u8
-#EXTINF:-1,Sixx DE
-http://clientportal.link:8080/live/6vFVk7NzDU/luH1S6ft7V/9560.m3u8
-#EXTINF:-1,Sixx FHD DE
-http://clientportal.link:8080/live/6vFVk7NzDU/luH1S6ft7V/14046.m3u8
-#EXTINF:-1,Sky 1 HD DE
-http://clientportal.link:8080/live/6vFVk7NzDU/luH1S6ft7V/9557.m3u8
-#EXTINF:-1,Sky Arts FHD DE
-http://clientportal.link:8080/live/6vFVk7NzDU/luH1S6ft7V/15573.m3u8
-#EXTINF:-1,Sky Atlantic FHD DE
-http://clientportal.link:8080/live/6vFVk7NzDU/luH1S6ft7V/14306.m3u8
-#EXTINF:-1,Sky Atlantic DE
-http://clientportal.link:8080/live/6vFVk7NzDU/luH1S6ft7V/1645.m3u8
-#EXTINF:-1,Sky Cinema +1 DE
-http://clientportal.link:8080/live/6vFVk7NzDU/luH1S6ft7V/3434.m3u8
-#EXTINF:-1,Sky Cinema +1 HD DE
-http://clientportal.link:8080/live/6vFVk7NzDU/luH1S6ft7V/15574.m3u8
-#EXTINF:-1,Sky Cinema +24 DE
-http://clientportal.link:8080/live/6vFVk7NzDU/luH1S6ft7V/1633.m3u8
-#EXTINF:-1,Sky Cinema +24 HD DE
-http://clientportal.link:8080/live/6vFVk7NzDU/luH1S6ft7V/15575.m3u8
-#EXTINF:-1,Sky Cinema Action FHD DE
-http://clientportal.link:8080/live/6vFVk7NzDU/luH1S6ft7V/14307.m3u8
-#EXTINF:-1,Sky Cinema Action DE
-http://clientportal.link:8080/live/6vFVk7NzDU/luH1S6ft7V/3432.m3u8
-#EXTINF:-1,Sky Cinema DE
-http://clientportal.link:8080/live/6vFVk7NzDU/luH1S6ft7V/1634.m3u8
-#EXTINF:-1,Sky Cinema Family FHD DE
-http://clientportal.link:8080/live/6vFVk7NzDU/luH1S6ft7V/15576.m3u8
-#EXTINF:-1,Sky Cinema FHD DE
-http://clientportal.link:8080/live/6vFVk7NzDU/luH1S6ft7V/14061.m3u8
-#EXTINF:-1,Sky Cinema HD DE
-http://clientportal.link:8080/live/6vFVk7NzDU/luH1S6ft7V/3420.m3u8
-#EXTINF:-1,Sky Cinema Hits FHD DE
-http://clientportal.link:8080/live/6vFVk7NzDU/luH1S6ft7V/14305.m3u8
-#EXTINF:-1,Sky Cinema Comedy DE
-http://clientportal.link:8080/live/6vFVk7NzDU/luH1S6ft7V/3430.m3u8
-#EXTINF:-1,Sky Emotion DE
-http://clientportal.link:8080/live/6vFVk7NzDU/luH1S6ft7V/1631.m3u8
-#EXTINF:-1,Sky Krimi DE
-http://clientportal.link:8080/live/6vFVk7NzDU/luH1S6ft7V/3429.m3u8
-#EXTINF:-1,Sky Nostalgie DE
-http://clientportal.link:8080/live/6vFVk7NzDU/luH1S6ft7V/9556.m3u8
-#EXTINF:-1,Sky Select 1 Live DE
-http://clientportal.link:8080/live/6vFVk7NzDU/luH1S6ft7V/11265.m3u8
-#EXTINF:-1,Sky Select 2 Live DE
-http://clientportal.link:8080/live/6vFVk7NzDU/luH1S6ft7V/11266.m3u8
-#EXTINF:-1,E! DE
-http://clientportal.link:8080/live/6vFVk7NzDU/luH1S6ft7V/16502.m3u8
-#EXTINF:-1,Sky Select 3 Live DE
-http://clientportal.link:8080/live/6vFVk7NzDU/luH1S6ft7V/11267.m3u8
-#EXTINF:-1,Sky Select 4 Live DE
-http://clientportal.link:8080/live/6vFVk7NzDU/luH1S6ft7V/11268.m3u8
-#EXTINF:-1,Sky Select 5 Live DE
-http://clientportal.link:8080/live/6vFVk7NzDU/luH1S6ft7V/11269.m3u8
-#EXTINF:-1,Sky Select 6 Live DE
-http://clientportal.link:8080/live/6vFVk7NzDU/luH1S6ft7V/11270.m3u8
-#EXTINF:-1,Sky Select 7 Live DE
-http://clientportal.link:8080/live/6vFVk7NzDU/luH1S6ft7V/11271.m3u8
-#EXTINF:-1,Sky Select 8 Live DE
-http://clientportal.link:8080/live/6vFVk7NzDU/luH1S6ft7V/11272.m3u8
-#EXTINF:-1,Sky Select Live 9 DE
-http://clientportal.link:8080/live/6vFVk7NzDU/luH1S6ft7V/12290.m3u8
-#EXTINF:-1,Sky Sport 1 DE
-http://clientportal.link:8080/live/6vFVk7NzDU/luH1S6ft7V/14559.m3u8
-#EXTINF:-1,Sky Sport 1 HD DE
-http://clientportal.link:8080/live/6vFVk7NzDU/luH1S6ft7V/1479.m3u8
-#EXTINF:-1,Sky Sport 1 FHD DE
-http://clientportal.link:8080/live/6vFVk7NzDU/luH1S6ft7V/7326.m3u8
-#EXTINF:-1,Sky Sport 10 FHD DE
-http://clientportal.link:8080/live/6vFVk7NzDU/luH1S6ft7V/7335.m3u8
-#EXTINF:-1,Sky Sport 11 HD DE
-http://clientportal.link:8080/live/6vFVk7NzDU/luH1S6ft7V/7336.m3u8
-#EXTINF:-1,Sky Sport 2 DE
-http://clientportal.link:8080/live/6vFVk7NzDU/luH1S6ft7V/14560.m3u8
-#EXTINF:-1,Sky Sport 2 HD DE
-http://clientportal.link:8080/live/6vFVk7NzDU/luH1S6ft7V/1480.m3u8
-#EXTINF:-1,Sky Sport 2 FHD DE
-http://clientportal.link:8080/live/6vFVk7NzDU/luH1S6ft7V/7327.m3u8
-#EXTINF:-1,Sky Sport 3 DE
-http://clientportal.link:8080/live/6vFVk7NzDU/luH1S6ft7V/14561.m3u8
-#EXTINF:-1,Sky Sport 3 FHD DE
-http://clientportal.link:8080/live/6vFVk7NzDU/luH1S6ft7V/7328.m3u8
-#EXTINF:-1,Sky Sport 4 DE
-http://clientportal.link:8080/live/6vFVk7NzDU/luH1S6ft7V/14562.m3u8
-#EXTINF:-1,Sky Sport 4 FHD DE
-http://clientportal.link:8080/live/6vFVk7NzDU/luH1S6ft7V/7329.m3u8
-#EXTINF:-1,Sky Sport 5 DE
-http://clientportal.link:8080/live/6vFVk7NzDU/luH1S6ft7V/14563.m3u8
-#EXTINF:-1,Sky Sport 5 FHD DE
-http://clientportal.link:8080/live/6vFVk7NzDU/luH1S6ft7V/7330.m3u8
-#EXTINF:-1,Sky Sport 6 DE
-http://clientportal.link:8080/live/6vFVk7NzDU/luH1S6ft7V/14564.m3u8
-#EXTINF:-1,Sky Sport 6 FHD DE
-http://clientportal.link:8080/live/6vFVk7NzDU/luH1S6ft7V/7331.m3u8
-#EXTINF:-1,Sky Sport 7 DE
-http://clientportal.link:8080/live/6vFVk7NzDU/luH1S6ft7V/14565.m3u8
-#EXTINF:-1,Sky Sport 7 FHD DE
-http://clientportal.link:8080/live/6vFVk7NzDU/luH1S6ft7V/7332.m3u8
-#EXTINF:-1,Sky Sport 8 DE
-http://clientportal.link:8080/live/6vFVk7NzDU/luH1S6ft7V/14566.m3u8
-#EXTINF:-1,Sky Sport 8 FHD DE
-http://clientportal.link:8080/live/6vFVk7NzDU/luH1S6ft7V/7333.m3u8
-#EXTINF:-1,Sky Sport 9 DE
-http://clientportal.link:8080/live/6vFVk7NzDU/luH1S6ft7V/14567.m3u8
-#EXTINF:-1,Sky Sport 9 FHD DE
-http://clientportal.link:8080/live/6vFVk7NzDU/luH1S6ft7V/7334.m3u8
-#EXTINF:-1,Sky Sport Austria DE
-http://clientportal.link:8080/live/6vFVk7NzDU/luH1S6ft7V/9551.m3u8
-#EXTINF:-1,Sky Sport Austria HD DE
-http://clientportal.link:8080/live/6vFVk7NzDU/luH1S6ft7V/15578.m3u8
-#EXTINF:-1,Sky Sport Bundesliga 1 DE
-http://clientportal.link:8080/live/6vFVk7NzDU/luH1S6ft7V/14550.m3u8
-#EXTINF:-1,Sky Sport Bundesliga 1 HD DE
-http://clientportal.link:8080/live/6vFVk7NzDU/luH1S6ft7V/3436.m3u8
-#EXTINF:-1,Sky Sport Bundesliga 1 FHD DE
-http://clientportal.link:8080/live/6vFVk7NzDU/luH1S6ft7V/7338.m3u8
-#EXTINF:-1,Sky Sport Bundesliga 10 DE
-http://clientportal.link:8080/live/6vFVk7NzDU/luH1S6ft7V/14558.m3u8
-#EXTINF:-1,Sky Sport Bundesliga 10 FHD DE
-http://clientportal.link:8080/live/6vFVk7NzDU/luH1S6ft7V/7347.m3u8
-#EXTINF:-1,Sky Sport Bundesliga 2 DE
-http://clientportal.link:8080/live/6vFVk7NzDU/luH1S6ft7V/14551.m3u8
-#EXTINF:-1,Sky Sport Bundesliga 2 FHD DE
-http://clientportal.link:8080/live/6vFVk7NzDU/luH1S6ft7V/7339.m3u8
-#EXTINF:-1,Sky Sport Bundesliga 3 DE
-http://clientportal.link:8080/live/6vFVk7NzDU/luH1S6ft7V/14552.m3u8
-#EXTINF:-1,Sky Sport Bundesliga 3 FHD DE
-http://clientportal.link:8080/live/6vFVk7NzDU/luH1S6ft7V/7340.m3u8
-#EXTINF:-1,Sky Sport Bundesliga 4 DE
-http://clientportal.link:8080/live/6vFVk7NzDU/luH1S6ft7V/14553.m3u8
-#EXTINF:-1,Sky Sport Bundesliga 4 FHD DE
-http://clientportal.link:8080/live/6vFVk7NzDU/luH1S6ft7V/7341.m3u8
-#EXTINF:-1,Sky Sport Bundesliga 5 DE
-http://clientportal.link:8080/live/6vFVk7NzDU/luH1S6ft7V/14554.m3u8
-#EXTINF:-1,Sky Sport Bundesliga 5 FHD DE
-http://clientportal.link:8080/live/6vFVk7NzDU/luH1S6ft7V/7342.m3u8
-#EXTINF:-1,Sky Sport Bundesliga 6 DE
-http://clientportal.link:8080/live/6vFVk7NzDU/luH1S6ft7V/14555.m3u8
-#EXTINF:-1,Sky Sport Bundesliga 6 FHD DE
-http://clientportal.link:8080/live/6vFVk7NzDU/luH1S6ft7V/7343.m3u8
-#EXTINF:-1,Sky Sport Bundesliga 7 FHD DE
-http://clientportal.link:8080/live/6vFVk7NzDU/luH1S6ft7V/7344.m3u8
-#EXTINF:-1,Sky Sport Bundesliga 8 DE
-http://clientportal.link:8080/live/6vFVk7NzDU/luH1S6ft7V/14556.m3u8
-#EXTINF:-1,Sky Sport Bundesliga 8 FHD DE
-http://clientportal.link:8080/live/6vFVk7NzDU/luH1S6ft7V/7345.m3u8
-#EXTINF:-1,Sky Sport Bundesliga 9 DE
-http://clientportal.link:8080/live/6vFVk7NzDU/luH1S6ft7V/14557.m3u8
-#EXTINF:-1,Sky Sport Bundesliga 9 FHD DE
-http://clientportal.link:8080/live/6vFVk7NzDU/luH1S6ft7V/7346.m3u8
-#EXTINF:-1,Sky Sport News DE
-http://clientportal.link:8080/live/6vFVk7NzDU/luH1S6ft7V/14577.m3u8
-#EXTINF:-1,Sky Sport News HD VIP DE
-http://clientportal.link:8080/live/6vFVk7NzDU/luH1S6ft7V/7337.m3u8
+http://portal.geniptv.com:8080/live/delmar/delmar/72.ts
+#EXTINF:-1,SAT.1 FHD DE
+http://portal.geniptv.com:8080/live/delmar/delmar/3929.ts
+#EXTINF:-1,Sat.1 Bayern DE
+http://portal.geniptv.com:8080/live/delmar/delmar/7090.ts
+#EXTINF:-1,SAT.1 emotions DE
+http://portal.geniptv.com:8080/live/delmar/delmar/73.ts
+#EXTINF:-1,SAT.1 GOLD DE
+http://portal.geniptv.com:8080/live/delmar/delmar/71.ts
+#EXTINF:-1,Servus TV HD DE
+http://portal.geniptv.com:8080/live/delmar/delmar/70.ts
+#EXTINF:-1,SIXX HD DE
+http://portal.geniptv.com:8080/live/delmar/delmar/69.ts
+#EXTINF:-1,SIXX FHD DE
+http://portal.geniptv.com:8080/live/delmar/delmar/3928.ts
 #EXTINF:-1,Sony TV HD DE
-http://clientportal.link:8080/live/6vFVk7NzDU/luH1S6ft7V/3447.m3u8
-#EXTINF:-1,SPIEGEL Geschichte DE
-http://clientportal.link:8080/live/6vFVk7NzDU/luH1S6ft7V/3621.m3u8
-#EXTINF:-1,SPIEGEL TV Wissen FHD DE
-http://clientportal.link:8080/live/6vFVk7NzDU/luH1S6ft7V/14045.m3u8
-#EXTINF:-1,Sport1 DE
-http://clientportal.link:8080/live/6vFVk7NzDU/luH1S6ft7V/9552.m3u8
-#EXTINF:-1,SPORT1 FHD DE
-http://clientportal.link:8080/live/6vFVk7NzDU/luH1S6ft7V/15745.m3u8
-#EXTINF:-1,sportdigital DE
-http://clientportal.link:8080/live/6vFVk7NzDU/luH1S6ft7V/3841.m3u8
-#EXTINF:-1,Sportdigital FHD DE
-http://clientportal.link:8080/live/6vFVk7NzDU/luH1S6ft7V/16582.m3u8
-#EXTINF:-1,SR Fernsehen FHD DE
-http://clientportal.link:8080/live/6vFVk7NzDU/luH1S6ft7V/15749.m3u8
-#EXTINF:-1,SRF 1 HD DE
-http://clientportal.link:8080/live/6vFVk7NzDU/luH1S6ft7V/3446.m3u8
-#EXTINF:-1,SRF Zwei DE
-http://clientportal.link:8080/live/6vFVk7NzDU/luH1S6ft7V/3440.m3u8
-#EXTINF:-1,Super RTL DE
-http://clientportal.link:8080/live/6vFVk7NzDU/luH1S6ft7V/3456.m3u8
+http://portal.geniptv.com:8080/live/delmar/delmar/5433.ts
 #EXTINF:-1,Super RTL FHD DE
-http://clientportal.link:8080/live/6vFVk7NzDU/luH1S6ft7V/14044.m3u8
-#EXTINF:-1,SWR BW FHD DE
-http://clientportal.link:8080/live/6vFVk7NzDU/luH1S6ft7V/16486.m3u8
+http://portal.geniptv.com:8080/live/delmar/delmar/3923.ts
+#EXTINF:-1,SPIEGEL Geschichte DE
+http://portal.geniptv.com:8080/live/delmar/delmar/3174.ts
+#EXTINF:-1,Spiegel TV Wissen HD DE
+http://portal.geniptv.com:8080/live/delmar/delmar/8789.ts
+#EXTINF:-1,Spiegel TV Wissen FHD DE
+http://portal.geniptv.com:8080/live/delmar/delmar/5398.ts
 #EXTINF:-1,SWR DE
-http://clientportal.link:8080/live/6vFVk7NzDU/luH1S6ft7V/12296.m3u8
+http://portal.geniptv.com:8080/live/delmar/delmar/5403.ts
+#EXTINF:-1,SWR HD DE
+http://portal.geniptv.com:8080/live/delmar/delmar/5402.ts
 #EXTINF:-1,Syfy DE
-http://clientportal.link:8080/live/6vFVk7NzDU/luH1S6ft7V/3204.m3u8
+http://portal.geniptv.com:8080/live/delmar/delmar/3173.ts
 #EXTINF:-1,Syfy FHD DE
-http://clientportal.link:8080/live/6vFVk7NzDU/luH1S6ft7V/14043.m3u8
-#EXTINF:-1,tagesschau24 FHD DE
-http://clientportal.link:8080/live/6vFVk7NzDU/luH1S6ft7V/15752.m3u8
-#EXTINF:-1,Tele 5 DE
-http://clientportal.link:8080/live/6vFVk7NzDU/luH1S6ft7V/12325.m3u8
+http://portal.geniptv.com:8080/live/delmar/delmar/3922.ts
+#EXTINF:-1,Sky 1 FHD DE
+http://portal.geniptv.com:8080/live/delmar/delmar/68.ts
+#EXTINF:-1,Sky ARTS DE
+http://portal.geniptv.com:8080/live/delmar/delmar/6824.ts
+#EXTINF:-1,Sky ARTS FHD DE
+http://portal.geniptv.com:8080/live/delmar/delmar/6825.ts
+#EXTINF:-1,Sky Atlantic HD DE
+http://portal.geniptv.com:8080/live/delmar/delmar/66.ts
+#EXTINF:-1,Sky Atlantic FHD DE
+http://portal.geniptv.com:8080/live/delmar/delmar/3926.ts
+#EXTINF:-1,Sky Atlantic +1 FHD DE
+http://portal.geniptv.com:8080/live/delmar/delmar/4390.ts
+#EXTINF:-1,Sky Cinema HD DE
+http://portal.geniptv.com:8080/live/delmar/delmar/62.ts
+#EXTINF:-1,Sky Cinema FHD DE
+http://portal.geniptv.com:8080/live/delmar/delmar/3925.ts
+#EXTINF:-1,Sky Cinema Action HD DE
+http://portal.geniptv.com:8080/live/delmar/delmar/67.ts
+#EXTINF:-1,Sky Cinema Action FHD DE
+http://portal.geniptv.com:8080/live/delmar/delmar/3927.ts
+#EXTINF:-1,Sky Cinema +1 HD DE
+http://portal.geniptv.com:8080/live/delmar/delmar/65.ts
+#EXTINF:-1,Sky Cinema +1 FHD DE
+http://portal.geniptv.com:8080/live/delmar/delmar/4183.ts
+#EXTINF:-1,Sky Cinema +24 HD DE
+http://portal.geniptv.com:8080/live/delmar/delmar/64.ts
+#EXTINF:-1,Sky Cinema +24 FHD DE
+http://portal.geniptv.com:8080/live/delmar/delmar/4391.ts
+#EXTINF:-1,Sky Cinema Comedy HD DE
+http://portal.geniptv.com:8080/live/delmar/delmar/60.ts
+#EXTINF:-1,Sky Cinema Emotion DE
+http://portal.geniptv.com:8080/live/delmar/delmar/2557.ts
+#EXTINF:-1,Sky Cinema Emotion HD DE
+http://portal.geniptv.com:8080/live/delmar/delmar/3849.ts
+#EXTINF:-1,Sky Cinema Family HD DE
+http://portal.geniptv.com:8080/live/delmar/delmar/63.ts
+#EXTINF:-1,Sky Cinema Family FHD DE
+http://portal.geniptv.com:8080/live/delmar/delmar/4181.ts
+#EXTINF:-1,Sky Cinema Hits HD DE
+http://portal.geniptv.com:8080/live/delmar/delmar/2555.ts
+#EXTINF:-1,Sky Cinema Hits FHD DE
+http://portal.geniptv.com:8080/live/delmar/delmar/3924.ts
+#EXTINF:-1,Sky Cinema Nostalgie DE
+http://portal.geniptv.com:8080/live/delmar/delmar/3178.ts
+#EXTINF:-1,Sky Krimi DE
+http://portal.geniptv.com:8080/live/delmar/delmar/3179.ts
+#EXTINF:-1,Sky 3D FHD DE
+http://portal.geniptv.com:8080/live/delmar/delmar/4179.ts
+#EXTINF:-1,Sky Arte FHD DE
+http://portal.geniptv.com:8080/live/delmar/delmar/4389.ts
+#EXTINF:-1,Sky Select 1 HD DE
+http://portal.geniptv.com:8080/live/delmar/delmar/1339.ts
+#EXTINF:-1,Sky Select 2 HD DE
+http://portal.geniptv.com:8080/live/delmar/delmar/1338.ts
+#EXTINF:-1,Sky Select 3 HD DE
+http://portal.geniptv.com:8080/live/delmar/delmar/1337.ts
+#EXTINF:-1,Sky Select 4 HD DE
+http://portal.geniptv.com:8080/live/delmar/delmar/1336.ts
+#EXTINF:-1,Sky Select 5 HD DE
+http://portal.geniptv.com:8080/live/delmar/delmar/1335.ts
+#EXTINF:-1,Sky Select 6 HD DE
+http://portal.geniptv.com:8080/live/delmar/delmar/1334.ts
+#EXTINF:-1,Sky Select 7 HD DE
+http://portal.geniptv.com:8080/live/delmar/delmar/1333.ts
+#EXTINF:-1,Sky Select 8 HD DE
+http://portal.geniptv.com:8080/live/delmar/delmar/1332.ts
+#EXTINF:-1,SilverLine Movies Channel HD DE
+http://portal.geniptv.com:8080/live/delmar/delmar/5490.ts
+#EXTINF:-1,Tagesschau 24 DE
+http://portal.geniptv.com:8080/live/delmar/delmar/5401.ts
+#EXTINF:-1,TELE 5 DE
+http://portal.geniptv.com:8080/live/delmar/delmar/3172.ts
 #EXTINF:-1,TLC DE
-http://clientportal.link:8080/live/6vFVk7NzDU/luH1S6ft7V/12324.m3u8
-#EXTINF:-1,TLC FHD DE
-http://clientportal.link:8080/live/6vFVk7NzDU/luH1S6ft7V/15757.m3u8
-#EXTINF:-1,TNT Comedy HD DE
-http://clientportal.link:8080/live/6vFVk7NzDU/luH1S6ft7V/15577.m3u8
-#EXTINF:-1,TNT Film DE
-http://clientportal.link:8080/live/6vFVk7NzDU/luH1S6ft7V/3422.m3u8
-#EXTINF:-1,TNT Serie DE
-http://clientportal.link:8080/live/6vFVk7NzDU/luH1S6ft7V/3421.m3u8
-#EXTINF:-1,TNT Serie FHD DE
-http://clientportal.link:8080/live/6vFVk7NzDU/luH1S6ft7V/14303.m3u8
+http://portal.geniptv.com:8080/live/delmar/delmar/3171.ts
 #EXTINF:-1,TOGGO plus DE
-http://clientportal.link:8080/live/6vFVk7NzDU/luH1S6ft7V/12323.m3u8
-#EXTINF:-1,Universal Channel HD DE
-http://clientportal.link:8080/live/6vFVk7NzDU/luH1S6ft7V/3439.m3u8
-#EXTINF:-1,Comedy Central DE
-http://clientportal.link:8080/live/6vFVk7NzDU/luH1S6ft7V/12317.m3u8
-#EXTINF:-1,VOX FHD DE
-http://clientportal.link:8080/live/6vFVk7NzDU/luH1S6ft7V/14291.m3u8
-#EXTINF:-1,VOX HD DE
-http://clientportal.link:8080/live/6vFVk7NzDU/luH1S6ft7V/1630.m3u8
-#EXTINF:-1,WDR DE
-http://clientportal.link:8080/live/6vFVk7NzDU/luH1S6ft7V/3442.m3u8
-#EXTINF:-1,Welt der Wunder DE
-http://clientportal.link:8080/live/6vFVk7NzDU/luH1S6ft7V/12305.m3u8
-#EXTINF:-1,ZDF DE
-http://clientportal.link:8080/live/6vFVk7NzDU/luH1S6ft7V/1629.m3u8
-#EXTINF:-1,ZDF HD DE
-http://clientportal.link:8080/live/6vFVk7NzDU/luH1S6ft7V/16484.m3u8
-#EXTINF:-1,ZDFinfo DE
-http://clientportal.link:8080/live/6vFVk7NzDU/luH1S6ft7V/12295.m3u8
-#EXTINF:-1,ZDFneo DE
-http://clientportal.link:8080/live/6vFVk7NzDU/luH1S6ft7V/3453.m3u8
-#EXTINF:-1,ZDFneo FHD DE
-http://clientportal.link:8080/live/6vFVk7NzDU/luH1S6ft7V/16482.m3u8
-#EXTINF:-1,ZDFinfo FHD DE
-http://clientportal.link:8080/live/6vFVk7NzDU/luH1S6ft7V/16483.m3u8
-#EXTINF:-1,Zee One DE
-http://clientportal.link:8080/live/6vFVk7NzDU/luH1S6ft7V/13112.m3u8
-#EXTINF:-1,Zee One FHD DE
-http://clientportal.link:8080/live/6vFVk7NzDU/luH1S6ft7V/15748.m3u8
-#EXTINF:-1,München TV CH
-http://clientportal.link:8080/live/6vFVk7NzDU/luH1S6ft7V/11659.m3u8
-#EXTINF:-1,FC Bayern FHD DE
-http://clientportal.link:8080/live/6vFVk7NzDU/luH1S6ft7V/16767.m3u8
-#EXTINF:-1,Sky Cinema Hits DE
-http://clientportal.link:8080/live/6vFVk7NzDU/luH1S6ft7V/16803.m3u8
-#EXTINF:-1,SPIEGEL Geschichte HD DE
-http://clientportal.link:8080/live/6vFVk7NzDU/luH1S6ft7V/16573.m3u8
-#EXTINF:-1,Sat. 1 Emotions DE
-http://clientportal.link:8080/live/6vFVk7NzDU/luH1S6ft7V/16836.m3u8
-#EXTINF:-1,Pro Sieben Fun HD DE
-http://clientportal.link:8080/live/6vFVk7NzDU/luH1S6ft7V/16627.m3u8
+http://portal.geniptv.com:8080/live/delmar/delmar/3851.ts
+#EXTINF:-1,TOGGO plus von Super RTL DE
+http://portal.geniptv.com:8080/live/delmar/delmar/2549.ts
+#EXTINF:-1,TNT Film HD DE
+http://portal.geniptv.com:8080/live/delmar/delmar/4388.ts
 #EXTINF:-1,TNT Film FHD DE
-http://clientportal.link:8080/live/6vFVk7NzDU/luH1S6ft7V/16628.m3u8
-#EXTINF:-1,Sport 1+ FHD DE
-http://clientportal.link:8080/live/6vFVk7NzDU/luH1S6ft7V/17166.m3u8
-#EXTINF:-1,Kabel Eins Doku DE
-http://clientportal.link:8080/live/6vFVk7NzDU/luH1S6ft7V/17167.m3u8
-#EXTINF:-1,DW English DE
-http://clientportal.link:8080/live/6vFVk7NzDU/luH1S6ft7V/17300.m3u8
+http://portal.geniptv.com:8080/live/delmar/delmar/2554.ts
+#EXTINF:-1,TNT Comedy HD DE
+http://portal.geniptv.com:8080/live/delmar/delmar/3848.ts
+#EXTINF:-1,TNT Comedy FHD DE
+http://portal.geniptv.com:8080/live/delmar/delmar/4180.ts
+#EXTINF:-1,TNT Serie HD DE
+http://portal.geniptv.com:8080/live/delmar/delmar/3175.ts
+#EXTINF:-1,TNT Serie FHD DE
+http://portal.geniptv.com:8080/live/delmar/delmar/3921.ts
+#EXTINF:-1,Universal Channel HD DE
+http://portal.geniptv.com:8080/live/delmar/delmar/3170.ts
+#EXTINF:-1,VIVA / Comedy Central DE
+http://portal.geniptv.com:8080/live/delmar/delmar/3169.ts
+#EXTINF:-1,VOX DE
+http://portal.geniptv.com:8080/live/delmar/delmar/100.ts
+#EXTINF:-1,VOX FHD DE
+http://portal.geniptv.com:8080/live/delmar/delmar/3920.ts
+#EXTINF:-1,WDR HD DE
+http://portal.geniptv.com:8080/live/delmar/delmar/2551.ts
+#EXTINF:-1,Welt der Wunder DE
+http://portal.geniptv.com:8080/live/delmar/delmar/5399.ts
+#EXTINF:-1,ZDF DE
+http://portal.geniptv.com:8080/live/delmar/delmar/2550.ts
+#EXTINF:-1,ZDF FHD DE
+http://portal.geniptv.com:8080/live/delmar/delmar/4178.ts
+#EXTINF:-1,ZDFinfo DE
+http://portal.geniptv.com:8080/live/delmar/delmar/3856.ts
+#EXTINF:-1,ZDFneo DE
+http://portal.geniptv.com:8080/live/delmar/delmar/3855.ts
+#EXTINF:-1,ZDFneo FHD DE
+http://portal.geniptv.com:8080/live/delmar/delmar/4172.ts
+#EXTINF:-1,Zee One DE
+http://portal.geniptv.com:8080/live/delmar/delmar/96.ts
+#EXTINF:-1,Zee One FHD DE
+http://portal.geniptv.com:8080/live/delmar/delmar/5397.ts
+#EXTINF:-1,Sky Popcorn Select 1 HD DE
+http://portal.geniptv.com:8080/live/delmar/delmar/8530.ts
+#EXTINF:-1,Sky Popcorn Select 2 HD DE
+http://portal.geniptv.com:8080/live/delmar/delmar/8529.ts
+#EXTINF:-1,Sky Popcorn Select 3 HD DE
+http://portal.geniptv.com:8080/live/delmar/delmar/8528.ts
+#EXTINF:-1,Sky Popcorn Select 4 HD DE
+http://portal.geniptv.com:8080/live/delmar/delmar/8527.ts
+#EXTINF:-1,Sky Popcorn Select 5 HD DE
+http://portal.geniptv.com:8080/live/delmar/delmar/8526.ts
+#EXTINF:-1,Sky Popcorn Select 6 HD DE
+http://portal.geniptv.com:8080/live/delmar/delmar/8525.ts
+#EXTINF:-1,WWE DE
+http://portal.geniptv.com:8080/live/delmar/delmar/7795.ts
+#EXTINF:-1,Bayern FC TV DE
+http://portal.geniptv.com:8080/live/delmar/delmar/6491.ts
+#EXTINF:-1,Bayern FC TV FHD DE
+http://portal.geniptv.com:8080/live/delmar/delmar/6492.ts
+#EXTINF:-1,Eurosport 1 HD DE
+http://portal.geniptv.com:8080/live/delmar/delmar/1316.ts
+#EXTINF:-1,Eurosport 2 DE
+http://portal.geniptv.com:8080/live/delmar/delmar/97.ts
+#EXTINF:-1,Eurosport 2 Xtra HD DE
+http://portal.geniptv.com:8080/live/delmar/delmar/7430.ts
+#EXTINF:-1,Eurosport 2 Xtra FHD DE
+http://portal.geniptv.com:8080/live/delmar/delmar/6506.ts
+#EXTINF:-1,SportDigital HD DE
+http://portal.geniptv.com:8080/live/delmar/delmar/3187.ts
+#EXTINF:-1,Sky Sport Austria DE
+http://portal.geniptv.com:8080/live/delmar/delmar/3176.ts
+#EXTINF:-1,Sky Sport Austria FHD DE
+http://portal.geniptv.com:8080/live/delmar/delmar/5584.ts
+#EXTINF:-1,Sky Sport FanZone FHD DE
+http://portal.geniptv.com:8080/live/delmar/delmar/3939.ts
+#EXTINF:-1,Sport1 FHD DE
+http://portal.geniptv.com:8080/live/delmar/delmar/3847.ts
+#EXTINF:-1,Sky Sport News HD DE
+http://portal.geniptv.com:8080/live/delmar/delmar/1315.ts
