@@ -1,5 +1,9 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-name="Ger1" tvg-logo="" group-title="{BOUQUET_NAME}",IF Link Stops Working Check Later IT will be Updated
+http://www.lengua.com/anthems/Indonesia.mp3
+#EXTINF:-1 tvg-name="Ger1" tvg-logo="" group-title="{BOUQUET_NAME}",Channel Kick Out in 15-20Sec Visit http://bit.ly/fixkick
+http://www.lengua.com/anthems/Indonesia.mp3
 
 #EXTINF:-1 tvg-logo="https://i.jeded.com/i/6-days-2017.87073.jpg" group-title="MOVIES",6 Days (2017)
 http://dl.movieo.ir/dlha/files/2017/6.Days.2017.720p.WEB-DL_(wWw.Movieo.IR).mkv.mp4
