@@ -4,597 +4,7 @@ http://www.lengua.com/anthems/Indonesia.mp3
 #EXTINF:-1 tvg-name="Ger1" tvg-logo="" group-title="{BOUQUET_NAME}",Channel Kick Out in 15-20Sec Visit http://bit.ly/fixkick
 http://www.lengua.com/anthems/Indonesia.mp3
 
-#EXTINF:-1 tvg-name="Ger1" tvg-logo="" group-title="{BOUQUET_NAME}",Ger1
-http://iptv.atlasiptv.net:88/live/321282347089421/321282347089421/3699.m3u8
-#EXTINF:-1 tvg-name="Ger2" tvg-logo="" group-title="{BOUQUET_NAME}",Ger2
-http://iptv.atlasiptv.net:88/live/321282347089421/321282347089421/3700.m3u8
-#EXTINF:-1 tvg-name="Ger3" tvg-logo="" group-title="{BOUQUET_NAME}",Ger3
-http://iptv.atlasiptv.net:88/live/321282347089421/321282347089421/3701.m3u8
-#EXTINF:-1 tvg-name="Ger4" tvg-logo="" group-title="{BOUQUET_NAME}",Ger4
-http://iptv.atlasiptv.net:88/live/321282347089421/321282347089421/3702.m3u8
-#EXTINF:-1 tvg-name="Ger5" tvg-logo="" group-title="{BOUQUET_NAME}",Ger5
-http://iptv.atlasiptv.net:88/live/321282347089421/321282347089421/3703.m3u8
-#EXTINF:-1 tvg-name="Ger6" tvg-logo="" group-title="{BOUQUET_NAME}",Ger6
-http://iptv.atlasiptv.net:88/live/321282347089421/321282347089421/3704.m3u8
-#EXTINF:-1 tvg-name="Ger7" tvg-logo="" group-title="{BOUQUET_NAME}",Ger7
-http://iptv.atlasiptv.net:88/live/321282347089421/321282347089421/3705.m3u8
-#EXTINF:-1 tvg-name="Ger8" tvg-logo="" group-title="{BOUQUET_NAME}",Ger8
-http://iptv.atlasiptv.net:88/live/321282347089421/321282347089421/3706.m3u8
-#EXTINF:-1 tvg-name="Ger9" tvg-logo="" group-title="{BOUQUET_NAME}",Ger9
-http://iptv.atlasiptv.net:88/live/321282347089421/321282347089421/3707.m3u8
-#EXTINF:-1 tvg-name="Das Erste" tvg-logo="" group-title="{BOUQUET_NAME}",Das Erste
-http://iptv.atlasiptv.net:88/live/321282347089421/321282347089421/3605.m3u8
-#EXTINF:-1 tvg-name="ZDF" tvg-logo="http://logo.ndasat.com/iptv/images/61931_zdf.png" group-title="{BOUQUET_NAME}",ZDF
-http://iptv.atlasiptv.net:88/live/321282347089421/321282347089421/261.m3u8
-#EXTINF:-1 tvg-name="ARD" tvg-logo="http://logo.ndasat.com/iptv/images/22065_ard.png" group-title="{BOUQUET_NAME}",ARD
-http://iptv.atlasiptv.net:88/live/321282347089421/321282347089421/262.m3u8
-#EXTINF:-1 tvg-name="HR DE" tvg-logo="" group-title="{BOUQUET_NAME}",HR DE
-http://iptv.atlasiptv.net:88/live/321282347089421/321282347089421/3604.m3u8
-#EXTINF:-1 tvg-name="NDR" tvg-logo="http://logo.ndasat.com/iptv/images/73491_ndr.png" group-title="{BOUQUET_NAME}",NDR
-http://iptv.atlasiptv.net:88/live/321282347089421/321282347089421/243.m3u8
-#EXTINF:-1 tvg-name="WDR" tvg-logo="http://logo.ndasat.com/iptv/images/38274_wdr.png" group-title="{BOUQUET_NAME}",WDR
-http://iptv.atlasiptv.net:88/live/321282347089421/321282347089421/247.m3u8
-#EXTINF:-1 tvg-name="ARTE DE" tvg-logo="http://logo.ndasat.com/iptv/images/12891_arte.jpg" group-title="{BOUQUET_NAME}",ARTE DE
-http://iptv.atlasiptv.net:88/live/321282347089421/321282347089421/245.m3u8
-#EXTINF:-1 tvg-name="SWR" tvg-logo="http://logo.ndasat.com/iptv/images/13482_swr.png" group-title="{BOUQUET_NAME}",SWR
-http://iptv.atlasiptv.net:88/live/321282347089421/321282347089421/270.m3u8
-#EXTINF:-1 tvg-name="Sat1" tvg-logo="http://logo.ndasat.com/iptv/images/14447_sat1.png" group-title="{BOUQUET_NAME}",Sat1
-http://iptv.atlasiptv.net:88/live/321282347089421/321282347089421/260.m3u8
-#EXTINF:-1 tvg-name="Sat1 Gold" tvg-logo="http://logo.ndasat.com/iptv/images/55122_sat1gold.jpg" group-title="{BOUQUET_NAME}",Sat1 Gold
-http://iptv.atlasiptv.net:88/live/321282347089421/321282347089421/3418.m3u8
-#EXTINF:-1 tvg-name="RTL" tvg-logo="http://logo.ndasat.com/iptv/images/21533_rtl.jpg" group-title="{BOUQUET_NAME}",RTL
-http://iptv.atlasiptv.net:88/live/321282347089421/321282347089421/252.m3u8
-#EXTINF:-1 tvg-name="RTL 2" tvg-logo="http://logo.ndasat.com/iptv/images/779_rtl2.png" group-title="{BOUQUET_NAME}",RTL 2
-http://iptv.atlasiptv.net:88/live/321282347089421/321282347089421/250.m3u8
-#EXTINF:-1 tvg-name="RTL Nitro" tvg-logo="http://logo.ndasat.com/iptv/images/9419_rtlnitro.png" group-title="{BOUQUET_NAME}",RTL Nitro
-http://iptv.atlasiptv.net:88/live/321282347089421/321282347089421/269.m3u8
-#EXTINF:-1 tvg-name="RTL Crime" tvg-logo="http://logo.ndasat.com/iptv/images/68067_rtlcrime.jpg" group-title="{BOUQUET_NAME}",RTL Crime
-http://iptv.atlasiptv.net:88/live/321282347089421/321282347089421/3417.m3u8
-#EXTINF:-1 tvg-name="Super RTL" tvg-logo="http://logo.ndasat.com/iptv/images/91051_superrtl.png" group-title="{BOUQUET_NAME}",Super RTL
-http://iptv.atlasiptv.net:88/live/321282347089421/321282347089421/251.m3u8
-#EXTINF:-1 tvg-name="RTL Living" tvg-logo="" group-title="{BOUQUET_NAME}",RTL Living
-http://iptv.atlasiptv.net:88/live/321282347089421/321282347089421/3606.m3u8
-#EXTINF:-1 tvg-name="RTL Passion" tvg-logo="http://logo.ndasat.com/iptv/images/5022_rtlpassion.jpg" group-title="{BOUQUET_NAME}",RTL Passion
-http://iptv.atlasiptv.net:88/live/321282347089421/321282347089421/3416.m3u8
-#EXTINF:-1 tvg-name="PRO 7" tvg-logo="http://logo.ndasat.com/iptv/images/59549_pro7.png" group-title="{BOUQUET_NAME}",PRO 7
-http://iptv.atlasiptv.net:88/live/321282347089421/321282347089421/259.m3u8
-#EXTINF:-1 tvg-name="Kinowelt" tvg-logo="http://logo.ndasat.com/iptv/images/50985_kinowelt.png" group-title="{BOUQUET_NAME}",Kinowelt
-http://iptv.atlasiptv.net:88/live/321282347089421/321282347089421/3433.m3u8
-#EXTINF:-1 tvg-name="Sixx" tvg-logo="http://logo.ndasat.com/iptv/images/5732_sixx.png" group-title="{BOUQUET_NAME}",Sixx
-http://iptv.atlasiptv.net:88/live/321282347089421/321282347089421/276.m3u8
-#EXTINF:-1 tvg-name="3Sat" tvg-logo="http://logo.ndasat.com/iptv/images/28469_3sat.jpg" group-title="{BOUQUET_NAME}",3Sat
-http://iptv.atlasiptv.net:88/live/321282347089421/321282347089421/3419.m3u8
-#EXTINF:-1 tvg-name="KIKA" tvg-logo="http://logo.ndasat.com/iptv/images/65335_kika.jpg" group-title="{BOUQUET_NAME}",KIKA
-http://iptv.atlasiptv.net:88/live/321282347089421/321282347089421/258.m3u8
-#EXTINF:-1 tvg-name="PRO 7 Maxx" tvg-logo="http://logo.ndasat.com/iptv/images/66460_pro7maxx.jpg" group-title="{BOUQUET_NAME}",PRO 7 Maxx
-http://iptv.atlasiptv.net:88/live/321282347089421/321282347089421/257.m3u8
-#EXTINF:-1 tvg-name="NTV DE" tvg-logo="http://logo.ndasat.com/iptv/images/96224_ntv.jpg" group-title="{BOUQUET_NAME}",NTV DE
-http://iptv.atlasiptv.net:88/live/321282347089421/321282347089421/254.m3u8
-#EXTINF:-1 tvg-name="Kabel1" tvg-logo="http://logo.ndasat.com/iptv/images/99611_kabel1.png" group-title="{BOUQUET_NAME}",Kabel1
-http://iptv.atlasiptv.net:88/live/321282347089421/321282347089421/274.m3u8
-#EXTINF:-1 tvg-name="VOX" tvg-logo="http://logo.ndasat.com/iptv/images/73023_vox.jpg" group-title="{BOUQUET_NAME}",VOX
-http://iptv.atlasiptv.net:88/live/321282347089421/321282347089421/253.m3u8
-#EXTINF:-1 tvg-name="N24" tvg-logo="http://logo.ndasat.com/iptv/images/88138_n24.png" group-title="{BOUQUET_NAME}",N24
-http://iptv.atlasiptv.net:88/live/321282347089421/321282347089421/273.m3u8
-#EXTINF:-1 tvg-name="Junior DE" tvg-logo="http://logo.ndasat.com/iptv/images/65128_junior.jpg" group-title="{BOUQUET_NAME}",Junior DE
-http://iptv.atlasiptv.net:88/live/321282347089421/321282347089421/3444.m3u8
-#EXTINF:-1 tvg-name="Disney Junior DE" tvg-logo="http://logo.ndasat.com/iptv/images/9391_disneyjunior.jpg" group-title="{BOUQUET_NAME}",Disney Junior DE
-http://iptv.atlasiptv.net:88/live/321282347089421/321282347089421/933.m3u8
-#EXTINF:-1 tvg-name="Disney XD DE" tvg-logo="http://logo.ndasat.com/iptv/images/80923_disneyxd.jpg" group-title="{BOUQUET_NAME}",Disney XD DE
-http://iptv.atlasiptv.net:88/live/321282347089421/321282347089421/244.m3u8
-#EXTINF:-1 tvg-name="Disney DE" tvg-logo="http://logo.ndasat.com/iptv/images/63085_disney.jpg" group-title="{BOUQUET_NAME}",Disney DE
-http://iptv.atlasiptv.net:88/live/321282347089421/321282347089421/3441.m3u8
-#EXTINF:-1 tvg-name="Disney Cine DE" tvg-logo="http://logo.ndasat.com/iptv/images/38619_disney_cinema_fr.png" group-title="{BOUQUET_NAME}",Disney Cine DE
-http://iptv.atlasiptv.net:88/live/321282347089421/321282347089421/3442.m3u8
-#EXTINF:-1 tvg-name="Boomerang DE" tvg-logo="http://logo.ndasat.com/iptv/images/89928_boomerang.png" group-title="{BOUQUET_NAME}",Boomerang DE
-http://iptv.atlasiptv.net:88/live/321282347089421/321282347089421/3440.m3u8
-#EXTINF:-1 tvg-name="Toggo Plus" tvg-logo="http://logo.ndasat.com/iptv/images/36778_toggoplus.png" group-title="{BOUQUET_NAME}",Toggo Plus
-http://iptv.atlasiptv.net:88/live/321282347089421/321282347089421/3443.m3u8
-#EXTINF:-1 tvg-name="Nickelodeon DE" tvg-logo="" group-title="{BOUQUET_NAME}",Nickelodeon DE
-http://iptv.atlasiptv.net:88/live/321282347089421/321282347089421/3607.m3u8
-#EXTINF:-1 tvg-name="ORF1" tvg-logo="http://logo.ndasat.com/iptv/images/78029_orf1.jpg" group-title="{BOUQUET_NAME}",ORF1
-http://iptv.atlasiptv.net:88/live/321282347089421/321282347089421/248.m3u8
-#EXTINF:-1 tvg-name="ORF2" tvg-logo="http://logo.ndasat.com/iptv/images/1547_orf2.jpg" group-title="{BOUQUET_NAME}",ORF2
-http://iptv.atlasiptv.net:88/live/321282347089421/321282347089421/249.m3u8
-#EXTINF:-1 tvg-name="SRF1" tvg-logo="http://logo.ndasat.com/iptv/images/51997_srf1.png" group-title="{BOUQUET_NAME}",SRF1
-http://iptv.atlasiptv.net:88/live/321282347089421/321282347089421/778.m3u8
-#EXTINF:-1 tvg-name="SRF2" tvg-logo="http://logo.ndasat.com/iptv/images/98389_srf2.jpg" group-title="{BOUQUET_NAME}",SRF2
-http://iptv.atlasiptv.net:88/live/321282347089421/321282347089421/779.m3u8
-#EXTINF:-1 tvg-name="Sky Cinema DE" tvg-logo="http://logo.ndasat.com/iptv/images/31343_skycinema.jpg" group-title="{BOUQUET_NAME}",Sky Cinema DE
-http://iptv.atlasiptv.net:88/live/321282347089421/321282347089421/161.m3u8
-#EXTINF:-1 tvg-name="Sky Cinema +1" tvg-logo="http://logo.ndasat.com/iptv/images/24384_skyarts.jpg" group-title="{BOUQUET_NAME}",Sky Cinema +1
-http://iptv.atlasiptv.net:88/live/321282347089421/321282347089421/3435.m3u8
-#EXTINF:-1 tvg-name="Sky Cinema 24 DE" tvg-logo="http://logo.ndasat.com/iptv/images/21553_skycinema24.png" group-title="{BOUQUET_NAME}",Sky Cinema 24 DE
-http://iptv.atlasiptv.net:88/live/321282347089421/321282347089421/162.m3u8
-#EXTINF:-1 tvg-name="Sky Action DE" tvg-logo="http://logo.ndasat.com/iptv/images/17439_skyaction.jpg" group-title="{BOUQUET_NAME}",Sky Action DE
-http://iptv.atlasiptv.net:88/live/321282347089421/321282347089421/163.m3u8
-#EXTINF:-1 tvg-name="Sky Atlantic DE" tvg-logo="http://logo.ndasat.com/iptv/images/18026_skyatlantic.png" group-title="{BOUQUET_NAME}",Sky Atlantic DE
-http://iptv.atlasiptv.net:88/live/321282347089421/321282347089421/168.m3u8
-#EXTINF:-1 tvg-name="Sky Comedy DE" tvg-logo="http://logo.ndasat.com/iptv/images/49850_skycomedy.png" group-title="{BOUQUET_NAME}",Sky Comedy DE
-http://iptv.atlasiptv.net:88/live/321282347089421/321282347089421/164.m3u8
-#EXTINF:-1 tvg-name="Sky Emotion DE" tvg-logo="http://logo.ndasat.com/iptv/images/6724_skyemotion.png" group-title="{BOUQUET_NAME}",Sky Emotion DE
-http://iptv.atlasiptv.net:88/live/321282347089421/321282347089421/165.m3u8
-#EXTINF:-1 tvg-name="Sky Hits DE" tvg-logo="http://logo.ndasat.com/iptv/images/4686_skyhits.jpg" group-title="{BOUQUET_NAME}",Sky Hits DE
-http://iptv.atlasiptv.net:88/live/321282347089421/321282347089421/166.m3u8
-#EXTINF:-1 tvg-name="Sky Krimi" tvg-logo="http://logo.ndasat.com/iptv/images/42861_skykrimi.jpg" group-title="{BOUQUET_NAME}",Sky Krimi
-http://iptv.atlasiptv.net:88/live/321282347089421/321282347089421/3423.m3u8
-#EXTINF:-1 tvg-name="Sky Nostalgie" tvg-logo="http://logo.ndasat.com/iptv/images/10043_skynostalgie.jpg" group-title="{BOUQUET_NAME}",Sky Nostalgie
-http://iptv.atlasiptv.net:88/live/321282347089421/321282347089421/3422.m3u8
-#EXTINF:-1 tvg-name="AXN DE" tvg-logo="http://logo.ndasat.com/iptv/images/64233_AXN.png" group-title="{BOUQUET_NAME}",AXN DE
-http://iptv.atlasiptv.net:88/live/321282347089421/321282347089421/3426.m3u8
-#EXTINF:-1 tvg-name="Universal DE" tvg-logo="http://logo.ndasat.com/iptv/images/56892_universal.png" group-title="{BOUQUET_NAME}",Universal DE
-http://iptv.atlasiptv.net:88/live/321282347089421/321282347089421/3424.m3u8
-#EXTINF:-1 tvg-name="TNT Comedy" tvg-logo="http://logo.ndasat.com/iptv/images/88165_tntcomedy.png" group-title="{BOUQUET_NAME}",TNT Comedy
-http://iptv.atlasiptv.net:88/live/321282347089421/321282347089421/3431.m3u8
-#EXTINF:-1 tvg-name="TNT Film" tvg-logo="http://logo.ndasat.com/iptv/images/98973_tntfilm.jpg" group-title="{BOUQUET_NAME}",TNT Film
-http://iptv.atlasiptv.net:88/live/321282347089421/321282347089421/3430.m3u8
-#EXTINF:-1 tvg-name="TNT Serie" tvg-logo="http://logo.ndasat.com/iptv/images/31319_tntserie.png" group-title="{BOUQUET_NAME}",TNT Serie
-http://iptv.atlasiptv.net:88/live/321282347089421/321282347089421/3432.m3u8
-#EXTINF:-1 tvg-name="Syfy DE" tvg-logo="http://logo.ndasat.com/iptv/images/80054_syfy.png" group-title="{BOUQUET_NAME}",Syfy DE
-http://iptv.atlasiptv.net:88/live/321282347089421/321282347089421/3429.m3u8
-#EXTINF:-1 tvg-name="Fox DE" tvg-logo="http://logo.ndasat.com/iptv/images/5060_foxtv.jpg" group-title="{BOUQUET_NAME}",Fox DE
-http://iptv.atlasiptv.net:88/live/321282347089421/321282347089421/3425.m3u8
-#EXTINF:-1 tvg-name="Romance TV" tvg-logo="http://logo.ndasat.com/iptv/images/17509_romancetv.jpg" group-title="{BOUQUET_NAME}",Romance TV
-http://iptv.atlasiptv.net:88/live/321282347089421/321282347089421/3434.m3u8
-#EXTINF:-1 tvg-name="13th Street DE" tvg-logo="http://logo.ndasat.com/iptv/images/55404_13thstreet.jpg" group-title="{BOUQUET_NAME}",13th Street DE
-http://iptv.atlasiptv.net:88/live/321282347089421/321282347089421/3427.m3u8
-#EXTINF:-1 tvg-name="Classica DE" tvg-logo="" group-title="{BOUQUET_NAME}",Classica DE
-http://iptv.atlasiptv.net:88/live/321282347089421/321282347089421/3608.m3u8
-#EXTINF:-1 tvg-name="Discovery DE" tvg-logo="http://logo.ndasat.com/iptv/images/57158_discovery.jpg" group-title="{BOUQUET_NAME}",Discovery DE
-http://iptv.atlasiptv.net:88/live/321282347089421/321282347089421/268.m3u8
-#EXTINF:-1 tvg-name="DMAX DE" tvg-logo="http://logo.ndasat.com/iptv/images/55622_dmax.png" group-title="{BOUQUET_NAME}",DMAX DE
-http://iptv.atlasiptv.net:88/live/321282347089421/321282347089421/241.m3u8
-#EXTINF:-1 tvg-name="Nat Geo DE" tvg-logo="http://logo.ndasat.com/iptv/images/98491_natgeo.jpg" group-title="{BOUQUET_NAME}",Nat Geo DE
-http://iptv.atlasiptv.net:88/live/321282347089421/321282347089421/1027.m3u8
-#EXTINF:-1 tvg-name="Nat Geo Wild DE" tvg-logo="http://logo.ndasat.com/iptv/images/25070_natgeowild.png" group-title="{BOUQUET_NAME}",Nat Geo Wild DE
-http://iptv.atlasiptv.net:88/live/321282347089421/321282347089421/1028.m3u8
-#EXTINF:-1 tvg-name="History DE" tvg-logo="http://logo.ndasat.com/iptv/images/51679_history.png" group-title="{BOUQUET_NAME}",History DE
-http://iptv.atlasiptv.net:88/live/321282347089421/321282347089421/3439.m3u8
-#EXTINF:-1 tvg-name="Motorvision DE" tvg-logo="http://logo.ndasat.com/iptv/images/85813_motorvision.jpg" group-title="{BOUQUET_NAME}",Motorvision DE
-http://iptv.atlasiptv.net:88/live/321282347089421/321282347089421/3438.m3u8
-#EXTINF:-1 tvg-name="Animal planet DE" tvg-logo="" group-title="{BOUQUET_NAME}",Animal planet DE
-http://iptv.atlasiptv.net:88/live/321282347089421/321282347089421/3609.m3u8
-#EXTINF:-1 tvg-name="Family TV DE" tvg-logo="http://logo.ndasat.com/iptv/images/21013_familytv.jpg" group-title="{BOUQUET_NAME}",Family TV DE
-http://iptv.atlasiptv.net:88/live/321282347089421/321282347089421/3428.m3u8
-#EXTINF:-1 tvg-name="Phoenix" tvg-logo="http://logo.ndasat.com/iptv/images/99030_phoenix.png" group-title="{BOUQUET_NAME}",Phoenix
-http://iptv.atlasiptv.net:88/live/321282347089421/321282347089421/3421.m3u8
-#EXTINF:-1 tvg-name="Welt Der Wunder" tvg-logo="" group-title="{BOUQUET_NAME}",Welt Der Wunder
-http://iptv.atlasiptv.net:88/live/321282347089421/321282347089421/3610.m3u8
-#EXTINF:-1 tvg-name="ZDF Neo" tvg-logo="http://logo.ndasat.com/iptv/images/10868_zdfneo.png" group-title="{BOUQUET_NAME}",ZDF Neo
-http://iptv.atlasiptv.net:88/live/321282347089421/321282347089421/3420.m3u8
-#EXTINF:-1 tvg-name="Sky Sports News De" tvg-logo="http://logo.ndasat.com/iptv/images/57974_skysportnews.jpg" group-title="{BOUQUET_NAME}",Sky Sports News De
-http://iptv.atlasiptv.net:88/live/321282347089421/321282347089421/255.m3u8
-#EXTINF:-1 tvg-name="Sky Sport 1 DE" tvg-logo="http://logo.ndasat.com/iptv/images/69607_skysport.png" group-title="{BOUQUET_NAME}",Sky Sport 1 DE
-http://iptv.atlasiptv.net:88/live/321282347089421/321282347089421/52.m3u8
-#EXTINF:-1 tvg-name="Sky Sport 2 DE" tvg-logo="http://logo.ndasat.com/iptv/images/93351_skysport.png" group-title="{BOUQUET_NAME}",Sky Sport 2 DE
-http://iptv.atlasiptv.net:88/live/321282347089421/321282347089421/53.m3u8
-#EXTINF:-1 tvg-name="Eurosport DE" tvg-logo="http://logo.ndasat.com/iptv/images/69476_eurosport1.png" group-title="{BOUQUET_NAME}",Eurosport DE
-http://iptv.atlasiptv.net:88/live/321282347089421/321282347089421/266.m3u8
-#EXTINF:-1 tvg-name="Sport1 DE" tvg-logo="http://logo.ndasat.com/iptv/images/32182_sport1.png" group-title="{BOUQUET_NAME}",Sport1 DE
-http://iptv.atlasiptv.net:88/live/321282347089421/321282347089421/275.m3u8
-#EXTINF:-1 tvg-name="Sport1 USA DE" tvg-logo="http://logo.ndasat.com/iptv/images/51321_sport1usa.png" group-title="{BOUQUET_NAME}",Sport1 USA DE
-http://iptv.atlasiptv.net:88/live/321282347089421/321282347089421/3436.m3u8
-#EXTINF:-1 tvg-name="Sport Digital" tvg-logo="http://logo.ndasat.com/iptv/images/83240_sportdigital.png" group-title="{BOUQUET_NAME}",Sport Digital
-http://iptv.atlasiptv.net:88/live/321282347089421/321282347089421/3437.m3u8
-#EXTINF:-1 tvg-name="Sky Bundesliga1 de" tvg-logo="http://logo.ndasat.com/iptv/images/70870_skybunde.jpg" group-title="{BOUQUET_NAME}",Sky Bundesliga1 de
-http://iptv.atlasiptv.net:88/live/321282347089421/321282347089421/51.m3u8
-#EXTINF:-1 tvg-name="Sky Bundesliga2 (MT)" tvg-logo="http://logo.ndasat.com/iptv/images/50624_bundesliga2.jpg" group-title="{BOUQUET_NAME}",Sky Bundesliga2 (MT)
-http://iptv.atlasiptv.net:88/live/321282347089421/321282347089421/2291.m3u8
-#EXTINF:-1 tvg-name="Sky Bundesliga3 (MT)" tvg-logo="http://logo.ndasat.com/iptv/images/73825_bundesliga3.jpg" group-title="{BOUQUET_NAME}",Sky Bundesliga3 (MT)
-http://iptv.atlasiptv.net:88/live/321282347089421/321282347089421/2292.m3u8
-#EXTINF:-1 tvg-name="Sky Bundesliga4 (MT)" tvg-logo="http://logo.ndasat.com/iptv/images/29696_bunesliga4.jpg" group-title="{BOUQUET_NAME}",Sky Bundesliga4 (MT)
-http://iptv.atlasiptv.net:88/live/321282347089421/321282347089421/2293.m3u8
-#EXTINF:-1 tvg-name="Sky Bundesliga5 (MT)" tvg-logo="http://logo.ndasat.com/iptv/images/24854_bundesliga5.jpg" group-title="{BOUQUET_NAME}",Sky Bundesliga5 (MT)
-http://iptv.atlasiptv.net:88/live/321282347089421/321282347089421/2294.m3u8
-#EXTINF:-1 tvg-name="Sky Bundesliga6 (MT)" tvg-logo="http://logo.ndasat.com/iptv/images/91455_bundesliga6.jpg" group-title="{BOUQUET_NAME}",Sky Bundesliga6 (MT)
-http://iptv.atlasiptv.net:88/live/321282347089421/321282347089421/2295.m3u8
-#EXTINF:-1 tvg-name="VOD-Select1" tvg-logo="http://logo.ndasat.com/iptv/images/87066_germany.jpg" group-title="{BOUQUET_NAME}",VOD-Select1
-http://iptv.atlasiptv.net:88/live/321282347089421/321282347089421/557.m3u8
-#EXTINF:-1 tvg-name="VOD-Select2" tvg-logo="http://logo.ndasat.com/iptv/images/33521_germany.jpg" group-title="{BOUQUET_NAME}",VOD-Select2
-http://iptv.atlasiptv.net:88/live/321282347089421/321282347089421/556.m3u8
-#EXTINF:-1 tvg-name="VOD-Select3" tvg-logo="http://logo.ndasat.com/iptv/images/63848_germany.jpg" group-title="{BOUQUET_NAME}",VOD-Select3
-http://iptv.atlasiptv.net:88/live/321282347089421/321282347089421/555.m3u8
-#EXTINF:-1 tvg-name="VOD-select4" tvg-logo="http://logo.ndasat.com/iptv/images/39148_germany.jpg" group-title="{BOUQUET_NAME}",VOD-select4
-http://iptv.atlasiptv.net:88/live/321282347089421/321282347089421/554.m3u8
-#EXTINF:-1 tvg-name="VOD-Select5" tvg-logo="http://logo.ndasat.com/iptv/images/84948_germany.jpg" group-title="{BOUQUET_NAME}",VOD-Select5
-http://iptv.atlasiptv.net:88/live/321282347089421/321282347089421/553.m3u8
-#EXTINF:-1 tvg-name="VOD-Select6" tvg-logo="http://logo.ndasat.com/iptv/images/44453_germany.jpg" group-title="{BOUQUET_NAME}",VOD-Select6
-http://iptv.atlasiptv.net:88/live/321282347089421/321282347089421/552.m3u8
 
-#EXTINF:-1 tvg-name="Ger1" tvg-logo="" group-title="{BOUQUET_NAME}",Ger1
-http://iptv.ndasat.com:88/live/329995091896719/329995091896719/3699.m3u8
-#EXTINF:-1 tvg-name="Ger2" tvg-logo="" group-title="{BOUQUET_NAME}",Ger2
-http://iptv.ndasat.com:88/live/329995091896719/329995091896719/3700.m3u8
-#EXTINF:-1 tvg-name="Ger3" tvg-logo="" group-title="{BOUQUET_NAME}",Ger3
-http://iptv.ndasat.com:88/live/329995091896719/329995091896719/3701.m3u8
-#EXTINF:-1 tvg-name="Ger4" tvg-logo="" group-title="{BOUQUET_NAME}",Ger4
-http://iptv.ndasat.com:88/live/329995091896719/329995091896719/3702.m3u8
-#EXTINF:-1 tvg-name="Ger5" tvg-logo="" group-title="{BOUQUET_NAME}",Ger5
-http://iptv.ndasat.com:88/live/329995091896719/329995091896719/3703.m3u8
-#EXTINF:-1 tvg-name="Ger6" tvg-logo="" group-title="{BOUQUET_NAME}",Ger6
-http://iptv.ndasat.com:88/live/329995091896719/329995091896719/3704.m3u8
-#EXTINF:-1 tvg-name="Ger7" tvg-logo="" group-title="{BOUQUET_NAME}",Ger7
-http://iptv.ndasat.com:88/live/329995091896719/329995091896719/3705.m3u8
-#EXTINF:-1 tvg-name="Ger8" tvg-logo="" group-title="{BOUQUET_NAME}",Ger8
-http://iptv.ndasat.com:88/live/329995091896719/329995091896719/3706.m3u8
-#EXTINF:-1 tvg-name="Ger9" tvg-logo="" group-title="{BOUQUET_NAME}",Ger9
-http://iptv.ndasat.com:88/live/329995091896719/329995091896719/3707.m3u8
-#EXTINF:-1 tvg-name="Das Erste" tvg-logo="" group-title="{BOUQUET_NAME}",Das Erste
-http://iptv.ndasat.com:88/live/329995091896719/329995091896719/3605.m3u8
-#EXTINF:-1 tvg-name="ZDF" tvg-logo="http://logo.ndasat.com/iptv/images/61931_zdf.png" group-title="{BOUQUET_NAME}",ZDF
-http://iptv.ndasat.com:88/live/329995091896719/329995091896719/261.m3u8
-#EXTINF:-1 tvg-name="ARD" tvg-logo="http://logo.ndasat.com/iptv/images/22065_ard.png" group-title="{BOUQUET_NAME}",ARD
-http://iptv.ndasat.com:88/live/329995091896719/329995091896719/262.m3u8
-#EXTINF:-1 tvg-name="HR DE" tvg-logo="" group-title="{BOUQUET_NAME}",HR DE
-http://iptv.ndasat.com:88/live/329995091896719/329995091896719/3604.m3u8
-#EXTINF:-1 tvg-name="NDR" tvg-logo="http://logo.ndasat.com/iptv/images/73491_ndr.png" group-title="{BOUQUET_NAME}",NDR
-http://iptv.ndasat.com:88/live/329995091896719/329995091896719/243.m3u8
-#EXTINF:-1 tvg-name="WDR" tvg-logo="http://logo.ndasat.com/iptv/images/38274_wdr.png" group-title="{BOUQUET_NAME}",WDR
-http://iptv.ndasat.com:88/live/329995091896719/329995091896719/247.m3u8
-#EXTINF:-1 tvg-name="ARTE DE" tvg-logo="http://logo.ndasat.com/iptv/images/12891_arte.jpg" group-title="{BOUQUET_NAME}",ARTE DE
-http://iptv.ndasat.com:88/live/329995091896719/329995091896719/245.m3u8
-#EXTINF:-1 tvg-name="SWR" tvg-logo="http://logo.ndasat.com/iptv/images/13482_swr.png" group-title="{BOUQUET_NAME}",SWR
-http://iptv.ndasat.com:88/live/329995091896719/329995091896719/270.m3u8
-#EXTINF:-1 tvg-name="Sat1" tvg-logo="http://logo.ndasat.com/iptv/images/14447_sat1.png" group-title="{BOUQUET_NAME}",Sat1
-http://iptv.ndasat.com:88/live/329995091896719/329995091896719/260.m3u8
-#EXTINF:-1 tvg-name="Sat1 Gold" tvg-logo="http://logo.ndasat.com/iptv/images/55122_sat1gold.jpg" group-title="{BOUQUET_NAME}",Sat1 Gold
-http://iptv.ndasat.com:88/live/329995091896719/329995091896719/3418.m3u8
-#EXTINF:-1 tvg-name="RTL" tvg-logo="http://logo.ndasat.com/iptv/images/21533_rtl.jpg" group-title="{BOUQUET_NAME}",RTL
-http://iptv.ndasat.com:88/live/329995091896719/329995091896719/252.m3u8
-#EXTINF:-1 tvg-name="RTL 2" tvg-logo="http://logo.ndasat.com/iptv/images/779_rtl2.png" group-title="{BOUQUET_NAME}",RTL 2
-http://iptv.ndasat.com:88/live/329995091896719/329995091896719/250.m3u8
-#EXTINF:-1 tvg-name="RTL Nitro" tvg-logo="http://logo.ndasat.com/iptv/images/9419_rtlnitro.png" group-title="{BOUQUET_NAME}",RTL Nitro
-http://iptv.ndasat.com:88/live/329995091896719/329995091896719/269.m3u8
-#EXTINF:-1 tvg-name="RTL Crime" tvg-logo="http://logo.ndasat.com/iptv/images/68067_rtlcrime.jpg" group-title="{BOUQUET_NAME}",RTL Crime
-http://iptv.ndasat.com:88/live/329995091896719/329995091896719/3417.m3u8
-#EXTINF:-1 tvg-name="Super RTL" tvg-logo="http://logo.ndasat.com/iptv/images/91051_superrtl.png" group-title="{BOUQUET_NAME}",Super RTL
-http://iptv.ndasat.com:88/live/329995091896719/329995091896719/251.m3u8
-#EXTINF:-1 tvg-name="RTL Living" tvg-logo="" group-title="{BOUQUET_NAME}",RTL Living
-http://iptv.ndasat.com:88/live/329995091896719/329995091896719/3606.m3u8
-#EXTINF:-1 tvg-name="RTL Passion" tvg-logo="http://logo.ndasat.com/iptv/images/5022_rtlpassion.jpg" group-title="{BOUQUET_NAME}",RTL Passion
-http://iptv.ndasat.com:88/live/329995091896719/329995091896719/3416.m3u8
-#EXTINF:-1 tvg-name="PRO 7" tvg-logo="http://logo.ndasat.com/iptv/images/59549_pro7.png" group-title="{BOUQUET_NAME}",PRO 7
-http://iptv.ndasat.com:88/live/329995091896719/329995091896719/259.m3u8
-#EXTINF:-1 tvg-name="Kinowelt" tvg-logo="http://logo.ndasat.com/iptv/images/50985_kinowelt.png" group-title="{BOUQUET_NAME}",Kinowelt
-http://iptv.ndasat.com:88/live/329995091896719/329995091896719/3433.m3u8
-#EXTINF:-1 tvg-name="Sixx" tvg-logo="http://logo.ndasat.com/iptv/images/5732_sixx.png" group-title="{BOUQUET_NAME}",Sixx
-http://iptv.ndasat.com:88/live/329995091896719/329995091896719/276.m3u8
-#EXTINF:-1 tvg-name="3Sat" tvg-logo="http://logo.ndasat.com/iptv/images/28469_3sat.jpg" group-title="{BOUQUET_NAME}",3Sat
-http://iptv.ndasat.com:88/live/329995091896719/329995091896719/3419.m3u8
-#EXTINF:-1 tvg-name="KIKA" tvg-logo="http://logo.ndasat.com/iptv/images/65335_kika.jpg" group-title="{BOUQUET_NAME}",KIKA
-http://iptv.ndasat.com:88/live/329995091896719/329995091896719/258.m3u8
-#EXTINF:-1 tvg-name="PRO 7 Maxx" tvg-logo="http://logo.ndasat.com/iptv/images/66460_pro7maxx.jpg" group-title="{BOUQUET_NAME}",PRO 7 Maxx
-http://iptv.ndasat.com:88/live/329995091896719/329995091896719/257.m3u8
-#EXTINF:-1 tvg-name="NTV DE" tvg-logo="http://logo.ndasat.com/iptv/images/96224_ntv.jpg" group-title="{BOUQUET_NAME}",NTV DE
-http://iptv.ndasat.com:88/live/329995091896719/329995091896719/254.m3u8
-#EXTINF:-1 tvg-name="Kabel1" tvg-logo="http://logo.ndasat.com/iptv/images/99611_kabel1.png" group-title="{BOUQUET_NAME}",Kabel1
-http://iptv.ndasat.com:88/live/329995091896719/329995091896719/274.m3u8
-#EXTINF:-1 tvg-name="VOX" tvg-logo="http://logo.ndasat.com/iptv/images/73023_vox.jpg" group-title="{BOUQUET_NAME}",VOX
-http://iptv.ndasat.com:88/live/329995091896719/329995091896719/253.m3u8
-#EXTINF:-1 tvg-name="N24" tvg-logo="http://logo.ndasat.com/iptv/images/88138_n24.png" group-title="{BOUQUET_NAME}",N24
-http://iptv.ndasat.com:88/live/329995091896719/329995091896719/273.m3u8
-#EXTINF:-1 tvg-name="Junior DE" tvg-logo="http://logo.ndasat.com/iptv/images/65128_junior.jpg" group-title="{BOUQUET_NAME}",Junior DE
-http://iptv.ndasat.com:88/live/329995091896719/329995091896719/3444.m3u8
-#EXTINF:-1 tvg-name="Disney Junior DE" tvg-logo="http://logo.ndasat.com/iptv/images/9391_disneyjunior.jpg" group-title="{BOUQUET_NAME}",Disney Junior DE
-http://iptv.ndasat.com:88/live/329995091896719/329995091896719/933.m3u8
-#EXTINF:-1 tvg-name="Disney XD DE" tvg-logo="http://logo.ndasat.com/iptv/images/80923_disneyxd.jpg" group-title="{BOUQUET_NAME}",Disney XD DE
-http://iptv.ndasat.com:88/live/329995091896719/329995091896719/244.m3u8
-#EXTINF:-1 tvg-name="Disney DE" tvg-logo="http://logo.ndasat.com/iptv/images/63085_disney.jpg" group-title="{BOUQUET_NAME}",Disney DE
-http://iptv.ndasat.com:88/live/329995091896719/329995091896719/3441.m3u8
-#EXTINF:-1 tvg-name="Disney Cine DE" tvg-logo="http://logo.ndasat.com/iptv/images/38619_disney_cinema_fr.png" group-title="{BOUQUET_NAME}",Disney Cine DE
-http://iptv.ndasat.com:88/live/329995091896719/329995091896719/3442.m3u8
-#EXTINF:-1 tvg-name="Boomerang DE" tvg-logo="http://logo.ndasat.com/iptv/images/89928_boomerang.png" group-title="{BOUQUET_NAME}",Boomerang DE
-http://iptv.ndasat.com:88/live/329995091896719/329995091896719/3440.m3u8
-#EXTINF:-1 tvg-name="Toggo Plus" tvg-logo="http://logo.ndasat.com/iptv/images/36778_toggoplus.png" group-title="{BOUQUET_NAME}",Toggo Plus
-http://iptv.ndasat.com:88/live/329995091896719/329995091896719/3443.m3u8
-#EXTINF:-1 tvg-name="Nickelodeon DE" tvg-logo="" group-title="{BOUQUET_NAME}",Nickelodeon DE
-http://iptv.ndasat.com:88/live/329995091896719/329995091896719/3607.m3u8
-#EXTINF:-1 tvg-name="ORF1" tvg-logo="http://logo.ndasat.com/iptv/images/78029_orf1.jpg" group-title="{BOUQUET_NAME}",ORF1
-http://iptv.ndasat.com:88/live/329995091896719/329995091896719/248.m3u8
-#EXTINF:-1 tvg-name="ORF2" tvg-logo="http://logo.ndasat.com/iptv/images/1547_orf2.jpg" group-title="{BOUQUET_NAME}",ORF2
-http://iptv.ndasat.com:88/live/329995091896719/329995091896719/249.m3u8
-#EXTINF:-1 tvg-name="SRF1" tvg-logo="http://logo.ndasat.com/iptv/images/51997_srf1.png" group-title="{BOUQUET_NAME}",SRF1
-http://iptv.ndasat.com:88/live/329995091896719/329995091896719/778.m3u8
-#EXTINF:-1 tvg-name="SRF2" tvg-logo="http://logo.ndasat.com/iptv/images/98389_srf2.jpg" group-title="{BOUQUET_NAME}",SRF2
-http://iptv.ndasat.com:88/live/329995091896719/329995091896719/779.m3u8
-#EXTINF:-1 tvg-name="Sky Cinema DE" tvg-logo="http://logo.ndasat.com/iptv/images/31343_skycinema.jpg" group-title="{BOUQUET_NAME}",Sky Cinema DE
-http://iptv.ndasat.com:88/live/329995091896719/329995091896719/161.m3u8
-#EXTINF:-1 tvg-name="Sky Cinema +1" tvg-logo="http://logo.ndasat.com/iptv/images/24384_skyarts.jpg" group-title="{BOUQUET_NAME}",Sky Cinema +1
-http://iptv.ndasat.com:88/live/329995091896719/329995091896719/3435.m3u8
-#EXTINF:-1 tvg-name="Sky Cinema 24 DE" tvg-logo="http://logo.ndasat.com/iptv/images/21553_skycinema24.png" group-title="{BOUQUET_NAME}",Sky Cinema 24 DE
-http://iptv.ndasat.com:88/live/329995091896719/329995091896719/162.m3u8
-#EXTINF:-1 tvg-name="Sky Action DE" tvg-logo="http://logo.ndasat.com/iptv/images/17439_skyaction.jpg" group-title="{BOUQUET_NAME}",Sky Action DE
-http://iptv.ndasat.com:88/live/329995091896719/329995091896719/163.m3u8
-#EXTINF:-1 tvg-name="Sky Atlantic DE" tvg-logo="http://logo.ndasat.com/iptv/images/18026_skyatlantic.png" group-title="{BOUQUET_NAME}",Sky Atlantic DE
-http://iptv.ndasat.com:88/live/329995091896719/329995091896719/168.m3u8
-#EXTINF:-1 tvg-name="Sky Comedy DE" tvg-logo="http://logo.ndasat.com/iptv/images/49850_skycomedy.png" group-title="{BOUQUET_NAME}",Sky Comedy DE
-http://iptv.ndasat.com:88/live/329995091896719/329995091896719/164.m3u8
-#EXTINF:-1 tvg-name="Sky Emotion DE" tvg-logo="http://logo.ndasat.com/iptv/images/6724_skyemotion.png" group-title="{BOUQUET_NAME}",Sky Emotion DE
-http://iptv.ndasat.com:88/live/329995091896719/329995091896719/165.m3u8
-#EXTINF:-1 tvg-name="Sky Hits DE" tvg-logo="http://logo.ndasat.com/iptv/images/4686_skyhits.jpg" group-title="{BOUQUET_NAME}",Sky Hits DE
-http://iptv.ndasat.com:88/live/329995091896719/329995091896719/166.m3u8
-#EXTINF:-1 tvg-name="Sky Krimi" tvg-logo="http://logo.ndasat.com/iptv/images/42861_skykrimi.jpg" group-title="{BOUQUET_NAME}",Sky Krimi
-http://iptv.ndasat.com:88/live/329995091896719/329995091896719/3423.m3u8
-#EXTINF:-1 tvg-name="Sky Nostalgie" tvg-logo="http://logo.ndasat.com/iptv/images/10043_skynostalgie.jpg" group-title="{BOUQUET_NAME}",Sky Nostalgie
-http://iptv.ndasat.com:88/live/329995091896719/329995091896719/3422.m3u8
-#EXTINF:-1 tvg-name="AXN DE" tvg-logo="http://logo.ndasat.com/iptv/images/64233_AXN.png" group-title="{BOUQUET_NAME}",AXN DE
-http://iptv.ndasat.com:88/live/329995091896719/329995091896719/3426.m3u8
-#EXTINF:-1 tvg-name="Universal DE" tvg-logo="http://logo.ndasat.com/iptv/images/56892_universal.png" group-title="{BOUQUET_NAME}",Universal DE
-http://iptv.ndasat.com:88/live/329995091896719/329995091896719/3424.m3u8
-#EXTINF:-1 tvg-name="TNT Comedy" tvg-logo="http://logo.ndasat.com/iptv/images/88165_tntcomedy.png" group-title="{BOUQUET_NAME}",TNT Comedy
-http://iptv.ndasat.com:88/live/329995091896719/329995091896719/3431.m3u8
-#EXTINF:-1 tvg-name="TNT Film" tvg-logo="http://logo.ndasat.com/iptv/images/98973_tntfilm.jpg" group-title="{BOUQUET_NAME}",TNT Film
-http://iptv.ndasat.com:88/live/329995091896719/329995091896719/3430.m3u8
-#EXTINF:-1 tvg-name="TNT Serie" tvg-logo="http://logo.ndasat.com/iptv/images/31319_tntserie.png" group-title="{BOUQUET_NAME}",TNT Serie
-http://iptv.ndasat.com:88/live/329995091896719/329995091896719/3432.m3u8
-#EXTINF:-1 tvg-name="Syfy DE" tvg-logo="http://logo.ndasat.com/iptv/images/80054_syfy.png" group-title="{BOUQUET_NAME}",Syfy DE
-http://iptv.ndasat.com:88/live/329995091896719/329995091896719/3429.m3u8
-#EXTINF:-1 tvg-name="Fox DE" tvg-logo="http://logo.ndasat.com/iptv/images/5060_foxtv.jpg" group-title="{BOUQUET_NAME}",Fox DE
-http://iptv.ndasat.com:88/live/329995091896719/329995091896719/3425.m3u8
-#EXTINF:-1 tvg-name="Romance TV" tvg-logo="http://logo.ndasat.com/iptv/images/17509_romancetv.jpg" group-title="{BOUQUET_NAME}",Romance TV
-http://iptv.ndasat.com:88/live/329995091896719/329995091896719/3434.m3u8
-#EXTINF:-1 tvg-name="13th Street DE" tvg-logo="http://logo.ndasat.com/iptv/images/55404_13thstreet.jpg" group-title="{BOUQUET_NAME}",13th Street DE
-http://iptv.ndasat.com:88/live/329995091896719/329995091896719/3427.m3u8
-#EXTINF:-1 tvg-name="Classica DE" tvg-logo="" group-title="{BOUQUET_NAME}",Classica DE
-http://iptv.ndasat.com:88/live/329995091896719/329995091896719/3608.m3u8
-#EXTINF:-1 tvg-name="Discovery DE" tvg-logo="http://logo.ndasat.com/iptv/images/57158_discovery.jpg" group-title="{BOUQUET_NAME}",Discovery DE
-http://iptv.ndasat.com:88/live/329995091896719/329995091896719/268.m3u8
-#EXTINF:-1 tvg-name="DMAX DE" tvg-logo="http://logo.ndasat.com/iptv/images/55622_dmax.png" group-title="{BOUQUET_NAME}",DMAX DE
-http://iptv.ndasat.com:88/live/329995091896719/329995091896719/241.m3u8
-#EXTINF:-1 tvg-name="Nat Geo DE" tvg-logo="http://logo.ndasat.com/iptv/images/98491_natgeo.jpg" group-title="{BOUQUET_NAME}",Nat Geo DE
-http://iptv.ndasat.com:88/live/329995091896719/329995091896719/1027.m3u8
-#EXTINF:-1 tvg-name="Nat Geo Wild DE" tvg-logo="http://logo.ndasat.com/iptv/images/25070_natgeowild.png" group-title="{BOUQUET_NAME}",Nat Geo Wild DE
-http://iptv.ndasat.com:88/live/329995091896719/329995091896719/1028.m3u8
-#EXTINF:-1 tvg-name="History DE" tvg-logo="http://logo.ndasat.com/iptv/images/51679_history.png" group-title="{BOUQUET_NAME}",History DE
-http://iptv.ndasat.com:88/live/329995091896719/329995091896719/3439.m3u8
-#EXTINF:-1 tvg-name="Motorvision DE" tvg-logo="http://logo.ndasat.com/iptv/images/85813_motorvision.jpg" group-title="{BOUQUET_NAME}",Motorvision DE
-http://iptv.ndasat.com:88/live/329995091896719/329995091896719/3438.m3u8
-#EXTINF:-1 tvg-name="Animal planet DE" tvg-logo="" group-title="{BOUQUET_NAME}",Animal planet DE
-http://iptv.ndasat.com:88/live/329995091896719/329995091896719/3609.m3u8
-#EXTINF:-1 tvg-name="Family TV DE" tvg-logo="http://logo.ndasat.com/iptv/images/21013_familytv.jpg" group-title="{BOUQUET_NAME}",Family TV DE
-http://iptv.ndasat.com:88/live/329995091896719/329995091896719/3428.m3u8
-#EXTINF:-1 tvg-name="Phoenix" tvg-logo="http://logo.ndasat.com/iptv/images/99030_phoenix.png" group-title="{BOUQUET_NAME}",Phoenix
-http://iptv.ndasat.com:88/live/329995091896719/329995091896719/3421.m3u8
-#EXTINF:-1 tvg-name="Welt Der Wunder" tvg-logo="" group-title="{BOUQUET_NAME}",Welt Der Wunder
-http://iptv.ndasat.com:88/live/329995091896719/329995091896719/3610.m3u8
-#EXTINF:-1 tvg-name="ZDF Neo" tvg-logo="http://logo.ndasat.com/iptv/images/10868_zdfneo.png" group-title="{BOUQUET_NAME}",ZDF Neo
-http://iptv.ndasat.com:88/live/329995091896719/329995091896719/3420.m3u8
-#EXTINF:-1 tvg-name="Sky Sports News De" tvg-logo="http://logo.ndasat.com/iptv/images/57974_skysportnews.jpg" group-title="{BOUQUET_NAME}",Sky Sports News De
-http://iptv.ndasat.com:88/live/329995091896719/329995091896719/255.m3u8
-#EXTINF:-1 tvg-name="Sky Sport 1 DE" tvg-logo="http://logo.ndasat.com/iptv/images/69607_skysport.png" group-title="{BOUQUET_NAME}",Sky Sport 1 DE
-http://iptv.ndasat.com:88/live/329995091896719/329995091896719/52.m3u8
-#EXTINF:-1 tvg-name="Sky Sport 2 DE" tvg-logo="http://logo.ndasat.com/iptv/images/93351_skysport.png" group-title="{BOUQUET_NAME}",Sky Sport 2 DE
-http://iptv.ndasat.com:88/live/329995091896719/329995091896719/53.m3u8
-#EXTINF:-1 tvg-name="Eurosport DE" tvg-logo="http://logo.ndasat.com/iptv/images/69476_eurosport1.png" group-title="{BOUQUET_NAME}",Eurosport DE
-http://iptv.ndasat.com:88/live/329995091896719/329995091896719/266.m3u8
-#EXTINF:-1 tvg-name="Sport1 DE" tvg-logo="http://logo.ndasat.com/iptv/images/32182_sport1.png" group-title="{BOUQUET_NAME}",Sport1 DE
-http://iptv.ndasat.com:88/live/329995091896719/329995091896719/275.m3u8
-#EXTINF:-1 tvg-name="Sport1 USA DE" tvg-logo="http://logo.ndasat.com/iptv/images/51321_sport1usa.png" group-title="{BOUQUET_NAME}",Sport1 USA DE
-http://iptv.ndasat.com:88/live/329995091896719/329995091896719/3436.m3u8
-#EXTINF:-1 tvg-name="Sport Digital" tvg-logo="http://logo.ndasat.com/iptv/images/83240_sportdigital.png" group-title="{BOUQUET_NAME}",Sport Digital
-http://iptv.ndasat.com:88/live/329995091896719/329995091896719/3437.m3u8
-#EXTINF:-1 tvg-name="Sky Bundesliga1 de" tvg-logo="http://logo.ndasat.com/iptv/images/70870_skybunde.jpg" group-title="{BOUQUET_NAME}",Sky Bundesliga1 de
-http://iptv.ndasat.com:88/live/329995091896719/329995091896719/51.m3u8
-#EXTINF:-1 tvg-name="Sky Bundesliga2 (MT)" tvg-logo="http://logo.ndasat.com/iptv/images/50624_bundesliga2.jpg" group-title="{BOUQUET_NAME}",Sky Bundesliga2 (MT)
-http://iptv.ndasat.com:88/live/329995091896719/329995091896719/2291.m3u8
-#EXTINF:-1 tvg-name="Sky Bundesliga3 (MT)" tvg-logo="http://logo.ndasat.com/iptv/images/73825_bundesliga3.jpg" group-title="{BOUQUET_NAME}",Sky Bundesliga3 (MT)
-http://iptv.ndasat.com:88/live/329995091896719/329995091896719/2292.m3u8
-#EXTINF:-1 tvg-name="Sky Bundesliga4 (MT)" tvg-logo="http://logo.ndasat.com/iptv/images/29696_bunesliga4.jpg" group-title="{BOUQUET_NAME}",Sky Bundesliga4 (MT)
-http://iptv.ndasat.com:88/live/329995091896719/329995091896719/2293.m3u8
-#EXTINF:-1 tvg-name="Sky Bundesliga5 (MT)" tvg-logo="http://logo.ndasat.com/iptv/images/24854_bundesliga5.jpg" group-title="{BOUQUET_NAME}",Sky Bundesliga5 (MT)
-http://iptv.ndasat.com:88/live/329995091896719/329995091896719/2294.m3u8
-#EXTINF:-1 tvg-name="Sky Bundesliga6 (MT)" tvg-logo="http://logo.ndasat.com/iptv/images/91455_bundesliga6.jpg" group-title="{BOUQUET_NAME}",Sky Bundesliga6 (MT)
-http://iptv.ndasat.com:88/live/329995091896719/329995091896719/2295.m3u8
-#EXTINF:-1 tvg-name="VOD-Select1" tvg-logo="http://logo.ndasat.com/iptv/images/87066_germany.jpg" group-title="{BOUQUET_NAME}",VOD-Select1
-http://iptv.ndasat.com:88/live/329995091896719/329995091896719/557.m3u8
-#EXTINF:-1 tvg-name="VOD-Select2" tvg-logo="http://logo.ndasat.com/iptv/images/33521_germany.jpg" group-title="{BOUQUET_NAME}",VOD-Select2
-http://iptv.ndasat.com:88/live/329995091896719/329995091896719/556.m3u8
-#EXTINF:-1 tvg-name="VOD-Select3" tvg-logo="http://logo.ndasat.com/iptv/images/63848_germany.jpg" group-title="{BOUQUET_NAME}",VOD-Select3
-http://iptv.ndasat.com:88/live/329995091896719/329995091896719/555.m3u8
-#EXTINF:-1 tvg-name="VOD-select4" tvg-logo="http://logo.ndasat.com/iptv/images/39148_germany.jpg" group-title="{BOUQUET_NAME}",VOD-select4
-http://iptv.ndasat.com:88/live/329995091896719/329995091896719/554.m3u8
-#EXTINF:-1 tvg-name="VOD-Select5" tvg-logo="http://logo.ndasat.com/iptv/images/84948_germany.jpg" group-title="{BOUQUET_NAME}",VOD-Select5
-http://iptv.ndasat.com:88/live/329995091896719/329995091896719/553.m3u8
-#EXTINF:-1 tvg-name="VOD-Select6" tvg-logo="http://logo.ndasat.com/iptv/images/44453_germany.jpg" group-title="{BOUQUET_NAME}",VOD-Select6
-http://iptv.ndasat.com:88/live/329995091896719/329995091896719/552.m3u8
-
-
-#EXTINF:-1 tvg-name="Das Erste" tvg-logo="" group-title="{BOUQUET_NAME}",Das Erste
-http://iptv.ndasat.com:88/live/329995091896719/329995091896719/3605.ts
-#EXTINF:-1 tvg-name="ZDF" tvg-logo="http://logo.ndasat.com/iptv/images/61931_zdf.png" group-title="{BOUQUET_NAME}",ZDF
-http://iptv.ndasat.com:88/live/329995091896719/329995091896719/261.ts
-#EXTINF:-1 tvg-name="ARD" tvg-logo="http://logo.ndasat.com/iptv/images/22065_ard.png" group-title="{BOUQUET_NAME}",ARD
-http://iptv.ndasat.com:88/live/329995091896719/329995091896719/262.ts
-#EXTINF:-1 tvg-name="HR DE" tvg-logo="" group-title="{BOUQUET_NAME}",HR DE
-http://iptv.ndasat.com:88/live/329995091896719/329995091896719/3604.ts
-#EXTINF:-1 tvg-name="NDR" tvg-logo="http://logo.ndasat.com/iptv/images/73491_ndr.png" group-title="{BOUQUET_NAME}",NDR
-http://iptv.ndasat.com:88/live/329995091896719/329995091896719/243.ts
-#EXTINF:-1 tvg-name="WDR" tvg-logo="http://logo.ndasat.com/iptv/images/38274_wdr.png" group-title="{BOUQUET_NAME}",WDR
-http://iptv.ndasat.com:88/live/329995091896719/329995091896719/247.ts
-#EXTINF:-1 tvg-name="ARTE DE" tvg-logo="http://logo.ndasat.com/iptv/images/12891_arte.jpg" group-title="{BOUQUET_NAME}",ARTE DE
-http://iptv.ndasat.com:88/live/329995091896719/329995091896719/245.ts
-#EXTINF:-1 tvg-name="SWR" tvg-logo="http://logo.ndasat.com/iptv/images/13482_swr.png" group-title="{BOUQUET_NAME}",SWR
-http://iptv.ndasat.com:88/live/329995091896719/329995091896719/270.ts
-#EXTINF:-1 tvg-name="Sat1" tvg-logo="http://logo.ndasat.com/iptv/images/14447_sat1.png" group-title="{BOUQUET_NAME}",Sat1
-http://iptv.ndasat.com:88/live/329995091896719/329995091896719/260.ts
-#EXTINF:-1 tvg-name="Sat1 Gold" tvg-logo="http://logo.ndasat.com/iptv/images/55122_sat1gold.jpg" group-title="{BOUQUET_NAME}",Sat1 Gold
-http://iptv.ndasat.com:88/live/329995091896719/329995091896719/3418.ts
-#EXTINF:-1 tvg-name="RTL" tvg-logo="http://logo.ndasat.com/iptv/images/21533_rtl.jpg" group-title="{BOUQUET_NAME}",RTL
-http://iptv.ndasat.com:88/live/329995091896719/329995091896719/252.ts
-#EXTINF:-1 tvg-name="RTL 2" tvg-logo="http://logo.ndasat.com/iptv/images/779_rtl2.png" group-title="{BOUQUET_NAME}",RTL 2
-http://iptv.ndasat.com:88/live/329995091896719/329995091896719/250.ts
-#EXTINF:-1 tvg-name="RTL Nitro" tvg-logo="http://logo.ndasat.com/iptv/images/9419_rtlnitro.png" group-title="{BOUQUET_NAME}",RTL Nitro
-http://iptv.ndasat.com:88/live/329995091896719/329995091896719/269.ts
-#EXTINF:-1 tvg-name="RTL Crime" tvg-logo="http://logo.ndasat.com/iptv/images/68067_rtlcrime.jpg" group-title="{BOUQUET_NAME}",RTL Crime
-http://iptv.ndasat.com:88/live/329995091896719/329995091896719/3417.ts
-#EXTINF:-1 tvg-name="Super RTL" tvg-logo="http://logo.ndasat.com/iptv/images/91051_superrtl.png" group-title="{BOUQUET_NAME}",Super RTL
-http://iptv.ndasat.com:88/live/329995091896719/329995091896719/251.ts
-#EXTINF:-1 tvg-name="RTL Living" tvg-logo="" group-title="{BOUQUET_NAME}",RTL Living
-http://iptv.ndasat.com:88/live/329995091896719/329995091896719/3606.ts
-#EXTINF:-1 tvg-name="RTL Passion" tvg-logo="http://logo.ndasat.com/iptv/images/5022_rtlpassion.jpg" group-title="{BOUQUET_NAME}",RTL Passion
-http://iptv.ndasat.com:88/live/329995091896719/329995091896719/3416.ts
-#EXTINF:-1 tvg-name="PRO 7" tvg-logo="http://logo.ndasat.com/iptv/images/59549_pro7.png" group-title="{BOUQUET_NAME}",PRO 7
-http://iptv.ndasat.com:88/live/329995091896719/329995091896719/259.ts
-#EXTINF:-1 tvg-name="Kinowelt" tvg-logo="http://logo.ndasat.com/iptv/images/50985_kinowelt.png" group-title="{BOUQUET_NAME}",Kinowelt
-http://iptv.ndasat.com:88/live/329995091896719/329995091896719/3433.ts
-#EXTINF:-1 tvg-name="Sixx" tvg-logo="http://logo.ndasat.com/iptv/images/5732_sixx.png" group-title="{BOUQUET_NAME}",Sixx
-http://iptv.ndasat.com:88/live/329995091896719/329995091896719/276.ts
-#EXTINF:-1 tvg-name="3Sat" tvg-logo="http://logo.ndasat.com/iptv/images/28469_3sat.jpg" group-title="{BOUQUET_NAME}",3Sat
-http://iptv.ndasat.com:88/live/329995091896719/329995091896719/3419.ts
-#EXTINF:-1 tvg-name="KIKA" tvg-logo="http://logo.ndasat.com/iptv/images/65335_kika.jpg" group-title="{BOUQUET_NAME}",KIKA
-http://iptv.ndasat.com:88/live/329995091896719/329995091896719/258.ts
-#EXTINF:-1 tvg-name="PRO 7 Maxx" tvg-logo="http://logo.ndasat.com/iptv/images/66460_pro7maxx.jpg" group-title="{BOUQUET_NAME}",PRO 7 Maxx
-http://iptv.ndasat.com:88/live/329995091896719/329995091896719/257.ts
-#EXTINF:-1 tvg-name="NTV DE" tvg-logo="http://logo.ndasat.com/iptv/images/96224_ntv.jpg" group-title="{BOUQUET_NAME}",NTV DE
-http://iptv.ndasat.com:88/live/329995091896719/329995091896719/254.ts
-#EXTINF:-1 tvg-name="Kabel1" tvg-logo="http://logo.ndasat.com/iptv/images/99611_kabel1.png" group-title="{BOUQUET_NAME}",Kabel1
-http://iptv.ndasat.com:88/live/329995091896719/329995091896719/274.ts
-#EXTINF:-1 tvg-name="VOX" tvg-logo="http://logo.ndasat.com/iptv/images/73023_vox.jpg" group-title="{BOUQUET_NAME}",VOX
-http://iptv.ndasat.com:88/live/329995091896719/329995091896719/253.ts
-#EXTINF:-1 tvg-name="N24" tvg-logo="http://logo.ndasat.com/iptv/images/88138_n24.png" group-title="{BOUQUET_NAME}",N24
-http://iptv.ndasat.com:88/live/329995091896719/329995091896719/273.ts
-#EXTINF:-1 tvg-name="Junior DE" tvg-logo="http://logo.ndasat.com/iptv/images/65128_junior.jpg" group-title="{BOUQUET_NAME}",Junior DE
-http://iptv.ndasat.com:88/live/329995091896719/329995091896719/3444.ts
-#EXTINF:-1 tvg-name="Disney Junior DE" tvg-logo="http://logo.ndasat.com/iptv/images/9391_disneyjunior.jpg" group-title="{BOUQUET_NAME}",Disney Junior DE
-http://iptv.ndasat.com:88/live/329995091896719/329995091896719/933.ts
-#EXTINF:-1 tvg-name="Disney XD DE" tvg-logo="http://logo.ndasat.com/iptv/images/80923_disneyxd.jpg" group-title="{BOUQUET_NAME}",Disney XD DE
-http://iptv.ndasat.com:88/live/329995091896719/329995091896719/244.ts
-#EXTINF:-1 tvg-name="Disney DE" tvg-logo="http://logo.ndasat.com/iptv/images/63085_disney.jpg" group-title="{BOUQUET_NAME}",Disney DE
-http://iptv.ndasat.com:88/live/329995091896719/329995091896719/3441.ts
-#EXTINF:-1 tvg-name="Disney Cine DE" tvg-logo="http://logo.ndasat.com/iptv/images/38619_disney_cinema_fr.png" group-title="{BOUQUET_NAME}",Disney Cine DE
-http://iptv.ndasat.com:88/live/329995091896719/329995091896719/3442.ts
-#EXTINF:-1 tvg-name="Boomerang DE" tvg-logo="http://logo.ndasat.com/iptv/images/89928_boomerang.png" group-title="{BOUQUET_NAME}",Boomerang DE
-http://iptv.ndasat.com:88/live/329995091896719/329995091896719/3440.ts
-#EXTINF:-1 tvg-name="Toggo Plus" tvg-logo="http://logo.ndasat.com/iptv/images/36778_toggoplus.png" group-title="{BOUQUET_NAME}",Toggo Plus
-http://iptv.ndasat.com:88/live/329995091896719/329995091896719/3443.ts
-#EXTINF:-1 tvg-name="Nickelodeon DE" tvg-logo="" group-title="{BOUQUET_NAME}",Nickelodeon DE
-http://iptv.ndasat.com:88/live/329995091896719/329995091896719/3607.ts
-#EXTINF:-1 tvg-name="ORF1" tvg-logo="http://logo.ndasat.com/iptv/images/78029_orf1.jpg" group-title="{BOUQUET_NAME}",ORF1
-http://iptv.ndasat.com:88/live/329995091896719/329995091896719/248.ts
-#EXTINF:-1 tvg-name="ORF2" tvg-logo="http://logo.ndasat.com/iptv/images/1547_orf2.jpg" group-title="{BOUQUET_NAME}",ORF2
-http://iptv.ndasat.com:88/live/329995091896719/329995091896719/249.ts
-#EXTINF:-1 tvg-name="SRF1" tvg-logo="http://logo.ndasat.com/iptv/images/51997_srf1.png" group-title="{BOUQUET_NAME}",SRF1
-http://iptv.ndasat.com:88/live/329995091896719/329995091896719/778.ts
-#EXTINF:-1 tvg-name="SRF2" tvg-logo="http://logo.ndasat.com/iptv/images/98389_srf2.jpg" group-title="{BOUQUET_NAME}",SRF2
-http://iptv.ndasat.com:88/live/329995091896719/329995091896719/779.ts
-#EXTINF:-1 tvg-name="Sky Cinema DE" tvg-logo="http://logo.ndasat.com/iptv/images/31343_skycinema.jpg" group-title="{BOUQUET_NAME}",Sky Cinema DE
-http://iptv.ndasat.com:88/live/329995091896719/329995091896719/161.ts
-#EXTINF:-1 tvg-name="Sky Cinema +1" tvg-logo="http://logo.ndasat.com/iptv/images/24384_skyarts.jpg" group-title="{BOUQUET_NAME}",Sky Cinema +1
-http://iptv.ndasat.com:88/live/329995091896719/329995091896719/3435.ts
-#EXTINF:-1 tvg-name="Sky Cinema 24 DE" tvg-logo="http://logo.ndasat.com/iptv/images/21553_skycinema24.png" group-title="{BOUQUET_NAME}",Sky Cinema 24 DE
-http://iptv.ndasat.com:88/live/329995091896719/329995091896719/162.ts
-#EXTINF:-1 tvg-name="Sky Action DE" tvg-logo="http://logo.ndasat.com/iptv/images/17439_skyaction.jpg" group-title="{BOUQUET_NAME}",Sky Action DE
-http://iptv.ndasat.com:88/live/329995091896719/329995091896719/163.ts
-#EXTINF:-1 tvg-name="Sky Atlantic DE" tvg-logo="http://logo.ndasat.com/iptv/images/18026_skyatlantic.png" group-title="{BOUQUET_NAME}",Sky Atlantic DE
-http://iptv.ndasat.com:88/live/329995091896719/329995091896719/168.ts
-#EXTINF:-1 tvg-name="Sky Comedy DE" tvg-logo="http://logo.ndasat.com/iptv/images/49850_skycomedy.png" group-title="{BOUQUET_NAME}",Sky Comedy DE
-http://iptv.ndasat.com:88/live/329995091896719/329995091896719/164.ts
-#EXTINF:-1 tvg-name="Sky Emotion DE" tvg-logo="http://logo.ndasat.com/iptv/images/6724_skyemotion.png" group-title="{BOUQUET_NAME}",Sky Emotion DE
-http://iptv.ndasat.com:88/live/329995091896719/329995091896719/165.ts
-#EXTINF:-1 tvg-name="Sky Hits DE" tvg-logo="http://logo.ndasat.com/iptv/images/4686_skyhits.jpg" group-title="{BOUQUET_NAME}",Sky Hits DE
-http://iptv.ndasat.com:88/live/329995091896719/329995091896719/166.ts
-#EXTINF:-1 tvg-name="Sky Krimi" tvg-logo="http://logo.ndasat.com/iptv/images/42861_skykrimi.jpg" group-title="{BOUQUET_NAME}",Sky Krimi
-http://iptv.ndasat.com:88/live/329995091896719/329995091896719/3423.ts
-#EXTINF:-1 tvg-name="Sky Nostalgie" tvg-logo="http://logo.ndasat.com/iptv/images/10043_skynostalgie.jpg" group-title="{BOUQUET_NAME}",Sky Nostalgie
-http://iptv.ndasat.com:88/live/329995091896719/329995091896719/3422.ts
-#EXTINF:-1 tvg-name="AXN DE" tvg-logo="http://logo.ndasat.com/iptv/images/64233_AXN.png" group-title="{BOUQUET_NAME}",AXN DE
-http://iptv.ndasat.com:88/live/329995091896719/329995091896719/3426.ts
-#EXTINF:-1 tvg-name="Universal DE" tvg-logo="http://logo.ndasat.com/iptv/images/56892_universal.png" group-title="{BOUQUET_NAME}",Universal DE
-http://iptv.ndasat.com:88/live/329995091896719/329995091896719/3424.ts
-#EXTINF:-1 tvg-name="TNT Comedy" tvg-logo="http://logo.ndasat.com/iptv/images/88165_tntcomedy.png" group-title="{BOUQUET_NAME}",TNT Comedy
-http://iptv.ndasat.com:88/live/329995091896719/329995091896719/3431.ts
-#EXTINF:-1 tvg-name="TNT Film" tvg-logo="http://logo.ndasat.com/iptv/images/98973_tntfilm.jpg" group-title="{BOUQUET_NAME}",TNT Film
-http://iptv.ndasat.com:88/live/329995091896719/329995091896719/3430.ts
-#EXTINF:-1 tvg-name="TNT Serie" tvg-logo="http://logo.ndasat.com/iptv/images/31319_tntserie.png" group-title="{BOUQUET_NAME}",TNT Serie
-http://iptv.ndasat.com:88/live/329995091896719/329995091896719/3432.ts
-#EXTINF:-1 tvg-name="Syfy DE" tvg-logo="http://logo.ndasat.com/iptv/images/80054_syfy.png" group-title="{BOUQUET_NAME}",Syfy DE
-http://iptv.ndasat.com:88/live/329995091896719/329995091896719/3429.ts
-#EXTINF:-1 tvg-name="Fox DE" tvg-logo="http://logo.ndasat.com/iptv/images/5060_foxtv.jpg" group-title="{BOUQUET_NAME}",Fox DE
-http://iptv.ndasat.com:88/live/329995091896719/329995091896719/3425.ts
-#EXTINF:-1 tvg-name="Romance TV" tvg-logo="http://logo.ndasat.com/iptv/images/17509_romancetv.jpg" group-title="{BOUQUET_NAME}",Romance TV
-http://iptv.ndasat.com:88/live/329995091896719/329995091896719/3434.ts
-#EXTINF:-1 tvg-name="13th Street DE" tvg-logo="http://logo.ndasat.com/iptv/images/55404_13thstreet.jpg" group-title="{BOUQUET_NAME}",13th Street DE
-http://iptv.ndasat.com:88/live/329995091896719/329995091896719/3427.ts
-#EXTINF:-1 tvg-name="Classica DE" tvg-logo="" group-title="{BOUQUET_NAME}",Classica DE
-http://iptv.ndasat.com:88/live/329995091896719/329995091896719/3608.ts
-#EXTINF:-1 tvg-name="Discovery DE" tvg-logo="http://logo.ndasat.com/iptv/images/57158_discovery.jpg" group-title="{BOUQUET_NAME}",Discovery DE
-http://iptv.ndasat.com:88/live/329995091896719/329995091896719/268.ts
-#EXTINF:-1 tvg-name="DMAX DE" tvg-logo="http://logo.ndasat.com/iptv/images/55622_dmax.png" group-title="{BOUQUET_NAME}",DMAX DE
-http://iptv.ndasat.com:88/live/329995091896719/329995091896719/241.ts
-#EXTINF:-1 tvg-name="Nat Geo DE" tvg-logo="http://logo.ndasat.com/iptv/images/98491_natgeo.jpg" group-title="{BOUQUET_NAME}",Nat Geo DE
-http://iptv.ndasat.com:88/live/329995091896719/329995091896719/1027.ts
-#EXTINF:-1 tvg-name="Nat Geo Wild DE" tvg-logo="http://logo.ndasat.com/iptv/images/25070_natgeowild.png" group-title="{BOUQUET_NAME}",Nat Geo Wild DE
-http://iptv.ndasat.com:88/live/329995091896719/329995091896719/1028.ts
-#EXTINF:-1 tvg-name="History DE" tvg-logo="http://logo.ndasat.com/iptv/images/51679_history.png" group-title="{BOUQUET_NAME}",History DE
-http://iptv.ndasat.com:88/live/329995091896719/329995091896719/3439.ts
-#EXTINF:-1 tvg-name="Motorvision DE" tvg-logo="http://logo.ndasat.com/iptv/images/85813_motorvision.jpg" group-title="{BOUQUET_NAME}",Motorvision DE
-http://iptv.ndasat.com:88/live/329995091896719/329995091896719/3438.ts
-#EXTINF:-1 tvg-name="Animal planet DE" tvg-logo="" group-title="{BOUQUET_NAME}",Animal planet DE
-http://iptv.ndasat.com:88/live/329995091896719/329995091896719/3609.ts
-#EXTINF:-1 tvg-name="Family TV DE" tvg-logo="http://logo.ndasat.com/iptv/images/21013_familytv.jpg" group-title="{BOUQUET_NAME}",Family TV DE
-http://iptv.ndasat.com:88/live/329995091896719/329995091896719/3428.ts
-#EXTINF:-1 tvg-name="Phoenix" tvg-logo="http://logo.ndasat.com/iptv/images/99030_phoenix.png" group-title="{BOUQUET_NAME}",Phoenix
-http://iptv.ndasat.com:88/live/329995091896719/329995091896719/3421.ts
-#EXTINF:-1 tvg-name="Welt Der Wunder" tvg-logo="" group-title="{BOUQUET_NAME}",Welt Der Wunder
-http://iptv.ndasat.com:88/live/329995091896719/329995091896719/3610.ts
-#EXTINF:-1 tvg-name="ZDF Neo" tvg-logo="http://logo.ndasat.com/iptv/images/10868_zdfneo.png" group-title="{BOUQUET_NAME}",ZDF Neo
-http://iptv.ndasat.com:88/live/329995091896719/329995091896719/3420.ts
-#EXTINF:-1 tvg-name="Sky Sports News De" tvg-logo="http://logo.ndasat.com/iptv/images/57974_skysportnews.jpg" group-title="{BOUQUET_NAME}",Sky Sports News De
-http://iptv.ndasat.com:88/live/329995091896719/329995091896719/255.ts
-#EXTINF:-1 tvg-name="Sky Sport 1 DE" tvg-logo="http://logo.ndasat.com/iptv/images/69607_skysport.png" group-title="{BOUQUET_NAME}",Sky Sport 1 DE
-http://iptv.ndasat.com:88/live/329995091896719/329995091896719/52.ts
-#EXTINF:-1 tvg-name="Sky Sport 2 DE" tvg-logo="http://logo.ndasat.com/iptv/images/93351_skysport.png" group-title="{BOUQUET_NAME}",Sky Sport 2 DE
-http://iptv.ndasat.com:88/live/329995091896719/329995091896719/53.ts
-#EXTINF:-1 tvg-name="Eurosport DE" tvg-logo="http://logo.ndasat.com/iptv/images/69476_eurosport1.png" group-title="{BOUQUET_NAME}",Eurosport DE
-http://iptv.ndasat.com:88/live/329995091896719/329995091896719/266.ts
-#EXTINF:-1 tvg-name="Sport1 DE" tvg-logo="http://logo.ndasat.com/iptv/images/32182_sport1.png" group-title="{BOUQUET_NAME}",Sport1 DE
-http://iptv.ndasat.com:88/live/329995091896719/329995091896719/275.ts
-#EXTINF:-1 tvg-name="Sport1 USA DE" tvg-logo="http://logo.ndasat.com/iptv/images/51321_sport1usa.png" group-title="{BOUQUET_NAME}",Sport1 USA DE
-http://iptv.ndasat.com:88/live/329995091896719/329995091896719/3436.ts
-#EXTINF:-1 tvg-name="Sport Digital" tvg-logo="http://logo.ndasat.com/iptv/images/83240_sportdigital.png" group-title="{BOUQUET_NAME}",Sport Digital
-http://iptv.ndasat.com:88/live/329995091896719/329995091896719/3437.ts
-#EXTINF:-1 tvg-name="Sky Bundesliga1 de" tvg-logo="http://logo.ndasat.com/iptv/images/70870_skybunde.jpg" group-title="{BOUQUET_NAME}",Sky Bundesliga1 de
-http://iptv.ndasat.com:88/live/329995091896719/329995091896719/51.ts
-#EXTINF:-1 tvg-name="Sky Bundesliga2 (MT)" tvg-logo="http://logo.ndasat.com/iptv/images/50624_bundesliga2.jpg" group-title="{BOUQUET_NAME}",Sky Bundesliga2 (MT)
-http://iptv.ndasat.com:88/live/329995091896719/329995091896719/2291.ts
-#EXTINF:-1 tvg-name="Sky Bundesliga3 (MT)" tvg-logo="http://logo.ndasat.com/iptv/images/73825_bundesliga3.jpg" group-title="{BOUQUET_NAME}",Sky Bundesliga3 (MT)
-http://iptv.ndasat.com:88/live/329995091896719/329995091896719/2292.ts
-#EXTINF:-1 tvg-name="Sky Bundesliga4 (MT)" tvg-logo="http://logo.ndasat.com/iptv/images/29696_bunesliga4.jpg" group-title="{BOUQUET_NAME}",Sky Bundesliga4 (MT)
-http://iptv.ndasat.com:88/live/329995091896719/329995091896719/2293.ts
-#EXTINF:-1 tvg-name="Sky Bundesliga5 (MT)" tvg-logo="http://logo.ndasat.com/iptv/images/24854_bundesliga5.jpg" group-title="{BOUQUET_NAME}",Sky Bundesliga5 (MT)
-http://iptv.ndasat.com:88/live/329995091896719/329995091896719/2294.ts
-#EXTINF:-1 tvg-name="Sky Bundesliga6 (MT)" tvg-logo="http://logo.ndasat.com/iptv/images/91455_bundesliga6.jpg" group-title="{BOUQUET_NAME}",Sky Bundesliga6 (MT)
-http://iptv.ndasat.com:88/live/329995091896719/329995091896719/2295.ts
-#EXTINF:-1 tvg-name="VOD-Select1" tvg-logo="http://logo.ndasat.com/iptv/images/87066_germany.jpg" group-title="{BOUQUET_NAME}",VOD-Select1
-http://iptv.ndasat.com:88/live/329995091896719/329995091896719/557.ts
-#EXTINF:-1 tvg-name="VOD-Select2" tvg-logo="http://logo.ndasat.com/iptv/images/33521_germany.jpg" group-title="{BOUQUET_NAME}",VOD-Select2
-http://iptv.ndasat.com:88/live/329995091896719/329995091896719/556.ts
-#EXTINF:-1 tvg-name="VOD-Select3" tvg-logo="http://logo.ndasat.com/iptv/images/63848_germany.jpg" group-title="{BOUQUET_NAME}",VOD-Select3
-http://iptv.ndasat.com:88/live/329995091896719/329995091896719/555.ts
-#EXTINF:-1 tvg-name="VOD-select4" tvg-logo="http://logo.ndasat.com/iptv/images/39148_germany.jpg" group-title="{BOUQUET_NAME}",VOD-select4
-http://iptv.ndasat.com:88/live/329995091896719/329995091896719/554.ts
-#EXTINF:-1 tvg-name="VOD-Select5" tvg-logo="http://logo.ndasat.com/iptv/images/84948_germany.jpg" group-title="{BOUQUET_NAME}",VOD-Select5
-http://iptv.ndasat.com:88/live/329995091896719/329995091896719/553.ts
-#EXTINF:-1 tvg-name="VOD-Select6" tvg-logo="http://logo.ndasat.com/iptv/images/44453_germany.jpg" group-title="{BOUQUET_NAME}",VOD-Select6
-http://iptv.ndasat.com:88/live/329995091896719/329995091896719/552.ts
-#EXTINF:-1 tvg-name="Ger1" tvg-logo="" group-title="{BOUQUET_NAME}",Ger1
-http://iptv.ndasat.com:88/live/329995091896719/329995091896719/3699.ts
-#EXTINF:-1 tvg-name="Ger2" tvg-logo="" group-title="{BOUQUET_NAME}",Ger2
-http://iptv.ndasat.com:88/live/329995091896719/329995091896719/3700.ts
-#EXTINF:-1 tvg-name="Ger3" tvg-logo="" group-title="{BOUQUET_NAME}",Ger3
-http://iptv.ndasat.com:88/live/329995091896719/329995091896719/3701.ts
-#EXTINF:-1 tvg-name="Ger4" tvg-logo="" group-title="{BOUQUET_NAME}",Ger4
-http://iptv.ndasat.com:88/live/329995091896719/329995091896719/3702.ts
-#EXTINF:-1 tvg-name="Ger5" tvg-logo="" group-title="{BOUQUET_NAME}",Ger5
-http://iptv.ndasat.com:88/live/329995091896719/329995091896719/3703.ts
-#EXTINF:-1 tvg-name="Ger6" tvg-logo="" group-title="{BOUQUET_NAME}",Ger6
-http://iptv.ndasat.com:88/live/329995091896719/329995091896719/3704.ts
-#EXTINF:-1 tvg-name="Ger7" tvg-logo="" group-title="{BOUQUET_NAME}",Ger7
-http://iptv.ndasat.com:88/live/329995091896719/329995091896719/3705.ts
-#EXTINF:-1 tvg-name="Ger8" tvg-logo="" group-title="{BOUQUET_NAME}",Ger8
-http://iptv.ndasat.com:88/live/329995091896719/329995091896719/3706.ts
-#EXTINF:-1 tvg-name="Ger9" tvg-logo="" group-title="{BOUQUET_NAME}",Ger9
-http://iptv.ndasat.com:88/live/329995091896719/329995091896719/3707.ts
 #EXTINF:-1,13th Street HD
 http://300canada300.com:8000/live/yalcinmenej0212/yalmen0212/4230.ts
 #EXTINF:-1,Ard HD
@@ -767,204 +177,1244 @@ http://300canada300.com:8000/live/yalcinmenej0212/yalmen0212/6302.ts
 http://300canada300.com:8000/live/yalcinmenej0212/yalmen0212/6303.ts
 #EXTINF:-1,DE | EUROSPORT 2 XTRA
 http://300canada300.com:8000/live/yalcinmenej0212/yalmen0212/6304.ts
-
-#EXTINF:-1 tvg-name="Ger1" tvg-logo="" group-title="{BOUQUET_NAME}",Ger1
-http://iptv.atlasiptv.net:88/live/321282347089421/321282347089421/3699.ts
-#EXTINF:-1 tvg-name="Ger2" tvg-logo="" group-title="{BOUQUET_NAME}",Ger2
-http://iptv.atlasiptv.net:88/live/321282347089421/321282347089421/3700.ts
-#EXTINF:-1 tvg-name="Ger3" tvg-logo="" group-title="{BOUQUET_NAME}",Ger3
-http://iptv.atlasiptv.net:88/live/321282347089421/321282347089421/3701.ts
-#EXTINF:-1 tvg-name="Ger4" tvg-logo="" group-title="{BOUQUET_NAME}",Ger4
-http://iptv.atlasiptv.net:88/live/321282347089421/321282347089421/3702.ts
-#EXTINF:-1 tvg-name="Ger5" tvg-logo="" group-title="{BOUQUET_NAME}",Ger5
-http://iptv.atlasiptv.net:88/live/321282347089421/321282347089421/3703.ts
-#EXTINF:-1 tvg-name="Ger6" tvg-logo="" group-title="{BOUQUET_NAME}",Ger6
-http://iptv.atlasiptv.net:88/live/321282347089421/321282347089421/3704.ts
-#EXTINF:-1 tvg-name="Ger7" tvg-logo="" group-title="{BOUQUET_NAME}",Ger7
-http://iptv.atlasiptv.net:88/live/321282347089421/321282347089421/3705.ts
-#EXTINF:-1 tvg-name="Ger8" tvg-logo="" group-title="{BOUQUET_NAME}",Ger8
-http://iptv.atlasiptv.net:88/live/321282347089421/321282347089421/3706.ts
-#EXTINF:-1 tvg-name="Ger9" tvg-logo="" group-title="{BOUQUET_NAME}",Ger9
-http://iptv.atlasiptv.net:88/live/321282347089421/321282347089421/3707.ts
-#EXTINF:-1 tvg-name="Das Erste" tvg-logo="" group-title="{BOUQUET_NAME}",Das Erste
-http://iptv.atlasiptv.net:88/live/321282347089421/321282347089421/3605.ts
-#EXTINF:-1 tvg-name="ZDF" tvg-logo="http://logo.ndasat.com/iptv/images/61931_zdf.png" group-title="{BOUQUET_NAME}",ZDF
-http://iptv.atlasiptv.net:88/live/321282347089421/321282347089421/261.ts
-#EXTINF:-1 tvg-name="ARD" tvg-logo="http://logo.ndasat.com/iptv/images/22065_ard.png" group-title="{BOUQUET_NAME}",ARD
-http://iptv.atlasiptv.net:88/live/321282347089421/321282347089421/262.ts
-#EXTINF:-1 tvg-name="HR DE" tvg-logo="" group-title="{BOUQUET_NAME}",HR DE
-http://iptv.atlasiptv.net:88/live/321282347089421/321282347089421/3604.ts
-#EXTINF:-1 tvg-name="NDR" tvg-logo="http://logo.ndasat.com/iptv/images/73491_ndr.png" group-title="{BOUQUET_NAME}",NDR
-http://iptv.atlasiptv.net:88/live/321282347089421/321282347089421/243.ts
-#EXTINF:-1 tvg-name="WDR" tvg-logo="http://logo.ndasat.com/iptv/images/38274_wdr.png" group-title="{BOUQUET_NAME}",WDR
-http://iptv.atlasiptv.net:88/live/321282347089421/321282347089421/247.ts
-#EXTINF:-1 tvg-name="ARTE DE" tvg-logo="http://logo.ndasat.com/iptv/images/12891_arte.jpg" group-title="{BOUQUET_NAME}",ARTE DE
-http://iptv.atlasiptv.net:88/live/321282347089421/321282347089421/245.ts
-#EXTINF:-1 tvg-name="SWR" tvg-logo="http://logo.ndasat.com/iptv/images/13482_swr.png" group-title="{BOUQUET_NAME}",SWR
-http://iptv.atlasiptv.net:88/live/321282347089421/321282347089421/270.ts
-#EXTINF:-1 tvg-name="Sat1" tvg-logo="http://logo.ndasat.com/iptv/images/14447_sat1.png" group-title="{BOUQUET_NAME}",Sat1
-http://iptv.atlasiptv.net:88/live/321282347089421/321282347089421/260.ts
-#EXTINF:-1 tvg-name="Sat1 Gold" tvg-logo="http://logo.ndasat.com/iptv/images/55122_sat1gold.jpg" group-title="{BOUQUET_NAME}",Sat1 Gold
-http://iptv.atlasiptv.net:88/live/321282347089421/321282347089421/3418.ts
-#EXTINF:-1 tvg-name="RTL" tvg-logo="http://logo.ndasat.com/iptv/images/21533_rtl.jpg" group-title="{BOUQUET_NAME}",RTL
-http://iptv.atlasiptv.net:88/live/321282347089421/321282347089421/252.ts
-#EXTINF:-1 tvg-name="RTL 2" tvg-logo="http://logo.ndasat.com/iptv/images/779_rtl2.png" group-title="{BOUQUET_NAME}",RTL 2
-http://iptv.atlasiptv.net:88/live/321282347089421/321282347089421/250.ts
-#EXTINF:-1 tvg-name="RTL Nitro" tvg-logo="http://logo.ndasat.com/iptv/images/9419_rtlnitro.png" group-title="{BOUQUET_NAME}",RTL Nitro
-http://iptv.atlasiptv.net:88/live/321282347089421/321282347089421/269.ts
-#EXTINF:-1 tvg-name="RTL Crime" tvg-logo="http://logo.ndasat.com/iptv/images/68067_rtlcrime.jpg" group-title="{BOUQUET_NAME}",RTL Crime
-http://iptv.atlasiptv.net:88/live/321282347089421/321282347089421/3417.ts
-#EXTINF:-1 tvg-name="Super RTL" tvg-logo="http://logo.ndasat.com/iptv/images/91051_superrtl.png" group-title="{BOUQUET_NAME}",Super RTL
-http://iptv.atlasiptv.net:88/live/321282347089421/321282347089421/251.ts
-#EXTINF:-1 tvg-name="RTL Living" tvg-logo="" group-title="{BOUQUET_NAME}",RTL Living
-http://iptv.atlasiptv.net:88/live/321282347089421/321282347089421/3606.ts
-#EXTINF:-1 tvg-name="RTL Passion" tvg-logo="http://logo.ndasat.com/iptv/images/5022_rtlpassion.jpg" group-title="{BOUQUET_NAME}",RTL Passion
-http://iptv.atlasiptv.net:88/live/321282347089421/321282347089421/3416.ts
-#EXTINF:-1 tvg-name="PRO 7" tvg-logo="http://logo.ndasat.com/iptv/images/59549_pro7.png" group-title="{BOUQUET_NAME}",PRO 7
-http://iptv.atlasiptv.net:88/live/321282347089421/321282347089421/259.ts
-#EXTINF:-1 tvg-name="Kinowelt" tvg-logo="http://logo.ndasat.com/iptv/images/50985_kinowelt.png" group-title="{BOUQUET_NAME}",Kinowelt
-http://iptv.atlasiptv.net:88/live/321282347089421/321282347089421/3433.ts
-#EXTINF:-1 tvg-name="Sixx" tvg-logo="http://logo.ndasat.com/iptv/images/5732_sixx.png" group-title="{BOUQUET_NAME}",Sixx
-http://iptv.atlasiptv.net:88/live/321282347089421/321282347089421/276.ts
-#EXTINF:-1 tvg-name="3Sat" tvg-logo="http://logo.ndasat.com/iptv/images/28469_3sat.jpg" group-title="{BOUQUET_NAME}",3Sat
-http://iptv.atlasiptv.net:88/live/321282347089421/321282347089421/3419.ts
-#EXTINF:-1 tvg-name="KIKA" tvg-logo="http://logo.ndasat.com/iptv/images/65335_kika.jpg" group-title="{BOUQUET_NAME}",KIKA
-http://iptv.atlasiptv.net:88/live/321282347089421/321282347089421/258.ts
-#EXTINF:-1 tvg-name="PRO 7 Maxx" tvg-logo="http://logo.ndasat.com/iptv/images/66460_pro7maxx.jpg" group-title="{BOUQUET_NAME}",PRO 7 Maxx
-http://iptv.atlasiptv.net:88/live/321282347089421/321282347089421/257.ts
-#EXTINF:-1 tvg-name="NTV DE" tvg-logo="http://logo.ndasat.com/iptv/images/96224_ntv.jpg" group-title="{BOUQUET_NAME}",NTV DE
-http://iptv.atlasiptv.net:88/live/321282347089421/321282347089421/254.ts
-#EXTINF:-1 tvg-name="Kabel1" tvg-logo="http://logo.ndasat.com/iptv/images/99611_kabel1.png" group-title="{BOUQUET_NAME}",Kabel1
-http://iptv.atlasiptv.net:88/live/321282347089421/321282347089421/274.ts
-#EXTINF:-1 tvg-name="VOX" tvg-logo="http://logo.ndasat.com/iptv/images/73023_vox.jpg" group-title="{BOUQUET_NAME}",VOX
-http://iptv.atlasiptv.net:88/live/321282347089421/321282347089421/253.ts
-#EXTINF:-1 tvg-name="N24" tvg-logo="http://logo.ndasat.com/iptv/images/88138_n24.png" group-title="{BOUQUET_NAME}",N24
-http://iptv.atlasiptv.net:88/live/321282347089421/321282347089421/273.ts
-#EXTINF:-1 tvg-name="Junior DE" tvg-logo="http://logo.ndasat.com/iptv/images/65128_junior.jpg" group-title="{BOUQUET_NAME}",Junior DE
-http://iptv.atlasiptv.net:88/live/321282347089421/321282347089421/3444.ts
-#EXTINF:-1 tvg-name="Disney Junior DE" tvg-logo="http://logo.ndasat.com/iptv/images/9391_disneyjunior.jpg" group-title="{BOUQUET_NAME}",Disney Junior DE
-http://iptv.atlasiptv.net:88/live/321282347089421/321282347089421/933.ts
-#EXTINF:-1 tvg-name="Disney XD DE" tvg-logo="http://logo.ndasat.com/iptv/images/80923_disneyxd.jpg" group-title="{BOUQUET_NAME}",Disney XD DE
-http://iptv.atlasiptv.net:88/live/321282347089421/321282347089421/244.ts
-#EXTINF:-1 tvg-name="Disney DE" tvg-logo="http://logo.ndasat.com/iptv/images/63085_disney.jpg" group-title="{BOUQUET_NAME}",Disney DE
-http://iptv.atlasiptv.net:88/live/321282347089421/321282347089421/3441.ts
-#EXTINF:-1 tvg-name="Disney Cine DE" tvg-logo="http://logo.ndasat.com/iptv/images/38619_disney_cinema_fr.png" group-title="{BOUQUET_NAME}",Disney Cine DE
-http://iptv.atlasiptv.net:88/live/321282347089421/321282347089421/3442.ts
-#EXTINF:-1 tvg-name="Boomerang DE" tvg-logo="http://logo.ndasat.com/iptv/images/89928_boomerang.png" group-title="{BOUQUET_NAME}",Boomerang DE
-http://iptv.atlasiptv.net:88/live/321282347089421/321282347089421/3440.ts
-#EXTINF:-1 tvg-name="Toggo Plus" tvg-logo="http://logo.ndasat.com/iptv/images/36778_toggoplus.png" group-title="{BOUQUET_NAME}",Toggo Plus
-http://iptv.atlasiptv.net:88/live/321282347089421/321282347089421/3443.ts
-#EXTINF:-1 tvg-name="Nickelodeon DE" tvg-logo="" group-title="{BOUQUET_NAME}",Nickelodeon DE
-http://iptv.atlasiptv.net:88/live/321282347089421/321282347089421/3607.ts
-#EXTINF:-1 tvg-name="ORF1" tvg-logo="http://logo.ndasat.com/iptv/images/78029_orf1.jpg" group-title="{BOUQUET_NAME}",ORF1
-http://iptv.atlasiptv.net:88/live/321282347089421/321282347089421/248.ts
-#EXTINF:-1 tvg-name="ORF2" tvg-logo="http://logo.ndasat.com/iptv/images/1547_orf2.jpg" group-title="{BOUQUET_NAME}",ORF2
-http://iptv.atlasiptv.net:88/live/321282347089421/321282347089421/249.ts
-#EXTINF:-1 tvg-name="SRF1" tvg-logo="http://logo.ndasat.com/iptv/images/51997_srf1.png" group-title="{BOUQUET_NAME}",SRF1
-http://iptv.atlasiptv.net:88/live/321282347089421/321282347089421/778.ts
-#EXTINF:-1 tvg-name="SRF2" tvg-logo="http://logo.ndasat.com/iptv/images/98389_srf2.jpg" group-title="{BOUQUET_NAME}",SRF2
-http://iptv.atlasiptv.net:88/live/321282347089421/321282347089421/779.ts
-#EXTINF:-1 tvg-name="Sky Cinema DE" tvg-logo="http://logo.ndasat.com/iptv/images/31343_skycinema.jpg" group-title="{BOUQUET_NAME}",Sky Cinema DE
-http://iptv.atlasiptv.net:88/live/321282347089421/321282347089421/161.ts
-#EXTINF:-1 tvg-name="Sky Cinema +1" tvg-logo="http://logo.ndasat.com/iptv/images/24384_skyarts.jpg" group-title="{BOUQUET_NAME}",Sky Cinema +1
-http://iptv.atlasiptv.net:88/live/321282347089421/321282347089421/3435.ts
-#EXTINF:-1 tvg-name="Sky Cinema 24 DE" tvg-logo="http://logo.ndasat.com/iptv/images/21553_skycinema24.png" group-title="{BOUQUET_NAME}",Sky Cinema 24 DE
-http://iptv.atlasiptv.net:88/live/321282347089421/321282347089421/162.ts
-#EXTINF:-1 tvg-name="Sky Action DE" tvg-logo="http://logo.ndasat.com/iptv/images/17439_skyaction.jpg" group-title="{BOUQUET_NAME}",Sky Action DE
-http://iptv.atlasiptv.net:88/live/321282347089421/321282347089421/163.ts
-#EXTINF:-1 tvg-name="Sky Atlantic DE" tvg-logo="http://logo.ndasat.com/iptv/images/18026_skyatlantic.png" group-title="{BOUQUET_NAME}",Sky Atlantic DE
-http://iptv.atlasiptv.net:88/live/321282347089421/321282347089421/168.ts
-#EXTINF:-1 tvg-name="Sky Comedy DE" tvg-logo="http://logo.ndasat.com/iptv/images/49850_skycomedy.png" group-title="{BOUQUET_NAME}",Sky Comedy DE
-http://iptv.atlasiptv.net:88/live/321282347089421/321282347089421/164.ts
-#EXTINF:-1 tvg-name="Sky Emotion DE" tvg-logo="http://logo.ndasat.com/iptv/images/6724_skyemotion.png" group-title="{BOUQUET_NAME}",Sky Emotion DE
-http://iptv.atlasiptv.net:88/live/321282347089421/321282347089421/165.ts
-#EXTINF:-1 tvg-name="Sky Hits DE" tvg-logo="http://logo.ndasat.com/iptv/images/4686_skyhits.jpg" group-title="{BOUQUET_NAME}",Sky Hits DE
-http://iptv.atlasiptv.net:88/live/321282347089421/321282347089421/166.ts
-#EXTINF:-1 tvg-name="Sky Krimi" tvg-logo="http://logo.ndasat.com/iptv/images/42861_skykrimi.jpg" group-title="{BOUQUET_NAME}",Sky Krimi
-http://iptv.atlasiptv.net:88/live/321282347089421/321282347089421/3423.ts
-#EXTINF:-1 tvg-name="Sky Nostalgie" tvg-logo="http://logo.ndasat.com/iptv/images/10043_skynostalgie.jpg" group-title="{BOUQUET_NAME}",Sky Nostalgie
-http://iptv.atlasiptv.net:88/live/321282347089421/321282347089421/3422.ts
-#EXTINF:-1 tvg-name="AXN DE" tvg-logo="http://logo.ndasat.com/iptv/images/64233_AXN.png" group-title="{BOUQUET_NAME}",AXN DE
-http://iptv.atlasiptv.net:88/live/321282347089421/321282347089421/3426.ts
-#EXTINF:-1 tvg-name="Universal DE" tvg-logo="http://logo.ndasat.com/iptv/images/56892_universal.png" group-title="{BOUQUET_NAME}",Universal DE
-http://iptv.atlasiptv.net:88/live/321282347089421/321282347089421/3424.ts
-#EXTINF:-1 tvg-name="TNT Comedy" tvg-logo="http://logo.ndasat.com/iptv/images/88165_tntcomedy.png" group-title="{BOUQUET_NAME}",TNT Comedy
-http://iptv.atlasiptv.net:88/live/321282347089421/321282347089421/3431.ts
-#EXTINF:-1 tvg-name="TNT Film" tvg-logo="http://logo.ndasat.com/iptv/images/98973_tntfilm.jpg" group-title="{BOUQUET_NAME}",TNT Film
-http://iptv.atlasiptv.net:88/live/321282347089421/321282347089421/3430.ts
-#EXTINF:-1 tvg-name="TNT Serie" tvg-logo="http://logo.ndasat.com/iptv/images/31319_tntserie.png" group-title="{BOUQUET_NAME}",TNT Serie
-http://iptv.atlasiptv.net:88/live/321282347089421/321282347089421/3432.ts
-#EXTINF:-1 tvg-name="Syfy DE" tvg-logo="http://logo.ndasat.com/iptv/images/80054_syfy.png" group-title="{BOUQUET_NAME}",Syfy DE
-http://iptv.atlasiptv.net:88/live/321282347089421/321282347089421/3429.ts
-#EXTINF:-1 tvg-name="Fox DE" tvg-logo="http://logo.ndasat.com/iptv/images/5060_foxtv.jpg" group-title="{BOUQUET_NAME}",Fox DE
-http://iptv.atlasiptv.net:88/live/321282347089421/321282347089421/3425.ts
-#EXTINF:-1 tvg-name="Romance TV" tvg-logo="http://logo.ndasat.com/iptv/images/17509_romancetv.jpg" group-title="{BOUQUET_NAME}",Romance TV
-http://iptv.atlasiptv.net:88/live/321282347089421/321282347089421/3434.ts
-#EXTINF:-1 tvg-name="13th Street DE" tvg-logo="http://logo.ndasat.com/iptv/images/55404_13thstreet.jpg" group-title="{BOUQUET_NAME}",13th Street DE
-http://iptv.atlasiptv.net:88/live/321282347089421/321282347089421/3427.ts
-#EXTINF:-1 tvg-name="Classica DE" tvg-logo="" group-title="{BOUQUET_NAME}",Classica DE
-http://iptv.atlasiptv.net:88/live/321282347089421/321282347089421/3608.ts
-#EXTINF:-1 tvg-name="Discovery DE" tvg-logo="http://logo.ndasat.com/iptv/images/57158_discovery.jpg" group-title="{BOUQUET_NAME}",Discovery DE
-http://iptv.atlasiptv.net:88/live/321282347089421/321282347089421/268.ts
-#EXTINF:-1 tvg-name="DMAX DE" tvg-logo="http://logo.ndasat.com/iptv/images/55622_dmax.png" group-title="{BOUQUET_NAME}",DMAX DE
-http://iptv.atlasiptv.net:88/live/321282347089421/321282347089421/241.ts
-#EXTINF:-1 tvg-name="Nat Geo DE" tvg-logo="http://logo.ndasat.com/iptv/images/98491_natgeo.jpg" group-title="{BOUQUET_NAME}",Nat Geo DE
-http://iptv.atlasiptv.net:88/live/321282347089421/321282347089421/1027.ts
-#EXTINF:-1 tvg-name="Nat Geo Wild DE" tvg-logo="http://logo.ndasat.com/iptv/images/25070_natgeowild.png" group-title="{BOUQUET_NAME}",Nat Geo Wild DE
-http://iptv.atlasiptv.net:88/live/321282347089421/321282347089421/1028.ts
-#EXTINF:-1 tvg-name="History DE" tvg-logo="http://logo.ndasat.com/iptv/images/51679_history.png" group-title="{BOUQUET_NAME}",History DE
-http://iptv.atlasiptv.net:88/live/321282347089421/321282347089421/3439.ts
-#EXTINF:-1 tvg-name="Motorvision DE" tvg-logo="http://logo.ndasat.com/iptv/images/85813_motorvision.jpg" group-title="{BOUQUET_NAME}",Motorvision DE
-http://iptv.atlasiptv.net:88/live/321282347089421/321282347089421/3438.ts
-#EXTINF:-1 tvg-name="Animal planet DE" tvg-logo="" group-title="{BOUQUET_NAME}",Animal planet DE
-http://iptv.atlasiptv.net:88/live/321282347089421/321282347089421/3609.ts
-#EXTINF:-1 tvg-name="Family TV DE" tvg-logo="http://logo.ndasat.com/iptv/images/21013_familytv.jpg" group-title="{BOUQUET_NAME}",Family TV DE
-http://iptv.atlasiptv.net:88/live/321282347089421/321282347089421/3428.ts
-#EXTINF:-1 tvg-name="Phoenix" tvg-logo="http://logo.ndasat.com/iptv/images/99030_phoenix.png" group-title="{BOUQUET_NAME}",Phoenix
-http://iptv.atlasiptv.net:88/live/321282347089421/321282347089421/3421.ts
-#EXTINF:-1 tvg-name="Welt Der Wunder" tvg-logo="" group-title="{BOUQUET_NAME}",Welt Der Wunder
-http://iptv.atlasiptv.net:88/live/321282347089421/321282347089421/3610.ts
-#EXTINF:-1 tvg-name="ZDF Neo" tvg-logo="http://logo.ndasat.com/iptv/images/10868_zdfneo.png" group-title="{BOUQUET_NAME}",ZDF Neo
-http://iptv.atlasiptv.net:88/live/321282347089421/321282347089421/3420.ts
-#EXTINF:-1 tvg-name="Sky Sports News De" tvg-logo="http://logo.ndasat.com/iptv/images/57974_skysportnews.jpg" group-title="{BOUQUET_NAME}",Sky Sports News De
-http://iptv.atlasiptv.net:88/live/321282347089421/321282347089421/255.ts
-#EXTINF:-1 tvg-name="Sky Sport 1 DE" tvg-logo="http://logo.ndasat.com/iptv/images/69607_skysport.png" group-title="{BOUQUET_NAME}",Sky Sport 1 DE
-http://iptv.atlasiptv.net:88/live/321282347089421/321282347089421/52.ts
-#EXTINF:-1 tvg-name="Sky Sport 2 DE" tvg-logo="http://logo.ndasat.com/iptv/images/93351_skysport.png" group-title="{BOUQUET_NAME}",Sky Sport 2 DE
-http://iptv.atlasiptv.net:88/live/321282347089421/321282347089421/53.ts
-#EXTINF:-1 tvg-name="Eurosport DE" tvg-logo="http://logo.ndasat.com/iptv/images/69476_eurosport1.png" group-title="{BOUQUET_NAME}",Eurosport DE
-http://iptv.atlasiptv.net:88/live/321282347089421/321282347089421/266.ts
-#EXTINF:-1 tvg-name="Sport1 DE" tvg-logo="http://logo.ndasat.com/iptv/images/32182_sport1.png" group-title="{BOUQUET_NAME}",Sport1 DE
-http://iptv.atlasiptv.net:88/live/321282347089421/321282347089421/275.ts
-#EXTINF:-1 tvg-name="Sport1 USA DE" tvg-logo="http://logo.ndasat.com/iptv/images/51321_sport1usa.png" group-title="{BOUQUET_NAME}",Sport1 USA DE
-http://iptv.atlasiptv.net:88/live/321282347089421/321282347089421/3436.ts
-#EXTINF:-1 tvg-name="Sport Digital" tvg-logo="http://logo.ndasat.com/iptv/images/83240_sportdigital.png" group-title="{BOUQUET_NAME}",Sport Digital
-http://iptv.atlasiptv.net:88/live/321282347089421/321282347089421/3437.ts
-#EXTINF:-1 tvg-name="Sky Bundesliga1 de" tvg-logo="http://logo.ndasat.com/iptv/images/70870_skybunde.jpg" group-title="{BOUQUET_NAME}",Sky Bundesliga1 de
-http://iptv.atlasiptv.net:88/live/321282347089421/321282347089421/51.ts
-#EXTINF:-1 tvg-name="Sky Bundesliga2 (MT)" tvg-logo="http://logo.ndasat.com/iptv/images/50624_bundesliga2.jpg" group-title="{BOUQUET_NAME}",Sky Bundesliga2 (MT)
-http://iptv.atlasiptv.net:88/live/321282347089421/321282347089421/2291.ts
-#EXTINF:-1 tvg-name="Sky Bundesliga3 (MT)" tvg-logo="http://logo.ndasat.com/iptv/images/73825_bundesliga3.jpg" group-title="{BOUQUET_NAME}",Sky Bundesliga3 (MT)
-http://iptv.atlasiptv.net:88/live/321282347089421/321282347089421/2292.ts
-#EXTINF:-1 tvg-name="Sky Bundesliga4 (MT)" tvg-logo="http://logo.ndasat.com/iptv/images/29696_bunesliga4.jpg" group-title="{BOUQUET_NAME}",Sky Bundesliga4 (MT)
-http://iptv.atlasiptv.net:88/live/321282347089421/321282347089421/2293.ts
-#EXTINF:-1 tvg-name="Sky Bundesliga5 (MT)" tvg-logo="http://logo.ndasat.com/iptv/images/24854_bundesliga5.jpg" group-title="{BOUQUET_NAME}",Sky Bundesliga5 (MT)
-http://iptv.atlasiptv.net:88/live/321282347089421/321282347089421/2294.ts
-#EXTINF:-1 tvg-name="Sky Bundesliga6 (MT)" tvg-logo="http://logo.ndasat.com/iptv/images/91455_bundesliga6.jpg" group-title="{BOUQUET_NAME}",Sky Bundesliga6 (MT)
-http://iptv.atlasiptv.net:88/live/321282347089421/321282347089421/2295.ts
-#EXTINF:-1 tvg-name="VOD-Select1" tvg-logo="http://logo.ndasat.com/iptv/images/87066_germany.jpg" group-title="{BOUQUET_NAME}",VOD-Select1
-http://iptv.atlasiptv.net:88/live/321282347089421/321282347089421/557.ts
-#EXTINF:-1 tvg-name="VOD-Select2" tvg-logo="http://logo.ndasat.com/iptv/images/33521_germany.jpg" group-title="{BOUQUET_NAME}",VOD-Select2
-http://iptv.atlasiptv.net:88/live/321282347089421/321282347089421/556.ts
-#EXTINF:-1 tvg-name="VOD-Select3" tvg-logo="http://logo.ndasat.com/iptv/images/63848_germany.jpg" group-title="{BOUQUET_NAME}",VOD-Select3
-http://iptv.atlasiptv.net:88/live/321282347089421/321282347089421/555.ts
-#EXTINF:-1 tvg-name="VOD-select4" tvg-logo="http://logo.ndasat.com/iptv/images/39148_germany.jpg" group-title="{BOUQUET_NAME}",VOD-select4
-http://iptv.atlasiptv.net:88/live/321282347089421/321282347089421/554.ts
-#EXTINF:-1 tvg-name="VOD-Select5" tvg-logo="http://logo.ndasat.com/iptv/images/84948_germany.jpg" group-title="{BOUQUET_NAME}",VOD-Select5
-http://iptv.atlasiptv.net:88/live/321282347089421/321282347089421/553.ts
-#EXTINF:-1 tvg-name="VOD-Select6" tvg-logo="http://logo.ndasat.com/iptv/images/44453_germany.jpg" group-title="{BOUQUET_NAME}",VOD-Select6
-http://iptv.atlasiptv.net:88/live/321282347089421/321282347089421/552.ts
-
+#EXTINF:-1,DE: ZDF
+http://bnt-team.ddns.net/live/ScambioToto/Qv69rDwrig/8209.ts
+#EXTINF:-1,DE: RTL HD
+http://bnt-team.ddns.net/live/ScambioToto/Qv69rDwrig/8208.ts
+#EXTINF:-1,DE: RTL SD
+http://bnt-team.ddns.net/live/ScambioToto/Qv69rDwrig/8207.ts
+#EXTINF:-1,DE: RTL 2 HD
+http://bnt-team.ddns.net/live/ScambioToto/Qv69rDwrig/8206.ts
+#EXTINF:-1,DE: RTL 2 SD
+http://bnt-team.ddns.net/live/ScambioToto/Qv69rDwrig/8205.ts
+#EXTINF:-1,DE: Super RTL HD
+http://bnt-team.ddns.net/live/ScambioToto/Qv69rDwrig/8204.ts
+#EXTINF:-1,DE: Sixx
+http://bnt-team.ddns.net/live/ScambioToto/Qv69rDwrig/8203.ts
+#EXTINF:-1,DE: Prosieben HD
+http://bnt-team.ddns.net/live/ScambioToto/Qv69rDwrig/8202.ts
+#EXTINF:-1,DE: Sat 1
+http://bnt-team.ddns.net/live/ScambioToto/Qv69rDwrig/8201.ts
+#EXTINF:-1,DE: VOX HD
+http://bnt-team.ddns.net/live/ScambioToto/Qv69rDwrig/8200.ts
+#EXTINF:-1,DE: KABEL 1 HD
+http://bnt-team.ddns.net/live/ScambioToto/Qv69rDwrig/8198.ts
+#EXTINF:-1,DE: Kabel 1
+http://bnt-team.ddns.net/live/ScambioToto/Qv69rDwrig/8199.ts
+#EXTINF:-1,DE: Tele 5 tv HD
+http://bnt-team.ddns.net/live/ScambioToto/Qv69rDwrig/8197.ts
+#EXTINF:-1,DE: ProSieben Maxx
+http://bnt-team.ddns.net/live/ScambioToto/Qv69rDwrig/8196.ts
+#EXTINF:-1,DE: Pro7 Maxx HD
+http://bnt-team.ddns.net/live/ScambioToto/Qv69rDwrig/8195.ts
+#EXTINF:-1,DE:RTL NITRO
+http://bnt-team.ddns.net/live/ScambioToto/Qv69rDwrig/8194.ts
+#EXTINF:-1,DE:Arte HD
+http://bnt-team.ddns.net/live/ScambioToto/Qv69rDwrig/8193.ts
+#EXTINF:-1,DE: 3Sat HD
+http://bnt-team.ddns.net/live/ScambioToto/Qv69rDwrig/8192.ts
+#EXTINF:-1,DE: Anixe HD Series
+http://bnt-team.ddns.net/live/ScambioToto/Qv69rDwrig/8191.ts
+#EXTINF:-1,DE: Zee one HD
+http://bnt-team.ddns.net/live/ScambioToto/Qv69rDwrig/8190.ts
+#EXTINF:-1,DE: ORF 1 HD
+http://bnt-team.ddns.net/live/ScambioToto/Qv69rDwrig/8189.ts
+#EXTINF:-1,DE: ORF 2 HD
+http://bnt-team.ddns.net/live/ScambioToto/Qv69rDwrig/8188.ts
+#EXTINF:-1,DE: ORF 3 HD
+http://bnt-team.ddns.net/live/ScambioToto/Qv69rDwrig/8187.ts
+#EXTINF:-1,DE: Augsburg TV
+http://bnt-team.ddns.net/live/ScambioToto/Qv69rDwrig/8186.ts
+#EXTINF:-1,DE: Austria 24
+http://bnt-team.ddns.net/live/ScambioToto/Qv69rDwrig/8185.ts
+#EXTINF:-1,DE: Munchen TV
+http://bnt-team.ddns.net/live/ScambioToto/Qv69rDwrig/8184.ts
+#EXTINF:-1,DE: NDR HD
+http://bnt-team.ddns.net/live/ScambioToto/Qv69rDwrig/8183.ts
+#EXTINF:-1,DE: Prosieben Fun HD
+http://bnt-team.ddns.net/live/ScambioToto/Qv69rDwrig/8182.ts
+#EXTINF:-1,DE: Sony HD
+http://bnt-team.ddns.net/live/ScambioToto/Qv69rDwrig/8181.ts
+#EXTINF:-1,DE: SRF 1 HD
+http://bnt-team.ddns.net/live/ScambioToto/Qv69rDwrig/8180.ts
+#EXTINF:-1,DE: SRF 2
+http://bnt-team.ddns.net/live/ScambioToto/Qv69rDwrig/8179.ts
+#EXTINF:-1,DE:RTL You HD
+http://bnt-team.ddns.net/live/ScambioToto/Qv69rDwrig/8178.ts
+#EXTINF:-1,=== Sky Deutschland ===
+http://bnt-team.ddns.net/live/ScambioToto/Qv69rDwrig/8177.ts
+#EXTINF:-1,DE: Sky Cinema HD
+http://bnt-team.ddns.net/live/ScambioToto/Qv69rDwrig/8176.ts
+#EXTINF:-1,DE: Sky Cinema +1 HD
+http://bnt-team.ddns.net/live/ScambioToto/Qv69rDwrig/8175.ts
+#EXTINF:-1,DE: Sky Cinema +24 HD
+http://bnt-team.ddns.net/live/ScambioToto/Qv69rDwrig/8174.ts
+#EXTINF:-1,DE: Sky Cinema Action HD
+http://bnt-team.ddns.net/live/ScambioToto/Qv69rDwrig/8173.ts
+#EXTINF:-1,DE: Sky Cinema Comedy HD
+http://bnt-team.ddns.net/live/ScambioToto/Qv69rDwrig/8172.ts
+#EXTINF:-1,DE: Sky Cinema Emotion HD
+http://bnt-team.ddns.net/live/ScambioToto/Qv69rDwrig/8171.ts
+#EXTINF:-1,DE: Sky Cinema Family HD
+http://bnt-team.ddns.net/live/ScambioToto/Qv69rDwrig/13473.ts
+#EXTINF:-1,DE: Sky Cinema Nostalgie HD
+http://bnt-team.ddns.net/live/ScambioToto/Qv69rDwrig/8170.ts
+#EXTINF:-1,De: Sky Cinema Hits HD
+http://bnt-team.ddns.net/live/ScambioToto/Qv69rDwrig/8169.ts
+#EXTINF:-1,DE: Kinowelt TV HD
+http://bnt-team.ddns.net/live/ScambioToto/Qv69rDwrig/8168.ts
+#EXTINF:-1,DE: TNT Comedy HD
+http://bnt-team.ddns.net/live/ScambioToto/Qv69rDwrig/8167.ts
+#EXTINF:-1,DE: TNT Film HD
+http://bnt-team.ddns.net/live/ScambioToto/Qv69rDwrig/8166.ts
+#EXTINF:-1,Dea Junior
+http://bnt-team.ddns.net/live/ScambioToto/Qv69rDwrig/219.ts
+#EXTINF:-1,DE: Kabel Classic HD
+http://bnt-team.ddns.net/live/ScambioToto/Qv69rDwrig/8165.ts
+#EXTINF:-1,=== Sky Cinema Deutschland SD ===
+http://bnt-team.ddns.net/live/ScambioToto/Qv69rDwrig/8222.ts
+#EXTINF:-1,DE: Sky Cinema Germany SD
+http://bnt-team.ddns.net/live/ScambioToto/Qv69rDwrig/8701.ts
+#EXTINF:-1,DE: Sky Cinema +1 SD
+http://bnt-team.ddns.net/live/ScambioToto/Qv69rDwrig/8689.ts
+#EXTINF:-1,DE: Sky Cinema +24 Germany SD
+http://bnt-team.ddns.net/live/ScambioToto/Qv69rDwrig/8693.ts
+#EXTINF:-1,DE: Sky Cinema Comedy Germany SD
+http://bnt-team.ddns.net/live/ScambioToto/Qv69rDwrig/8695.ts
+#EXTINF:-1,DE: Sky Cinema Emotion Germany SD
+http://bnt-team.ddns.net/live/ScambioToto/Qv69rDwrig/8702.ts
+#EXTINF:-1,DE: Sky Cinema Family SD
+http://bnt-team.ddns.net/live/ScambioToto/Qv69rDwrig/8706.ts
+#EXTINF:-1,DE: Sky Cinema Hits Germany SD
+http://bnt-team.ddns.net/live/ScambioToto/Qv69rDwrig/8697.ts
+#EXTINF:-1,DE: Sky Cinema Nostalgie Germany SD
+http://bnt-team.ddns.net/live/ScambioToto/Qv69rDwrig/8707.ts
+#EXTINF:-1,DE: Sky Cinema Action SD
+http://bnt-team.ddns.net/live/ScambioToto/Qv69rDwrig/12887.ts
+#EXTINF:-1,DE: Sky Atlantic SD
+http://bnt-team.ddns.net/live/ScambioToto/Qv69rDwrig/12889.ts
+#EXTINF:-1,DE: Sky Krimi SD
+http://bnt-team.ddns.net/live/ScambioToto/Qv69rDwrig/12888.ts
+#EXTINF:-1,=== Unterhaltung ===
+http://bnt-team.ddns.net/live/ScambioToto/Qv69rDwrig/8164.ts
+#EXTINF:-1,DE: Sky Atlantic
+http://bnt-team.ddns.net/live/ScambioToto/Qv69rDwrig/8163.ts
+#EXTINF:-1,DE: FOX HD
+http://bnt-team.ddns.net/live/ScambioToto/Qv69rDwrig/8162.ts
+#EXTINF:-1,DE: SYFY HD
+http://bnt-team.ddns.net/live/ScambioToto/Qv69rDwrig/8161.ts
+#EXTINF:-1,DE: Sky Krimi
+http://bnt-team.ddns.net/live/ScambioToto/Qv69rDwrig/8160.ts
+#EXTINF:-1,DE: Universal Channel HD
+http://bnt-team.ddns.net/live/ScambioToto/Qv69rDwrig/8159.ts
+#EXTINF:-1,DE: 13th Street HD
+http://bnt-team.ddns.net/live/ScambioToto/Qv69rDwrig/8158.ts
+#EXTINF:-1,DE: 13th Street
+http://bnt-team.ddns.net/live/ScambioToto/Qv69rDwrig/8157.ts
+#EXTINF:-1,DE: TNT Serie HD
+http://bnt-team.ddns.net/live/ScambioToto/Qv69rDwrig/8156.ts
+#EXTINF:-1,DE: E! HD
+http://bnt-team.ddns.net/live/ScambioToto/Qv69rDwrig/8155.ts
+#EXTINF:-1,DE: RTL Crime
+http://bnt-team.ddns.net/live/ScambioToto/Qv69rDwrig/8154.ts
+#EXTINF:-1,DE: RTL Passion
+http://bnt-team.ddns.net/live/ScambioToto/Qv69rDwrig/8153.ts
+#EXTINF:-1,DE: RTL Living HD
+http://bnt-team.ddns.net/live/ScambioToto/Qv69rDwrig/8152.ts
+#EXTINF:-1,DE: Sky DMAX
+http://bnt-team.ddns.net/live/ScambioToto/Qv69rDwrig/8151.ts
+#EXTINF:-1,DE: Sat 1 Gold
+http://bnt-team.ddns.net/live/ScambioToto/Qv69rDwrig/8150.ts
+#EXTINF:-1,DE: Romance TV HD
+http://bnt-team.ddns.net/live/ScambioToto/Qv69rDwrig/8149.ts
+#EXTINF:-1,DE: VIVA / COMEDY CENTRAL
+http://bnt-team.ddns.net/live/ScambioToto/Qv69rDwrig/8146.ts
+#EXTINF:-1,=== Sport ===
+http://bnt-team.ddns.net/live/ScambioToto/Qv69rDwrig/8145.ts
+#EXTINF:-1,DE: SKY Sport News HD
+http://bnt-team.ddns.net/live/ScambioToto/Qv69rDwrig/8141.ts
+#EXTINF:-1,DE: Sport Digital HD
+http://bnt-team.ddns.net/live/ScambioToto/Qv69rDwrig/8140.ts
+#EXTINF:-1,DE: Sky Sport 1 HD
+http://bnt-team.ddns.net/live/ScambioToto/Qv69rDwrig/8136.ts
+#EXTINF:-1,DE: Sky Sport 1 SD
+http://bnt-team.ddns.net/live/ScambioToto/Qv69rDwrig/8703.ts
+#EXTINF:-1,DE: Sky Sport 2 HD
+http://bnt-team.ddns.net/live/ScambioToto/Qv69rDwrig/8133.ts
+#EXTINF:-1,DE: Sky Sport 2 SD
+http://bnt-team.ddns.net/live/ScambioToto/Qv69rDwrig/8698.ts
+#EXTINF:-1,DE: Sky Sport 3 HD
+http://bnt-team.ddns.net/live/ScambioToto/Qv69rDwrig/8130.ts
+#EXTINF:-1,DE: Sky Sport 4 HD
+http://bnt-team.ddns.net/live/ScambioToto/Qv69rDwrig/8129.ts
+#EXTINF:-1,DE: Sky Sport 5 HD
+http://bnt-team.ddns.net/live/ScambioToto/Qv69rDwrig/8128.ts
+#EXTINF:-1,DE: Sky Sport 6 HD
+http://bnt-team.ddns.net/live/ScambioToto/Qv69rDwrig/8127.ts
+#EXTINF:-1,DE: Sky Sport 7 HD
+http://bnt-team.ddns.net/live/ScambioToto/Qv69rDwrig/8126.ts
+#EXTINF:-1,DE: Sky Sport 8 HD
+http://bnt-team.ddns.net/live/ScambioToto/Qv69rDwrig/8125.ts
+#EXTINF:-1,DE: Sky Sport 9 HD
+http://bnt-team.ddns.net/live/ScambioToto/Qv69rDwrig/8124.ts
+#EXTINF:-1,DE: Sky Sport 10 HD
+http://bnt-team.ddns.net/live/ScambioToto/Qv69rDwrig/8123.ts
+#EXTINF:-1,DE:Sky Sport Bundesliga 1 SD
+http://bnt-team.ddns.net/live/ScambioToto/Qv69rDwrig/8704.ts
+#EXTINF:-1,DE: Sky Sport Bundesliga 1 HD
+http://bnt-team.ddns.net/live/ScambioToto/Qv69rDwrig/8122.ts
+#EXTINF:-1,DE: Sky Sport Bundesliga 2 HD
+http://bnt-team.ddns.net/live/ScambioToto/Qv69rDwrig/8120.ts
+#EXTINF:-1,DE: Sky Sport Bundesliga 2 SD
+http://bnt-team.ddns.net/live/ScambioToto/Qv69rDwrig/8119.ts
+#EXTINF:-1,DE: Sky Sport Bundesliga 3 HD
+http://bnt-team.ddns.net/live/ScambioToto/Qv69rDwrig/8118.ts
+#EXTINF:-1,DE: Sky Sport Bundesliga 3 SD
+http://bnt-team.ddns.net/live/ScambioToto/Qv69rDwrig/8117.ts
+#EXTINF:-1,DE: Sky Sport Bundesliga 4 HD
+http://bnt-team.ddns.net/live/ScambioToto/Qv69rDwrig/8116.ts
+#EXTINF:-1,DE: Sky Sport Bundesliga 4 SD
+http://bnt-team.ddns.net/live/ScambioToto/Qv69rDwrig/8115.ts
+#EXTINF:-1,DE: Sky Sport Bundesliga 5 HD
+http://bnt-team.ddns.net/live/ScambioToto/Qv69rDwrig/8114.ts
+#EXTINF:-1,DE: Sky Sport Bundesliga 5 SD
+http://bnt-team.ddns.net/live/ScambioToto/Qv69rDwrig/8113.ts
+#EXTINF:-1,DE: Sky Sport Bundesliga 6 HD
+http://bnt-team.ddns.net/live/ScambioToto/Qv69rDwrig/8112.ts
+#EXTINF:-1,DE: Sky Sport Bundesliga 7 HD
+http://bnt-team.ddns.net/live/ScambioToto/Qv69rDwrig/8111.ts
+#EXTINF:-1,DE: Sky Sport Bundesliga 8 HD
+http://bnt-team.ddns.net/live/ScambioToto/Qv69rDwrig/8110.ts
+#EXTINF:-1,DE: Sky Sport Bundesliga 9 HD
+http://bnt-team.ddns.net/live/ScambioToto/Qv69rDwrig/8109.ts
+#EXTINF:-1,DE: Sky Sport Bundesliga 10 HD
+http://bnt-team.ddns.net/live/ScambioToto/Qv69rDwrig/8108.ts
+#EXTINF:-1,DE: Sky Sport Austria HD
+http://bnt-team.ddns.net/live/ScambioToto/Qv69rDwrig/8142.ts
+#EXTINF:-1,DE: ORF Sport   HD
+http://bnt-team.ddns.net/live/ScambioToto/Qv69rDwrig/8107.ts
+#EXTINF:-1,DE: VIP: Sport 1 US HD
+http://bnt-team.ddns.net/live/ScambioToto/Qv69rDwrig/8143.ts
+#EXTINF:-1,DE: Eurosport 1
+http://bnt-team.ddns.net/live/ScambioToto/Qv69rDwrig/8139.ts
+#EXTINF:-1,DE: Eurosport 2
+http://bnt-team.ddns.net/live/ScambioToto/Qv69rDwrig/8138.ts
+#EXTINF:-1,=== Kultur ===
+http://bnt-team.ddns.net/live/ScambioToto/Qv69rDwrig/8106.ts
+#EXTINF:-1,DE: National Geographic HD
+http://bnt-team.ddns.net/live/ScambioToto/Qv69rDwrig/8105.ts
+#EXTINF:-1,DE: Nat Geo People HD
+http://bnt-team.ddns.net/live/ScambioToto/Qv69rDwrig/8104.ts
+#EXTINF:-1,DE: Nat Geo Wild HD
+http://bnt-team.ddns.net/live/ScambioToto/Qv69rDwrig/8103.ts
+#EXTINF:-1,DE: Discovery Channel HD
+http://bnt-team.ddns.net/live/ScambioToto/Qv69rDwrig/8102.ts
+#EXTINF:-1,DE: History Channel HD
+http://bnt-team.ddns.net/live/ScambioToto/Qv69rDwrig/8101.ts
+#EXTINF:-1,DE: A&E HD
+http://bnt-team.ddns.net/live/ScambioToto/Qv69rDwrig/8100.ts
+#EXTINF:-1,DE: ZDF Info HD
+http://bnt-team.ddns.net/live/ScambioToto/Qv69rDwrig/8099.ts
+#EXTINF:-1,DE: Kabel1 Doku
+http://bnt-team.ddns.net/live/ScambioToto/Qv69rDwrig/8098.ts
+#EXTINF:-1,DE: PLANET HD
+http://bnt-team.ddns.net/live/ScambioToto/Qv69rDwrig/8097.ts
+#EXTINF:-1,DE: Animal Planet HD
+http://bnt-team.ddns.net/live/ScambioToto/Qv69rDwrig/8096.ts
+#EXTINF:-1,=== Musik ===
+http://bnt-team.ddns.net/live/ScambioToto/Qv69rDwrig/8095.ts
+#EXTINF:-1,DE: MTV Germany
+http://bnt-team.ddns.net/live/ScambioToto/Qv69rDwrig/8094.ts
+#EXTINF:-1,=== Kinder ===
+http://bnt-team.ddns.net/live/ScambioToto/Qv69rDwrig/8093.ts
+#EXTINF:-1,DE: Disney Channel HD
+http://bnt-team.ddns.net/live/ScambioToto/Qv69rDwrig/8092.ts
+#EXTINF:-1,DE: Disney Cinemagic HD
+http://bnt-team.ddns.net/live/ScambioToto/Qv69rDwrig/8091.ts
+#EXTINF:-1,DE: Disney XD HD
+http://bnt-team.ddns.net/live/ScambioToto/Qv69rDwrig/8090.ts
+#EXTINF:-1,DE: Sky Cartoon Network HD
+http://bnt-team.ddns.net/live/ScambioToto/Qv69rDwrig/8088.ts
+#EXTINF:-1,DE: Boomerang HD
+http://bnt-team.ddns.net/live/ScambioToto/Qv69rDwrig/8087.ts
+#EXTINF:-1,DE: Disney Junior HD
+http://bnt-team.ddns.net/live/ScambioToto/Qv69rDwrig/8086.ts
+#EXTINF:-1,DE: Nickelodeon HD
+http://bnt-team.ddns.net/live/ScambioToto/Qv69rDwrig/8085.ts
+#EXTINF:-1,DE: Nickelodeon Schweiz HD
+http://bnt-team.ddns.net/live/ScambioToto/Qv69rDwrig/8084.ts
+#EXTINF:-1,DE: Nick JR HD
+http://bnt-team.ddns.net/live/ScambioToto/Qv69rDwrig/8083.ts
+#EXTINF:-1,DE: KIKA HD
+http://bnt-team.ddns.net/live/ScambioToto/Qv69rDwrig/8082.ts
+#EXTINF:-1,=== Informationen ===
+http://bnt-team.ddns.net/live/ScambioToto/Qv69rDwrig/8081.ts
+#EXTINF:-1,DE: N24
+http://bnt-team.ddns.net/live/ScambioToto/Qv69rDwrig/8080.ts
+#EXTINF:-1,DE: Euronews DE
+http://bnt-team.ddns.net/live/ScambioToto/Qv69rDwrig/8079.ts
+#EXTINF:-1,=== Sky Select ===
+http://bnt-team.ddns.net/live/ScambioToto/Qv69rDwrig/366.ts
+#EXTINF:-1,DE: Programmübersicht Sky Select
+http://bnt-team.ddns.net/live/ScambioToto/Qv69rDwrig/6184.ts
+#EXTINF:-1,DE: Sky Select Live 1 (Guardians of the Galaxy Vol. 2)
+http://bnt-team.ddns.net/live/ScambioToto/Qv69rDwrig/6183.ts
+#EXTINF:-1,DE: Sky Select Live 2 (Lommbock)
+http://bnt-team.ddns.net/live/ScambioToto/Qv69rDwrig/6182.ts
+#EXTINF:-1,DE: Sky Select Live 3 (Alien-Covenant)
+http://bnt-team.ddns.net/live/ScambioToto/Qv69rDwrig/6181.ts
+#EXTINF:-1,DE: Sky Select Live 4 (Pirates Of The Caribbean 5-Salazars Rache)
+http://bnt-team.ddns.net/live/ScambioToto/Qv69rDwrig/6180.ts
+#EXTINF:-1,DE: Sky Select Live 5 (Die Schlümpfe-Das verlorenen Dorf)
+http://bnt-team.ddns.net/live/ScambioToto/Qv69rDwrig/6179.ts
+#EXTINF:-1,DE: Sky Select Live 6 (Fast & Furious 8)
+http://bnt-team.ddns.net/live/ScambioToto/Qv69rDwrig/6178.ts
+#EXTINF:-1,DE: Sky Select Live 7 (Vier gegen die Bank)
+http://bnt-team.ddns.net/live/ScambioToto/Qv69rDwrig/6177.ts
+#EXTINF:-1,DE: Sky Select Live 8 (Die Schöne und das Biest)
+http://bnt-team.ddns.net/live/ScambioToto/Qv69rDwrig/6176.ts
+#EXTINF:-1,DE: Sky Select Live 9 (Ghost in the Shell)
+http://bnt-team.ddns.net/live/ScambioToto/Qv69rDwrig/6175.ts
+#EXTINF:-1,DE: Sky Select Live 10 (Kong Skull Island)
+http://bnt-team.ddns.net/live/ScambioToto/Qv69rDwrig/6174.ts
+#EXTINF:-1,DE: Sky Select Live 11 (Life)
+http://bnt-team.ddns.net/live/ScambioToto/Qv69rDwrig/6173.ts
+#EXTINF:-1,DE: Sky Select Live 12 (The Boss Baby)
+http://bnt-team.ddns.net/live/ScambioToto/Qv69rDwrig/6172.ts
+#EXTINF:-1,=====  VOD GERMANY ====
+http://bnt-team.ddns.net/live/ScambioToto/Qv69rDwrig/7631.ts
+#EXTINF:-1,VOD DE: -=====A--=====-
+http://bnt-team.ddns.net/movie/ScambioToto/Qv69rDwrig/14019.mkv
+#EXTINF:-1,VOD DE: A Most Wanted Man
+http://bnt-team.ddns.net/movie/ScambioToto/Qv69rDwrig/14018.mkv
+#EXTINF:-1,VOD DE: A Perfect Day
+http://bnt-team.ddns.net/movie/ScambioToto/Qv69rDwrig/14017.mkv
+#EXTINF:-1,VOD DE: A World Beyond - Tomorrowland
+http://bnt-team.ddns.net/movie/ScambioToto/Qv69rDwrig/14016.mkv
+#EXTINF:-1,VOD DE: Ab in n Dschungel
+http://bnt-team.ddns.net/movie/ScambioToto/Qv69rDwrig/14002.mkv
+#EXTINF:-1,VOD DE: Abgang mit Stil
+http://bnt-team.ddns.net/movie/ScambioToto/Qv69rDwrig/14001.mkv
+#EXTINF:-1,VOD DE: Abschussfahrt
+http://bnt-team.ddns.net/movie/ScambioToto/Qv69rDwrig/14015.mkv
+#EXTINF:-1,VOD DE: adpool
+http://bnt-team.ddns.net/movie/ScambioToto/Qv69rDwrig/13923.mkv
+#EXTINF:-1,VOD DE: Affenkoenig
+http://bnt-team.ddns.net/movie/ScambioToto/Qv69rDwrig/14000.mkv
+#EXTINF:-1,VOD DE: Air
+http://bnt-team.ddns.net/movie/ScambioToto/Qv69rDwrig/14014.mkv
+#EXTINF:-1,VOD DE: Alles ist Liebe
+http://bnt-team.ddns.net/movie/ScambioToto/Qv69rDwrig/14013.mkv
+#EXTINF:-1,VOD DE: Alles unter Kontrolle
+http://bnt-team.ddns.net/movie/ScambioToto/Qv69rDwrig/13999.mkv
+#EXTINF:-1,VOD DE: Alles was Kommt
+http://bnt-team.ddns.net/movie/ScambioToto/Qv69rDwrig/13998.mkv
+#EXTINF:-1,VOD DE: Aloha - Die Chance auf Gl?ck
+http://bnt-team.ddns.net/movie/ScambioToto/Qv69rDwrig/14012.mkv
+#EXTINF:-1,VOD DE: Alphabet Angst or Liebe
+http://bnt-team.ddns.net/movie/ScambioToto/Qv69rDwrig/13997.mkv
+#EXTINF:-1,VOD DE: American Heist r Coup s Lebens
+http://bnt-team.ddns.net/movie/ScambioToto/Qv69rDwrig/14011.mkv
+#EXTINF:-1,VOD DE: American Sniper
+http://bnt-team.ddns.net/movie/ScambioToto/Qv69rDwrig/14010.mkv
+#EXTINF:-1,VOD DE: Anchorman 2
+http://bnt-team.ddns.net/movie/ScambioToto/Qv69rDwrig/14009.mkv
+#EXTINF:-1,VOD DE: Angry Birds Il Film
+http://bnt-team.ddns.net/movie/ScambioToto/Qv69rDwrig/14007.mkv
+#EXTINF:-1,VOD DE: Angry Birds r Film
+http://bnt-team.ddns.net/movie/ScambioToto/Qv69rDwrig/14008.mkv
+#EXTINF:-1,VOD DE: Another Me - Mein zweites Ich
+http://bnt-team.ddns.net/movie/ScambioToto/Qv69rDwrig/14006.mkv
+#EXTINF:-1,VOD DE: Antonio ihm schmeckts nicht
+http://bnt-team.ddns.net/movie/ScambioToto/Qv69rDwrig/13996.mkv
+#EXTINF:-1,VOD DE: Antwone Fischer
+http://bnt-team.ddns.net/movie/ScambioToto/Qv69rDwrig/14005.mkv
+#EXTINF:-1,VOD DE: ar Eleanor
+http://bnt-team.ddns.net/movie/ScambioToto/Qv69rDwrig/13922.mkv
+#EXTINF:-1,VOD DE: Arielle die Meerjungfrau
+http://bnt-team.ddns.net/movie/ScambioToto/Qv69rDwrig/14004.mkv
+#EXTINF:-1,VOD DE: Arlo und Spot
+http://bnt-team.ddns.net/movie/ScambioToto/Qv69rDwrig/14003.mkv
+#EXTINF:-1,VOD DE: Asterix im Land r Goetter
+http://bnt-team.ddns.net/movie/ScambioToto/Qv69rDwrig/13994.mkv
+#EXTINF:-1,VOD DE: Ausnahmesituation
+http://bnt-team.ddns.net/movie/ScambioToto/Qv69rDwrig/13995.mkv
+#EXTINF:-1,VOD DE: -=====B--=====-
+http://bnt-team.ddns.net/movie/ScambioToto/Qv69rDwrig/13993.mkv
+#EXTINF:-1,VOD DE: : Barbershop 3
+http://bnt-team.ddns.net/movie/ScambioToto/Qv69rDwrig/13927.mkv
+#EXTINF:-1,VOD DE: Bad Moms
+http://bnt-team.ddns.net/movie/ScambioToto/Qv69rDwrig/13992.mkv
+#EXTINF:-1,VOD DE: Bad Neighbors 2
+http://bnt-team.ddns.net/movie/ScambioToto/Qv69rDwrig/13991.mkv
+#EXTINF:-1,VOD DE: Barbie in das Agenten Team
+http://bnt-team.ddns.net/movie/ScambioToto/Qv69rDwrig/13990.mkv
+#EXTINF:-1,VOD DE: Barbie Mariposa und die Feenprinzessin
+http://bnt-team.ddns.net/movie/ScambioToto/Qv69rDwrig/13989.mkv
+#EXTINF:-1,VOD DE: Barbie praesentiert elfinchen
+http://bnt-team.ddns.net/movie/ScambioToto/Qv69rDwrig/13988.mkv
+#EXTINF:-1,VOD DE: Bastille Day
+http://bnt-team.ddns.net/movie/ScambioToto/Qv69rDwrig/13987.mkv
+#EXTINF:-1,VOD DE: Bastille Day Il Colpo l Secolo
+http://bnt-team.ddns.net/movie/ScambioToto/Qv69rDwrig/13986.mkv
+#EXTINF:-1,VOD DE: Battle B Boy Tanz um in Leben
+http://bnt-team.ddns.net/movie/ScambioToto/Qv69rDwrig/13985.mkv
+#EXTINF:-1,VOD DE: Bauernopfer Spiel r Koenige
+http://bnt-team.ddns.net/movie/ScambioToto/Qv69rDwrig/13984.mkv
+#EXTINF:-1,VOD DE: Before I Wake
+http://bnt-team.ddns.net/movie/ScambioToto/Qv69rDwrig/13971.mkv
+#EXTINF:-1,VOD DE: Big Business ausser spesen nichts gewesen
+http://bnt-team.ddns.net/movie/ScambioToto/Qv69rDwrig/13983.mkv
+#EXTINF:-1,VOD DE: Billy.Il.Koala
+http://bnt-team.ddns.net/movie/ScambioToto/Qv69rDwrig/13973.mkv
+#EXTINF:-1,VOD DE: Black Mass
+http://bnt-team.ddns.net/movie/ScambioToto/Qv69rDwrig/13972.mkv
+#EXTINF:-1,VOD DE: Black mountain si
+http://bnt-team.ddns.net/movie/ScambioToto/Qv69rDwrig/13982.mkv
+#EXTINF:-1,VOD DE: Blackhat utsch
+http://bnt-team.ddns.net/movie/ScambioToto/Qv69rDwrig/13981.mkv
+#EXTINF:-1,VOD DE: Blackway Auf m Pfad r Rache
+http://bnt-team.ddns.net/movie/ScambioToto/Qv69rDwrig/13970.mkv
+#EXTINF:-1,VOD DE: Blair Witch
+http://bnt-team.ddns.net/movie/ScambioToto/Qv69rDwrig/13980.mkv
+#EXTINF:-1,VOD DE: Blood Father
+http://bnt-team.ddns.net/movie/ScambioToto/Qv69rDwrig/13979.mkv
+#EXTINF:-1,VOD DE: Blutmond die Nacht r Werw?lfe
+http://bnt-team.ddns.net/movie/ScambioToto/Qv69rDwrig/13978.mkv
+#EXTINF:-1,VOD DE: Blutzbruedaz
+http://bnt-team.ddns.net/movie/ScambioToto/Qv69rDwrig/13976.mkv
+#EXTINF:-1,VOD DE: Bone Tomahawk
+http://bnt-team.ddns.net/movie/ScambioToto/Qv69rDwrig/13977.mkv
+#EXTINF:-1,VOD DE: Boss Baby
+http://bnt-team.ddns.net/movie/ScambioToto/Qv69rDwrig/13969.mkv
+#EXTINF:-1,VOD DE: Bridget Jones Baby
+http://bnt-team.ddns.net/movie/ScambioToto/Qv69rDwrig/13968.mkv
+#EXTINF:-1,VOD DE: Broadway Therapy
+http://bnt-team.ddns.net/movie/ScambioToto/Qv69rDwrig/13975.mkv
+#EXTINF:-1,VOD DE: By The Sea  2
+http://bnt-team.ddns.net/movie/ScambioToto/Qv69rDwrig/13974.mkv
+#EXTINF:-1,VOD DE: : Boom Sex mit r Ex
+http://bnt-team.ddns.net/movie/ScambioToto/Qv69rDwrig/13926.mkv
+#EXTINF:-1,VOD DE: -=====C--=====-
+http://bnt-team.ddns.net/movie/ScambioToto/Qv69rDwrig/13967.mkv
+#EXTINF:-1,VOD DE: Cabin Fever
+http://bnt-team.ddns.net/movie/ScambioToto/Qv69rDwrig/13966.mkv
+#EXTINF:-1,VOD DE: Cafe Society
+http://bnt-team.ddns.net/movie/ScambioToto/Qv69rDwrig/13965.mkv
+#EXTINF:-1,VOD DE: Camorra ventta
+http://bnt-team.ddns.net/movie/ScambioToto/Qv69rDwrig/13961.mkv
+#EXTINF:-1,VOD DE: Camp Rock
+http://bnt-team.ddns.net/movie/ScambioToto/Qv69rDwrig/13960.mkv
+#EXTINF:-1,VOD DE: Carnage Park
+http://bnt-team.ddns.net/movie/ScambioToto/Qv69rDwrig/13964.mkv
+#EXTINF:-1,VOD DE: : 10 Cloverfield Lane
+http://bnt-team.ddns.net/movie/ScambioToto/Qv69rDwrig/13589.mkv
+#EXTINF:-1,VOD DE: Cherry bomb
+http://bnt-team.ddns.net/movie/ScambioToto/Qv69rDwrig/13585.mkv
+#EXTINF:-1,VOD DE: Central Intelligence
+http://bnt-team.ddns.net/movie/ScambioToto/Qv69rDwrig/13959.mkv
+#EXTINF:-1,VOD DE: Chappie
+http://bnt-team.ddns.net/movie/ScambioToto/Qv69rDwrig/13958.mkv
+#EXTINF:-1,VOD DE: Chupacabra
+http://bnt-team.ddns.net/movie/ScambioToto/Qv69rDwrig/13957.mkv
+#EXTINF:-1,VOD DE: cinevision-gaensehaut
+http://bnt-team.ddns.net/movie/ScambioToto/Qv69rDwrig/13956.mkv
+#EXTINF:-1,VOD DE: City of Mc Farland
+http://bnt-team.ddns.net/movie/ScambioToto/Qv69rDwrig/13955.mkv
+#EXTINF:-1,VOD DE: Close Range
+http://bnt-team.ddns.net/movie/ScambioToto/Qv69rDwrig/13954.mkv
+#EXTINF:-1,VOD DE: Cobbler-r Schuhmagier
+http://bnt-team.ddns.net/movie/ScambioToto/Qv69rDwrig/13953.mkv
+#EXTINF:-1,VOD DE: Colli
+http://bnt-team.ddns.net/movie/ScambioToto/Qv69rDwrig/13963.mkv
+#EXTINF:-1,VOD DE: Colonia Dignidad Es gibt kein Zurueck
+http://bnt-team.ddns.net/movie/ScambioToto/Qv69rDwrig/13952.mkv
+#EXTINF:-1,VOD DE: Confirmation
+http://bnt-team.ddns.net/movie/ScambioToto/Qv69rDwrig/13951.mkv
+#EXTINF:-1,VOD DE: Cop Car
+http://bnt-team.ddns.net/movie/ScambioToto/Qv69rDwrig/13950.mkv
+#EXTINF:-1,VOD DE: Covert Operation Im Visier r Fein
+http://bnt-team.ddns.net/movie/ScambioToto/Qv69rDwrig/13962.mkv
+#EXTINF:-1,VOD DE: Creed
+http://bnt-team.ddns.net/movie/ScambioToto/Qv69rDwrig/13949.mkv
+#EXTINF:-1,VOD DE: Creed - Rockys Legacy
+http://bnt-team.ddns.net/movie/ScambioToto/Qv69rDwrig/13948.mkv
+#EXTINF:-1,VOD DE: Criminal Activities
+http://bnt-team.ddns.net/movie/ScambioToto/Qv69rDwrig/13947.mkv
+#EXTINF:-1,VOD DE: Crimson Peak
+http://bnt-team.ddns.net/movie/ScambioToto/Qv69rDwrig/13946.mkv
+#EXTINF:-1,VOD DE: Critters 3 - Die Kuschelkiller kommen
+http://bnt-team.ddns.net/movie/ScambioToto/Qv69rDwrig/13945.mkv
+#EXTINF:-1,VOD DE: -=====D--=====-
+http://bnt-team.ddns.net/movie/ScambioToto/Qv69rDwrig/13944.mkv
+#EXTINF:-1,VOD DE: Da Muss Mann Durch
+http://bnt-team.ddns.net/movie/ScambioToto/Qv69rDwrig/13943.mkv
+#EXTINF:-1,VOD DE: Dark Places
+http://bnt-team.ddns.net/movie/ScambioToto/Qv69rDwrig/13939.mkv
+#EXTINF:-1,VOD DE: : Doku - 11.September Die dritte Wahrheit
+http://bnt-team.ddns.net/movie/ScambioToto/Qv69rDwrig/13577.mkv
+#EXTINF:-1,VOD DE: Dark Places Gefaehrliche Erinnerung
+http://bnt-team.ddns.net/movie/ScambioToto/Qv69rDwrig/13942.mkv
+#EXTINF:-1,VOD DE: : Daddys Home Ein Vater zuviel
+http://bnt-team.ddns.net/movie/ScambioToto/Qv69rDwrig/13928.mkv
+#EXTINF:-1,VOD DE: Das grosse Schreckensriff
+http://bnt-team.ddns.net/movie/ScambioToto/Qv69rDwrig/13941.mkv
+#EXTINF:-1,VOD DE: Das Liebes Versteck
+http://bnt-team.ddns.net/movie/ScambioToto/Qv69rDwrig/13940.mkv
+#EXTINF:-1,VOD DE: Das Magische Haus
+http://bnt-team.ddns.net/movie/ScambioToto/Qv69rDwrig/13938.mkv
+#EXTINF:-1,VOD DE: Das tagebuch r Anne Frank
+http://bnt-team.ddns.net/movie/ScambioToto/Qv69rDwrig/13937.mkv
+#EXTINF:-1,VOD DE: Day Liebe ist kein Kinrspiel
+http://bnt-team.ddns.net/movie/ScambioToto/Qv69rDwrig/13875.mkv
+#EXTINF:-1,VOD DE: Diablo
+http://bnt-team.ddns.net/movie/ScambioToto/Qv69rDwrig/13892.mkv
+#EXTINF:-1,VOD DE: Die akte
+http://bnt-team.ddns.net/movie/ScambioToto/Qv69rDwrig/13902.mkv
+#EXTINF:-1,VOD DE: Die Bestimmung - Allegiant
+http://bnt-team.ddns.net/movie/ScambioToto/Qv69rDwrig/13901.mkv
+#EXTINF:-1,VOD DE: Die Bestimmung - Divergent
+http://bnt-team.ddns.net/movie/ScambioToto/Qv69rDwrig/13900.mkv
+#EXTINF:-1,VOD DE: Die Bestimmung - Insurgent
+http://bnt-team.ddns.net/movie/ScambioToto/Qv69rDwrig/13899.mkv
+#EXTINF:-1,VOD DE: Die Blackway Auf m Pfad r Rache
+http://bnt-team.ddns.net/movie/ScambioToto/Qv69rDwrig/13934.mkv
+#EXTINF:-1,VOD DE: Die Eindringlinge
+http://bnt-team.ddns.net/movie/ScambioToto/Qv69rDwrig/13898.mkv
+#EXTINF:-1,VOD DE: Die enckung r Unendlichkeit
+http://bnt-team.ddns.net/movie/ScambioToto/Qv69rDwrig/13935.mkv
+#EXTINF:-1,VOD DE: Die Entf?hrung von Bus 657
+http://bnt-team.ddns.net/movie/ScambioToto/Qv69rDwrig/13897.mkv
+#EXTINF:-1,VOD DE: Die f?nte Welle
+http://bnt-team.ddns.net/movie/ScambioToto/Qv69rDwrig/13896.mkv
+#EXTINF:-1,VOD DE: Die Glorreichen Sieben
+http://bnt-team.ddns.net/movie/ScambioToto/Qv69rDwrig/13936.mkv
+#EXTINF:-1,VOD DE: Die hard - Vivere o morire  Bruce Willis
+http://bnt-team.ddns.net/movie/ScambioToto/Qv69rDwrig/13878.mkv
+#EXTINF:-1,VOD DE: Die Hard trappola di Cristallo  Bruce Willis
+http://bnt-team.ddns.net/movie/ScambioToto/Qv69rDwrig/13877.mkv
+#EXTINF:-1,VOD DE: Die Insel r Abenteuer
+http://bnt-team.ddns.net/movie/ScambioToto/Qv69rDwrig/13893.mkv
+#EXTINF:-1,VOD DE: Die Insel r besonren Kinr
+http://bnt-team.ddns.net/movie/ScambioToto/Qv69rDwrig/13894.mkv
+#EXTINF:-1,VOD DE: Die Jones-Spione von nebenan
+http://bnt-team.ddns.net/movie/ScambioToto/Qv69rDwrig/13871.mkv
+#EXTINF:-1,VOD DE: Die Jungen Wiln
+http://bnt-team.ddns.net/movie/ScambioToto/Qv69rDwrig/13870.mkv
+#EXTINF:-1,VOD DE: Die Legen von Oz Dorothys Rueckkehr
+http://bnt-team.ddns.net/movie/ScambioToto/Qv69rDwrig/13895.mkv
+#EXTINF:-1,VOD DE: Die Nachkommen
+http://bnt-team.ddns.net/movie/ScambioToto/Qv69rDwrig/13932.mkv
+#EXTINF:-1,VOD DE: Die Peanuts
+http://bnt-team.ddns.net/movie/ScambioToto/Qv69rDwrig/13880.mkv
+#EXTINF:-1,VOD DE: Die Taschendiebin
+http://bnt-team.ddns.net/movie/ScambioToto/Qv69rDwrig/13869.mkv
+#EXTINF:-1,VOD DE: Die Tribute von Panem 2012
+http://bnt-team.ddns.net/movie/ScambioToto/Qv69rDwrig/13891.mkv
+#EXTINF:-1,VOD DE: Die Tribute von Panem 2013 - Catching Fire
+http://bnt-team.ddns.net/movie/ScambioToto/Qv69rDwrig/13890.mkv
+#EXTINF:-1,VOD DE: Die Tribute von Panem 2014 - Mockingjay Teil 1
+http://bnt-team.ddns.net/movie/ScambioToto/Qv69rDwrig/13889.mkv
+#EXTINF:-1,VOD DE: Die Tribute von Panem 2015 - Mockingjay Teil 2
+http://bnt-team.ddns.net/movie/ScambioToto/Qv69rDwrig/13888.mkv
+#EXTINF:-1,VOD DE: Die Tribute von Panem Catching Fire
+http://bnt-team.ddns.net/movie/ScambioToto/Qv69rDwrig/13887.mkv
+#EXTINF:-1,VOD DE: Die Tribute von Panem Mockingjay Teil 2
+http://bnt-team.ddns.net/movie/ScambioToto/Qv69rDwrig/13886.mkv
+#EXTINF:-1,VOD DE: Die Unfassbaren 2
+http://bnt-team.ddns.net/movie/ScambioToto/Qv69rDwrig/13885.mkv
+#EXTINF:-1,VOD DE: Die Vampierschwestern 2
+http://bnt-team.ddns.net/movie/ScambioToto/Qv69rDwrig/13931.mkv
+#EXTINF:-1,VOD DE: Die Vorsehung
+http://bnt-team.ddns.net/movie/ScambioToto/Qv69rDwrig/13884.mkv
+#EXTINF:-1,VOD DE: Die Wiln kerle 6
+http://bnt-team.ddns.net/movie/ScambioToto/Qv69rDwrig/13883.mkv
+#EXTINF:-1,VOD DE: Dilwale Ich Liebe Dich
+http://bnt-team.ddns.net/movie/ScambioToto/Qv69rDwrig/13930.mkv
+#EXTINF:-1,VOD DE: Do over
+http://bnt-team.ddns.net/movie/ScambioToto/Qv69rDwrig/13881.mkv
+#EXTINF:-1,VOD DE: Doctor Strange
+http://bnt-team.ddns.net/movie/ScambioToto/Qv69rDwrig/13868.mkv
+#EXTINF:-1,VOD DE: Dodgeball Voll Auf Die Nuesse
+http://bnt-team.ddns.net/movie/ScambioToto/Qv69rDwrig/13882.mkv
+#EXTINF:-1,VOD DE: Dog Eat Dog
+http://bnt-team.ddns.net/movie/ScambioToto/Qv69rDwrig/13867.mkv
+#EXTINF:-1,VOD DE: Donnie Brasco
+http://bnt-team.ddns.net/movie/ScambioToto/Qv69rDwrig/13929.mkv
+#EXTINF:-1,VOD DE: Dont Breathe
+http://bnt-team.ddns.net/movie/ScambioToto/Qv69rDwrig/13876.mkv
+#EXTINF:-1,VOD DE: Dragon Bla
+http://bnt-team.ddns.net/movie/ScambioToto/Qv69rDwrig/13879.mkv
+#EXTINF:-1,VOD DE: Drei Meter ueber m Himmel
+http://bnt-team.ddns.net/movie/ScambioToto/Qv69rDwrig/13874.mkv
+#EXTINF:-1,VOD DE: -=====E--=====-
+http://bnt-team.ddns.net/movie/ScambioToto/Qv69rDwrig/13866.mkv
+#EXTINF:-1,VOD DE: Essen r Zukunft
+http://bnt-team.ddns.net/movie/ScambioToto/Qv69rDwrig/13633.mkv
+#EXTINF:-1,VOD DE: : Entf?hrt
+http://bnt-team.ddns.net/movie/ScambioToto/Qv69rDwrig/13925.mkv
+#EXTINF:-1,VOD DE: : Erschuettern Wahrheit
+http://bnt-team.ddns.net/movie/ScambioToto/Qv69rDwrig/13924.mkv
+#EXTINF:-1,VOD DE: Ein Ganzes Halbes Jahr
+http://bnt-team.ddns.net/movie/ScambioToto/Qv69rDwrig/13862.mkv
+#EXTINF:-1,VOD DE: Eine Robbe zum Verlieben
+http://bnt-team.ddns.net/movie/ScambioToto/Qv69rDwrig/13861.mkv
+#EXTINF:-1,VOD DE: Einmal Mond zurueck
+http://bnt-team.ddns.net/movie/ScambioToto/Qv69rDwrig/13865.mkv
+#EXTINF:-1,VOD DE: Eiskalter Engel Tod im College
+http://bnt-team.ddns.net/movie/ScambioToto/Qv69rDwrig/13860.mkv
+#EXTINF:-1,VOD DE: El Chapo Im Namen s Kartells
+http://bnt-team.ddns.net/movie/ScambioToto/Qv69rDwrig/13864.mkv
+#EXTINF:-1,VOD DE: El Olivo r Olivenbaum
+http://bnt-team.ddns.net/movie/ScambioToto/Qv69rDwrig/13863.mkv
+#EXTINF:-1,VOD DE: Eliminators
+http://bnt-team.ddns.net/movie/ScambioToto/Qv69rDwrig/13859.mkv
+#EXTINF:-1,VOD DE: Elliot r Drache
+http://bnt-team.ddns.net/movie/ScambioToto/Qv69rDwrig/13856.mkv
+#EXTINF:-1,VOD DE: Er ist wier da
+http://bnt-team.ddns.net/movie/ScambioToto/Qv69rDwrig/13855.mkv
+#EXTINF:-1,VOD DE: Es ist ein Elch entsprungen
+http://bnt-team.ddns.net/movie/ScambioToto/Qv69rDwrig/13854.mkv
+#EXTINF:-1,VOD DE: Eschuttern wahrheit
+http://bnt-team.ddns.net/movie/ScambioToto/Qv69rDwrig/13853.mkv
+#EXTINF:-1,VOD DE: Escobar - Paradies Lost
+http://bnt-team.ddns.net/movie/ScambioToto/Qv69rDwrig/13852.mkv
+#EXTINF:-1,VOD DE: Everest
+http://bnt-team.ddns.net/movie/ScambioToto/Qv69rDwrig/13851.mkv
+#EXTINF:-1,VOD DE: Everly - Die Waffen einer Frau
+http://bnt-team.ddns.net/movie/ScambioToto/Qv69rDwrig/13850.mkv
+#EXTINF:-1,VOD DE: Ewige Jugend
+http://bnt-team.ddns.net/movie/ScambioToto/Qv69rDwrig/13849.mkv
+#EXTINF:-1,VOD DE: ExitUs - Play it Backwards
+http://bnt-team.ddns.net/movie/ScambioToto/Qv69rDwrig/13858.mkv
+#EXTINF:-1,VOD DE: Exodus: G?tter und K?nige
+http://bnt-team.ddns.net/movie/ScambioToto/Qv69rDwrig/13857.mkv
+#EXTINF:-1,VOD DE: Extinction
+http://bnt-team.ddns.net/movie/ScambioToto/Qv69rDwrig/13848.mkv
+#EXTINF:-1,VOD DE: -=====F--=====-
+http://bnt-team.ddns.net/movie/ScambioToto/Qv69rDwrig/13847.mkv
+#EXTINF:-1,VOD DE: Final Farewell - F?r immer auf Wiersehen
+http://bnt-team.ddns.net/movie/ScambioToto/Qv69rDwrig/13632.mkv
+#EXTINF:-1,VOD DE: Freddy Frog Ein ganz normaler Held
+http://bnt-team.ddns.net/movie/ScambioToto/Qv69rDwrig/13631.mkv
+#EXTINF:-1,VOD DE: F?reinanr bestimmt
+http://bnt-team.ddns.net/movie/ScambioToto/Qv69rDwrig/13836.mkv
+#EXTINF:-1,VOD DE: Familie zu vermieten
+http://bnt-team.ddns.net/movie/ScambioToto/Qv69rDwrig/13846.mkv
+#EXTINF:-1,VOD DE: Fantastic Four
+http://bnt-team.ddns.net/movie/ScambioToto/Qv69rDwrig/13845.mkv
+#EXTINF:-1,VOD DE: Fast & Furious 7
+http://bnt-team.ddns.net/movie/ScambioToto/Qv69rDwrig/13844.mkv
+#EXTINF:-1,VOD DE: Fifty Shas of Grey
+http://bnt-team.ddns.net/movie/ScambioToto/Qv69rDwrig/13843.mkv
+#EXTINF:-1,VOD DE: Fist of God
+http://bnt-team.ddns.net/movie/ScambioToto/Qv69rDwrig/13842.mkv
+#EXTINF:-1,VOD DE: fluch r karibik 2
+http://bnt-team.ddns.net/movie/ScambioToto/Qv69rDwrig/13841.mkv
+#EXTINF:-1,VOD DE: Focus
+http://bnt-team.ddns.net/movie/ScambioToto/Qv69rDwrig/13840.mkv
+#EXTINF:-1,VOD DE: Frau Mueller muss weg
+http://bnt-team.ddns.net/movie/ScambioToto/Qv69rDwrig/13838.mkv
+#EXTINF:-1,VOD DE: Freaks of Nature
+http://bnt-team.ddns.net/movie/ScambioToto/Qv69rDwrig/13839.mkv
+#EXTINF:-1,VOD DE: Frequencies
+http://bnt-team.ddns.net/movie/ScambioToto/Qv69rDwrig/13837.mkv
+#EXTINF:-1,VOD DE: Fussball - Grosses Spiel mit kleinen Heln
+http://bnt-team.ddns.net/movie/ScambioToto/Qv69rDwrig/13835.mkv
+#EXTINF:-1,VOD DE: -=====G--=====-
+http://bnt-team.ddns.net/movie/ScambioToto/Qv69rDwrig/13834.mkv
+#EXTINF:-1,VOD DE: G?nsehaut
+http://bnt-team.ddns.net/movie/ScambioToto/Qv69rDwrig/13826.mkv
+#EXTINF:-1,VOD DE: Gallows Je Schule hat ein Geheimnis
+http://bnt-team.ddns.net/movie/ScambioToto/Qv69rDwrig/13833.mkv
+#EXTINF:-1,VOD DE: Girls und Panzer
+http://bnt-team.ddns.net/movie/ScambioToto/Qv69rDwrig/13630.mkv
+#EXTINF:-1,VOD DE: Gangland
+http://bnt-team.ddns.net/movie/ScambioToto/Qv69rDwrig/13832.mkv
+#EXTINF:-1,VOD DE: Garm Wars
+http://bnt-team.ddns.net/movie/ScambioToto/Qv69rDwrig/13831.mkv
+#EXTINF:-1,VOD DE: Gespensterj?ger
+http://bnt-team.ddns.net/movie/ScambioToto/Qv69rDwrig/13830.mkv
+#EXTINF:-1,VOD DE: Godzilla
+http://bnt-team.ddns.net/movie/ScambioToto/Qv69rDwrig/13829.mkv
+#EXTINF:-1,VOD DE: Gott ist nicht Tot 2
+http://bnt-team.ddns.net/movie/ScambioToto/Qv69rDwrig/13828.mkv
+#EXTINF:-1,VOD DE: Guardians of the Galaxy
+http://bnt-team.ddns.net/movie/ScambioToto/Qv69rDwrig/13827.mkv
+#EXTINF:-1,VOD DE: -=====H--=====-
+http://bnt-team.ddns.net/movie/ScambioToto/Qv69rDwrig/13825.mkv
+#EXTINF:-1,VOD DE: H?ter r Erinnerung
+http://bnt-team.ddns.net/movie/ScambioToto/Qv69rDwrig/13797.mkv
+#EXTINF:-1,VOD DE: Hacked Kein Leben ist sicher
+http://bnt-team.ddns.net/movie/ScambioToto/Qv69rDwrig/13816.mkv
+#EXTINF:-1,VOD DE: Halb Br?r
+http://bnt-team.ddns.net/movie/ScambioToto/Qv69rDwrig/13815.mkv
+#EXTINF:-1,VOD DE: Hardcore
+http://bnt-team.ddns.net/movie/ScambioToto/Qv69rDwrig/13814.mkv
+#EXTINF:-1,VOD DE: Harry Potter und die Heiligtuemer s Tos Teil 1 (2010)
+http://bnt-team.ddns.net/movie/ScambioToto/Qv69rDwrig/13819.mkv
+#EXTINF:-1,VOD DE: Harry Potter und die Heiligtuemer s Tos Teil 2 (2011)
+http://bnt-team.ddns.net/movie/ScambioToto/Qv69rDwrig/13818.mkv
+#EXTINF:-1,VOD DE: Harry Potter und die Kammer s Schreckens (2002)
+http://bnt-team.ddns.net/movie/ScambioToto/Qv69rDwrig/13817.mkv
+#EXTINF:-1,VOD DE: Harry Potter und r Feuerkelch (2005)
+http://bnt-team.ddns.net/movie/ScambioToto/Qv69rDwrig/13824.mkv
+#EXTINF:-1,VOD DE: Harry Potter und r Gefangene von Askaban (2004)
+http://bnt-team.ddns.net/movie/ScambioToto/Qv69rDwrig/13823.mkv
+#EXTINF:-1,VOD DE: Harry Potter und r Halbblutprinz (2009)
+http://bnt-team.ddns.net/movie/ScambioToto/Qv69rDwrig/13822.mkv
+#EXTINF:-1,VOD DE: Harry Potter und r Orn s Phoenix (2007)
+http://bnt-team.ddns.net/movie/ScambioToto/Qv69rDwrig/13821.mkv
+#EXTINF:-1,VOD DE: Harry Potter und r Stein r Weisen (2001)
+http://bnt-team.ddns.net/movie/ScambioToto/Qv69rDwrig/13820.mkv
+#EXTINF:-1,VOD DE: Hectors Reise or Die Suche nach m Glueck
+http://bnt-team.ddns.net/movie/ScambioToto/Qv69rDwrig/13813.mkv
+#EXTINF:-1,VOD DE: Helix
+http://bnt-team.ddns.net/movie/ScambioToto/Qv69rDwrig/13812.mkv
+#EXTINF:-1,VOD DE: Herr r Diebe
+http://bnt-team.ddns.net/movie/ScambioToto/Qv69rDwrig/13811.mkv
+#EXTINF:-1,VOD DE: Herz aus stahl
+http://bnt-team.ddns.net/movie/ScambioToto/Qv69rDwrig/13810.mkv
+#EXTINF:-1,VOD DE: High Rise
+http://bnt-team.ddns.net/movie/ScambioToto/Qv69rDwrig/13809.mkv
+#EXTINF:-1,VOD DE: Hilfe ich hab meine Lehrerin geschrumpft
+http://bnt-team.ddns.net/movie/ScambioToto/Qv69rDwrig/13808.mkv
+#EXTINF:-1,VOD DE: Himmelskind
+http://bnt-team.ddns.net/movie/ScambioToto/Qv69rDwrig/13807.mkv
+#EXTINF:-1,VOD DE: Hip Hop Hood - Im Viertel ist die H?lle los
+http://bnt-team.ddns.net/movie/ScambioToto/Qv69rDwrig/13806.mkv
+#EXTINF:-1,VOD DE: Hitman Agent 47
+http://bnt-team.ddns.net/movie/ScambioToto/Qv69rDwrig/13805.mkv
+#EXTINF:-1,VOD DE: Hollow creek
+http://bnt-team.ddns.net/movie/ScambioToto/Qv69rDwrig/13802.mkv
+#EXTINF:-1,VOD DE: Hollywood Land
+http://bnt-team.ddns.net/movie/ScambioToto/Qv69rDwrig/13799.mkv
+#EXTINF:-1,VOD DE: Hom ein Smektakulaerer Trip
+http://bnt-team.ddns.net/movie/ScambioToto/Qv69rDwrig/13804.mkv
+#EXTINF:-1,VOD DE: Home Run - Die 2. Chance
+http://bnt-team.ddns.net/movie/ScambioToto/Qv69rDwrig/13803.mkv
+#EXTINF:-1,VOD DE: Home sweet hell
+http://bnt-team.ddns.net/movie/ScambioToto/Qv69rDwrig/13801.mkv
+#EXTINF:-1,VOD DE: Honig im Kopf
+http://bnt-team.ddns.net/movie/ScambioToto/Qv69rDwrig/13800.mkv
+#EXTINF:-1,VOD DE: How to be Singl
+http://bnt-team.ddns.net/movie/ScambioToto/Qv69rDwrig/13798.mkv
+#EXTINF:-1,VOD DE: -=====I--=====-
+http://bnt-team.ddns.net/movie/ScambioToto/Qv69rDwrig/13796.mkv
+#EXTINF:-1,VOD DE: In a Valley of Violence
+http://bnt-team.ddns.net/movie/ScambioToto/Qv69rDwrig/13629.mkv
+#EXTINF:-1,VOD DE: In meinem Himmel
+http://bnt-team.ddns.net/movie/ScambioToto/Qv69rDwrig/13628.mkv
+#EXTINF:-1,VOD DE: ine Meine und Unsere
+http://bnt-team.ddns.net/movie/ScambioToto/Qv69rDwrig/13921.mkv
+#EXTINF:-1,VOD DE: : Ich bin dann mal weg
+http://bnt-team.ddns.net/movie/ScambioToto/Qv69rDwrig/13583.mkv
+#EXTINF:-1,VOD DE: Inferno
+http://bnt-team.ddns.net/movie/ScambioToto/Qv69rDwrig/13627.mkv
+#EXTINF:-1,VOD DE: Im Herzen r See
+http://bnt-team.ddns.net/movie/ScambioToto/Qv69rDwrig/13795.mkv
+#EXTINF:-1,VOD DE: Im rausch r sterne
+http://bnt-team.ddns.net/movie/ScambioToto/Qv69rDwrig/13794.mkv
+#EXTINF:-1,VOD DE: Im Schatten r Wahrheit
+http://bnt-team.ddns.net/movie/ScambioToto/Qv69rDwrig/13793.mkv
+#EXTINF:-1,VOD DE: In n Stra?en von New York
+http://bnt-team.ddns.net/movie/ScambioToto/Qv69rDwrig/13792.mkv
+#EXTINF:-1,VOD DE: Infinitely Polar Bear
+http://bnt-team.ddns.net/movie/ScambioToto/Qv69rDwrig/13791.mkv
+#EXTINF:-1,VOD DE: Inherent Vice
+http://bnt-team.ddns.net/movie/ScambioToto/Qv69rDwrig/13789.mkv
+#EXTINF:-1,VOD DE: Inpennce Day Wierkehr
+http://bnt-team.ddns.net/movie/ScambioToto/Qv69rDwrig/13790.mkv
+#EXTINF:-1,VOD DE: Insi Wikileaks
+http://bnt-team.ddns.net/movie/ScambioToto/Qv69rDwrig/13788.mkv
+#EXTINF:-1,VOD DE: Interstellar
+http://bnt-team.ddns.net/movie/ScambioToto/Qv69rDwrig/13787.mkv
+#EXTINF:-1,VOD DE: It Follows
+http://bnt-team.ddns.net/movie/ScambioToto/Qv69rDwrig/13786.mkv
+#EXTINF:-1,VOD DE: -=====J--=====-
+http://bnt-team.ddns.net/movie/ScambioToto/Qv69rDwrig/14047.mkv
+#EXTINF:-1,VOD DE: Jack und das Kuckucksuhrherz
+http://bnt-team.ddns.net/movie/ScambioToto/Qv69rDwrig/14046.mkv
+#EXTINF:-1,VOD DE: Je Liebe ist gleich
+http://bnt-team.ddns.net/movie/ScambioToto/Qv69rDwrig/14045.mkv
+#EXTINF:-1,VOD DE: Jer kriegt das was er verdient
+http://bnt-team.ddns.net/movie/ScambioToto/Qv69rDwrig/14044.mkv
+#EXTINF:-1,VOD DE: Jerico-Projekt Im Kopf s Killers
+http://bnt-team.ddns.net/movie/ScambioToto/Qv69rDwrig/14043.mkv
+#EXTINF:-1,VOD DE: Jersey Boys
+http://bnt-team.ddns.net/movie/ScambioToto/Qv69rDwrig/14042.mkv
+#EXTINF:-1,VOD DE: : Joe Die Rache ist sein
+http://bnt-team.ddns.net/movie/ScambioToto/Qv69rDwrig/13579.mkv
+#EXTINF:-1,VOD DE: JeruZalem
+http://bnt-team.ddns.net/movie/ScambioToto/Qv69rDwrig/14041.mkv
+#EXTINF:-1,VOD DE: Jet Li - Born 2 Die
+http://bnt-team.ddns.net/movie/ScambioToto/Qv69rDwrig/14040.mkv
+#EXTINF:-1,VOD DE: Jet Li - Flying Swords of Dragon Gate
+http://bnt-team.ddns.net/movie/ScambioToto/Qv69rDwrig/14039.mkv
+#EXTINF:-1,VOD DE: Jet Li - Kiss of the Dragon
+http://bnt-team.ddns.net/movie/ScambioToto/Qv69rDwrig/14038.mkv
+#EXTINF:-1,VOD DE: Jet Li - The Expendables 2
+http://bnt-team.ddns.net/movie/ScambioToto/Qv69rDwrig/14037.mkv
+#EXTINF:-1,VOD DE: Jet Li - The Expendables 3
+http://bnt-team.ddns.net/movie/ScambioToto/Qv69rDwrig/14036.mkv
+#EXTINF:-1,VOD DE: Jet Li - The Forbidn Kingdom (2008)
+http://bnt-team.ddns.net/movie/ScambioToto/Qv69rDwrig/14035.mkv
+#EXTINF:-1,VOD DE: Jet Li - The One
+http://bnt-team.ddns.net/movie/ScambioToto/Qv69rDwrig/14034.mkv
+#EXTINF:-1,VOD DE: Jet Li - The Warlords Directors Cut (2007)
+http://bnt-team.ddns.net/movie/ScambioToto/Qv69rDwrig/14033.mkv
+#EXTINF:-1,VOD DE: Jet Li - War (2007)
+http://bnt-team.ddns.net/movie/ScambioToto/Qv69rDwrig/14032.mkv
+#EXTINF:-1,VOD DE: Joy - Alles Au?er Gew?hnlich
+http://bnt-team.ddns.net/movie/ScambioToto/Qv69rDwrig/14031.mkv
+#EXTINF:-1,VOD DE: Jurassic world  germany
+http://bnt-team.ddns.net/movie/ScambioToto/Qv69rDwrig/14030.mkv
+#EXTINF:-1,VOD DE: -=====K--=====-
+http://bnt-team.ddns.net/movie/ScambioToto/Qv69rDwrig/14029.mkv
+#EXTINF:-1,VOD DE: Keanu
+http://bnt-team.ddns.net/movie/ScambioToto/Qv69rDwrig/14028.mkv
+#EXTINF:-1,VOD DE: Kein Ort Ohne Dich
+http://bnt-team.ddns.net/movie/ScambioToto/Qv69rDwrig/14027.mkv
+#EXTINF:-1,VOD DE: Keine gute Tat
+http://bnt-team.ddns.net/movie/ScambioToto/Qv69rDwrig/14026.mkv
+#EXTINF:-1,VOD DE: Kickboxer Die Vergeltung
+http://bnt-team.ddns.net/movie/ScambioToto/Qv69rDwrig/14025.mkv
+#EXTINF:-1,VOD DE: Kidnapping Freddy Heineken
+http://bnt-team.ddns.net/movie/ScambioToto/Qv69rDwrig/14024.mkv
+#EXTINF:-1,VOD DE: : Kill Command
+http://bnt-team.ddns.net/movie/ScambioToto/Qv69rDwrig/13582.mkv
+#EXTINF:-1,VOD DE: Kill the Boss 1
+http://bnt-team.ddns.net/movie/ScambioToto/Qv69rDwrig/14023.mkv
+#EXTINF:-1,VOD DE: Kill the Boss 2
+http://bnt-team.ddns.net/movie/ScambioToto/Qv69rDwrig/14022.mkv
+#EXTINF:-1,VOD DE: : 4 Koenige
+http://bnt-team.ddns.net/movie/ScambioToto/Qv69rDwrig/13587.mkv
+#EXTINF:-1,VOD DE: Kill the Messenger
+http://bnt-team.ddns.net/movie/ScambioToto/Qv69rDwrig/14021.mkv
+#EXTINF:-1,VOD DE: killing Salazar
+http://bnt-team.ddns.net/movie/ScambioToto/Qv69rDwrig/13624.mkv
+#EXTINF:-1,VOD DE: Knock Knock
+http://bnt-team.ddns.net/movie/ScambioToto/Qv69rDwrig/14020.mkv
+#EXTINF:-1,VOD DE: Koks im Gep?ck!! Touristen als Drogenkuriere
+http://bnt-team.ddns.net/movie/ScambioToto/Qv69rDwrig/13623.mkv
+#EXTINF:-1,VOD DE: -=====L--=====-
+http://bnt-team.ddns.net/movie/ScambioToto/Qv69rDwrig/13785.mkv
+#EXTINF:-1,VOD DE: Labyrinth s Schweigens
+http://bnt-team.ddns.net/movie/ScambioToto/Qv69rDwrig/13784.mkv
+#EXTINF:-1,VOD DE: Lap Dance
+http://bnt-team.ddns.net/movie/ScambioToto/Qv69rDwrig/13783.mkv
+#EXTINF:-1,VOD DE: Latin Lover
+http://bnt-team.ddns.net/movie/ScambioToto/Qv69rDwrig/13782.mkv
+#EXTINF:-1,VOD DE: Le mac
+http://bnt-team.ddns.net/movie/ScambioToto/Qv69rDwrig/13781.mkv
+#EXTINF:-1,VOD DE: Leben und Sterben
+http://bnt-team.ddns.net/movie/ScambioToto/Qv69rDwrig/13780.mkv
+#EXTINF:-1,VOD DE: Left behind
+http://bnt-team.ddns.net/movie/ScambioToto/Qv69rDwrig/13779.mkv
+#EXTINF:-1,VOD DE: Legend
+http://bnt-team.ddns.net/movie/ScambioToto/Qv69rDwrig/13778.mkv
+#EXTINF:-1,VOD DE: Lets Be Cops Die Party Bullen
+http://bnt-team.ddns.net/movie/ScambioToto/Qv69rDwrig/13777.mkv
+#EXTINF:-1,VOD DE: Lights Out
+http://bnt-team.ddns.net/movie/ScambioToto/Qv69rDwrig/13776.mkv
+#EXTINF:-1,VOD DE: Little Miss Sunshine
+http://bnt-team.ddns.net/movie/ScambioToto/Qv69rDwrig/13775.mkv
+#EXTINF:-1,VOD DE: Lo Chiamavano Jeeg Robot
+http://bnt-team.ddns.net/movie/ScambioToto/Qv69rDwrig/13774.mkv
+#EXTINF:-1,VOD DE: :  Liebesfilm mit Christina Applegate
+http://bnt-team.ddns.net/movie/ScambioToto/Qv69rDwrig/13584.mkv
+#EXTINF:-1,VOD DE: London Has Fallen
+http://bnt-team.ddns.net/movie/ScambioToto/Qv69rDwrig/13773.mkv
+#EXTINF:-1,VOD DE: Lucia Engel s Tos
+http://bnt-team.ddns.net/movie/ScambioToto/Qv69rDwrig/13772.mkv
+#EXTINF:-1,VOD DE: -=====M--=====-
+http://bnt-team.ddns.net/movie/ScambioToto/Qv69rDwrig/13771.mkv
+#EXTINF:-1,VOD DE: : Mike and Dave Need Wedding Dates
+http://bnt-team.ddns.net/movie/ScambioToto/Qv69rDwrig/13756.mkv
+#EXTINF:-1,VOD DE: Maria ihm Schmeckts nicht
+http://bnt-team.ddns.net/movie/ScambioToto/Qv69rDwrig/13622.mkv
+#EXTINF:-1,VOD DE: Missionary
+http://bnt-team.ddns.net/movie/ScambioToto/Qv69rDwrig/13621.mkv
+#EXTINF:-1,VOD DE: Macho Man
+http://bnt-team.ddns.net/movie/ScambioToto/Qv69rDwrig/13764.mkv
+#EXTINF:-1,VOD DE: Magic Mike XXL
+http://bnt-team.ddns.net/movie/ScambioToto/Qv69rDwrig/13770.mkv
+#EXTINF:-1,VOD DE: Man lernt nie aus
+http://bnt-team.ddns.net/movie/ScambioToto/Qv69rDwrig/13763.mkv
+#EXTINF:-1,VOD DE: mara feuer
+http://bnt-team.ddns.net/movie/ScambioToto/Qv69rDwrig/13762.mkv
+#EXTINF:-1,VOD DE: Margos Spuren
+http://bnt-team.ddns.net/movie/ScambioToto/Qv69rDwrig/13761.mkv
+#EXTINF:-1,VOD DE: Martyrs The Ultimate Horror
+http://bnt-team.ddns.net/movie/ScambioToto/Qv69rDwrig/13760.mkv
+#EXTINF:-1,VOD DE: Meeting evil
+http://bnt-team.ddns.net/movie/ScambioToto/Qv69rDwrig/13768.mkv
+#EXTINF:-1,VOD DE: Megamind
+http://bnt-team.ddns.net/movie/ScambioToto/Qv69rDwrig/13767.mkv
+#EXTINF:-1,VOD DE: Mein Leben auf r Flucht
+http://bnt-team.ddns.net/movie/ScambioToto/Qv69rDwrig/13766.mkv
+#EXTINF:-1,VOD DE: Million Dollar Arm
+http://bnt-team.ddns.net/movie/ScambioToto/Qv69rDwrig/13769.mkv
+#EXTINF:-1,VOD DE: Minions
+http://bnt-team.ddns.net/movie/ScambioToto/Qv69rDwrig/13765.mkv
+#EXTINF:-1,VOD DE: Mit dir an meiner Seite
+http://bnt-team.ddns.net/movie/ScambioToto/Qv69rDwrig/13757.mkv
+#EXTINF:-1,VOD DE: Momentum
+http://bnt-team.ddns.net/movie/ScambioToto/Qv69rDwrig/13753.mkv
+#EXTINF:-1,VOD DE: Monsters vs Aliens
+http://bnt-team.ddns.net/movie/ScambioToto/Qv69rDwrig/13751.mkv
+#EXTINF:-1,VOD DE: Montana r Film
+http://bnt-team.ddns.net/movie/ScambioToto/Qv69rDwrig/13759.mkv
+#EXTINF:-1,VOD DE: Mortcai r Tempelritter
+http://bnt-team.ddns.net/movie/ScambioToto/Qv69rDwrig/13755.mkv
+#EXTINF:-1,VOD DE: Mutantenwelt
+http://bnt-team.ddns.net/movie/ScambioToto/Qv69rDwrig/13754.mkv
+#EXTINF:-1,VOD DE: My big fat greek wedding 2
+http://bnt-team.ddns.net/movie/ScambioToto/Qv69rDwrig/13758.mkv
+#EXTINF:-1,VOD DE: -=====N--=====-
+http://bnt-team.ddns.net/movie/ScambioToto/Qv69rDwrig/13752.mkv
+#EXTINF:-1,VOD DE:  - Nicht Auflegen
+http://bnt-team.ddns.net/movie/ScambioToto/Qv69rDwrig/13746.mkv
+#EXTINF:-1,VOD DE: Nachts im museum 3
+http://bnt-team.ddns.net/movie/ScambioToto/Qv69rDwrig/13750.mkv
+#EXTINF:-1,VOD DE: Nerve
+http://bnt-team.ddns.net/movie/ScambioToto/Qv69rDwrig/13749.mkv
+#EXTINF:-1,VOD DE: Nichts Passiert
+http://bnt-team.ddns.net/movie/ScambioToto/Qv69rDwrig/13748.mkv
+#EXTINF:-1,VOD DE: No Escape
+http://bnt-team.ddns.net/movie/ScambioToto/Qv69rDwrig/13745.mkv
+#EXTINF:-1,VOD DE: n Sternen so nah
+http://bnt-team.ddns.net/movie/ScambioToto/Qv69rDwrig/13873.mkv
+#EXTINF:-1,VOD DE: nk wie ein Mann 2
+http://bnt-team.ddns.net/movie/ScambioToto/Qv69rDwrig/13918.mkv
+#EXTINF:-1,VOD DE: Northpole
+http://bnt-team.ddns.net/movie/ScambioToto/Qv69rDwrig/13747.mkv
+#EXTINF:-1,VOD DE: -=====O--=====-
+http://bnt-team.ddns.net/movie/ScambioToto/Qv69rDwrig/13732.mkv
+#EXTINF:-1,VOD DE: Ooops Die Arche ist weg
+http://bnt-team.ddns.net/movie/ScambioToto/Qv69rDwrig/13730.mkv
+#EXTINF:-1,VOD DE: Ouija Ursprung s Boesen
+http://bnt-team.ddns.net/movie/ScambioToto/Qv69rDwrig/13729.mkv
+#EXTINF:-1,VOD DE: -=====P--=====-
+http://bnt-team.ddns.net/movie/ScambioToto/Qv69rDwrig/13744.mkv
+#EXTINF:-1,VOD DE: Paddington ger
+http://bnt-team.ddns.net/movie/ScambioToto/Qv69rDwrig/13743.mkv
+#EXTINF:-1,VOD DE: Panmic Fear the ad
+http://bnt-team.ddns.net/movie/ScambioToto/Qv69rDwrig/13742.mkv
+#EXTINF:-1,VOD DE: Paranormal Activity Ghost Dimension
+http://bnt-team.ddns.net/movie/ScambioToto/Qv69rDwrig/13741.mkv
+#EXTINF:-1,VOD DE: Pearl Harbor
+http://bnt-team.ddns.net/movie/ScambioToto/Qv69rDwrig/13739.mkv
+#EXTINF:-1,VOD DE: : Ploetzlich wier jung Zurueck in die 80er
+http://bnt-team.ddns.net/movie/ScambioToto/Qv69rDwrig/13581.mkv
+#EXTINF:-1,VOD DE: Pl?tzlich Papa
+http://bnt-team.ddns.net/movie/ScambioToto/Qv69rDwrig/13575.mkv
+#EXTINF:-1,VOD DE: Penelope
+http://bnt-team.ddns.net/movie/ScambioToto/Qv69rDwrig/13740.mkv
+#EXTINF:-1,VOD DE: Pets
+http://bnt-team.ddns.net/movie/ScambioToto/Qv69rDwrig/13738.mkv
+#EXTINF:-1,VOD DE: Pixel-
+http://bnt-team.ddns.net/movie/ScambioToto/Qv69rDwrig/13737.mkv
+#EXTINF:-1,VOD DE: Planet r Affen ? Revolution
+http://bnt-team.ddns.net/movie/ScambioToto/Qv69rDwrig/13733.mkv
+#EXTINF:-1,VOD DE: Poltergeist-
+http://bnt-team.ddns.net/movie/ScambioToto/Qv69rDwrig/13736.mkv
+#EXTINF:-1,VOD DE: Predator
+http://bnt-team.ddns.net/movie/ScambioToto/Qv69rDwrig/13735.mkv
+#EXTINF:-1,VOD DE: Puls
+http://bnt-team.ddns.net/movie/ScambioToto/Qv69rDwrig/13734.mkv
+#EXTINF:-1,VOD DE: -=====Q--=====-
+http://bnt-team.ddns.net/movie/ScambioToto/Qv69rDwrig/13731.mkv
+#EXTINF:-1,VOD DE: -=====R--=====-
+http://bnt-team.ddns.net/movie/ScambioToto/Qv69rDwrig/13689.mkv
+#EXTINF:-1,VOD DE: Remember Vergiss nicht dich zu erinnern
+http://bnt-team.ddns.net/movie/ScambioToto/Qv69rDwrig/13688.mkv
+#EXTINF:-1,VOD DE: Revenge of the warrior
+http://bnt-team.ddns.net/movie/ScambioToto/Qv69rDwrig/13687.mkv
+#EXTINF:-1,VOD DE: : Reclaim Auf eigenes Risiko
+http://bnt-team.ddns.net/movie/ScambioToto/Qv69rDwrig/13576.mkv
+#EXTINF:-1,VOD DE: Robocop
+http://bnt-team.ddns.net/movie/ScambioToto/Qv69rDwrig/13684.mkv
+#EXTINF:-1,VOD DE: Rocknrolla
+http://bnt-team.ddns.net/movie/ScambioToto/Qv69rDwrig/13683.mkv
+#EXTINF:-1,VOD DE: Ruth und Alex Verliebt in New York
+http://bnt-team.ddns.net/movie/ScambioToto/Qv69rDwrig/13685.mkv
+#EXTINF:-1,VOD DE: r Babadook
+http://bnt-team.ddns.net/movie/ScambioToto/Qv69rDwrig/13906.mkv
+#EXTINF:-1,VOD DE: Run All Night
+http://bnt-team.ddns.net/movie/ScambioToto/Qv69rDwrig/13686.mkv
+#EXTINF:-1,VOD DE: Rupture Ueberwin ine Aengste
+http://bnt-team.ddns.net/movie/ScambioToto/Qv69rDwrig/13682.mkv
+#EXTINF:-1,VOD DE: r 7bte Zwerg
+http://bnt-team.ddns.net/movie/ScambioToto/Qv69rDwrig/13919.mkv
+#EXTINF:-1,VOD DE: r Auftrag
+http://bnt-team.ddns.net/movie/ScambioToto/Qv69rDwrig/13920.mkv
+#EXTINF:-1,VOD DE: r Geilste Tag
+http://bnt-team.ddns.net/movie/ScambioToto/Qv69rDwrig/13905.mkv
+#EXTINF:-1,VOD DE: r Grosse mit seinem ausserirdischen Kleinen
+http://bnt-team.ddns.net/movie/ScambioToto/Qv69rDwrig/13904.mkv
+#EXTINF:-1,VOD DE: r grosse Trip Wild
+http://bnt-team.ddns.net/movie/ScambioToto/Qv69rDwrig/13903.mkv
+#EXTINF:-1,VOD DE: r Hobbit 3 Die Schlacht r fuenf Heere
+http://bnt-team.ddns.net/movie/ScambioToto/Qv69rDwrig/13907.mkv
+#EXTINF:-1,VOD DE: r Kaufhaus Cop 2
+http://bnt-team.ddns.net/movie/ScambioToto/Qv69rDwrig/13917.mkv
+#EXTINF:-1,VOD DE: r kleine Prinz
+http://bnt-team.ddns.net/movie/ScambioToto/Qv69rDwrig/13916.mkv
+#EXTINF:-1,VOD DE: r Knastcoach
+http://bnt-team.ddns.net/movie/ScambioToto/Qv69rDwrig/13915.mkv
+#EXTINF:-1,VOD DE: r Lieferheld
+http://bnt-team.ddns.net/movie/ScambioToto/Qv69rDwrig/13914.mkv
+#EXTINF:-1,VOD DE: r Mann in r Schlangenhaut
+http://bnt-team.ddns.net/movie/ScambioToto/Qv69rDwrig/13913.mkv
+#EXTINF:-1,VOD DE: r Marsianer
+http://bnt-team.ddns.net/movie/ScambioToto/Qv69rDwrig/13912.mkv
+#EXTINF:-1,VOD DE: r Nanny
+http://bnt-team.ddns.net/movie/ScambioToto/Qv69rDwrig/13911.mkv
+#EXTINF:-1,VOD DE: r Richter Recht or Ehre
+http://bnt-team.ddns.net/movie/ScambioToto/Qv69rDwrig/13910.mkv
+#EXTINF:-1,VOD DE: r Spion und sein Brur
+http://bnt-team.ddns.net/movie/ScambioToto/Qv69rDwrig/13909.mkv
+#EXTINF:-1,VOD DE: r Teilzeitgauner
+http://bnt-team.ddns.net/movie/ScambioToto/Qv69rDwrig/13908.mkv
+#EXTINF:-1,VOD DE: r Verbotene Schl?ssel
+http://bnt-team.ddns.net/movie/ScambioToto/Qv69rDwrig/13933.mkv
+#EXTINF:-1,VOD DE: r Vollposten
+http://bnt-team.ddns.net/movie/ScambioToto/Qv69rDwrig/13872.mkv
+#EXTINF:-1,VOD DE: -=====S--=====-
+http://bnt-team.ddns.net/movie/ScambioToto/Qv69rDwrig/13728.mkv
+#EXTINF:-1,VOD DE: Sahara
+http://bnt-team.ddns.net/movie/ScambioToto/Qv69rDwrig/13699.mkv
+#EXTINF:-1,VOD DE: Saint Laurent
+http://bnt-team.ddns.net/movie/ScambioToto/Qv69rDwrig/13727.mkv
+#EXTINF:-1,VOD DE: San Andreas
+http://bnt-team.ddns.net/movie/ScambioToto/Qv69rDwrig/13726.mkv
+#EXTINF:-1,VOD DE: Saphirblau
+http://bnt-team.ddns.net/movie/ScambioToto/Qv69rDwrig/13717.mkv
+#EXTINF:-1,VOD DE: Sausage Party Es geht um die Wurst
+http://bnt-team.ddns.net/movie/ScambioToto/Qv69rDwrig/13716.mkv
+#EXTINF:-1,VOD DE: Schlau wie eine Ziege
+http://bnt-team.ddns.net/movie/ScambioToto/Qv69rDwrig/13715.mkv
+#EXTINF:-1,VOD DE: Schneir vs Bax
+http://bnt-team.ddns.net/movie/ScambioToto/Qv69rDwrig/13698.mkv
+#EXTINF:-1,VOD DE: Schweinskopf al nte
+http://bnt-team.ddns.net/movie/ScambioToto/Qv69rDwrig/13697.mkv
+#EXTINF:-1,VOD DE: Scouts vs Zombies
+http://bnt-team.ddns.net/movie/ScambioToto/Qv69rDwrig/13714.mkv
+#EXTINF:-1,VOD DE: Seitenwechsel
+http://bnt-team.ddns.net/movie/ScambioToto/Qv69rDwrig/13696.mkv
+#EXTINF:-1,VOD DE: Selma
+http://bnt-team.ddns.net/movie/ScambioToto/Qv69rDwrig/13713.mkv
+#EXTINF:-1,VOD DE: Seventh Son
+http://bnt-team.ddns.net/movie/ScambioToto/Qv69rDwrig/13725.mkv
+#EXTINF:-1,VOD DE: Shaun das Schaf
+http://bnt-team.ddns.net/movie/ScambioToto/Qv69rDwrig/13724.mkv
+#EXTINF:-1,VOD DE: Shrews Nest
+http://bnt-team.ddns.net/movie/ScambioToto/Qv69rDwrig/13723.mkv
+#EXTINF:-1,VOD DE: Sicario-
+http://bnt-team.ddns.net/movie/ScambioToto/Qv69rDwrig/13695.mkv
+#EXTINF:-1,VOD DE: Sinav
+http://bnt-team.ddns.net/movie/ScambioToto/Qv69rDwrig/13722.mkv
+#EXTINF:-1,VOD DE: Skiptrace
+http://bnt-team.ddns.net/movie/ScambioToto/Qv69rDwrig/13694.mkv
+#EXTINF:-1,VOD DE: Snown
+http://bnt-team.ddns.net/movie/ScambioToto/Qv69rDwrig/13693.mkv
+#EXTINF:-1,VOD DE: Soul.Surfer
+http://bnt-team.ddns.net/movie/ScambioToto/Qv69rDwrig/13712.mkv
+#EXTINF:-1,VOD DE: Southpaw
+http://bnt-team.ddns.net/movie/ScambioToto/Qv69rDwrig/13711.mkv
+#EXTINF:-1,VOD DE: Spectre
+http://bnt-team.ddns.net/movie/ScambioToto/Qv69rDwrig/13710.mkv
+#EXTINF:-1,VOD DE: Speed ITA
+http://bnt-team.ddns.net/movie/ScambioToto/Qv69rDwrig/13709.mkv
+#EXTINF:-1,VOD DE: Split
+http://bnt-team.ddns.net/movie/ScambioToto/Qv69rDwrig/13692.mkv
+#EXTINF:-1,VOD DE: Spotlight
+http://bnt-team.ddns.net/movie/ScambioToto/Qv69rDwrig/13708.mkv
+#EXTINF:-1,VOD DE: St. Vincent
+http://bnt-team.ddns.net/movie/ScambioToto/Qv69rDwrig/13721.mkv
+#EXTINF:-1,VOD DE: Star Trek Beyond
+http://bnt-team.ddns.net/movie/ScambioToto/Qv69rDwrig/13720.mkv
+#EXTINF:-1,VOD DE: Star Wars Das Erwachen r Macht
+http://bnt-team.ddns.net/movie/ScambioToto/Qv69rDwrig/13706.mkv
+#EXTINF:-1,VOD DE: Steve Jobs
+http://bnt-team.ddns.net/movie/ScambioToto/Qv69rDwrig/13707.mkv
+#EXTINF:-1,VOD DE: Stirb Langsam 5
+http://bnt-team.ddns.net/movie/ScambioToto/Qv69rDwrig/13718.mkv
+#EXTINF:-1,VOD DE: Stoerche Abenteuer im Anflug
+http://bnt-team.ddns.net/movie/ScambioToto/Qv69rDwrig/13691.mkv
+#EXTINF:-1,VOD DE: Stonehearst
+http://bnt-team.ddns.net/movie/ScambioToto/Qv69rDwrig/13719.mkv
+#EXTINF:-1,VOD DE: Sugarbabes
+http://bnt-team.ddns.net/movie/ScambioToto/Qv69rDwrig/13705.mkv
+#EXTINF:-1,VOD DE: Suici Squad
+http://bnt-team.ddns.net/movie/ScambioToto/Qv69rDwrig/13704.mkv
+#EXTINF:-1,VOD DE:  - Stirb Langsam 1
+http://bnt-team.ddns.net/movie/ScambioToto/Qv69rDwrig/13703.mkv
+#EXTINF:-1,VOD DE:  - Stirb Langsam 2
+http://bnt-team.ddns.net/movie/ScambioToto/Qv69rDwrig/13702.mkv
+#EXTINF:-1,VOD DE:  - Stirb Langsam 3
+http://bnt-team.ddns.net/movie/ScambioToto/Qv69rDwrig/13701.mkv
+#EXTINF:-1,VOD DE:  - Stirb Langsam 4
+http://bnt-team.ddns.net/movie/ScambioToto/Qv69rDwrig/13700.mkv
+#EXTINF:-1,VOD DE: Susan Cooper Unrcover
+http://bnt-team.ddns.net/movie/ScambioToto/Qv69rDwrig/13690.mkv
+#EXTINF:-1,VOD DE: -=====T--=====-
+http://bnt-team.ddns.net/movie/ScambioToto/Qv69rDwrig/13681.mkv
+#EXTINF:-1,VOD DE: Ted 2
+http://bnt-team.ddns.net/movie/ScambioToto/Qv69rDwrig/13649.mkv
+#EXTINF:-1,VOD DE: The Accountant
+http://bnt-team.ddns.net/movie/ScambioToto/Qv69rDwrig/13680.mkv
+#EXTINF:-1,VOD DE: The Boss Dick im Geschaeft
+http://bnt-team.ddns.net/movie/ScambioToto/Qv69rDwrig/13648.mkv
+#EXTINF:-1,VOD DE: The Captive Spurlos verschwunn
+http://bnt-team.ddns.net/movie/ScambioToto/Qv69rDwrig/13674.mkv
+#EXTINF:-1,VOD DE: The conjuring 2
+http://bnt-team.ddns.net/movie/ScambioToto/Qv69rDwrig/13673.mkv
+#EXTINF:-1,VOD DE: The D Train
+http://bnt-team.ddns.net/movie/ScambioToto/Qv69rDwrig/13672.mkv
+#EXTINF:-1,VOD DE: The Darkness
+http://bnt-team.ddns.net/movie/ScambioToto/Qv69rDwrig/13679.mkv
+#EXTINF:-1,VOD DE: The Diary of a Teenage Girl
+http://bnt-team.ddns.net/movie/ScambioToto/Qv69rDwrig/13671.mkv
+#EXTINF:-1,VOD DE: The drop bargeld
+http://bnt-team.ddns.net/movie/ScambioToto/Qv69rDwrig/13647.mkv
+#EXTINF:-1,VOD DE: The End of the Tour
+http://bnt-team.ddns.net/movie/ScambioToto/Qv69rDwrig/13670.mkv
+#EXTINF:-1,VOD DE: The English Teacher
+http://bnt-team.ddns.net/movie/ScambioToto/Qv69rDwrig/13646.mkv
+#EXTINF:-1,VOD DE: The Equalizer
+http://bnt-team.ddns.net/movie/ScambioToto/Qv69rDwrig/13645.mkv
+#EXTINF:-1,VOD DE: The Fighters 3 No Surrenr
+http://bnt-team.ddns.net/movie/ScambioToto/Qv69rDwrig/13669.mkv
+#EXTINF:-1,VOD DE: The Finest Hours
+http://bnt-team.ddns.net/movie/ScambioToto/Qv69rDwrig/13668.mkv
+#EXTINF:-1,VOD DE: The Forest
+http://bnt-team.ddns.net/movie/ScambioToto/Qv69rDwrig/13644.mkv
+#EXTINF:-1,VOD DE: The Gift
+http://bnt-team.ddns.net/movie/ScambioToto/Qv69rDwrig/13643.mkv
+#EXTINF:-1,VOD DE: The Giver - H?ter r Erinnerung
+http://bnt-team.ddns.net/movie/ScambioToto/Qv69rDwrig/13642.mkv
+#EXTINF:-1,VOD DE: The Hateful Eight
+http://bnt-team.ddns.net/movie/ScambioToto/Qv69rDwrig/13641.mkv
+#EXTINF:-1,VOD DE: The Huntsman and the ice Queen
+http://bnt-team.ddns.net/movie/ScambioToto/Qv69rDwrig/13667.mkv
+#EXTINF:-1,VOD DE: The Imitation Game Ein Streng Geheimes Leben
+http://bnt-team.ddns.net/movie/ScambioToto/Qv69rDwrig/13666.mkv
+#EXTINF:-1,VOD DE: The Infiltrator
+http://bnt-team.ddns.net/movie/ScambioToto/Qv69rDwrig/13665.mkv
+#EXTINF:-1,VOD DE: The Jungle Book
+http://bnt-team.ddns.net/movie/ScambioToto/Qv69rDwrig/13664.mkv
+#EXTINF:-1,VOD DE: The legend of Tarzan
+http://bnt-team.ddns.net/movie/ScambioToto/Qv69rDwrig/13663.mkv
+#EXTINF:-1,VOD DE: The Lucky One
+http://bnt-team.ddns.net/movie/ScambioToto/Qv69rDwrig/13662.mkv
+#EXTINF:-1,VOD DE: The Lunchbox
+http://bnt-team.ddns.net/movie/ScambioToto/Qv69rDwrig/13661.mkv
+#EXTINF:-1,VOD DE: The Mechanic 2 Resurrection
+http://bnt-team.ddns.net/movie/ScambioToto/Qv69rDwrig/13660.mkv
+#EXTINF:-1,VOD DE: The Ninja Immovable Heart
+http://bnt-team.ddns.net/movie/ScambioToto/Qv69rDwrig/13659.mkv
+#EXTINF:-1,VOD DE: The November Man
+http://bnt-team.ddns.net/movie/ScambioToto/Qv69rDwrig/13658.mkv
+#EXTINF:-1,VOD DE: The Perfect Guy
+http://bnt-team.ddns.net/movie/ScambioToto/Qv69rDwrig/13657.mkv
+#EXTINF:-1,VOD DE: The Purge 3
+http://bnt-team.ddns.net/movie/ScambioToto/Qv69rDwrig/13678.mkv
+#EXTINF:-1,VOD DE: The Purge: Election Year
+http://bnt-team.ddns.net/movie/ScambioToto/Qv69rDwrig/13656.mkv
+#EXTINF:-1,VOD DE: The Revenant r Rueckkehrer
+http://bnt-team.ddns.net/movie/ScambioToto/Qv69rDwrig/13655.mkv
+#EXTINF:-1,VOD DE: The Sea of Trees
+http://bnt-team.ddns.net/movie/ScambioToto/Qv69rDwrig/13677.mkv
+#EXTINF:-1,VOD DE: The Shallows Gefahr aus r Tiefe
+http://bnt-team.ddns.net/movie/ScambioToto/Qv69rDwrig/13640.mkv
+#EXTINF:-1,VOD DE: The Visit
+http://bnt-team.ddns.net/movie/ScambioToto/Qv69rDwrig/13639.mkv
+#EXTINF:-1,VOD DE: The Witch
+http://bnt-team.ddns.net/movie/ScambioToto/Qv69rDwrig/13638.mkv
+#EXTINF:-1,VOD DE: The World of Kanako
+http://bnt-team.ddns.net/movie/ScambioToto/Qv69rDwrig/13654.mkv
+#EXTINF:-1,VOD DE: Titanic-
+http://bnt-team.ddns.net/movie/ScambioToto/Qv69rDwrig/13653.mkv
+#EXTINF:-1,VOD DE: Toedliche Versprechen Eastern Promises
+http://bnt-team.ddns.net/movie/ScambioToto/Qv69rDwrig/13652.mkv
+#EXTINF:-1,VOD DE: Transporter 2
+http://bnt-team.ddns.net/movie/ScambioToto/Qv69rDwrig/13651.mkv
+#EXTINF:-1,VOD DE: Traumfrauen
+http://bnt-team.ddns.net/movie/ScambioToto/Qv69rDwrig/13650.mkv
+#EXTINF:-1,VOD DE: Triple 9
+http://bnt-team.ddns.net/movie/ScambioToto/Qv69rDwrig/13637.mkv
+#EXTINF:-1,VOD DE: Trolls
+http://bnt-team.ddns.net/movie/ScambioToto/Qv69rDwrig/13676.mkv
+#EXTINF:-1,VOD DE: : Toni Erdmann
+http://bnt-team.ddns.net/movie/ScambioToto/Qv69rDwrig/13578.mkv
+#EXTINF:-1,VOD DE: : Tschiller Off Duty
+http://bnt-team.ddns.net/movie/ScambioToto/Qv69rDwrig/13580.mkv
+#EXTINF:-1,VOD DE: Tschick
+http://bnt-team.ddns.net/movie/ScambioToto/Qv69rDwrig/13675.mkv
+#EXTINF:-1,VOD DE: -=====U--=====-
+http://bnt-team.ddns.net/movie/ScambioToto/Qv69rDwrig/13636.mkv
+#EXTINF:-1,VOD DE: Unknown User
+http://bnt-team.ddns.net/movie/ScambioToto/Qv69rDwrig/13635.mkv
+#EXTINF:-1,VOD DE: Unrworld 5 Blood Wars
+http://bnt-team.ddns.net/movie/ScambioToto/Qv69rDwrig/13626.mkv
+#EXTINF:-1,VOD DE: Unsere taegliche Droge
+http://bnt-team.ddns.net/movie/ScambioToto/Qv69rDwrig/13625.mkv
+#EXTINF:-1,VOD DE: Unter m sand
+http://bnt-team.ddns.net/movie/ScambioToto/Qv69rDwrig/13634.mkv
+#EXTINF:-1,VOD DE: : World Tra Center Weshalb die Tuerme einstuerzten
+http://bnt-team.ddns.net/movie/ScambioToto/Qv69rDwrig/13603.mkv
+#EXTINF:-1,VOD DE: -=====V--=====-
+http://bnt-team.ddns.net/movie/ScambioToto/Qv69rDwrig/13620.mkv
+#EXTINF:-1,VOD DE: V8 Du Willst r Beste Sein
+http://bnt-team.ddns.net/movie/ScambioToto/Qv69rDwrig/13619.mkv
+#EXTINF:-1,VOD DE: Vacation Wir sind die Griswolds
+http://bnt-team.ddns.net/movie/ScambioToto/Qv69rDwrig/13613.mkv
+#EXTINF:-1,VOD DE: Vampyres
+http://bnt-team.ddns.net/movie/ScambioToto/Qv69rDwrig/13612.mkv
+#EXTINF:-1,VOD DE: Verrueckt nach Fixi
+http://bnt-team.ddns.net/movie/ScambioToto/Qv69rDwrig/13611.mkv
+#EXTINF:-1,VOD DE: Verstehen sie die Beliers
+http://bnt-team.ddns.net/movie/ScambioToto/Qv69rDwrig/13618.mkv
+#EXTINF:-1,VOD DE: Visions
+http://bnt-team.ddns.net/movie/ScambioToto/Qv69rDwrig/13617.mkv
+#EXTINF:-1,VOD DE: Vor ihren Augen
+http://bnt-team.ddns.net/movie/ScambioToto/Qv69rDwrig/13616.mkv
+#EXTINF:-1,VOD DE: Vorstadtkrokodile 2
+http://bnt-team.ddns.net/movie/ScambioToto/Qv69rDwrig/13615.mkv
+#EXTINF:-1,VOD DE: Vorstadtkrokodile 3
+http://bnt-team.ddns.net/movie/ScambioToto/Qv69rDwrig/13614.mkv
+#EXTINF:-1,VOD DE: -=====W--=====-
+http://bnt-team.ddns.net/movie/ScambioToto/Qv69rDwrig/13610.mkv
+#EXTINF:-1,VOD DE: : War Dogs
+http://bnt-team.ddns.net/movie/ScambioToto/Qv69rDwrig/13609.mkv
+#EXTINF:-1,VOD DE: : Willkommen bei n Hartmanns
+http://bnt-team.ddns.net/movie/ScambioToto/Qv69rDwrig/13604.mkv
+#EXTINF:-1,VOD DE: : Warte Bis Es Dunkel Wird
+http://bnt-team.ddns.net/movie/ScambioToto/Qv69rDwrig/13602.mkv
+#EXTINF:-1,VOD DE: : 2012 weltuntergang
+http://bnt-team.ddns.net/movie/ScambioToto/Qv69rDwrig/13586.mkv
+#EXTINF:-1,VOD DE: : Wenn ich bleibe
+http://bnt-team.ddns.net/movie/ScambioToto/Qv69rDwrig/13601.mkv
+#EXTINF:-1,VOD DE: : Whiplash
+http://bnt-team.ddns.net/movie/ScambioToto/Qv69rDwrig/13608.mkv
+#EXTINF:-1,VOD DE: : Whiskey Tango Foxtrot
+http://bnt-team.ddns.net/movie/ScambioToto/Qv69rDwrig/13600.mkv
+#EXTINF:-1,VOD DE: : Wie durch ein Wunr
+http://bnt-team.ddns.net/movie/ScambioToto/Qv69rDwrig/13599.mkv
+#EXTINF:-1,VOD DE: : Wild Card
+http://bnt-team.ddns.net/movie/ScambioToto/Qv69rDwrig/13607.mkv
+#EXTINF:-1,VOD DE: : Wild for the Night
+http://bnt-team.ddns.net/movie/ScambioToto/Qv69rDwrig/13605.mkv
+#EXTINF:-1,VOD DE: : Wild Tales
+http://bnt-team.ddns.net/movie/ScambioToto/Qv69rDwrig/13606.mkv
+#EXTINF:-1,VOD DE: -=====X-=====-
+http://bnt-team.ddns.net/movie/ScambioToto/Qv69rDwrig/14050.mkv
+#EXTINF:-1,VOD DE: : X-Men Apocalypse
+http://bnt-team.ddns.net/movie/ScambioToto/Qv69rDwrig/14049.mkv
+#EXTINF:-1,VOD DE: : Xan ri along
+http://bnt-team.ddns.net/movie/ScambioToto/Qv69rDwrig/14048.mkv
 #EXTINF:-1,DE: Sky Cinema HD
 http://naxosteam.ddns.net:8000/live/cP5Ox0f1uI/wjrKbbvIlt/21281.ts
 #EXTINF:-1,DE: Sky Cinema  1 HD
@@ -1229,383 +1679,185 @@ http://naxosteam.ddns.net:8000/movie/cP5Ox0f1uI/wjrKbbvIlt/20471.mp4
 http://naxosteam.ddns.net:8000/movie/cP5Ox0f1uI/wjrKbbvIlt/20470.mp4
 #EXTINF:-1,VOD: Sky Select 12 (The Boss Baby)
 http://naxosteam.ddns.net:8000/movie/cP5Ox0f1uI/wjrKbbvIlt/20469.mp4
-#EXTINF:-1,13th Street HD DE
-http://portal.geniptv.com:8080/live/delmar/delmar/80.ts
-#EXTINF:-1,13th Street FHD DE
-http://portal.geniptv.com:8080/live/delmar/delmar/3948.ts
-#EXTINF:-1,3sat HD DE
-http://portal.geniptv.com:8080/live/delmar/delmar/2565.ts
-#EXTINF:-1,Animal Planet HD DE
-http://portal.geniptv.com:8080/live/delmar/delmar/2564.ts
-#EXTINF:-1,Animal Planet FHD DE
-http://portal.geniptv.com:8080/live/delmar/delmar/3946.ts
-#EXTINF:-1,ANIXE HD DE
-http://portal.geniptv.com:8080/live/delmar/delmar/2563.ts
-#EXTINF:-1,ARD Alpha DE
-http://portal.geniptv.com:8080/live/delmar/delmar/107.ts
-#EXTINF:-1,arte DE
-http://portal.geniptv.com:8080/live/delmar/delmar/106.ts
-#EXTINF:-1,arte FHD DE
-http://portal.geniptv.com:8080/live/delmar/delmar/4173.ts
-#EXTINF:-1,Astro TV DE
-http://portal.geniptv.com:8080/live/delmar/delmar/5432.ts
-#EXTINF:-1,Augsburg TV DE
-http://portal.geniptv.com:8080/live/delmar/delmar/103.ts
-#EXTINF:-1,AXN HD DE
-http://portal.geniptv.com:8080/live/delmar/delmar/105.ts
-#EXTINF:-1,AXN FHD DE
-http://portal.geniptv.com:8080/live/delmar/delmar/3945.ts
-#EXTINF:-1,A&E FHD DE
-http://portal.geniptv.com:8080/live/delmar/delmar/3947.ts
-#EXTINF:-1,Baby TV DE
-http://portal.geniptv.com:8080/live/delmar/delmar/104.ts
-#EXTINF:-1,BR DE
-http://portal.geniptv.com:8080/live/delmar/delmar/5431.ts
-#EXTINF:-1,Boomerang DE
-http://portal.geniptv.com:8080/live/delmar/delmar/3185.ts
-#EXTINF:-1,CLASSICA FHD DE
-http://portal.geniptv.com:8080/live/delmar/delmar/102.ts
-#EXTINF:-1,Das Erste DE
-http://portal.geniptv.com:8080/live/delmar/delmar/2562.ts
-#EXTINF:-1,Das Erste FHD DE
-http://portal.geniptv.com:8080/live/delmar/delmar/4177.ts
-#EXTINF:-1,Deluxe Music DE
-http://portal.geniptv.com:8080/live/delmar/delmar/3184.ts
-#EXTINF:-1,Deutsches Musik Fernsehen DE
-http://portal.geniptv.com:8080/live/delmar/delmar/5430.ts
-#EXTINF:-1,Discovery Channel HD DE
-http://portal.geniptv.com:8080/live/delmar/delmar/59.ts
-#EXTINF:-1,Discovery Channel FHD DE
-http://portal.geniptv.com:8080/live/delmar/delmar/3944.ts
-#EXTINF:-1,Disney Channel DE
-http://portal.geniptv.com:8080/live/delmar/delmar/99.ts
-#EXTINF:-1,Disney Channel FHD DE
-http://portal.geniptv.com:8080/live/delmar/delmar/3943.ts
-#EXTINF:-1,Disney Cinemagic HD DE
-http://portal.geniptv.com:8080/live/delmar/delmar/3183.ts
-#EXTINF:-1,Disney Cinemagic FHD DE
-http://portal.geniptv.com:8080/live/delmar/delmar/3942.ts
-#EXTINF:-1,Disney Junior DE
-http://portal.geniptv.com:8080/live/delmar/delmar/58.ts
-#EXTINF:-1,Disney XD DE
-http://portal.geniptv.com:8080/live/delmar/delmar/98.ts
-#EXTINF:-1,DMAX HD DE
-http://portal.geniptv.com:8080/live/delmar/delmar/101.ts
-#EXTINF:-1,E! Entertaiment DE
-http://portal.geniptv.com:8080/live/delmar/delmar/5429.ts
-#EXTINF:-1,Family TV DE
-http://portal.geniptv.com:8080/live/delmar/delmar/5426.ts
-#EXTINF:-1,Franken Fernsehen FHD DE
-http://portal.geniptv.com:8080/live/delmar/delmar/5424.ts
-#EXTINF:-1,FOX HD DE
-http://portal.geniptv.com:8080/live/delmar/delmar/2556.ts
-#EXTINF:-1,FOX FHD DE
-http://portal.geniptv.com:8080/live/delmar/delmar/3941.ts
-#EXTINF:-1,Fox Serie DE
-http://portal.geniptv.com:8080/live/delmar/delmar/5425.ts
-#EXTINF:-1,Goldstar TV DE
-http://portal.geniptv.com:8080/live/delmar/delmar/84.ts
-#EXTINF:-1,HR DE
-http://portal.geniptv.com:8080/live/delmar/delmar/5422.ts
-#EXTINF:-1,HR FHD DE
-http://portal.geniptv.com:8080/live/delmar/delmar/5421.ts
-#EXTINF:-1,Heimatikanal DE
-http://portal.geniptv.com:8080/live/delmar/delmar/3182.ts
-#EXTINF:-1,History HD DE
-http://portal.geniptv.com:8080/live/delmar/delmar/95.ts
-#EXTINF:-1,History FHD DE
-http://portal.geniptv.com:8080/live/delmar/delmar/3940.ts
-#EXTINF:-1,Home Shopping Europe DE
-http://portal.geniptv.com:8080/live/delmar/delmar/5423.ts
-#EXTINF:-1,Jukebox DE
-http://portal.geniptv.com:8080/live/delmar/delmar/3854.ts
-#EXTINF:-1,Junior DE
-http://portal.geniptv.com:8080/live/delmar/delmar/3850.ts
-#EXTINF:-1,kabel eins CLASSICS HD DE
-http://portal.geniptv.com:8080/live/delmar/delmar/94.ts
-#EXTINF:-1,kabel eins Doku DE
-http://portal.geniptv.com:8080/live/delmar/delmar/93.ts
-#EXTINF:-1,kabel eins HD DE
-http://portal.geniptv.com:8080/live/delmar/delmar/92.ts
-#EXTINF:-1,kabel eins FHD DE
-http://portal.geniptv.com:8080/live/delmar/delmar/4175.ts
-#EXTINF:-1,Kabel eins Journal DE
-http://portal.geniptv.com:8080/live/delmar/delmar/7083.ts
-#EXTINF:-1,KiKa DE
-http://portal.geniptv.com:8080/live/delmar/delmar/91.ts
-#EXTINF:-1,KiKa FHD DE
-http://portal.geniptv.com:8080/live/delmar/delmar/4174.ts
-#EXTINF:-1,KinoweltTV DE
-http://portal.geniptv.com:8080/live/delmar/delmar/90.ts
-#EXTINF:-1,MDR HD DE
-http://portal.geniptv.com:8080/live/delmar/delmar/89.ts
-#EXTINF:-1,Motorvision TV DE
-http://portal.geniptv.com:8080/live/delmar/delmar/3181.ts
-#EXTINF:-1,MTV Dance DE
-http://portal.geniptv.com:8080/live/delmar/delmar/3853.ts
-#EXTINF:-1,N24 HD DE
-http://portal.geniptv.com:8080/live/delmar/delmar/88.ts
-#EXTINF:-1,N24 Doku DE
-http://portal.geniptv.com:8080/live/delmar/delmar/5415.ts
-#EXTINF:-1,Nat Geo People DE
-http://portal.geniptv.com:8080/live/delmar/delmar/5414.ts
-#EXTINF:-1,National Geographic HD DE
-http://portal.geniptv.com:8080/live/delmar/delmar/87.ts
-#EXTINF:-1,National Geographic FHD DE
-http://portal.geniptv.com:8080/live/delmar/delmar/3935.ts
-#EXTINF:-1,Nat Geo Wild DE
-http://portal.geniptv.com:8080/live/delmar/delmar/2561.ts
-#EXTINF:-1,Nat Geo Wild FHD DE
-http://portal.geniptv.com:8080/live/delmar/delmar/3937.ts
-#EXTINF:-1,NDR HD DE
-http://portal.geniptv.com:8080/live/delmar/delmar/86.ts
-#EXTINF:-1,Nickelodeon CH
-http://portal.geniptv.com:8080/live/delmar/delmar/2560.ts
-#EXTINF:-1,Nickelodeon DE
-http://portal.geniptv.com:8080/live/delmar/delmar/3852.ts
-#EXTINF:-1,Nickelodeon FHD DE
-http://portal.geniptv.com:8080/live/delmar/delmar/4176.ts
-#EXTINF:-1,n-tv HD DE
-http://portal.geniptv.com:8080/live/delmar/delmar/85.ts
-#EXTINF:-1,n-tv FHD DE
-http://portal.geniptv.com:8080/live/delmar/delmar/3938.ts
-#EXTINF:-1,ORF eins HD DE
-http://portal.geniptv.com:8080/live/delmar/delmar/2559.ts
-#EXTINF:-1,ORF 2 HD DE
-http://portal.geniptv.com:8080/live/delmar/delmar/2558.ts
-#EXTINF:-1,Phoenix HD DE
-http://portal.geniptv.com:8080/live/delmar/delmar/3186.ts
-#EXTINF:-1,Planet HD DE
-http://portal.geniptv.com:8080/live/delmar/delmar/5413.ts
-#EXTINF:-1,ProSieben DE
-http://portal.geniptv.com:8080/live/delmar/delmar/3180.ts
-#EXTINF:-1,ProSieben HD DE
-http://portal.geniptv.com:8080/live/delmar/delmar/83.ts
-#EXTINF:-1,ProSieben FHD DE
-http://portal.geniptv.com:8080/live/delmar/delmar/4171.ts
-#EXTINF:-1,Pro7 Fun HD DE
-http://portal.geniptv.com:8080/live/delmar/delmar/6420.ts
-#EXTINF:-1,ProSieben MAXX HD DE
-http://portal.geniptv.com:8080/live/delmar/delmar/82.ts
-#EXTINF:-1,ProSieben MAXX FHD DE
-http://portal.geniptv.com:8080/live/delmar/delmar/3933.ts
-#EXTINF:-1,QVC Beauty & Style DE
-http://portal.geniptv.com:8080/live/delmar/delmar/5411.ts
-#EXTINF:-1,QVC DE
-http://portal.geniptv.com:8080/live/delmar/delmar/5412.ts
-#EXTINF:-1,rbb Berlin DE
-http://portal.geniptv.com:8080/live/delmar/delmar/5410.ts
-#EXTINF:-1,rbb Brandenburg DE
-http://portal.geniptv.com:8080/live/delmar/delmar/5409.ts
-#EXTINF:-1,RIC DE
-http://portal.geniptv.com:8080/live/delmar/delmar/5406.ts
-#EXTINF:-1,Romance TV DE
-http://portal.geniptv.com:8080/live/delmar/delmar/3177.ts
-#EXTINF:-1,RTL Crime DE
-http://portal.geniptv.com:8080/live/delmar/delmar/77.ts
-#EXTINF:-1,RTL DE
-http://portal.geniptv.com:8080/live/delmar/delmar/81.ts
-#EXTINF:-1,RTL FHD DE
-http://portal.geniptv.com:8080/live/delmar/delmar/4184.ts
-#EXTINF:-1,RTL Living HD DE
-http://portal.geniptv.com:8080/live/delmar/delmar/76.ts
-#EXTINF:-1,RTL Nitro HD DE
-http://portal.geniptv.com:8080/live/delmar/delmar/75.ts
-#EXTINF:-1,RTL Nitro FHD DE
-http://portal.geniptv.com:8080/live/delmar/delmar/3930.ts
-#EXTINF:-1,RTL Passion DE
-http://portal.geniptv.com:8080/live/delmar/delmar/74.ts
-#EXTINF:-1,RTL II DE
-http://portal.geniptv.com:8080/live/delmar/delmar/79.ts
-#EXTINF:-1,RTL II FHD DE
-http://portal.geniptv.com:8080/live/delmar/delmar/3932.ts
-#EXTINF:-1,RTL II YOU HD DE
-http://portal.geniptv.com:8080/live/delmar/delmar/78.ts
-#EXTINF:-1,SAT.1 HD DE
-http://portal.geniptv.com:8080/live/delmar/delmar/72.ts
-#EXTINF:-1,SAT.1 FHD DE
-http://portal.geniptv.com:8080/live/delmar/delmar/3929.ts
-#EXTINF:-1,Sat.1 Bayern DE
-http://portal.geniptv.com:8080/live/delmar/delmar/7090.ts
-#EXTINF:-1,SAT.1 emotions DE
-http://portal.geniptv.com:8080/live/delmar/delmar/73.ts
-#EXTINF:-1,SAT.1 GOLD DE
-http://portal.geniptv.com:8080/live/delmar/delmar/71.ts
-#EXTINF:-1,Servus TV HD DE
-http://portal.geniptv.com:8080/live/delmar/delmar/70.ts
-#EXTINF:-1,SIXX HD DE
-http://portal.geniptv.com:8080/live/delmar/delmar/69.ts
-#EXTINF:-1,SIXX FHD DE
-http://portal.geniptv.com:8080/live/delmar/delmar/3928.ts
-#EXTINF:-1,Sony TV HD DE
-http://portal.geniptv.com:8080/live/delmar/delmar/5433.ts
-#EXTINF:-1,Super RTL FHD DE
-http://portal.geniptv.com:8080/live/delmar/delmar/3923.ts
-#EXTINF:-1,SPIEGEL Geschichte DE
-http://portal.geniptv.com:8080/live/delmar/delmar/3174.ts
-#EXTINF:-1,Spiegel TV Wissen HD DE
-http://portal.geniptv.com:8080/live/delmar/delmar/8789.ts
-#EXTINF:-1,Spiegel TV Wissen FHD DE
-http://portal.geniptv.com:8080/live/delmar/delmar/5398.ts
-#EXTINF:-1,SWR DE
-http://portal.geniptv.com:8080/live/delmar/delmar/5403.ts
-#EXTINF:-1,SWR HD DE
-http://portal.geniptv.com:8080/live/delmar/delmar/5402.ts
-#EXTINF:-1,Syfy DE
-http://portal.geniptv.com:8080/live/delmar/delmar/3173.ts
-#EXTINF:-1,Syfy FHD DE
-http://portal.geniptv.com:8080/live/delmar/delmar/3922.ts
-#EXTINF:-1,Sky 1 FHD DE
-http://portal.geniptv.com:8080/live/delmar/delmar/68.ts
-#EXTINF:-1,Sky ARTS DE
-http://portal.geniptv.com:8080/live/delmar/delmar/6824.ts
-#EXTINF:-1,Sky ARTS FHD DE
-http://portal.geniptv.com:8080/live/delmar/delmar/6825.ts
-#EXTINF:-1,Sky Atlantic HD DE
-http://portal.geniptv.com:8080/live/delmar/delmar/66.ts
-#EXTINF:-1,Sky Atlantic FHD DE
-http://portal.geniptv.com:8080/live/delmar/delmar/3926.ts
-#EXTINF:-1,Sky Atlantic +1 FHD DE
-http://portal.geniptv.com:8080/live/delmar/delmar/4390.ts
-#EXTINF:-1,Sky Cinema HD DE
-http://portal.geniptv.com:8080/live/delmar/delmar/62.ts
-#EXTINF:-1,Sky Cinema FHD DE
-http://portal.geniptv.com:8080/live/delmar/delmar/3925.ts
-#EXTINF:-1,Sky Cinema Action HD DE
-http://portal.geniptv.com:8080/live/delmar/delmar/67.ts
-#EXTINF:-1,Sky Cinema Action FHD DE
-http://portal.geniptv.com:8080/live/delmar/delmar/3927.ts
-#EXTINF:-1,Sky Cinema +1 HD DE
-http://portal.geniptv.com:8080/live/delmar/delmar/65.ts
-#EXTINF:-1,Sky Cinema +1 FHD DE
-http://portal.geniptv.com:8080/live/delmar/delmar/4183.ts
-#EXTINF:-1,Sky Cinema +24 HD DE
-http://portal.geniptv.com:8080/live/delmar/delmar/64.ts
-#EXTINF:-1,Sky Cinema +24 FHD DE
-http://portal.geniptv.com:8080/live/delmar/delmar/4391.ts
-#EXTINF:-1,Sky Cinema Comedy HD DE
-http://portal.geniptv.com:8080/live/delmar/delmar/60.ts
-#EXTINF:-1,Sky Cinema Emotion DE
-http://portal.geniptv.com:8080/live/delmar/delmar/2557.ts
-#EXTINF:-1,Sky Cinema Emotion HD DE
-http://portal.geniptv.com:8080/live/delmar/delmar/3849.ts
-#EXTINF:-1,Sky Cinema Family HD DE
-http://portal.geniptv.com:8080/live/delmar/delmar/63.ts
-#EXTINF:-1,Sky Cinema Family FHD DE
-http://portal.geniptv.com:8080/live/delmar/delmar/4181.ts
-#EXTINF:-1,Sky Cinema Hits HD DE
-http://portal.geniptv.com:8080/live/delmar/delmar/2555.ts
-#EXTINF:-1,Sky Cinema Hits FHD DE
-http://portal.geniptv.com:8080/live/delmar/delmar/3924.ts
-#EXTINF:-1,Sky Cinema Nostalgie DE
-http://portal.geniptv.com:8080/live/delmar/delmar/3178.ts
-#EXTINF:-1,Sky Krimi DE
-http://portal.geniptv.com:8080/live/delmar/delmar/3179.ts
-#EXTINF:-1,Sky 3D FHD DE
-http://portal.geniptv.com:8080/live/delmar/delmar/4179.ts
-#EXTINF:-1,Sky Arte FHD DE
-http://portal.geniptv.com:8080/live/delmar/delmar/4389.ts
-#EXTINF:-1,Sky Select 1 HD DE
-http://portal.geniptv.com:8080/live/delmar/delmar/1339.ts
-#EXTINF:-1,Sky Select 2 HD DE
-http://portal.geniptv.com:8080/live/delmar/delmar/1338.ts
-#EXTINF:-1,Sky Select 3 HD DE
-http://portal.geniptv.com:8080/live/delmar/delmar/1337.ts
-#EXTINF:-1,Sky Select 4 HD DE
-http://portal.geniptv.com:8080/live/delmar/delmar/1336.ts
-#EXTINF:-1,Sky Select 5 HD DE
-http://portal.geniptv.com:8080/live/delmar/delmar/1335.ts
-#EXTINF:-1,Sky Select 6 HD DE
-http://portal.geniptv.com:8080/live/delmar/delmar/1334.ts
-#EXTINF:-1,Sky Select 7 HD DE
-http://portal.geniptv.com:8080/live/delmar/delmar/1333.ts
-#EXTINF:-1,Sky Select 8 HD DE
-http://portal.geniptv.com:8080/live/delmar/delmar/1332.ts
-#EXTINF:-1,SilverLine Movies Channel HD DE
-http://portal.geniptv.com:8080/live/delmar/delmar/5490.ts
-#EXTINF:-1,Tagesschau 24 DE
-http://portal.geniptv.com:8080/live/delmar/delmar/5401.ts
-#EXTINF:-1,TELE 5 DE
-http://portal.geniptv.com:8080/live/delmar/delmar/3172.ts
-#EXTINF:-1,TLC DE
-http://portal.geniptv.com:8080/live/delmar/delmar/3171.ts
-#EXTINF:-1,TOGGO plus DE
-http://portal.geniptv.com:8080/live/delmar/delmar/3851.ts
-#EXTINF:-1,TOGGO plus von Super RTL DE
-http://portal.geniptv.com:8080/live/delmar/delmar/2549.ts
-#EXTINF:-1,TNT Film HD DE
-http://portal.geniptv.com:8080/live/delmar/delmar/4388.ts
-#EXTINF:-1,TNT Film FHD DE
-http://portal.geniptv.com:8080/live/delmar/delmar/2554.ts
-#EXTINF:-1,TNT Comedy HD DE
-http://portal.geniptv.com:8080/live/delmar/delmar/3848.ts
-#EXTINF:-1,TNT Comedy FHD DE
-http://portal.geniptv.com:8080/live/delmar/delmar/4180.ts
-#EXTINF:-1,TNT Serie HD DE
-http://portal.geniptv.com:8080/live/delmar/delmar/3175.ts
-#EXTINF:-1,TNT Serie FHD DE
-http://portal.geniptv.com:8080/live/delmar/delmar/3921.ts
-#EXTINF:-1,Universal Channel HD DE
-http://portal.geniptv.com:8080/live/delmar/delmar/3170.ts
-#EXTINF:-1,VIVA / Comedy Central DE
-http://portal.geniptv.com:8080/live/delmar/delmar/3169.ts
-#EXTINF:-1,VOX DE
-http://portal.geniptv.com:8080/live/delmar/delmar/100.ts
-#EXTINF:-1,VOX FHD DE
-http://portal.geniptv.com:8080/live/delmar/delmar/3920.ts
-#EXTINF:-1,WDR HD DE
-http://portal.geniptv.com:8080/live/delmar/delmar/2551.ts
-#EXTINF:-1,Welt der Wunder DE
-http://portal.geniptv.com:8080/live/delmar/delmar/5399.ts
-#EXTINF:-1,ZDF DE
-http://portal.geniptv.com:8080/live/delmar/delmar/2550.ts
-#EXTINF:-1,ZDF FHD DE
-http://portal.geniptv.com:8080/live/delmar/delmar/4178.ts
-#EXTINF:-1,ZDFinfo DE
-http://portal.geniptv.com:8080/live/delmar/delmar/3856.ts
-#EXTINF:-1,ZDFneo DE
-http://portal.geniptv.com:8080/live/delmar/delmar/3855.ts
-#EXTINF:-1,ZDFneo FHD DE
-http://portal.geniptv.com:8080/live/delmar/delmar/4172.ts
-#EXTINF:-1,Zee One DE
-http://portal.geniptv.com:8080/live/delmar/delmar/96.ts
-#EXTINF:-1,Zee One FHD DE
-http://portal.geniptv.com:8080/live/delmar/delmar/5397.ts
-#EXTINF:-1,Sky Popcorn Select 1 HD DE
-http://portal.geniptv.com:8080/live/delmar/delmar/8530.ts
-#EXTINF:-1,Sky Popcorn Select 2 HD DE
-http://portal.geniptv.com:8080/live/delmar/delmar/8529.ts
-#EXTINF:-1,Sky Popcorn Select 3 HD DE
-http://portal.geniptv.com:8080/live/delmar/delmar/8528.ts
-#EXTINF:-1,Sky Popcorn Select 4 HD DE
-http://portal.geniptv.com:8080/live/delmar/delmar/8527.ts
-#EXTINF:-1,Sky Popcorn Select 5 HD DE
-http://portal.geniptv.com:8080/live/delmar/delmar/8526.ts
-#EXTINF:-1,Sky Popcorn Select 6 HD DE
-http://portal.geniptv.com:8080/live/delmar/delmar/8525.ts
-#EXTINF:-1,WWE DE
-http://portal.geniptv.com:8080/live/delmar/delmar/7795.ts
-#EXTINF:-1,Bayern FC TV DE
-http://portal.geniptv.com:8080/live/delmar/delmar/6491.ts
-#EXTINF:-1,Bayern FC TV FHD DE
-http://portal.geniptv.com:8080/live/delmar/delmar/6492.ts
-#EXTINF:-1,Eurosport 1 HD DE
-http://portal.geniptv.com:8080/live/delmar/delmar/1316.ts
-#EXTINF:-1,Eurosport 2 DE
-http://portal.geniptv.com:8080/live/delmar/delmar/97.ts
-#EXTINF:-1,Eurosport 2 Xtra HD DE
-http://portal.geniptv.com:8080/live/delmar/delmar/7430.ts
-#EXTINF:-1,Eurosport 2 Xtra FHD DE
-http://portal.geniptv.com:8080/live/delmar/delmar/6506.ts
-#EXTINF:-1,SportDigital HD DE
-http://portal.geniptv.com:8080/live/delmar/delmar/3187.ts
-#EXTINF:-1,Sky Sport Austria DE
-http://portal.geniptv.com:8080/live/delmar/delmar/3176.ts
-#EXTINF:-1,Sky Sport Austria FHD DE
-http://portal.geniptv.com:8080/live/delmar/delmar/5584.ts
-#EXTINF:-1,Sky Sport FanZone FHD DE
-http://portal.geniptv.com:8080/live/delmar/delmar/3939.ts
-#EXTINF:-1,Sport1 FHD DE
-http://portal.geniptv.com:8080/live/delmar/delmar/3847.ts
-#EXTINF:-1,Sky Sport News HD DE
-http://portal.geniptv.com:8080/live/delmar/delmar/1315.ts
+#EXTINF:-1,DE | 13Street
+http://prod.proserver300.com:8080/live/Eko/Eko/7733.ts
+#EXTINF:-1,DE | ARD HD
+http://prod.proserver300.com:8080/live/Eko/Eko/7731.ts
+#EXTINF:-1,DE | arte / ARD
+http://prod.proserver300.com:8080/live/Eko/Eko/7698.ts
+#EXTINF:-1,DE | AXN
+http://prod.proserver300.com:8080/live/Eko/Eko/7722.ts
+#EXTINF:-1,DE | D MAX HD
+http://prod.proserver300.com:8080/live/Eko/Eko/7702.ts
+#EXTINF:-1,DE | DISCOVERY CHANNEL HD
+http://prod.proserver300.com:8080/live/Eko/Eko/7689.ts
+#EXTINF:-1,DE | DISNEY CHANNEL
+http://prod.proserver300.com:8080/live/Eko/Eko/7700.ts
+#EXTINF:-1,DE | Disney Cinemagic / SKY
+http://prod.proserver300.com:8080/live/Eko/Eko/7690.ts
+#EXTINF:-1,DE | Disney Junior / SKY
+http://prod.proserver300.com:8080/live/Eko/Eko/7697.ts
+#EXTINF:-1,DE | Disney XD
+http://prod.proserver300.com:8080/live/Eko/Eko/7696.ts
+#EXTINF:-1,DE | EUROSPORT
+http://prod.proserver300.com:8080/live/Eko/Eko/7736.ts
+#EXTINF:-1,DE | EUROSPORT2
+http://prod.proserver300.com:8080/live/Eko/Eko/7735.ts
+#EXTINF:-1,DE | Fox hd
+http://prod.proserver300.com:8080/live/Eko/Eko/7724.ts
+#EXTINF:-1,DE | Fox Serie
+http://prod.proserver300.com:8080/live/Eko/Eko/7723.ts
+#EXTINF:-1,DE | HEIMAT KANAL
+http://prod.proserver300.com:8080/live/Eko/Eko/7691.ts
+#EXTINF:-1,DE | HISTORY CHANNEL HD
+http://prod.proserver300.com:8080/live/Eko/Eko/7701.ts
+#EXTINF:-1,DE | KIKA
+http://prod.proserver300.com:8080/live/Eko/Eko/7768.ts
+#EXTINF:-1,DE | N 24
+http://prod.proserver300.com:8080/live/Eko/Eko/7734.ts
+#EXTINF:-1,DE | NATIONAL GEOGRAPHIC
+http://prod.proserver300.com:8080/live/Eko/Eko/7688.ts
+#EXTINF:-1,DE | NDR HD
+http://prod.proserver300.com:8080/live/Eko/Eko/7725.ts
+#EXTINF:-1,DE | NICK JR
+http://prod.proserver300.com:8080/live/Eko/Eko/7695.ts
+#EXTINF:-1,DE | ORF1
+http://prod.proserver300.com:8080/live/Eko/Eko/7732.ts
+#EXTINF:-1,DE | ORF2
+http://prod.proserver300.com:8080/live/Eko/Eko/7703.ts
+#EXTINF:-1,DE | Pro7
+http://prod.proserver300.com:8080/live/Eko/Eko/7766.ts
+#EXTINF:-1,DE | Pro7 MAXX / ProSiebenSat.1
+http://prod.proserver300.com:8080/live/Eko/Eko/7767.ts
+#EXTINF:-1,DE | ProSieben / ProSiebenSat.1
+http://prod.proserver300.com:8080/live/Eko/Eko/7727.ts
+#EXTINF:-1,DE | ROMANCE
+http://prod.proserver300.com:8080/live/Eko/Eko/7719.ts
+#EXTINF:-1,DE | RTL Crime / SKY
+http://prod.proserver300.com:8080/live/Eko/Eko/7762.ts
+#EXTINF:-1,DE | RTL HD / CBC
+http://prod.proserver300.com:8080/live/Eko/Eko/7761.ts
+#EXTINF:-1,DE | RTL LIVING
+http://prod.proserver300.com:8080/live/Eko/Eko/7765.ts
+#EXTINF:-1,DE | RTL NITRO/CBC
+http://prod.proserver300.com:8080/live/Eko/Eko/7759.ts
+#EXTINF:-1,DE | RTL Passion / SKY
+http://prod.proserver300.com:8080/live/Eko/Eko/7757.ts
+#EXTINF:-1,DE | RTL Television
+http://prod.proserver300.com:8080/live/Eko/Eko/7764.ts
+#EXTINF:-1,DE | RTL2/CBC
+http://prod.proserver300.com:8080/live/Eko/Eko/7760.ts
+#EXTINF:-1,DE | RTLII HD
+http://prod.proserver300.com:8080/live/Eko/Eko/7763.ts
+#EXTINF:-1,DE | RTLplus
+http://prod.proserver300.com:8080/live/Eko/Eko/7758.ts
+#EXTINF:-1,DE | SAT.1 Gold
+http://prod.proserver300.com:8080/live/Eko/Eko/7740.ts
+#EXTINF:-1,DE | SAT.1 NRW / ProSiebenSat.1
+http://prod.proserver300.com:8080/live/Eko/Eko/7739.ts
+#EXTINF:-1,DE | Sat1 HD
+http://prod.proserver300.com:8080/live/Eko/Eko/7721.ts
+#EXTINF:-1,DE | Servus TV
+http://prod.proserver300.com:8080/live/Eko/Eko/7726.ts
+#EXTINF:-1,DE | SIXX
+http://prod.proserver300.com:8080/live/Eko/Eko/7692.ts
+#EXTINF:-1,DE | Sky Atlantic
+http://prod.proserver300.com:8080/live/Eko/Eko/7749.ts
+#EXTINF:-1,DE | SKY BUNDESLIGA 2 HD !!! weekend only !!!
+http://prod.proserver300.com:8080/live/Eko/Eko/8161.ts
+#EXTINF:-1,DE | SKY BUNDESLIGA 3 HD !!! weekend only !!!
+http://prod.proserver300.com:8080/live/Eko/Eko/8160.ts
+#EXTINF:-1,DE | SKY BUNDESLIGA 4 HD !!! weekend only !!!
+http://prod.proserver300.com:8080/live/Eko/Eko/8159.ts
+#EXTINF:-1,DE | SKY BUNDESLIGA 5 HD !!! weekend only !!!
+http://prod.proserver300.com:8080/live/Eko/Eko/8158.ts
+#EXTINF:-1,DE | Sky Cinema
+http://prod.proserver300.com:8080/live/Eko/Eko/7751.ts
+#EXTINF:-1,DE | Sky Cinema 1
+http://prod.proserver300.com:8080/live/Eko/Eko/7746.ts
+#EXTINF:-1,DE | Sky Cinema Action
+http://prod.proserver300.com:8080/live/Eko/Eko/7744.ts
+#EXTINF:-1,DE | Sky Cinema Comedy
+http://prod.proserver300.com:8080/live/Eko/Eko/7752.ts
+#EXTINF:-1,DE | Sky Cinema Emotion
+http://prod.proserver300.com:8080/live/Eko/Eko/7745.ts
+#EXTINF:-1,DE | Sky Cinema Hits
+http://prod.proserver300.com:8080/live/Eko/Eko/7754.ts
+#EXTINF:-1,DE | Sky Cinema Nostalgie / SKY
+http://prod.proserver300.com:8080/live/Eko/Eko/7753.ts
+#EXTINF:-1,DE | Sky Krimi / SKY
+http://prod.proserver300.com:8080/live/Eko/Eko/7755.ts
+#EXTINF:-1,DE | SKY NATGEO WILD HD
+http://prod.proserver300.com:8080/live/Eko/Eko/7741.ts
+#EXTINF:-1,DE | SKY SELECT 1 HD
+http://prod.proserver300.com:8080/live/Eko/Eko/7711.ts
+#EXTINF:-1,DE | SKY SELECT 2 HD
+http://prod.proserver300.com:8080/live/Eko/Eko/7710.ts
+#EXTINF:-1,DE | Sky Select 3 HD
+http://prod.proserver300.com:8080/live/Eko/Eko/7709.ts
+#EXTINF:-1,DE | Sky Select 4 HD
+http://prod.proserver300.com:8080/live/Eko/Eko/7708.ts
+#EXTINF:-1,DE | Sky Select 5 HD
+http://prod.proserver300.com:8080/live/Eko/Eko/7707.ts
+#EXTINF:-1,DE | Sky Select 6 HD
+http://prod.proserver300.com:8080/live/Eko/Eko/7706.ts
+#EXTINF:-1,DE | Sky Select 7 HD
+http://prod.proserver300.com:8080/live/Eko/Eko/7705.ts
+#EXTINF:-1,DE | Sky Select 8HD
+http://prod.proserver300.com:8080/live/Eko/Eko/7704.ts
+#EXTINF:-1,DE | SKY SPORT 2 HD
+http://prod.proserver300.com:8080/live/Eko/Eko/7737.ts
+#EXTINF:-1,DE | Sky Sport Bundesliga 1
+http://prod.proserver300.com:8080/live/Eko/Eko/8162.ts
+#EXTINF:-1,DE | Sky Sport Bundesliga1
+http://prod.proserver300.com:8080/live/Eko/Eko/7716.ts
+#EXTINF:-1,DE | SKY SPORT NEWS HD
+http://prod.proserver300.com:8080/live/Eko/Eko/7715.ts
+#EXTINF:-1,DE | SKY SPORT1 HD
+http://prod.proserver300.com:8080/live/Eko/Eko/7738.ts
+#EXTINF:-1,DE | SKY TNT FILME HD
+http://prod.proserver300.com:8080/live/Eko/Eko/7742.ts
+#EXTINF:-1,DE | SKY TNT SERIES HD
+http://prod.proserver300.com:8080/live/Eko/Eko/7743.ts
+#EXTINF:-1,DE | SkyAction
+http://prod.proserver300.com:8080/live/Eko/Eko/7750.ts
+#EXTINF:-1,DE | SkyCinema
+http://prod.proserver300.com:8080/live/Eko/Eko/7747.ts
+#EXTINF:-1,DE | SkyCinema24
+http://prod.proserver300.com:8080/live/Eko/Eko/7748.ts
+#EXTINF:-1,DE | SKYSPORT AUSTRIA
+http://prod.proserver300.com:8080/live/Eko/Eko/7714.ts
+#EXTINF:-1,DE | SPORT  1 HD
+http://prod.proserver300.com:8080/live/Eko/Eko/7712.ts
+#EXTINF:-1,DE | SPORT1 US HD
+http://prod.proserver300.com:8080/live/Eko/Eko/7713.ts
+#EXTINF:-1,DE | Srf1
+http://prod.proserver300.com:8080/live/Eko/Eko/7720.ts
+#EXTINF:-1,DE | SUPER RTL
+http://prod.proserver300.com:8080/live/Eko/Eko/7756.ts
+#EXTINF:-1,DE | SYFY
+http://prod.proserver300.com:8080/live/Eko/Eko/7694.ts
+#EXTINF:-1,DE | TLC
+http://prod.proserver300.com:8080/live/Eko/Eko/7769.ts
+#EXTINF:-1,DE | TNT Serie HD
+http://prod.proserver300.com:8080/live/Eko/Eko/7699.ts
+#EXTINF:-1,DE | VOX HD
+http://prod.proserver300.com:8080/live/Eko/Eko/7730.ts
+#EXTINF:-1,DE | WDR
+http://prod.proserver300.com:8080/live/Eko/Eko/7693.ts
+#EXTINF:-1,DE | WDRHD
+http://prod.proserver300.com:8080/live/Eko/Eko/7717.ts
+#EXTINF:-1,DE | ZDF
+http://prod.proserver300.com:8080/live/Eko/Eko/7729.ts
+#EXTINF:-1,DE | ZDF info
+http://prod.proserver300.com:8080/live/Eko/Eko/7728.ts
+#EXTINF:-1,DE | zdf neo/ZDFvision
+http://prod.proserver300.com:8080/live/Eko/Eko/7718.ts
+#EXTINF:-1,DE | 3 SAT HD
+http://prod.proserver300.com:8080/live/Eko/Eko/8247.ts
+#EXTINF:-1,DE | ANIMAL PLANET HD
+http://prod.proserver300.com:8080/live/Eko/Eko/8248.ts
+#EXTINF:-1,DE | DISCOVERY CHANNEL
+http://prod.proserver300.com:8080/live/Eko/Eko/8249.ts
+#EXTINF:-1,DE | EUROSPORT 2 XTRA
+http://prod.proserver300.com:8080/live/Eko/Eko/8250.ts
