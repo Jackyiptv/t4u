@@ -4,15 +4,6 @@ http://www.lengua.com/anthems/Indonesia.mp3
 #EXTINF:-1 tvg-name="Ger1" tvg-logo="" group-title="{BOUQUET_NAME}",Channel Kick Out in 15-20Sec Visit http://bit.ly/fixkick
 http://www.lengua.com/anthems/Indonesia.mp3
 
-
-#EXTINF:-1,|DE| :  Sky Cinema Hits
-http://vip.one-iptv.com:25443/live/star7arab.com/Ma9euCMYhN/18152.ts
-#EXTINF:-1,|DE| : *Sky Sport 1 HD
-http://vip.one-iptv.com:25443/live/star7arab.com/Ma9euCMYhN/18151.ts
-#EXTINF:-1,|DE| : *Sky Sport 2 HD
-http://vip.one-iptv.com:25443/live/star7arab.com/Ma9euCMYhN/18150.ts
-#EXTINF:-1,|DE| : 1-2-3.tv HD ( 1080P )
-http://vip.one-iptv.com:25443/live/star7arab.com/Ma9euCMYhN/18149.ts
 #EXTINF:-1,|DE| : 13th Street
 http://vip.one-iptv.com:25443/live/star7arab.com/Ma9euCMYhN/18148.ts
 #EXTINF:-1,|DE| : 3sat
@@ -3014,3 +3005,11 @@ http://live.darkside-iptv.com:8080/live/Tahizen1/ku0kPnKSya/18843.ts
 http://live.darkside-iptv.com:8080/live/Tahizen1/ku0kPnKSya/22934.ts
 #EXTINF:-1,DE: RFH
 http://live.darkside-iptv.com:8080/live/Tahizen1/ku0kPnKSya/18844.ts
+#EXTINF:-1,|DE| :  Sky Cinema Hits
+http://vip.one-iptv.com:25443/live/star7arab.com/Ma9euCMYhN/18152.ts
+#EXTINF:-1,|DE| : *Sky Sport 1 HD
+http://vip.one-iptv.com:25443/live/star7arab.com/Ma9euCMYhN/18151.ts
+#EXTINF:-1,|DE| : *Sky Sport 2 HD
+http://vip.one-iptv.com:25443/live/star7arab.com/Ma9euCMYhN/18150.ts
+#EXTINF:-1,|DE| : 1-2-3.tv HD ( 1080P )
+http://vip.one-iptv.com:25443/live/star7arab.com/Ma9euCMYhN/18149.ts
