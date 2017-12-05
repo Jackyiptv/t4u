@@ -5,546 +5,601 @@ http://www.lengua.com/anthems/Indonesia.mp3
 #EXTINF:-1 tvg-name="Ger1" tvg-logo="" group-title="{BOUQUET_NAME}",Channel Kick Out in 15-20Sec Visit http://bit.ly/fixkick
 http://www.lengua.com/anthems/Indonesia.mp3
 
-
-#EXTINF:-1,DE: 3SAT
-http://server.internext.tv:8000/live/star43/star43/12341.ts
-#EXTINF:-1,DE: ARTE HD
-http://server.internext.tv:8000/live/star43/star43/12348.ts
-#EXTINF:-1,DE: AUSTRIA 24H
-http://server.internext.tv:8000/live/star43/star43/12317.ts
-#EXTINF:-1,DE: AXN HD
-http://server.internext.tv:8000/live/star43/star43/12347.ts
-#EXTINF:-1,DE: BOOMERANG
-http://server.internext.tv:8000/live/star43/star43/12308.ts
-#EXTINF:-1,DE: BW FAMILY
-http://server.internext.tv:8000/live/star43/star43/12351.ts
-#EXTINF:-1,DE: CARTOON NETWORK
-http://server.internext.tv:8000/live/star43/star43/12313.ts
-#EXTINF:-1,DE: CLASSICA
-http://server.internext.tv:8000/live/star43/star43/12321.ts
-#EXTINF:-1,DE: DISNEY CHANNEL HD
-http://server.internext.tv:8000/live/star43/star43/12312.ts
-#EXTINF:-1,DE: DISNEY CINEMAGIC
-http://server.internext.tv:8000/live/star43/star43/12311.ts
-#EXTINF:-1,DE: DISNEY XD
-http://server.internext.tv:8000/live/star43/star43/12310.ts
-#EXTINF:-1,DE: DMAX
-http://server.internext.tv:8000/live/star43/star43/12336.ts
-#EXTINF:-1,DE: JUNIOR
-http://server.internext.tv:8000/live/star43/star43/12320.ts
-#EXTINF:-1,DE: EUROSPORT 1HD
-http://server.internext.tv:8000/live/star43/star43/12324.ts
-#EXTINF:-1,DE: FOX
-http://server.internext.tv:8000/live/star43/star43/12334.ts
-#EXTINF:-1,DE: FOX HD
-http://server.internext.tv:8000/live/star43/star43/12333.ts
-#EXTINF:-1,DE: KIKA HD
-http://server.internext.tv:8000/live/star43/star43/12314.ts
-#EXTINF:-1,DE: MGM
-http://server.internext.tv:8000/live/star43/star43/12337.ts
-#EXTINF:-1,DE: DAF HD
-http://server.internext.tv:8000/live/star43/star43/12346.ts
-#EXTINF:-1,DE: ORF 1 HD
-http://server.internext.tv:8000/live/star43/star43/12339.ts
-#EXTINF:-1,DE: ORF 2HD
-http://server.internext.tv:8000/live/star43/star43/12338.ts
-#EXTINF:-1,DE: PRO SIEBEN
-http://server.internext.tv:8000/live/star43/star43/12319.ts
-#EXTINF:-1,DE: LIGHT TV
-http://server.internext.tv:8000/live/star43/star43/12318.ts
-#EXTINF:-1,DE: RTL 2HD
-http://server.internext.tv:8000/live/star43/star43/12331.ts
-#EXTINF:-1,DE: RTL CRIME HD
-http://server.internext.tv:8000/live/star43/star43/12329.ts
+#EXTINF:-1,DE: SKY NATIONALGEO WILD HD
+http://super1.ideaiptv.com:8000/live/Karim23/8798234/1782.ts
+#EXTINF:-1,DE: Sky NATIONALGEO PEOPLE HD
+http://super1.ideaiptv.com:8000/live/Karim23/8798234/1783.ts
+#EXTINF:-1,DE: SIXX HD
+http://super1.ideaiptv.com:8000/live/Karim23/8798234/1781.ts
+#EXTINF:-1,DE: RTL 2 HD
+http://super1.ideaiptv.com:8000/live/Karim23/8798234/1778.ts
+#EXTINF:-1,DE: Sky Hits
+http://super1.ideaiptv.com:8000/live/Karim23/8798234/1779.ts
 #EXTINF:-1,DE: RTL HD
-http://server.internext.tv:8000/live/star43/star43/12332.ts
-#EXTINF:-1,DE: RTL Kockica
-http://server.internext.tv:8000/live/star43/star43/12328.ts
-#EXTINF:-1,DE: RTL LIVING
-http://server.internext.tv:8000/live/star43/star43/12326.ts
-#EXTINF:-1,DE: RTL NITRO
-http://server.internext.tv:8000/live/star43/star43/12327.ts
-#EXTINF:-1,DE: RTL PASSION HD
-http://server.internext.tv:8000/live/star43/star43/12330.ts
-#EXTINF:-1,DE: SAT 1SD
-http://server.internext.tv:8000/live/star43/star43/12345.ts
-#EXTINF:-1,DE: NICKELEDEON
-http://server.internext.tv:8000/live/star43/star43/12344.ts
-#EXTINF:-1,DE: SKY ACTION HD
-http://server.internext.tv:8000/live/star43/star43/12290.ts
-#EXTINF:-1,DE: SKY ATLANTIC
-http://server.internext.tv:8000/live/star43/star43/12291.ts
-#EXTINF:-1,DE: SKY BUNDENSLIGA 1HD
-http://server.internext.tv:8000/live/star43/star43/12301.ts
-#EXTINF:-1,DE: SKY BUNDESLIGA 1 HD
-http://server.internext.tv:8000/live/star43/star43/12277.ts
-#EXTINF:-1,DE: SKY BUNDESLIGA 2 HD
-http://server.internext.tv:8000/live/star43/star43/12276.ts
-#EXTINF:-1,DE: SKY BUNDESLIGA 3 HD
-http://server.internext.tv:8000/live/star43/star43/12275.ts
-#EXTINF:-1,DE: SKY BUNDESLIGA 4 HD
-http://server.internext.tv:8000/live/star43/star43/12274.ts
-#EXTINF:-1,DE: SKY BUNDESLIGA 6 HD
-http://server.internext.tv:8000/live/star43/star43/12273.ts
-#EXTINF:-1,DE: SKY BUNDESLIGA 7 HD
-http://server.internext.tv:8000/live/star43/star43/12272.ts
-#EXTINF:-1,DE: SKY BUNDESLIGA 8 HD
-http://server.internext.tv:8000/live/star43/star43/12271.ts
-#EXTINF:-1,DE: SKY BUNDESLIGA 9 HD
-http://server.internext.tv:8000/live/star43/star43/12270.ts
-#EXTINF:-1,DE: SKY CINEMA
-http://server.internext.tv:8000/live/star43/star43/12292.ts
-#EXTINF:-1,DE: SKY CINIMA 24HD
-http://server.internext.tv:8000/live/star43/star43/12288.ts
-#EXTINF:-1,DE: SKY COMEDY
-http://server.internext.tv:8000/live/star43/star43/12289.ts
-#EXTINF:-1,DE: SKY DISCOVERY HD
-http://server.internext.tv:8000/live/star43/star43/12297.ts
-#EXTINF:-1,DE: SKY HISTORY HD
-http://server.internext.tv:8000/live/star43/star43/12300.ts
-#EXTINF:-1,DE: SKY HITS
-http://server.internext.tv:8000/live/star43/star43/12293.ts
-#EXTINF:-1,DE: SKY NAT GEO PEOPLE HD
-http://server.internext.tv:8000/live/star43/star43/12295.ts
-#EXTINF:-1,DE: SKY NAT GEO WILD HD
-http://server.internext.tv:8000/live/star43/star43/12296.ts
-#EXTINF:-1,DE: PLANET
-http://server.internext.tv:8000/live/star43/star43/12299.ts
-#EXTINF:-1,DE: SKY NGC WILD HD
-http://server.internext.tv:8000/live/star43/star43/12298.ts
-#EXTINF:-1,DE: SKY NOSTALGIE HD
-http://server.internext.tv:8000/live/star43/star43/12294.ts
-#EXTINF:-1,DE: SKY SELECT 01HD
-http://server.internext.tv:8000/live/star43/star43/12287.ts
-#EXTINF:-1,DE: SKY SELECT 02HD
-http://server.internext.tv:8000/live/star43/star43/12286.ts
-#EXTINF:-1,DE: SKY SELECT 03HD
-http://server.internext.tv:8000/live/star43/star43/12285.ts
-#EXTINF:-1,DE: SKY SELECT 04HD
-http://server.internext.tv:8000/live/star43/star43/12284.ts
-#EXTINF:-1,DE: SKY SELECT 05HD
-http://server.internext.tv:8000/live/star43/star43/12283.ts
-#EXTINF:-1,DE: SKY SELECT 06HD
-http://server.internext.tv:8000/live/star43/star43/12282.ts
-#EXTINF:-1,DE: SKY SELECT 07HD
-http://server.internext.tv:8000/live/star43/star43/12281.ts
-#EXTINF:-1,DE: SKY SELECT 08HD
-http://server.internext.tv:8000/live/star43/star43/12280.ts
-#EXTINF:-1,DE: SKY SELECT 09HD
-http://server.internext.tv:8000/live/star43/star43/12279.ts
-#EXTINF:-1,DE: SKY SELECT 10HD
-http://server.internext.tv:8000/live/star43/star43/12278.ts
-#EXTINF:-1,DE: SKY SPORT 1HD
-http://server.internext.tv:8000/live/star43/star43/12305.ts
-#EXTINF:-1,DE: SKY SPORT 1SD
-http://server.internext.tv:8000/live/star43/star43/12304.ts
-#EXTINF:-1,DE: SKY SPORT 2HD
-http://server.internext.tv:8000/live/star43/star43/12303.ts
-#EXTINF:-1,DE: SKY SPORT 2SD
-http://server.internext.tv:8000/live/star43/star43/12302.ts
-#EXTINF:-1,DE: SKY SPORT AUSTRIA
-http://server.internext.tv:8000/live/star43/star43/12269.ts
-#EXTINF:-1,DE: SPIEGEL GESCHICHTE HD
-http://server.internext.tv:8000/live/star43/star43/12306.ts
-#EXTINF:-1,DE: SRF 1
-http://server.internext.tv:8000/live/star43/star43/12343.ts
-#EXTINF:-1,DE: SRF 2
-http://server.internext.tv:8000/live/star43/star43/12342.ts
-#EXTINF:-1,DE: SUPER RTL
-http://server.internext.tv:8000/live/star43/star43/12307.ts
-#EXTINF:-1,DE: SYFY-HD
-http://server.internext.tv:8000/live/star43/star43/12340.ts
-#EXTINF:-1,DE: TAGESSCHAU 24
-http://server.internext.tv:8000/live/star43/star43/12316.ts
-#EXTINF:-1,DE: TNT SERIE HD
-http://server.internext.tv:8000/live/star43/star43/12323.ts
-#EXTINF:-1,DE: TNT SERIES HD
-http://server.internext.tv:8000/live/star43/star43/12325.ts
-#EXTINF:-1,DE: TOGGO HD
-http://server.internext.tv:8000/live/star43/star43/12315.ts
-#EXTINF:-1,DE: UNIVERSAL CH_HD
-http://server.internext.tv:8000/live/star43/star43/12322.ts
-#EXTINF:-1,DE: VOX
-http://server.internext.tv:8000/live/star43/star43/12335.ts
-#EXTINF:-1,DE: WDR HD
-http://server.internext.tv:8000/live/star43/star43/12349.ts
+http://super1.ideaiptv.com:8000/live/Karim23/8798234/1780.ts
 #EXTINF:-1,DE: ZDF
-http://server.internext.tv:8000/live/star43/star43/12350.ts
-
-#EXTINF:-1,DE: 13EME RUE
-http://server.internext.tv:8000/live/star38/star38/12309.ts
-#EXTINF:-1,DE: 3SAT
-http://server.internext.tv:8000/live/star38/star38/12341.ts
-#EXTINF:-1,DE: ARTE HD
-http://server.internext.tv:8000/live/star38/star38/12348.ts
-#EXTINF:-1,DE: AUSTRIA 24H
-http://server.internext.tv:8000/live/star38/star38/12317.ts
-#EXTINF:-1,DE: AXN HD
-http://server.internext.tv:8000/live/star38/star38/12347.ts
-#EXTINF:-1,DE: BOOMERANG
-http://server.internext.tv:8000/live/star38/star38/12308.ts
-#EXTINF:-1,DE: BW FAMILY
-http://server.internext.tv:8000/live/star38/star38/12351.ts
-#EXTINF:-1,DE: CARTOON NETWORK
-http://server.internext.tv:8000/live/star38/star38/12313.ts
-#EXTINF:-1,DE: CLASSICA
-http://server.internext.tv:8000/live/star38/star38/12321.ts
-#EXTINF:-1,DE: DISNEY CHANNEL HD
-http://server.internext.tv:8000/live/star38/star38/12312.ts
-#EXTINF:-1,DE: DISNEY CINEMAGIC
-http://server.internext.tv:8000/live/star38/star38/12311.ts
-#EXTINF:-1,DE: DISNEY XD
-http://server.internext.tv:8000/live/star38/star38/12310.ts
-#EXTINF:-1,DE: DMAX
-http://server.internext.tv:8000/live/star38/star38/12336.ts
-#EXTINF:-1,DE: JUNIOR
-http://server.internext.tv:8000/live/star38/star38/12320.ts
-#EXTINF:-1,DE: EUROSPORT 1HD
-http://server.internext.tv:8000/live/star38/star38/12324.ts
-#EXTINF:-1,DE: FOX
-http://server.internext.tv:8000/live/star38/star38/12334.ts
-#EXTINF:-1,DE: FOX HD
-http://server.internext.tv:8000/live/star38/star38/12333.ts
+http://super1.ideaiptv.com:8000/live/Karim23/8798234/1556.ts
+#EXTINF:-1,DE: Vox HD
+http://super1.ideaiptv.com:8000/live/Karim23/8798234/1558.ts
+#EXTINF:-1,DE: TNT SERIE HD
+http://super1.ideaiptv.com:8000/live/Karim23/8798234/1568.ts
+#EXTINF:-1,DE:SKY SELECT 1
+http://super1.ideaiptv.com:8000/live/Karim23/8798234/1570.ts
+#EXTINF:-1,DE: SKY NATIONAL GEO HD
+http://super1.ideaiptv.com:8000/live/Karim23/8798234/1572.ts
+#EXTINF:-1,DE:Sky Emotion HD
+http://super1.ideaiptv.com:8000/live/Karim23/8798234/1561.ts
+#EXTINF:-1,DE: Sky Comedy HD
+http://super1.ideaiptv.com:8000/live/Karim23/8798234/1562.ts
+#EXTINF:-1,DE: Sky Cinema 24
+http://super1.ideaiptv.com:8000/live/Karim23/8798234/1563.ts
+#EXTINF:-1,DE:Sky Cinema 1 HD
+http://super1.ideaiptv.com:8000/live/Karim23/8798234/1564.ts
+#EXTINF:-1,DE:Sky Cinema HD
+http://super1.ideaiptv.com:8000/live/Karim23/8798234/1565.ts
+#EXTINF:-1,DE: Austria 24
+http://super1.ideaiptv.com:8000/live/Karim23/8798234/1566.ts
+#EXTINF:-1,DE: Sky Action HD
+http://super1.ideaiptv.com:8000/live/Karim23/8798234/1567.ts
+#EXTINF:-1,DE: SKY SELECT 2
+http://super1.ideaiptv.com:8000/live/Karim23/8798234/1571.ts
+#EXTINF:-1,TR: Lig tv (BeinSPorts) 2 HD
+http://super1.ideaiptv.com:8000/live/Karim23/8798234/1466.ts
+#EXTINF:-1,DE: ZEE ONE HD
+http://super1.ideaiptv.com:8000/live/Karim23/8798234/1560.ts
+#EXTINF:-1,DE: SAT 1
+http://super1.ideaiptv.com:8000/live/Karim23/8798234/3174.ts
+#EXTINF:-1,DE: PLANET HD
+http://super1.ideaiptv.com:8000/live/Karim23/8798234/3175.ts
+#EXTINF:-1,DE: NATIONAL GEOGRAPHIC HD
+http://super1.ideaiptv.com:8000/live/Karim23/8798234/3176.ts
+#EXTINF:-1,DE: NAT GEO WILD
+http://super1.ideaiptv.com:8000/live/Karim23/8798234/3177.ts
+#EXTINF:-1,DE: KABELEINS HD
+http://super1.ideaiptv.com:8000/live/Karim23/8798234/3178.ts
+#EXTINF:-1,DE: HISTORY CHANNEL HD
+http://super1.ideaiptv.com:8000/live/Karim23/8798234/3179.ts
+#EXTINF:-1,DE: ARD HD
+http://super1.ideaiptv.com:8000/live/Karim23/8798234/3180.ts
+#EXTINF:-1,DE: 3 SAT HD
+http://super1.ideaiptv.com:8000/live/Karim23/8798234/3181.ts
+#EXTINF:-1,DE: WDR HD
+http://super1.ideaiptv.com:8000/live/Karim23/8798234/3182.ts
+#EXTINF:-1,DE: DAS ERSTE HD
+http://super1.ideaiptv.com:8000/live/Karim23/8798234/3183.ts
+#EXTINF:-1,DE:TNT Film HD
+http://super1.ideaiptv.com:8000/live/Karim23/8798234/1578.ts
+#EXTINF:-1,DE: TNT FILM HD
+http://super1.ideaiptv.com:8000/live/Karim23/8798234/1579.ts
+#EXTINF:-1,DE: TELE 5 TV HD
+http://super1.ideaiptv.com:8000/live/Karim23/8798234/1580.ts
+#EXTINF:-1,DE: Pro 7 HD
+http://super1.ideaiptv.com:8000/live/Karim23/8798234/1584.ts
+#EXTINF:-1,DE: KABEL 1 HD
+http://super1.ideaiptv.com:8000/live/Karim23/8798234/1585.ts
+#EXTINF:-1,DE: MGM HD
+http://super1.ideaiptv.com:8000/live/Karim23/8798234/1587.ts
 #EXTINF:-1,DE: KIKA HD
-http://server.internext.tv:8000/live/star38/star38/12314.ts
-#EXTINF:-1,DE: MGM
-http://server.internext.tv:8000/live/star38/star38/12337.ts
-#EXTINF:-1,DE: DAF HD
-http://server.internext.tv:8000/live/star38/star38/12346.ts
-#EXTINF:-1,DE: ORF 1 HD
-http://server.internext.tv:8000/live/star38/star38/12339.ts
-#EXTINF:-1,DE: ORF 2HD
-http://server.internext.tv:8000/live/star38/star38/12338.ts
-#EXTINF:-1,DE: PRO SIEBEN
-http://server.internext.tv:8000/live/star38/star38/12319.ts
-#EXTINF:-1,DE: LIGHT TV
-http://server.internext.tv:8000/live/star38/star38/12318.ts
-#EXTINF:-1,DE: RTL 2HD
-http://server.internext.tv:8000/live/star38/star38/12331.ts
-#EXTINF:-1,DE: RTL CRIME HD
-http://server.internext.tv:8000/live/star38/star38/12329.ts
-#EXTINF:-1,DE: RTL HD
-http://server.internext.tv:8000/live/star38/star38/12332.ts
-#EXTINF:-1,DE: RTL Kockica
-http://server.internext.tv:8000/live/star38/star38/12328.ts
-#EXTINF:-1,DE: RTL LIVING
-http://server.internext.tv:8000/live/star38/star38/12326.ts
-#EXTINF:-1,DE: RTL NITRO
-http://server.internext.tv:8000/live/star38/star38/12327.ts
-#EXTINF:-1,DE: RTL PASSION HD
-http://server.internext.tv:8000/live/star38/star38/12330.ts
-#EXTINF:-1,DE: SAT 1SD
-http://server.internext.tv:8000/live/star38/star38/12345.ts
-#EXTINF:-1,DE: NICKELEDEON
-http://server.internext.tv:8000/live/star38/star38/12344.ts
-#EXTINF:-1,DE: SKY ACTION HD
-http://server.internext.tv:8000/live/star38/star38/12290.ts
-#EXTINF:-1,DE: SKY ATLANTIC
-http://server.internext.tv:8000/live/star38/star38/12291.ts
-#EXTINF:-1,DE: SKY BUNDENSLIGA 1HD
-http://server.internext.tv:8000/live/star38/star38/12301.ts
-#EXTINF:-1,DE: SKY BUNDESLIGA 1 HD
-http://server.internext.tv:8000/live/star38/star38/12277.ts
-#EXTINF:-1,DE: SKY BUNDESLIGA 2 HD
-http://server.internext.tv:8000/live/star38/star38/12276.ts
-#EXTINF:-1,DE: SKY BUNDESLIGA 3 HD
-http://server.internext.tv:8000/live/star38/star38/12275.ts
-#EXTINF:-1,DE: SKY BUNDESLIGA 4 HD
-http://server.internext.tv:8000/live/star38/star38/12274.ts
-#EXTINF:-1,DE: SKY BUNDESLIGA 6 HD
-http://server.internext.tv:8000/live/star38/star38/12273.ts
-#EXTINF:-1,DE: SKY BUNDESLIGA 7 HD
-http://server.internext.tv:8000/live/star38/star38/12272.ts
-#EXTINF:-1,DE: SKY BUNDESLIGA 8 HD
-http://server.internext.tv:8000/live/star38/star38/12271.ts
-#EXTINF:-1,DE: SKY BUNDESLIGA 9 HD
-http://server.internext.tv:8000/live/star38/star38/12270.ts
-#EXTINF:-1,DE: SKY CINEMA
-http://server.internext.tv:8000/live/star38/star38/12292.ts
-#EXTINF:-1,DE: SKY CINIMA 24HD
-http://server.internext.tv:8000/live/star38/star38/12288.ts
-#EXTINF:-1,DE: SKY COMEDY
-http://server.internext.tv:8000/live/star38/star38/12289.ts
-#EXTINF:-1,DE: SKY DISCOVERY HD
-http://server.internext.tv:8000/live/star38/star38/12297.ts
-#EXTINF:-1,DE: SKY HISTORY HD
-http://server.internext.tv:8000/live/star38/star38/12300.ts
-#EXTINF:-1,DE: SKY HITS
-http://server.internext.tv:8000/live/star38/star38/12293.ts
-#EXTINF:-1,DE: SKY NAT GEO PEOPLE HD
-http://server.internext.tv:8000/live/star38/star38/12295.ts
-#EXTINF:-1,DE: SKY NAT GEO WILD HD
-http://server.internext.tv:8000/live/star38/star38/12296.ts
-#EXTINF:-1,DE: PLANET
-http://server.internext.tv:8000/live/star38/star38/12299.ts
-#EXTINF:-1,DE: SKY NGC WILD HD
-http://server.internext.tv:8000/live/star38/star38/12298.ts
-#EXTINF:-1,DE: SKY NOSTALGIE HD
-http://server.internext.tv:8000/live/star38/star38/12294.ts
-#EXTINF:-1,DE: SKY SELECT 01HD
-http://server.internext.tv:8000/live/star38/star38/12287.ts
-#EXTINF:-1,DE: SKY SELECT 02HD
-http://server.internext.tv:8000/live/star38/star38/12286.ts
-#EXTINF:-1,DE: SKY SELECT 03HD
-http://server.internext.tv:8000/live/star38/star38/12285.ts
-#EXTINF:-1,DE: SKY SELECT 04HD
-http://server.internext.tv:8000/live/star38/star38/12284.ts
-#EXTINF:-1,DE: SKY SELECT 05HD
-http://server.internext.tv:8000/live/star38/star38/12283.ts
-#EXTINF:-1,DE: SKY SELECT 06HD
-http://server.internext.tv:8000/live/star38/star38/12282.ts
-#EXTINF:-1,DE: SKY SELECT 07HD
-http://server.internext.tv:8000/live/star38/star38/12281.ts
-#EXTINF:-1,DE: SKY SELECT 08HD
-http://server.internext.tv:8000/live/star38/star38/12280.ts
-#EXTINF:-1,DE: SKY SELECT 09HD
-http://server.internext.tv:8000/live/star38/star38/12279.ts
-#EXTINF:-1,DE: SKY SELECT 10HD
-http://server.internext.tv:8000/live/star38/star38/12278.ts
-#EXTINF:-1,DE: SKY SPORT 1HD
-http://server.internext.tv:8000/live/star38/star38/12305.ts
-#EXTINF:-1,DE: SKY SPORT 1SD
-http://server.internext.tv:8000/live/star38/star38/12304.ts
-#EXTINF:-1,DE: SKY SPORT 2HD
-http://server.internext.tv:8000/live/star38/star38/12303.ts
-#EXTINF:-1,DE: SKY SPORT 2SD
-http://server.internext.tv:8000/live/star38/star38/12302.ts
-#EXTINF:-1,DE: SKY SPORT AUSTRIA
-http://server.internext.tv:8000/live/star38/star38/12269.ts
-#EXTINF:-1,DE: SPIEGEL GESCHICHTE HD
-http://server.internext.tv:8000/live/star38/star38/12306.ts
-#EXTINF:-1,DE: SRF 1
-http://server.internext.tv:8000/live/star38/star38/12343.ts
-#EXTINF:-1,DE: SRF 2
-http://server.internext.tv:8000/live/star38/star38/12342.ts
-#EXTINF:-1,DE: SUPER RTL
-http://server.internext.tv:8000/live/star38/star38/12307.ts
-#EXTINF:-1,DE: SYFY-HD
-http://server.internext.tv:8000/live/star38/star38/12340.ts
-#EXTINF:-1,DE: TAGESSCHAU 24
-http://server.internext.tv:8000/live/star38/star38/12316.ts
-#EXTINF:-1,DE: TNT SERIE HD
-http://server.internext.tv:8000/live/star38/star38/12323.ts
+http://super1.ideaiptv.com:8000/live/Karim23/8798234/1588.ts
+#EXTINF:-1,DE: RTL NITRO HD
+http://super1.ideaiptv.com:8000/live/Karim23/8798234/1590.ts
+#EXTINF:-1,DE: UNIVERSAL CHANNEL
+http://super1.ideaiptv.com:8000/live/Karim23/8798234/1591.ts
+#EXTINF:-1,DE: Disney Junior
+http://super1.ideaiptv.com:8000/live/Karim23/8798234/1592.ts
 #EXTINF:-1,DE: TNT SERIES HD
-http://server.internext.tv:8000/live/star38/star38/12325.ts
-#EXTINF:-1,DE: TOGGO HD
-http://server.internext.tv:8000/live/star38/star38/12315.ts
-#EXTINF:-1,DE: UNIVERSAL CH_HD
-http://server.internext.tv:8000/live/star38/star38/12322.ts
-#EXTINF:-1,DE: VOX
-http://server.internext.tv:8000/live/star38/star38/12335.ts
-#EXTINF:-1,DE: WDR HD
-http://server.internext.tv:8000/live/star38/star38/12349.ts
-#EXTINF:-1,DE: ZDF
-http://server.internext.tv:8000/live/star38/star38/12350.ts
-#EXTINF:-1,DE:SKY BUNDESLIGA 1
-http://ace-tv.xyz:25461/live/craig7/craig7/1381.ts
-#EXTINF:-1,DE:SKY BUNDESLIGA 1 HD
-http://ace-tv.xyz:25461/live/craig7/craig7/3098.ts
-#EXTINF:-1,DE:SKY BUNDESLIGA 2 (GAMES ONLY)
-http://ace-tv.xyz:25461/live/craig7/craig7/1411.ts
-#EXTINF:-1,DE:SKY BUNDESLIGA 3 (GAMES ONLY)
-http://ace-tv.xyz:25461/live/craig7/craig7/1412.ts
-#EXTINF:-1,DE:SKY BUNDESLIGA 4 (GAMES ONLY)
-http://ace-tv.xyz:25461/live/craig7/craig7/1413.ts
-#EXTINF:-1,DE:SKY BUNDESLIGA 5 (GAMES ONLY)
-http://ace-tv.xyz:25461/live/craig7/craig7/1414.ts
-#EXTINF:-1,DE:SKY BUNDESLIGA 6 (GAMES ONLY)
-http://ace-tv.xyz:25461/live/craig7/craig7/1415.ts
-#EXTINF:-1,DE: SKY SPORTS 1 HD
-http://ace-tv.xyz:25461/live/craig7/craig7/1845.ts
-#EXTINF:-1,DE: SKY SPORTS 2 HD
-http://ace-tv.xyz:25461/live/craig7/craig7/1847.ts
-#EXTINF:-1,DE: SPORT DIGITAL
-http://ace-tv.xyz:25461/live/craig7/craig7/4643.ts
-#EXTINF:-1,DE:ARD (TEST)
-http://ace-tv.xyz:25461/live/craig7/craig7/1400.ts
-#EXTINF:-1,DE: FOX HD
-http://ace-tv.xyz:25461/live/craig7/craig7/1844.ts
-#EXTINF:-1,DE:N-TV (TEST)
-http://ace-tv.xyz:25461/live/craig7/craig7/1301.ts
-#EXTINF:-1,DE:PRO7 (TEST)
-http://ace-tv.xyz:25461/live/craig7/craig7/1300.ts
-#EXTINF:-1,DE:RTL (TEST)
-http://ace-tv.xyz:25461/live/craig7/craig7/1298.ts
-#EXTINF:-1,DE:SAT1 (TEST)
-http://ace-tv.xyz:25461/live/craig7/craig7/1299.ts
-#EXTINF:-1,DE: SKY CINEMA HD
-http://ace-tv.xyz:25461/live/craig7/craig7/1852.ts
-#EXTINF:-1,DE: SKY SELECT 1 HD
-http://ace-tv.xyz:25461/live/craig7/craig7/1848.ts
-#EXTINF:-1,DE: SKY SELECT 2 HD
-http://ace-tv.xyz:25461/live/craig7/craig7/1849.ts
-#EXTINF:-1,DE: SKY SELECT 3 HD
-http://ace-tv.xyz:25461/live/craig7/craig7/1850.ts
-#EXTINF:-1,DE: SKY SELECT 4 HD
-http://ace-tv.xyz:25461/live/craig7/craig7/1851.ts
-#EXTINF:-1,DE: ZDF (TEST)
-http://ace-tv.xyz:25461/live/craig7/craig7/1399.ts
-
-#EXTINF:-1,DE: 13EME RUE
-http://server.internext.tv:8000/live/star18/star18/12309.ts
-#EXTINF:-1,DE: 3SAT
-http://server.internext.tv:8000/live/star18/star18/12341.ts
-#EXTINF:-1,DE: ARTE HD
-http://server.internext.tv:8000/live/star18/star18/12348.ts
-#EXTINF:-1,DE: AUSTRIA 24H
-http://server.internext.tv:8000/live/star18/star18/12317.ts
-#EXTINF:-1,DE: AXN HD
-http://server.internext.tv:8000/live/star18/star18/12347.ts
-#EXTINF:-1,DE: BOOMERANG
-http://server.internext.tv:8000/live/star18/star18/12308.ts
-#EXTINF:-1,DE: BW FAMILY
-http://server.internext.tv:8000/live/star18/star18/12351.ts
-#EXTINF:-1,DE: CARTOON NETWORK
-http://server.internext.tv:8000/live/star18/star18/12313.ts
-#EXTINF:-1,DE: CLASSICA
-http://server.internext.tv:8000/live/star18/star18/12321.ts
-#EXTINF:-1,DE: DISNEY CHANNEL HD
-http://server.internext.tv:8000/live/star18/star18/12312.ts
-#EXTINF:-1,DE: DISNEY CINEMAGIC
-http://server.internext.tv:8000/live/star18/star18/12311.ts
-#EXTINF:-1,DE: DISNEY XD
-http://server.internext.tv:8000/live/star18/star18/12310.ts
-#EXTINF:-1,DE: DMAX
-http://server.internext.tv:8000/live/star18/star18/12336.ts
-#EXTINF:-1,DE: JUNIOR
-http://server.internext.tv:8000/live/star18/star18/12320.ts
-#EXTINF:-1,DE: EUROSPORT 1HD
-http://server.internext.tv:8000/live/star18/star18/12324.ts
+http://super1.ideaiptv.com:8000/live/Karim23/8798234/1593.ts
+#EXTINF:-1,DE: SRF 1
+http://super1.ideaiptv.com:8000/live/Karim23/8798234/1594.ts
+#EXTINF:-1,DE: Super RTL
+http://super1.ideaiptv.com:8000/live/Karim23/8798234/1597.ts
+#EXTINF:-1,DE: 13 STREET HD
+http://super1.ideaiptv.com:8000/live/Karim23/8798234/1440.ts
+#EXTINF:-1,DE: Deutche Welle SD
+http://super1.ideaiptv.com:8000/live/Karim23/8798234/1432.ts
+#EXTINF:-1,DE: KIKA
+http://super1.ideaiptv.com:8000/live/Karim23/8798234/1434.ts
+#EXTINF:-1,DE: NICKELODEON
+http://super1.ideaiptv.com:8000/live/Karim23/8798234/1435.ts
+#EXTINF:-1,DE: HISTORIA Channel HD
+http://super1.ideaiptv.com:8000/live/Karim23/8798234/1436.ts
 #EXTINF:-1,DE: FOX
-http://server.internext.tv:8000/live/star18/star18/12334.ts
-#EXTINF:-1,DE: FOX HD
-http://server.internext.tv:8000/live/star18/star18/12333.ts
-#EXTINF:-1,DE: KIKA HD
-http://server.internext.tv:8000/live/star18/star18/12314.ts
-#EXTINF:-1,DE: MGM
-http://server.internext.tv:8000/live/star18/star18/12337.ts
-#EXTINF:-1,DE: DAF HD
-http://server.internext.tv:8000/live/star18/star18/12346.ts
-#EXTINF:-1,DE: ORF 1 HD
-http://server.internext.tv:8000/live/star18/star18/12339.ts
-#EXTINF:-1,DE: ORF 2HD
-http://server.internext.tv:8000/live/star18/star18/12338.ts
-#EXTINF:-1,DE: PRO SIEBEN
-http://server.internext.tv:8000/live/star18/star18/12319.ts
-#EXTINF:-1,DE: LIGHT TV
-http://server.internext.tv:8000/live/star18/star18/12318.ts
-#EXTINF:-1,DE: RTL 2HD
-http://server.internext.tv:8000/live/star18/star18/12331.ts
-#EXTINF:-1,DE: RTL CRIME HD
-http://server.internext.tv:8000/live/star18/star18/12329.ts
-#EXTINF:-1,DE: RTL HD
-http://server.internext.tv:8000/live/star18/star18/12332.ts
-#EXTINF:-1,DE: RTL Kockica
-http://server.internext.tv:8000/live/star18/star18/12328.ts
-#EXTINF:-1,DE: RTL LIVING
-http://server.internext.tv:8000/live/star18/star18/12326.ts
-#EXTINF:-1,DE: RTL NITRO
-http://server.internext.tv:8000/live/star18/star18/12327.ts
-#EXTINF:-1,DE: RTL PASSION HD
-http://server.internext.tv:8000/live/star18/star18/12330.ts
-#EXTINF:-1,DE: SAT 1SD
-http://server.internext.tv:8000/live/star18/star18/12345.ts
-#EXTINF:-1,DE: NICKELEDEON
-http://server.internext.tv:8000/live/star18/star18/12344.ts
-#EXTINF:-1,DE: SKY ACTION HD
-http://server.internext.tv:8000/live/star18/star18/12290.ts
-#EXTINF:-1,DE: SKY ATLANTIC
-http://server.internext.tv:8000/live/star18/star18/12291.ts
-#EXTINF:-1,DE: SKY BUNDENSLIGA 1HD
-http://server.internext.tv:8000/live/star18/star18/12301.ts
-#EXTINF:-1,DE: SKY BUNDESLIGA 1 HD
-http://server.internext.tv:8000/live/star18/star18/12277.ts
+http://super1.ideaiptv.com:8000/live/Karim23/8798234/1429.ts
+#EXTINF:-1,DE: Sky Germany MOVIE
+http://super1.ideaiptv.com:8000/live/Karim23/8798234/1420.ts
+#EXTINF:-1,DE: DISNEY BOOMERANG
+http://super1.ideaiptv.com:8000/live/Karim23/8798234/1422.ts
+#EXTINF:-1,DE: DISCOVERY HD
+http://super1.ideaiptv.com:8000/live/Karim23/8798234/1430.ts
+#EXTINF:-1,DE: Sky Atlantic 1 HD
+http://super1.ideaiptv.com:8000/live/Karim23/8798234/1443.ts
+#EXTINF:-1,DE: AXN HD
+http://super1.ideaiptv.com:8000/live/Karim23/8798234/1386.ts
+#EXTINF:-1,DE:SKY BUNDENSLIGA 1
+http://super1.ideaiptv.com:8000/live/Karim23/8798234/1577.ts
+#EXTINF:-1,DE: Sky BundesLiga 1 HD
+http://super1.ideaiptv.com:8000/live/Karim23/8798234/1581.ts
 #EXTINF:-1,DE: SKY BUNDESLIGA 2 HD
-http://server.internext.tv:8000/live/star18/star18/12276.ts
+http://super1.ideaiptv.com:8000/live/Karim23/8798234/4255.ts
 #EXTINF:-1,DE: SKY BUNDESLIGA 3 HD
-http://server.internext.tv:8000/live/star18/star18/12275.ts
+http://super1.ideaiptv.com:8000/live/Karim23/8798234/4256.ts
 #EXTINF:-1,DE: SKY BUNDESLIGA 4 HD
-http://server.internext.tv:8000/live/star18/star18/12274.ts
+http://super1.ideaiptv.com:8000/live/Karim23/8798234/4257.ts
+#EXTINF:-1,DE: SKY BUNDESLIGA 5 HD
+http://super1.ideaiptv.com:8000/live/Karim23/8798234/4258.ts
 #EXTINF:-1,DE: SKY BUNDESLIGA 6 HD
-http://server.internext.tv:8000/live/star18/star18/12273.ts
+http://super1.ideaiptv.com:8000/live/Karim23/8798234/4259.ts
 #EXTINF:-1,DE: SKY BUNDESLIGA 7 HD
-http://server.internext.tv:8000/live/star18/star18/12272.ts
+http://super1.ideaiptv.com:8000/live/Karim23/8798234/4260.ts
 #EXTINF:-1,DE: SKY BUNDESLIGA 8 HD
-http://server.internext.tv:8000/live/star18/star18/12271.ts
+http://super1.ideaiptv.com:8000/live/Karim23/8798234/4261.ts
 #EXTINF:-1,DE: SKY BUNDESLIGA 9 HD
-http://server.internext.tv:8000/live/star18/star18/12270.ts
-#EXTINF:-1,DE: SKY CINEMA
-http://server.internext.tv:8000/live/star18/star18/12292.ts
-#EXTINF:-1,DE: SKY CINIMA 24HD
-http://server.internext.tv:8000/live/star18/star18/12288.ts
-#EXTINF:-1,DE: SKY COMEDY
-http://server.internext.tv:8000/live/star18/star18/12289.ts
-#EXTINF:-1,DE: SKY DISCOVERY HD
-http://server.internext.tv:8000/live/star18/star18/12297.ts
-#EXTINF:-1,DE: SKY HISTORY HD
-http://server.internext.tv:8000/live/star18/star18/12300.ts
-#EXTINF:-1,DE: SKY HITS
-http://server.internext.tv:8000/live/star18/star18/12293.ts
-#EXTINF:-1,DE: SKY NAT GEO PEOPLE HD
-http://server.internext.tv:8000/live/star18/star18/12295.ts
-#EXTINF:-1,DE: SKY NAT GEO WILD HD
-http://server.internext.tv:8000/live/star18/star18/12296.ts
-#EXTINF:-1,DE: PLANET
-http://server.internext.tv:8000/live/star18/star18/12299.ts
-#EXTINF:-1,DE: SKY NGC WILD HD
-http://server.internext.tv:8000/live/star18/star18/12298.ts
-#EXTINF:-1,DE: SKY NOSTALGIE HD
-http://server.internext.tv:8000/live/star18/star18/12294.ts
-#EXTINF:-1,DE: SKY SELECT 01HD
-http://server.internext.tv:8000/live/star18/star18/12287.ts
-#EXTINF:-1,DE: SKY SELECT 02HD
-http://server.internext.tv:8000/live/star18/star18/12286.ts
-#EXTINF:-1,DE: SKY SELECT 03HD
-http://server.internext.tv:8000/live/star18/star18/12285.ts
-#EXTINF:-1,DE: SKY SELECT 04HD
-http://server.internext.tv:8000/live/star18/star18/12284.ts
-#EXTINF:-1,DE: SKY SELECT 05HD
-http://server.internext.tv:8000/live/star18/star18/12283.ts
-#EXTINF:-1,DE: SKY SELECT 06HD
-http://server.internext.tv:8000/live/star18/star18/12282.ts
-#EXTINF:-1,DE: SKY SELECT 07HD
-http://server.internext.tv:8000/live/star18/star18/12281.ts
-#EXTINF:-1,DE: SKY SELECT 08HD
-http://server.internext.tv:8000/live/star18/star18/12280.ts
-#EXTINF:-1,DE: SKY SELECT 09HD
-http://server.internext.tv:8000/live/star18/star18/12279.ts
-#EXTINF:-1,DE: SKY SELECT 10HD
-http://server.internext.tv:8000/live/star18/star18/12278.ts
-#EXTINF:-1,DE: SKY SPORT 1HD
-http://server.internext.tv:8000/live/star18/star18/12305.ts
-#EXTINF:-1,DE: SKY SPORT 1SD
-http://server.internext.tv:8000/live/star18/star18/12304.ts
-#EXTINF:-1,DE: SKY SPORT 2HD
-http://server.internext.tv:8000/live/star18/star18/12303.ts
-#EXTINF:-1,DE: SKY SPORT 2SD
-http://server.internext.tv:8000/live/star18/star18/12302.ts
-#EXTINF:-1,DE: SKY SPORT AUSTRIA
-http://server.internext.tv:8000/live/star18/star18/12269.ts
-#EXTINF:-1,DE: SPIEGEL GESCHICHTE HD
-http://server.internext.tv:8000/live/star18/star18/12306.ts
-#EXTINF:-1,DE: SRF 1
-http://server.internext.tv:8000/live/star18/star18/12343.ts
-#EXTINF:-1,DE: SRF 2
-http://server.internext.tv:8000/live/star18/star18/12342.ts
-#EXTINF:-1,DE: SUPER RTL
-http://server.internext.tv:8000/live/star18/star18/12307.ts
-#EXTINF:-1,DE: SYFY-HD
-http://server.internext.tv:8000/live/star18/star18/12340.ts
-#EXTINF:-1,DE: TAGESSCHAU 24
-http://server.internext.tv:8000/live/star18/star18/12316.ts
-#EXTINF:-1,DE: TNT SERIE HD
-http://server.internext.tv:8000/live/star18/star18/12323.ts
-#EXTINF:-1,DE: TNT SERIES HD
-http://server.internext.tv:8000/live/star18/star18/12325.ts
-#EXTINF:-1,DE: TOGGO HD
-http://server.internext.tv:8000/live/star18/star18/12315.ts
-#EXTINF:-1,DE: UNIVERSAL CH_HD
-http://server.internext.tv:8000/live/star18/star18/12322.ts
-#EXTINF:-1,DE: VOX
-http://server.internext.tv:8000/live/star18/star18/12335.ts
+http://super1.ideaiptv.com:8000/live/Karim23/8798234/4262.ts
+#EXTINF:-1,DE: SKY BUNDESLIGA 10 HD
+http://super1.ideaiptv.com:8000/live/Karim23/8798234/4263.ts
+#EXTINF:-1,DE: SKY Germany SPORT 1 HD
+http://super1.ideaiptv.com:8000/live/Karim23/8798234/1575.ts
+#EXTINF:-1,DE: SKY Germany SPORT 2 HD
+http://super1.ideaiptv.com:8000/live/Karim23/8798234/1574.ts
+#EXTINF:-1,DE: Sky Germany Sport 3 HD
+http://super1.ideaiptv.com:8000/live/Karim23/8798234/4269.ts
+#EXTINF:-1,DE: Sky Germany Sport 4 HD
+http://super1.ideaiptv.com:8000/live/Karim23/8798234/4270.ts
+#EXTINF:-1,DE: Sky Germany Sport 5 HD
+http://super1.ideaiptv.com:8000/live/Karim23/8798234/4271.ts
+#EXTINF:-1,DE: Sky Germany Sport 6 HD
+http://super1.ideaiptv.com:8000/live/Karim23/8798234/4272.ts
+#EXTINF:-1,DE: Sky Germany Sport 7 HD
+http://super1.ideaiptv.com:8000/live/Karim23/8798234/4273.ts
+#EXTINF:-1,DE: Sky Germany Sport 8 HD
+http://super1.ideaiptv.com:8000/live/Karim23/8798234/4274.ts
+#EXTINF:-1,DE: Sky Germany Sport 9 HD
+http://super1.ideaiptv.com:8000/live/Karim23/8798234/4275.ts
+#EXTINF:-1,DE: Sky Germany Sport 10 HD
+http://super1.ideaiptv.com:8000/live/Karim23/8798234/4276.ts
+#EXTINF:-1,DE: Sky Germany Sport 11 HD
+http://super1.ideaiptv.com:8000/live/Karim23/8798234/4277.ts
+#EXTINF:-1,DE: ARD ONE HD
+http://xtreme.webhop.me:8000/live/ampadu/ampadu/758.ts
+#EXTINF:-1,DE: Arte HD
+http://xtreme.webhop.me:8000/live/ampadu/ampadu/766.ts
 #EXTINF:-1,DE: WDR HD
-http://server.internext.tv:8000/live/star18/star18/12349.ts
+http://xtreme.webhop.me:8000/live/ampadu/ampadu/760.ts
 #EXTINF:-1,DE: ZDF
-http://server.internext.tv:8000/live/star18/star18/12350.ts
+http://xtreme.webhop.me:8000/live/ampadu/ampadu/770.ts
+#EXTINF:-1,DE: ZDF HD
+http://xtreme.webhop.me:8000/live/ampadu/ampadu/769.ts
+#EXTINF:-1,DE: ZDF INFO
+http://xtreme.webhop.me:8000/live/ampadu/ampadu/768.ts
+#EXTINF:-1,DE: ZDF NEO
+http://xtreme.webhop.me:8000/live/ampadu/ampadu/767.ts
+#EXTINF:-1,DE: ORF 1
+http://xtreme.webhop.me:8000/live/ampadu/ampadu/712.ts
+#EXTINF:-1,DE: ORF 2
+http://xtreme.webhop.me:8000/live/ampadu/ampadu/711.ts
+#EXTINF:-1,DE: VOX
+http://xtreme.webhop.me:8000/live/ampadu/ampadu/749.ts
+#EXTINF:-1,DE: VOX HD
+http://xtreme.webhop.me:8000/live/ampadu/ampadu/748.ts
+#EXTINF:-1,DE: SAT.1
+http://xtreme.webhop.me:8000/live/ampadu/ampadu/747.ts
+#EXTINF:-1,DE: SAT.1 Gold
+http://xtreme.webhop.me:8000/live/ampadu/ampadu/734.ts
+#EXTINF:-1,DE: ProSieben
+http://xtreme.webhop.me:8000/live/ampadu/ampadu/741.ts
+#EXTINF:-1,DE: ProSieben Fun HD
+http://xtreme.webhop.me:8000/live/ampadu/ampadu/737.ts
+#EXTINF:-1,DE: SUPER RTL HD
+http://xtreme.webhop.me:8000/live/ampadu/ampadu/731.ts
+#EXTINF:-1,DE: Das Erste
+http://xtreme.webhop.me:8000/live/ampadu/ampadu/774.ts
+#EXTINF:-1,DE: Das Erste HD
+http://xtreme.webhop.me:8000/live/ampadu/ampadu/773.ts
+#EXTINF:-1,DE: Fox Serie
+http://xtreme.webhop.me:8000/live/ampadu/ampadu/684.ts
+#EXTINF:-1,DE: Fox HD
+http://xtreme.webhop.me:8000/live/ampadu/ampadu/683.ts
+#EXTINF:-1,DE: Heimat Kanal
+http://xtreme.webhop.me:8000/live/ampadu/ampadu/679.ts
+#EXTINF:-1,DE: N-TV
+http://xtreme.webhop.me:8000/live/ampadu/ampadu/756.ts
+#EXTINF:-1,DE: N-TV HD
+http://xtreme.webhop.me:8000/live/ampadu/ampadu/755.ts
+#EXTINF:-1,DE: ProSieben HD
+http://xtreme.webhop.me:8000/live/ampadu/ampadu/740.ts
+#EXTINF:-1,DE: ProSieben MAXX
+http://xtreme.webhop.me:8000/live/ampadu/ampadu/739.ts
+#EXTINF:-1,DE: ProSieben MAXX HD
+http://xtreme.webhop.me:8000/live/ampadu/ampadu/738.ts
+#EXTINF:-1,DE: RTL
+http://xtreme.webhop.me:8000/live/ampadu/ampadu/745.ts
+#EXTINF:-1,DE: RTL Crime HD
+http://xtreme.webhop.me:8000/live/ampadu/ampadu/677.ts
+#EXTINF:-1,DE: RTL HD
+http://xtreme.webhop.me:8000/live/ampadu/ampadu/744.ts
+#EXTINF:-1,DE: RTL Nitro
+http://xtreme.webhop.me:8000/live/ampadu/ampadu/733.ts
+#EXTINF:-1,DE: RTL NITRO HD
+http://xtreme.webhop.me:8000/live/ampadu/ampadu/732.ts
+#EXTINF:-1,DE: RTL Passion
+http://xtreme.webhop.me:8000/live/ampadu/ampadu/676.ts
+#EXTINF:-1,DE: RTLII
+http://xtreme.webhop.me:8000/live/ampadu/ampadu/743.ts
+#EXTINF:-1,DE: RTLII HD
+http://xtreme.webhop.me:8000/live/ampadu/ampadu/742.ts
+#EXTINF:-1,DE: SAT 1 HD
+http://xtreme.webhop.me:8000/live/ampadu/ampadu/746.ts
+#EXTINF:-1,DE: SIXX
+http://xtreme.webhop.me:8000/live/ampadu/ampadu/736.ts
+#EXTINF:-1,DE: SIXX HD
+http://xtreme.webhop.me:8000/live/ampadu/ampadu/735.ts
+#EXTINF:-1,DE: 3SAT
+http://xtreme.webhop.me:8000/live/ampadu/ampadu/765.ts
+#EXTINF:-1,DE: 3SAT HD
+http://xtreme.webhop.me:8000/live/ampadu/ampadu/764.ts
+#EXTINF:-1,DE: Anixe Deutschland
+http://xtreme.webhop.me:8000/live/ampadu/ampadu/686.ts
+#EXTINF:-1,DE: Anixe Deutschland HD
+http://xtreme.webhop.me:8000/live/ampadu/ampadu/685.ts
+#EXTINF:-1,DE: ATV AT
+http://xtreme.webhop.me:8000/live/ampadu/ampadu/713.ts
+#EXTINF:-1,DE: DMAX
+http://xtreme.webhop.me:8000/live/ampadu/ampadu/716.ts
+#EXTINF:-1,DE: EINS FESTIVAL
+http://xtreme.webhop.me:8000/live/ampadu/ampadu/772.ts
+#EXTINF:-1,DE: Sony HD
+http://xtreme.webhop.me:8000/live/ampadu/ampadu/771.ts
+#EXTINF:-1,DE: Deluxe Music HD
+http://xtreme.webhop.me:8000/live/ampadu/ampadu/680.ts
+#EXTINF:-1,DE: Kabel Eins
+http://xtreme.webhop.me:8000/live/ampadu/ampadu/751.ts
+#EXTINF:-1,DE: kabel eins Doku
+http://xtreme.webhop.me:8000/live/ampadu/ampadu/715.ts
+#EXTINF:-1,DE: Kabel Eins HD
+http://xtreme.webhop.me:8000/live/ampadu/ampadu/750.ts
+#EXTINF:-1,DE: KIKA HD
+http://xtreme.webhop.me:8000/live/ampadu/ampadu/730.ts
+#EXTINF:-1,DE: PHOENIX
+http://xtreme.webhop.me:8000/live/ampadu/ampadu/761.ts
+#EXTINF:-1,DE: Servus TV HD
+http://xtreme.webhop.me:8000/live/ampadu/ampadu/759.ts
+#EXTINF:-1,DE: Zee One
+http://xtreme.webhop.me:8000/live/ampadu/ampadu/682.ts
+#EXTINF:-1,DE: Zee One HD
+http://xtreme.webhop.me:8000/live/ampadu/ampadu/681.ts
+#EXTINF:-1,---KINO---
+http://xtreme.webhop.me:8000/live/ampadu/ampadu/7942.ts
+#EXTINF:-1,DE: Sky 1 HD
+http://xtreme.webhop.me:8000/live/ampadu/ampadu/710.ts
+#EXTINF:-1,DE: 13th Street HD
+http://xtreme.webhop.me:8000/live/ampadu/ampadu/691.ts
+#EXTINF:-1,DE: Sky Atlantic
+http://xtreme.webhop.me:8000/live/ampadu/ampadu/709.ts
+#EXTINF:-1,DE: Sky Atlantic HD
+http://xtreme.webhop.me:8000/live/ampadu/ampadu/708.ts
+#EXTINF:-1,DE: Sky Cinema
+http://xtreme.webhop.me:8000/live/ampadu/ampadu/707.ts
+#EXTINF:-1,DE: Sky Cinema  1 HD
+http://xtreme.webhop.me:8000/live/ampadu/ampadu/705.ts
+#EXTINF:-1,DE: Sky Cinema  24 HD
+http://xtreme.webhop.me:8000/live/ampadu/ampadu/704.ts
+#EXTINF:-1,DE: Sky Cinema Action
+http://xtreme.webhop.me:8000/live/ampadu/ampadu/703.ts
+#EXTINF:-1,DE: Sky Cinema Action HD
+http://xtreme.webhop.me:8000/live/ampadu/ampadu/702.ts
+#EXTINF:-1,DE: Sky Cinema Comedy
+http://xtreme.webhop.me:8000/live/ampadu/ampadu/696.ts
+#EXTINF:-1,DE: Sky Cinema Emotion
+http://xtreme.webhop.me:8000/live/ampadu/ampadu/695.ts
+#EXTINF:-1,DE: Sky Cinema Family
+http://xtreme.webhop.me:8000/live/ampadu/ampadu/699.ts
+#EXTINF:-1,DE: Sky Cinema Family HD
+http://xtreme.webhop.me:8000/live/ampadu/ampadu/698.ts
+#EXTINF:-1,DE: Sky Cinema HD
+http://xtreme.webhop.me:8000/live/ampadu/ampadu/706.ts
+#EXTINF:-1,DE: Sky Cinema Hits
+http://xtreme.webhop.me:8000/live/ampadu/ampadu/701.ts
+#EXTINF:-1,DE: Sky Cinema Hits HD
+http://xtreme.webhop.me:8000/live/ampadu/ampadu/700.ts
+#EXTINF:-1,DE: Sky Cinema Nostalgie
+http://xtreme.webhop.me:8000/live/ampadu/ampadu/697.ts
+#EXTINF:-1,DE: Syfy Deutschland
+http://xtreme.webhop.me:8000/live/ampadu/ampadu/694.ts
+#EXTINF:-1,DE: SyFy HD Deutschland
+http://xtreme.webhop.me:8000/live/ampadu/ampadu/693.ts
+#EXTINF:-1,DE: Comedy Central HD
+http://xtreme.webhop.me:8000/live/ampadu/ampadu/729.ts
+#EXTINF:-1,DE: TNT Comedy HD
+http://xtreme.webhop.me:8000/live/ampadu/ampadu/690.ts
+#EXTINF:-1,DE: TNT Film HD
+http://xtreme.webhop.me:8000/live/ampadu/ampadu/689.ts
+#EXTINF:-1,DE: TNT Serie
+http://xtreme.webhop.me:8000/live/ampadu/ampadu/688.ts
+#EXTINF:-1,DE: TNT Serie HD
+http://xtreme.webhop.me:8000/live/ampadu/ampadu/687.ts
+#EXTINF:-1,DE: TLC HD
+http://xtreme.webhop.me:8000/live/ampadu/ampadu/675.ts
+#EXTINF:-1,DE: Sky Krimi
+http://xtreme.webhop.me:8000/live/ampadu/ampadu/692.ts
+#EXTINF:-1,DE: SR Fernsehen HD
+http://xtreme.webhop.me:8000/live/ampadu/ampadu/762.ts
+#EXTINF:-1,DE: Sky Select 1 HD
+http://xtreme.webhop.me:8000/live/ampadu/ampadu/4898.ts
+#EXTINF:-1,DE: Sky Select 2 HD
+http://xtreme.webhop.me:8000/live/ampadu/ampadu/4897.ts
+#EXTINF:-1,DE: Sky Select 3 HD
+http://xtreme.webhop.me:8000/live/ampadu/ampadu/4896.ts
+#EXTINF:-1,DE: Sky Select 4 HD
+http://xtreme.webhop.me:8000/live/ampadu/ampadu/4895.ts
+#EXTINF:-1,DE: Sky Select 5 HD
+http://xtreme.webhop.me:8000/live/ampadu/ampadu/4894.ts
+#EXTINF:-1,DE: Sky Select 6 HD
+http://xtreme.webhop.me:8000/live/ampadu/ampadu/4893.ts
+#EXTINF:-1,DE: Sky Select 7 HD
+http://xtreme.webhop.me:8000/live/ampadu/ampadu/4901.ts
+#EXTINF:-1,DE: Sky Select 8 HD
+http://xtreme.webhop.me:8000/live/ampadu/ampadu/4900.ts
+#EXTINF:-1,DE: Sky Select 9 HD
+http://xtreme.webhop.me:8000/live/ampadu/ampadu/4892.ts
+#EXTINF:-1,DE: Sky Select 10 HD
+http://xtreme.webhop.me:8000/live/ampadu/ampadu/4899.ts
+#EXTINF:-1,---SPORT---
+http://xtreme.webhop.me:8000/live/ampadu/ampadu/7944.ts
+#EXTINF:-1,DE: Sky Sport 1 HD
+http://xtreme.webhop.me:8000/live/ampadu/ampadu/673.ts
+#EXTINF:-1,DE: Sky Sport 2 HD
+http://xtreme.webhop.me:8000/live/ampadu/ampadu/672.ts
+#EXTINF:-1,DE: Sky Sport 3 HD
+http://xtreme.webhop.me:8000/live/ampadu/ampadu/671.ts
+#EXTINF:-1,DE: Sky Sport 4
+http://xtreme.webhop.me:8000/live/ampadu/ampadu/670.ts
+#EXTINF:-1,DE: Sky Sport 5
+http://xtreme.webhop.me:8000/live/ampadu/ampadu/669.ts
+#EXTINF:-1,DE: Sky Sport 6
+http://xtreme.webhop.me:8000/live/ampadu/ampadu/668.ts
+#EXTINF:-1,DE: Sky Sport 7
+http://xtreme.webhop.me:8000/live/ampadu/ampadu/667.ts
+#EXTINF:-1,DE: Sky Sport 8
+http://xtreme.webhop.me:8000/live/ampadu/ampadu/666.ts
+#EXTINF:-1,DE: Sky Sport Austria HD
+http://xtreme.webhop.me:8000/live/ampadu/ampadu/657.ts
+#EXTINF:-1,DE: Sky Sport Bundesliga 1 HD
+http://xtreme.webhop.me:8000/live/ampadu/ampadu/665.ts
+#EXTINF:-1,DE: Sky Sport Bundesliga 2 HD
+http://xtreme.webhop.me:8000/live/ampadu/ampadu/664.ts
+#EXTINF:-1,DE: Sky Sport Bundesliga 3 HD
+http://xtreme.webhop.me:8000/live/ampadu/ampadu/663.ts
+#EXTINF:-1,DE: Sky Sport Bundesliga 4 HD
+http://xtreme.webhop.me:8000/live/ampadu/ampadu/662.ts
+#EXTINF:-1,DE: Sky Sport Bundesliga 5 HD
+http://xtreme.webhop.me:8000/live/ampadu/ampadu/661.ts
+#EXTINF:-1,DE: Sky Sport Bundesliga 6 HD
+http://xtreme.webhop.me:8000/live/ampadu/ampadu/660.ts
+#EXTINF:-1,DE: Sky Sport Bundesliga 7 HD
+http://xtreme.webhop.me:8000/live/ampadu/ampadu/659.ts
+#EXTINF:-1,DE: Sky Sport Bundesliga 8 HD
+http://xtreme.webhop.me:8000/live/ampadu/ampadu/658.ts
+#EXTINF:-1,DE: Sky Sport News HD
+http://xtreme.webhop.me:8000/live/ampadu/ampadu/674.ts
+#EXTINF:-1,DE: Sport Digital HD
+http://xtreme.webhop.me:8000/live/ampadu/ampadu/654.ts
+#EXTINF:-1,DE: Sport1  HD
+http://xtreme.webhop.me:8000/live/ampadu/ampadu/656.ts
+#EXTINF:-1,DE: Sport1 US HD
+http://xtreme.webhop.me:8000/live/ampadu/ampadu/655.ts
+#EXTINF:-1,---KINDER---
+http://xtreme.webhop.me:8000/live/ampadu/ampadu/7945.ts
+#EXTINF:-1,DE: Disney Channel Deutschland
+http://xtreme.webhop.me:8000/live/ampadu/ampadu/725.ts
+#EXTINF:-1,DE: Disney Channel HD
+http://xtreme.webhop.me:8000/live/ampadu/ampadu/724.ts
+#EXTINF:-1,DE: Disney Cinemagic
+http://xtreme.webhop.me:8000/live/ampadu/ampadu/727.ts
+#EXTINF:-1,DE: Disney Cinemagic HD
+http://xtreme.webhop.me:8000/live/ampadu/ampadu/726.ts
+#EXTINF:-1,DE: Disney Junior HD
+http://xtreme.webhop.me:8000/live/ampadu/ampadu/723.ts
+#EXTINF:-1,DE: DISNEY XD
+http://xtreme.webhop.me:8000/live/ampadu/ampadu/722.ts
+#EXTINF:-1,DE: Kinowelt TV
+http://xtreme.webhop.me:8000/live/ampadu/ampadu/678.ts
+#EXTINF:-1,---DOCUMENTAIRE---
+http://xtreme.webhop.me:8000/live/ampadu/ampadu/7940.ts
+#EXTINF:-1,DE: Discovery Channel HD Deutschland
+http://xtreme.webhop.me:8000/live/ampadu/ampadu/719.ts
+#EXTINF:-1,DE: Nat Geo Wild HD Deutschland
+http://xtreme.webhop.me:8000/live/ampadu/ampadu/721.ts
+#EXTINF:-1,DE: National Geographic Deutschland
+http://xtreme.webhop.me:8000/live/ampadu/ampadu/720.ts
+#EXTINF:-1,DE: Nickelodeon Deutschland HD
+http://xtreme.webhop.me:8000/live/ampadu/ampadu/728.ts
+#EXTINF:-1,DE: N24 Doku
+http://xtreme.webhop.me:8000/live/ampadu/ampadu/752.ts
+#EXTINF:-1,---NACHRICHTEN---
+http://xtreme.webhop.me:8000/live/ampadu/ampadu/7943.ts
+#EXTINF:-1,DE: HR Fernsehen
+http://xtreme.webhop.me:8000/live/ampadu/ampadu/763.ts
+#EXTINF:-1,DE: N24
+http://xtreme.webhop.me:8000/live/ampadu/ampadu/753.ts
+#EXTINF:-1,DE: N24 HD
+http://xtreme.webhop.me:8000/live/ampadu/ampadu/754.ts
+#EXTINF:-1,DE: Spiegel Geschichte
+http://xtreme.webhop.me:8000/live/ampadu/ampadu/718.ts
+#EXTINF:-1,DE: Spiegel Geschichte HD
+http://xtreme.webhop.me:8000/live/ampadu/ampadu/717.ts
+#EXTINF:-1,DE: Tagesschau 24 HD
+http://xtreme.webhop.me:8000/live/ampadu/ampadu/757.ts
+#EXTINF:-1,DE: Welt der Wunder TV
+http://xtreme.webhop.me:8000/live/ampadu/ampadu/714.ts
+#EXTINF:-1,DE: ARD HD
+http://212.47.241.92:25461/live/karim/23432/1153.ts
+#EXTINF:-1,DE: DISNEY CHANNEL
+http://212.47.241.92:25461/live/karim/23432/1152.ts
+#EXTINF:-1,DE: DISNEY XD
+http://212.47.241.92:25461/live/karim/23432/1151.ts
+#EXTINF:-1,DE: JUNIOR
+http://212.47.241.92:25461/live/karim/23432/1150.ts
+#EXTINF:-1,DE: KABEL 1 HD
+http://212.47.241.92:25461/live/karim/23432/1149.ts
+#EXTINF:-1,DE: KIKA
+http://212.47.241.92:25461/live/karim/23432/1148.ts
+#EXTINF:-1,DE: Kinowelt HD
+http://212.47.241.92:25461/live/karim/23432/1147.ts
+#EXTINF:-1,DE: N24 HD
+http://212.47.241.92:25461/live/karim/23432/1144.ts
+#EXTINF:-1,DE: National Geographic People HD
+http://212.47.241.92:25461/live/karim/23432/1143.ts
+#EXTINF:-1,DE: ORF 1 HD
+http://212.47.241.92:25461/live/karim/23432/1142.ts
+#EXTINF:-1,DE: ORF 2 HD
+http://212.47.241.92:25461/live/karim/23432/1141.ts
+#EXTINF:-1,DE: PRO 7 HD
+http://212.47.241.92:25461/live/karim/23432/1140.ts
+#EXTINF:-1,DE: ProSieben HD
+http://212.47.241.92:25461/live/karim/23432/1139.ts
+#EXTINF:-1,DE: ProSieben Maxx
+http://212.47.241.92:25461/live/karim/23432/1138.ts
+#EXTINF:-1,DE: RTL 2 HD
+http://212.47.241.92:25461/live/karim/23432/1137.ts
+#EXTINF:-1,DE: RTL HD
+http://212.47.241.92:25461/live/karim/23432/1135.ts
+#EXTINF:-1,DE: RTL NITRO
+http://212.47.241.92:25461/live/karim/23432/1134.ts
+#EXTINF:-1,DE: RTL PASSION HD
+http://212.47.241.92:25461/live/karim/23432/1133.ts
+#EXTINF:-1,DE: SKY ATLANTIC HD
+http://212.47.241.92:25461/live/karim/23432/1128.ts
+#EXTINF:-1,DE: SKY BL 1
+http://212.47.241.92:25461/live/karim/23432/1126.ts
+#EXTINF:-1,DE: SKY BL 2
+http://212.47.241.92:25461/live/karim/23432/1125.ts
+#EXTINF:-1,DE: SKY CINEMA 24 HD
+http://212.47.241.92:25461/live/karim/23432/1124.ts
+#EXTINF:-1,DE: SKY CINEMAGIC 24h
+http://212.47.241.92:25461/live/karim/23432/1123.ts
+#EXTINF:-1,DE: SKY DMAX HD
+http://212.47.241.92:25461/live/karim/23432/1122.ts
+#EXTINF:-1,DE: SKY EMOTION HD
+http://212.47.241.92:25461/live/karim/23432/1121.ts
+#EXTINF:-1,DE: SKY KRIMI HD
+http://212.47.241.92:25461/live/karim/23432/1120.ts
+#EXTINF:-1,DE: SKY NAT GEO HD
+http://212.47.241.92:25461/live/karim/23432/1119.ts
+#EXTINF:-1,DE: SKY NOSTALGIE
+http://212.47.241.92:25461/live/karim/23432/1118.ts
+#EXTINF:-1,DE: SKY SPORT AUSTRIA
+http://212.47.241.92:25461/live/karim/23432/1117.ts
+#EXTINF:-1,DE: SKY SPORT NEWS HD
+http://212.47.241.92:25461/live/karim/23432/1116.ts
+#EXTINF:-1,DE: SUPER RTL HD
+http://212.47.241.92:25461/live/karim/23432/1114.ts
+#EXTINF:-1,DE: VOX HD
+http://212.47.241.92:25461/live/karim/23432/1112.ts
+#EXTINF:-1,DE: WDR HD
+http://212.47.241.92:25461/live/karim/23432/1111.ts
+#EXTINF:-1,DE: ZDF HD
+http://212.47.241.92:25461/live/karim/23432/1110.ts
+#EXTINF:-1,DE:  ARD
+http://AM-IPTV.CLUB:25461/live/emep_8/emep_8/4602.ts
+#EXTINF:-1,DE:  FOX
+http://AM-IPTV.CLUB:25461/live/emep_8/emep_8/4591.ts
+#EXTINF:-1,DE:  HISTORY
+http://AM-IPTV.CLUB:25461/live/emep_8/emep_8/4592.ts
+#EXTINF:-1,DE:  KABEL 1 HD
+http://AM-IPTV.CLUB:25461/live/emep_8/emep_8/4593.ts
+#EXTINF:-1,DE:  RTL HD
+http://AM-IPTV.CLUB:25461/live/emep_8/emep_8/4595.ts
+#EXTINF:-1,DE:  RTL Living HD
+http://AM-IPTV.CLUB:25461/live/emep_8/emep_8/4597.ts
+#EXTINF:-1,DE:  RTL2 HD
+http://AM-IPTV.CLUB:25461/live/emep_8/emep_8/4594.ts
+#EXTINF:-1,DE:  SAT1 HD
+http://AM-IPTV.CLUB:25461/live/emep_8/emep_8/4598.ts
+#EXTINF:-1,DE:  Super RTL
+http://AM-IPTV.CLUB:25461/live/emep_8/emep_8/4596.ts
+#EXTINF:-1,DE:  VOX HD
+http://AM-IPTV.CLUB:25461/live/emep_8/emep_8/4599.ts
+#EXTINF:-1,DE:  ZDF HD
+http://AM-IPTV.CLUB:25461/live/emep_8/emep_8/4600.ts
+#EXTINF:-1,DE: ProSieben MAXX HD
+http://AM-IPTV.CLUB:25461/live/emep_8/emep_8/4590.ts
+#EXTINF:-1,DE:WRD
+http://AM-IPTV.CLUB:25461/live/emep_8/emep_8/4601.ts
+#EXTINF:-1,DE: Discovery Channel
+http://AM-IPTV.CLUB:25461/live/emep_8/emep_8/1650.ts
+#EXTINF:-1,DE: Fox HD Germany
+http://AM-IPTV.CLUB:25461/live/emep_8/emep_8/1645.ts
+#EXTINF:-1,DE: History Channel HD Germany
+http://AM-IPTV.CLUB:25461/live/emep_8/emep_8/1646.ts
+#EXTINF:-1,DE: MGM HD Germany
+http://AM-IPTV.CLUB:25461/live/emep_8/emep_8/1642.ts
+#EXTINF:-1,DE: NatGeo Wild HD Germany
+http://AM-IPTV.CLUB:25461/live/emep_8/emep_8/1643.ts
+#EXTINF:-1,DE: RTL 2 HD
+http://AM-IPTV.CLUB:25461/live/emep_8/emep_8/1639.ts
+#EXTINF:-1,DE: RTL Nitro HD
+http://AM-IPTV.CLUB:25461/live/emep_8/emep_8/1648.ts
+#EXTINF:-1,DE: Sky Action HD Germany
+http://AM-IPTV.CLUB:25461/live/emep_8/emep_8/1640.ts
+#EXTINF:-1,DE: Sky Bundesliga HD 1
+http://AM-IPTV.CLUB:25461/live/emep_8/emep_8/1647.ts
+#EXTINF:-1,DE: Sky Cinema  24 HD Germany
+http://AM-IPTV.CLUB:25461/live/emep_8/emep_8/1651.ts
+#EXTINF:-1,DE: Sky Krimi
+http://AM-IPTV.CLUB:25461/live/emep_8/emep_8/1644.ts
+#EXTINF:-1,DE: Sky Select 1 HD
+http://AM-IPTV.CLUB:25461/live/emep_8/emep_8/1657.ts
+#EXTINF:-1,DE: Sky Select 2 HD
+http://AM-IPTV.CLUB:25461/live/emep_8/emep_8/1656.ts
+#EXTINF:-1,DE: Sky Select 3 HD
+http://AM-IPTV.CLUB:25461/live/emep_8/emep_8/1655.ts
+#EXTINF:-1,DE: SKY Select 4 HD
+http://AM-IPTV.CLUB:25461/live/emep_8/emep_8/1654.ts
+#EXTINF:-1,DE: Sky Select 5 HD
+http://AM-IPTV.CLUB:25461/live/emep_8/emep_8/1653.ts
+#EXTINF:-1,DE: Sky Select 6 HD
+http://AM-IPTV.CLUB:25461/live/emep_8/emep_8/1652.ts
+#EXTINF:-1,DE: SyFy HD Deutschland
+http://AM-IPTV.CLUB:25461/live/emep_8/emep_8/1658.ts
+#EXTINF:-1,DE: ZDF infokanal HD
+http://AM-IPTV.CLUB:25461/live/emep_8/emep_8/1641.ts
+#EXTINF:-1,DE: ZDF Neo HD
+http://AM-IPTV.CLUB:25461/live/emep_8/emep_8/1649.ts
+#EXTINF:-1,De:Augsburg TV
+http://AM-IPTV.CLUB:25461/live/emep_8/emep_8/237.ts
+#EXTINF:-1,De:Austria 24
+http://AM-IPTV.CLUB:25461/live/emep_8/emep_8/238.ts
+#EXTINF:-1,De:Donau TV
+http://AM-IPTV.CLUB:25461/live/emep_8/emep_8/240.ts
+#EXTINF:-1,De:ELBEKANAL
+http://AM-IPTV.CLUB:25461/live/emep_8/emep_8/241.ts
+#EXTINF:-1,De:Filstalwelle
+http://AM-IPTV.CLUB:25461/live/emep_8/emep_8/243.ts
+#EXTINF:-1,De:Muenchen TV
+http://AM-IPTV.CLUB:25461/live/emep_8/emep_8/245.ts
+#EXTINF:-1,De:TV Tourings
+http://AM-IPTV.CLUB:25461/live/emep_8/emep_8/253.ts
+#EXTINF:-1,DE: Sky Cinema  1 HD Germany
+http://AM-IPTV.CLUB:25461/live/emep_8/emep_8/269.ts
+#EXTINF:-1,DE: Sky Cinema HD Germany
+http://AM-IPTV.CLUB:25461/live/emep_8/emep_8/267.ts
+#EXTINF:-1,DE: Sky Comedy
+http://AM-IPTV.CLUB:25461/live/emep_8/emep_8/266.ts
+#EXTINF:-1,DE: Sky Comedy Germany
+http://AM-IPTV.CLUB:25461/live/emep_8/emep_8/265.ts
+#EXTINF:-1,DE: Sky Emotion Germany
+http://AM-IPTV.CLUB:25461/live/emep_8/emep_8/264.ts
+#EXTINF:-1,DE: Sky Hits HD Germany
+http://AM-IPTV.CLUB:25461/live/emep_8/emep_8/263.ts
+#EXTINF:-1,DE: Sky Nostalgie Germany
+http://AM-IPTV.CLUB:25461/live/emep_8/emep_8/262.ts
+#EXTINF:-1,DE: Sky Sport HD 1
+http://AM-IPTV.CLUB:25461/live/emep_8/emep_8/261.ts
+#EXTINF:-1,DE: Sky Sport HD 2
+http://AM-IPTV.CLUB:25461/live/emep_8/emep_8/260.ts
+#EXTINF:-1,DE: TNT Film TCM
+http://AM-IPTV.CLUB:25461/live/emep_8/emep_8/258.ts
+#EXTINF:-1,DE: TNT Serie HD
+http://AM-IPTV.CLUB:25461/live/emep_8/emep_8/257.ts
+#EXTINF:-1,DE: ZDF HD
+http://AM-IPTV.CLUB:25461/live/emep_8/emep_8/255.ts
