@@ -1,315 +1,9 @@
 #EXTM3U
-
 #EXTINF:-1 tvg-name="Ger1" tvg-logo="" group-title="{BOUQUET_NAME}",IF Link Stops Working Check Later IT will be Updated
 http://www.lengua.com/anthems/Indonesia.mp3
 #EXTINF:-1 tvg-name="Ger1" tvg-logo="" group-title="{BOUQUET_NAME}",Channel Kick Out in 15-20Sec Visit http://bit.ly/fixkick
 http://www.lengua.com/anthems/Indonesia.mp3
 
-
-#EXTINF:-1,DE: ZDF HD
-http://iptveu.de:8000/live/fantom_zzp-sky/L54EKGOdON/3514.ts
-#EXTINF:-1,DE: WDR
-http://iptveu.de:8000/live/fantom_zzp-sky/L54EKGOdON/4961.ts
-#EXTINF:-1,DE: RTL NITRO HD
-http://iptveu.de:8000/live/fantom_zzp-sky/L54EKGOdON/3534.ts
-#EXTINF:-1,DE: RTL HD
-http://iptveu.de:8000/live/fantom_zzp-sky/L54EKGOdON/3516.ts
-#EXTINF:-1,DE: VOX HD
-http://iptveu.de:8000/live/fantom_zzp-sky/L54EKGOdON/3753.ts
-#EXTINF:-1,DE: SAT 1 HD
-http://iptveu.de:8000/live/fantom_zzp-sky/L54EKGOdON/3515.ts
-#EXTINF:-1,DE: PRO 7 HD
-http://iptveu.de:8000/live/fantom_zzp-sky/L54EKGOdON/3518.ts
-#EXTINF:-1,DE: KABEL 1 HD
-http://iptveu.de:8000/live/fantom_zzp-sky/L54EKGOdON/3532.ts
-#EXTINF:-1,DE: SRF 1
-http://iptveu.de:8000/live/fantom_zzp-sky/L54EKGOdON/3582.ts
-#EXTINF:-1,DE: SRF 2
-http://iptveu.de:8000/live/fantom_zzp-sky/L54EKGOdON/3583.ts
-#EXTINF:-1,DE: NAT GEO HD
-http://iptveu.de:8000/live/fantom_zzp-sky/L54EKGOdON/3585.ts
-#EXTINF:-1,DE: NAT GEO WILD HD
-http://iptveu.de:8000/live/fantom_zzp-sky/L54EKGOdON/3570.ts
-#EXTINF:-1,DE: SKY KRIMI SD
-http://iptveu.de:8000/live/fantom_zzp-sky/L54EKGOdON/8073.ts
-#EXTINF:-1,DE: SIXX HD
-http://iptveu.de:8000/live/fantom_zzp-sky/L54EKGOdON/4955.ts
-#EXTINF:-1,DE: CARTOON NETWORK
-http://iptveu.de:8000/live/fantom_zzp-sky/L54EKGOdON/8538.ts
-#EXTINF:-1,DE: COMEDY CENTRAL HD
-http://iptveu.de:8000/live/fantom_zzp-sky/L54EKGOdON/3744.ts
-#EXTINF:-1,DE: DISCOVERY SD
-http://iptveu.de:8000/live/fantom_zzp-sky/L54EKGOdON/8087.ts
-#EXTINF:-1,DE: EUROSPORT 2 HD
-http://iptveu.de:8000/live/fantom_zzp-sky/L54EKGOdON/5033.ts
-#EXTINF:-1,DE: SILVERLINE TV HD
-http://iptveu.de:8000/live/fantom_zzp-sky/L54EKGOdON/3749.ts
-#EXTINF:-1,DE: PRO7 MAXX
-http://iptveu.de:8000/live/fantom_zzp-sky/L54EKGOdON/3568.ts
-#EXTINF:-1,DE: PHOENIX HD
-http://iptveu.de:8000/live/fantom_zzp-sky/L54EKGOdON/3575.ts
-#EXTINF:-1,DE: ORF 3
-http://iptveu.de:8000/live/fantom_zzp-sky/L54EKGOdON/4717.ts
-#EXTINF:-1,DE: ORF 2
-http://iptveu.de:8000/live/fantom_zzp-sky/L54EKGOdON/4716.ts
-#EXTINF:-1,DE: ORF 1 HD
-http://iptveu.de:8000/live/fantom_zzp-sky/L54EKGOdON/3581.ts
-#EXTINF:-1,DE: N-TV HD
-http://iptveu.de:8000/live/fantom_zzp-sky/L54EKGOdON/3584.ts
-#EXTINF:-1,DE: KIKA HD
-http://iptveu.de:8000/live/fantom_zzp-sky/L54EKGOdON/3538.ts
-#EXTINF:-1,DE: TLC HD
-http://iptveu.de:8000/live/fantom_zzp-sky/L54EKGOdON/5269.ts
-#EXTINF:-1,DE: SPIEGEL GESCHICHTE HD
-http://iptveu.de:8000/live/fantom_zzp-sky/L54EKGOdON/3756.ts
-#EXTINF:-1,DE: SKY SPORT AUSTRIA HD
-http://iptveu.de:8000/live/fantom_zzp-sky/L54EKGOdON/3748.ts
-#EXTINF:-1,DE: FOX  HD
-http://iptveu.de:8000/live/fantom_zzp-sky/L54EKGOdON/3754.ts
-#EXTINF:-1,DE: CLASSICA
-http://iptveu.de:8000/live/fantom_zzp-sky/L54EKGOdON/3755.ts
-#EXTINF:-1,DE: FOX HD
-http://iptveu.de:8000/live/fantom_zzp-sky/L54EKGOdON/3531.ts
-#EXTINF:-1,DE: NICKELODEON
-http://iptveu.de:8000/live/fantom_zzp-sky/L54EKGOdON/4359.ts
-#EXTINF:-1,DE: DISNEY XD
-http://iptveu.de:8000/live/fantom_zzp-sky/L54EKGOdON/4361.ts
-#EXTINF:-1,DE: DISNEY CINEMAGIC HD
-http://iptveu.de:8000/live/fantom_zzp-sky/L54EKGOdON/3539.ts
-#EXTINF:-1,DE: DMAX SD
-http://iptveu.de:8000/live/fantom_zzp-sky/L54EKGOdON/5151.ts
-#EXTINF:-1,DE: ARTE HD
-http://iptveu.de:8000/live/fantom_zzp-sky/L54EKGOdON/3566.ts
-#EXTINF:-1,DE: 3 SAT HD
-http://iptveu.de:8000/live/fantom_zzp-sky/L54EKGOdON/3576.ts
-#EXTINF:-1,DE: SKY 13TH STREET HD
-http://iptveu.de:8000/live/fantom_zzp-sky/L54EKGOdON/4641.ts
-#EXTINF:-1,DE: EURONEWS
-http://iptveu.de:8000/live/fantom_zzp-sky/L54EKGOdON/3644.ts
-#EXTINF:-1,DE: N24 HD
-http://iptveu.de:8000/live/fantom_zzp-sky/L54EKGOdON/3540.ts
-#EXTINF:-1,DE: DISCOVERY HD
-http://iptveu.de:8000/live/fantom_zzp-sky/L54EKGOdON/3542.ts
-#EXTINF:-1,DE: SKY SPORT NEWS HD
-http://iptveu.de:8000/live/fantom_zzp-sky/L54EKGOdON/3543.ts
-#EXTINF:-1,DE: HEIMATKANAL HD
-http://iptveu.de:8000/live/fantom_zzp-sky/L54EKGOdON/4718.ts
-#EXTINF:-1,DE: DISNEY JUNIOR
-http://iptveu.de:8000/live/fantom_zzp-sky/L54EKGOdON/3577.ts
-#EXTINF:-1,DE: EUROSPORT 1 HD
-http://iptveu.de:8000/live/fantom_zzp-sky/L54EKGOdON/3580.ts
-#EXTINF:-1,DE:Syfy_HD
-http://universeiptv.com:8000/live/alexaiptv/mjsdf95gyfu/832.ts
-#EXTINF:-1,DE:SUPER_RTL
-http://universeiptv.com:8000/live/alexaiptv/mjsdf95gyfu/83.ts
-#EXTINF:-1,DE:Sky_TNT_Serie
-http://universeiptv.com:8000/live/alexaiptv/mjsdf95gyfu/608.ts
-#EXTINF:-1,DE:Sky_Sports_HD_1
-http://universeiptv.com:8000/live/alexaiptv/mjsdf95gyfu/606.ts
-#EXTINF:-1,DE:SKY_SELECT_3_HD
-http://universeiptv.com:8000/live/alexaiptv/mjsdf95gyfu/872.ts
-#EXTINF:-1,DE:SKY_SELECT_1_HD
-http://universeiptv.com:8000/live/alexaiptv/mjsdf95gyfu/870.ts
-#EXTINF:-1,DE:Sky_Hits_HD
-http://universeiptv.com:8000/live/alexaiptv/mjsdf95gyfu/1371.ts
-#EXTINF:-1,DE:Sky_Krimi
-http://universeiptv.com:8000/live/alexaiptv/mjsdf95gyfu/597.ts
-#EXTINF:-1,DE:Sky_Comedy
-http://universeiptv.com:8000/live/alexaiptv/mjsdf95gyfu/598.ts
-#EXTINF:-1,DE:Sky_Cinema-24
-http://universeiptv.com:8000/live/alexaiptv/mjsdf95gyfu/599.ts
-#EXTINF:-1,DE:Sky_Atlantic_HD
-http://universeiptv.com:8000/live/alexaiptv/mjsdf95gyfu/816.ts
-#EXTINF:-1,DE:Sixx_HD
-http://universeiptv.com:8000/live/alexaiptv/mjsdf95gyfu/829.ts
-#EXTINF:-1,DE:RTL2
-http://universeiptv.com:8000/live/alexaiptv/mjsdf95gyfu/82.ts
-#EXTINF:-1,DE:National_Geo_HD
-http://universeiptv.com:8000/live/alexaiptv/mjsdf95gyfu/830.ts
-#EXTINF:-1,DE:MGM_HD
-http://universeiptv.com:8000/live/alexaiptv/mjsdf95gyfu/602.ts
-#EXTINF:-1,DE:History_HD
-http://universeiptv.com:8000/live/alexaiptv/mjsdf95gyfu/822.ts
-#EXTINF:-1,DE:Fox_HD
-http://universeiptv.com:8000/live/alexaiptv/mjsdf95gyfu/604.ts
-#EXTINF:-1,DE:Disney_Junior_HD
-http://universeiptv.com:8000/live/alexaiptv/mjsdf95gyfu/823.ts
-#EXTINF:-1,DE:AXN
-http://universeiptv.com:8000/live/alexaiptv/mjsdf95gyfu/833.ts
-#EXTINF:-1,DE:ARD_1
-http://universeiptv.com:8000/live/alexaiptv/mjsdf95gyfu/605.ts
-#EXTINF:-1,DE:13_Street_HD
-http://universeiptv.com:8000/live/alexaiptv/mjsdf95gyfu/603.ts
-#EXTINF:-1,DE-VOX
-http://evolive-tv.com:8000/live/amk1978/52996333/112.ts
-#EXTINF:-1,DE:Sky-Select 5
-http://evolive-tv.com:8000/live/amk1978/52996333/119.ts
-#EXTINF:-1,DE:Sky-Select 3
-http://evolive-tv.com:8000/live/amk1978/52996333/118.ts
-#EXTINF:-1,Sky Nostalgie_DE
-http://evolive-tv.com:8000/live/amk1978/52996333/102.ts
-#EXTINF:-1,SYFY_DE
-http://evolive-tv.com:8000/live/amk1978/52996333/175.ts
-#EXTINF:-1,SUPER_RTL.HD
-http://evolive-tv.com:8000/live/amk1978/52996333/114.ts
-#EXTINF:-1,Kabel Eins
-http://evolive-tv.com:8000/live/amk1978/52996333/120.ts
-#EXTINF:-1,SKY_SPORT2
-http://evolive-tv.com:8000/live/amk1978/52996333/125.ts
-#EXTINF:-1,SKY_SPORT1
-http://evolive-tv.com:8000/live/amk1978/52996333/124.ts
-#EXTINF:-1,SKY_NAT_GEO
-http://evolive-tv.com:8000/live/amk1978/52996333/177.ts
-#EXTINF:-1,SKY_HITS
-http://evolive-tv.com:8000/live/amk1978/52996333/123.ts
-#EXTINF:-1,SKY_EMOTION
-http://evolive-tv.com:8000/live/amk1978/52996333/121.ts
-#EXTINF:-1,SKY_Discovery_History 1
-http://evolive-tv.com:8000/live/amk1978/52996333/273.ts
-#EXTINF:-1,SKY_Discovery UK
-http://evolive-tv.com:8000/live/amk1978/52996333/282.ts
-#EXTINF:-1,SKY_DISCOVERY
-http://evolive-tv.com:8000/live/amk1978/52996333/113.ts
-#EXTINF:-1,SKY_COMEDY
-http://evolive-tv.com:8000/live/amk1978/52996333/107.ts
-#EXTINF:-1,SKY_CINEMA1
-http://evolive-tv.com:8000/live/amk1978/52996333/105.ts
-#EXTINF:-1,SKY_CINEMA
-http://evolive-tv.com:8000/live/amk1978/52996333/103.ts
-#EXTINF:-1,SKY_ATLANTIC
-http://evolive-tv.com:8000/live/amk1978/52996333/122.ts
-#EXTINF:-1,SKY_ACTION
-http://evolive-tv.com:8000/live/amk1978/52996333/104.ts
-#EXTINF:-1,SKY-UK Movies Thriller
-http://evolive-tv.com:8000/live/amk1978/52996333/178.ts
-#EXTINF:-1,SKY-NEWS
-http://evolive-tv.com:8000/live/amk1978/52996333/325.ts
-#EXTINF:-1,SKY-DT BUNDESLIGA 1 HD
-http://evolive-tv.com:8000/live/amk1978/52996333/176.ts
-#EXTINF:-1,RTL_LIVING
-http://evolive-tv.com:8000/live/amk1978/52996333/115.ts
-#EXTINF:-1,DE:Sky-Select 1
-http://evolive-tv.com:8000/live/amk1978/52996333/117.ts
-#EXTINF:-1,DE:Sky-Select-1
-http://xtream.hopto.me:9000/live/anaba/vshahaov42810/8108.ts
-#EXTINF:-1,DE:Sky-Select-2
-http://xtream.hopto.me:9000/live/anaba/vshahaov42810/8107.ts
-#EXTINF:-1,DE:Sky-Select-3
-http://xtream.hopto.me:9000/live/anaba/vshahaov42810/8805.ts
-#EXTINF:-1,DE:Sky-Select-4
-http://xtream.hopto.me:9000/live/anaba/vshahaov42810/4123.ts
-#EXTINF:-1,DE:Sky-Select-5
-http://xtream.hopto.me:9000/live/anaba/vshahaov42810/8104.ts
-#EXTINF:-1,DE:Sky-Select-6
-http://xtream.hopto.me:9000/live/anaba/vshahaov42810/8804.ts
-#EXTINF:-1,DE:Sky-Select-7
-http://xtream.hopto.me:9000/live/anaba/vshahaov42810/8102.ts
-#EXTINF:-1,DE:Sky-Select-8
-http://xtream.hopto.me:9000/live/anaba/vshahaov42810/8803.ts
-#EXTINF:-1,DE:Sky-Select-9
-http://xtream.hopto.me:9000/live/anaba/vshahaov42810/8094.ts
-#EXTINF:-1,DE:ZDF
-http://xtream.hopto.me:9000/live/anaba/vshahaov42810/8370.ts
-#EXTINF:-1,DE:AXN
-http://xtream.hopto.me:9000/live/anaba/vshahaov42810/3707.ts
-#EXTINF:-1,DE:SAT_1
-http://xtream.hopto.me:9000/live/anaba/vshahaov42810/8788.ts
-#EXTINF:-1,DE:Sky-Action
-http://xtream.hopto.me:9000/live/anaba/vshahaov42810/8793.ts
-#EXTINF:-1,DE:Sky-Atlantic
-http://xtream.hopto.me:9000/live/anaba/vshahaov42810/8789.ts
-#EXTINF:-1,DE:Sky-Cinema
-http://xtream.hopto.me:9000/live/anaba/vshahaov42810/5596.ts
-#EXTINF:-1,DE:SKY-CINEMA_24
-http://xtream.hopto.me:9000/live/anaba/vshahaov42810/9288.ts
-#EXTINF:-1,DE:Sky_Cinema_Emotion
-http://xtream.hopto.me:9000/live/anaba/vshahaov42810/8791.ts
-#EXTINF:-1,DE:Sky-Krimi
-http://xtream.hopto.me:9000/live/anaba/vshahaov42810/8787.ts
-#EXTINF:-1,DE:RTL-5-(NL)
-http://xtream.hopto.me:9000/live/anaba/vshahaov42810/5472.ts
-#EXTINF:-1,DE:RTL-7-(NL)
-http://xtream.hopto.me:9000/live/anaba/vshahaov42810/5474.ts
-#EXTINF:-1,DE:RTL.Living
-http://xtream.hopto.me:9000/live/anaba/vshahaov42810/9750.ts
-#EXTINF:-1,DE:RTL.Passion
-http://xtream.hopto.me:9000/live/anaba/vshahaov42810/9749.ts
-#EXTINF:-1,DE:RTL2.HD
-http://xtream.hopto.me:9000/live/anaba/vshahaov42810/9748.ts
-#EXTINF:-1,DE:RTL_CRIME
-http://xtream.hopto.me:9000/live/anaba/vshahaov42810/9753.ts
-#EXTINF:-1,DE:RTL_HD
-http://xtream.hopto.me:9000/live/anaba/vshahaov42810/9754.ts
-#EXTINF:-1,DE:Sky_Sport_Digital
-http://xtream.hopto.me:9000/live/anaba/vshahaov42810/4623.ts
-#EXTINF:-1,DE:Disney_Channel
-http://xtream.hopto.me:9000/live/anaba/vshahaov42810/9751.ts
-#EXTINF:-1,DE:FOX
-http://xtream.hopto.me:9000/live/anaba/vshahaov42810/5483.ts
-#EXTINF:-1,DE:Sky_Atlantic
-http://xtream.hopto.me:9000/live/anaba/vshahaov42810/9291.ts
-#EXTINF:-1,DE:Disney_Cinemagic
-http://xtream.hopto.me:9000/live/anaba/vshahaov42810/4142.ts
-#EXTINF:-1,DE:Disney_Junior
-http://xtream.hopto.me:9000/live/anaba/vshahaov42810/9752.ts
-#EXTINF:-1,DE:HBO-1-(NL)
-http://xtream.hopto.me:9000/live/anaba/vshahaov42810/5497.ts
-#EXTINF:-1,DE:ARD_HD
-http://xtream.hopto.me:9000/live/anaba/vshahaov42810/8798.ts
-#EXTINF:-1,DE:History.HD
-http://xtream.hopto.me:9000/live/anaba/vshahaov42810/9755.ts
-#EXTINF:-1,DE:KIKA
-http://xtream.hopto.me:9000/live/anaba/vshahaov42810/8812.ts
-#EXTINF:-1,DE:N24
-http://xtream.hopto.me:9000/live/anaba/vshahaov42810/8801.ts
-#EXTINF:-1,DE:NPO-1-(NL)
-http://xtream.hopto.me:9000/live/anaba/vshahaov42810/5468.ts
-#EXTINF:-1,DE:Syfy-HD
-http://xtream.hopto.me:9000/live/anaba/vshahaov42810/8802.ts
-#EXTINF:-1,DE:Sky-Hits
-http://xtream.hopto.me:9000/live/anaba/vshahaov42810/8790.ts
-#EXTINF:-1,DE:TLC
-http://xtream.hopto.me:9000/live/anaba/vshahaov42810/8811.ts
-#EXTINF:-1,DE:TNT_SERIE.HD
-http://xtream.hopto.me:9000/live/anaba/vshahaov42810/8359.ts
-#EXTINF:-1,DE:Sky_Sport_Austria
-http://xtream.hopto.me:9000/live/anaba/vshahaov42810/5477.ts
-#EXTINF:-1,DE:NICKELODEON
-http://xtream.hopto.me:9000/live/anaba/vshahaov42810/8810.ts
-#EXTINF:-1,De:Sky_Emotion
-http://xtream.hopto.me:9000/live/anaba/vshahaov42810/8799.ts
-#EXTINF:-1,DE:EUROSPORT_1
-http://xtream.hopto.me:9000/live/anaba/vshahaov42810/9296.ts
-#EXTINF:-1,DE:EURONEWS
-http://xtream.hopto.me:9000/live/anaba/vshahaov42810/8800.ts
-#EXTINF:-1,DE:SKY_Sport1
-http://xtream.hopto.me:9000/live/anaba/vshahaov42810/8809.ts
-#EXTINF:-1,DE:Zee_One
-http://xtream.hopto.me:9000/live/anaba/vshahaov42810/5499.ts
-#EXTINF:-1,DE:SKY_SPORT_NEWS
-http://xtream.hopto.me:9000/live/anaba/vshahaov42810/8806.ts
-#EXTINF:-1,DE:VOX
-http://xtream.hopto.me:9000/live/anaba/vshahaov42810/8808.ts
-#EXTINF:-1,DESkySport_News
-http://xtream.hopto.me:9000/live/anaba/vshahaov42810/9294.ts
-#EXTINF:-1,DE:PRO-7-MAXX
-http://xtream.hopto.me:9000/live/anaba/vshahaov42810/8813.ts
-#EXTINF:-1,DE:Sky.Bundesliga-1
-http://xtream.hopto.me:9000/live/anaba/vshahaov42810/8143.ts
-#EXTINF:-1,DE:Sky.Bundesliga-2
-http://xtream.hopto.me:9000/live/anaba/vshahaov42810/12798.ts
-#EXTINF:-1,DE:Sky.Bundesliga-3
-http://xtream.hopto.me:9000/live/anaba/vshahaov42810/12799.ts
-#EXTINF:-1,DE:Sky-Bundesliga-4
-http://xtream.hopto.me:9000/live/anaba/vshahaov42810/8814.ts
-#EXTINF:-1,[DE] Ard HD
-http://skynet-iptv.dyndns.tv:8000/live/polly780/papamio/44.ts
-#EXTINF:-1,[DE] Zdf HD
-http://skynet-iptv.dyndns.tv:8000/live/polly780/papamio/45.ts
-#EXTINF:-1,[DE] Zdf Neo HD
-http://skynet-iptv.dyndns.tv:8000/live/polly780/papamio/1560.ts
-#EXTINF:-1,[DE] Wdr HD
-http://skynet-iptv.dyndns.tv:8000/live/polly780/papamio/46.ts
 #EXTINF:-1,[DE] Rtl HD
 http://skynet-iptv.dyndns.tv:8000/live/polly780/papamio/47.ts
 #EXTINF:-1,[DE] Rtl 2 HD
@@ -346,6 +40,14 @@ http://skynet-iptv.dyndns.tv:8000/live/polly780/papamio/6354.ts
 http://skynet-iptv.dyndns.tv:8000/live/polly780/papamio/67.ts
 #EXTINF:-1,[DE] DeLuxe Music
 http://skynet-iptv.dyndns.tv:8000/live/polly780/papamio/71.ts
+#EXTINF:-1,[DE] Ard HD
+http://skynet-iptv.dyndns.tv:8000/live/polly780/papamio/44.ts
+#EXTINF:-1,[DE] Zdf HD
+http://skynet-iptv.dyndns.tv:8000/live/polly780/papamio/45.ts
+#EXTINF:-1,[DE] Zdf Neo HD
+http://skynet-iptv.dyndns.tv:8000/live/polly780/papamio/1560.ts
+#EXTINF:-1,[DE] Wdr HD
+http://skynet-iptv.dyndns.tv:8000/live/polly780/papamio/46.ts
 #EXTINF:-1,[DE] Super Rtl
 http://skynet-iptv.dyndns.tv:8000/live/polly780/papamio/70.ts
 #EXTINF:-1,[DE] Disney Channel
@@ -506,17 +208,271 @@ http://skynet-iptv.dyndns.tv:8000/movie/polly780/papamio/285.mkv
 http://skynet-iptv.dyndns.tv:8000/movie/polly780/papamio/286.mkv
 #EXTINF:-1,Sky Select 7 HD (Kong - Skull Island)
 http://skynet-iptv.dyndns.tv:8000/movie/polly780/papamio/5201.mkv
-#EXTINF:-1,local:DE:Sky-Select-1
-http://magicsat.ddns.net:9000/live/EXchange140/EXkArEeM/18134.ts
-#EXTINF:-1,local:DE:Sky-Select-2
-http://magicsat.ddns.net:9000/live/EXchange140/EXkArEeM/18133.ts
-#EXTINF:-1,local:DE:Sky-Select-3
-http://magicsat.ddns.net:9000/live/EXchange140/EXkArEeM/18132.ts
-#EXTINF:-1,local:DE:Sky-Select-4
-http://magicsat.ddns.net:9000/live/EXchange140/EXkArEeM/18131.ts
-#EXTINF:-1,local:DE:Sky-Select-5
-http://magicsat.ddns.net:9000/live/EXchange140/EXkArEeM/18130.ts
-#EXTINF:-1,local:DE:Sky-Select-6
-http://magicsat.ddns.net:9000/live/EXchange140/EXkArEeM/18129.ts
-#EXTINF:-1,local:DE:Sky-Select-7
-http://magicsat.ddns.net:9000/live/EXchange140/EXkArEeM/18128.ts
+#EXTINF:-1,DE:Syfy_HD
+http://universeiptv.com:8000/live/alexaiptv/mjsdf95gyfu/832.ts
+#EXTINF:-1,DE:SUPER_RTL
+http://universeiptv.com:8000/live/alexaiptv/mjsdf95gyfu/83.ts
+#EXTINF:-1,DE:Sky_TNT_Serie
+http://universeiptv.com:8000/live/alexaiptv/mjsdf95gyfu/608.ts
+#EXTINF:-1,DE:Sky_Sports_HD_1
+http://universeiptv.com:8000/live/alexaiptv/mjsdf95gyfu/606.ts
+#EXTINF:-1,DE:SKY_SELECT_3_HD
+http://universeiptv.com:8000/live/alexaiptv/mjsdf95gyfu/872.ts
+#EXTINF:-1,DE:SKY_SELECT_1_HD
+http://universeiptv.com:8000/live/alexaiptv/mjsdf95gyfu/870.ts
+#EXTINF:-1,DE:Sky_Hits_HD
+http://universeiptv.com:8000/live/alexaiptv/mjsdf95gyfu/1371.ts
+#EXTINF:-1,DE:Sky_Krimi
+http://universeiptv.com:8000/live/alexaiptv/mjsdf95gyfu/597.ts
+#EXTINF:-1,DE:Sky_Comedy
+http://universeiptv.com:8000/live/alexaiptv/mjsdf95gyfu/598.ts
+#EXTINF:-1,DE:Sky_Cinema-24
+http://universeiptv.com:8000/live/alexaiptv/mjsdf95gyfu/599.ts
+#EXTINF:-1,DE:Sky_Atlantic_HD
+http://universeiptv.com:8000/live/alexaiptv/mjsdf95gyfu/816.ts
+#EXTINF:-1,DE:Sixx_HD
+http://universeiptv.com:8000/live/alexaiptv/mjsdf95gyfu/829.ts
+#EXTINF:-1,DE:RTL2
+http://universeiptv.com:8000/live/alexaiptv/mjsdf95gyfu/82.ts
+#EXTINF:-1,DE:National_Geo_HD
+http://universeiptv.com:8000/live/alexaiptv/mjsdf95gyfu/830.ts
+#EXTINF:-1,DE:MGM_HD
+http://universeiptv.com:8000/live/alexaiptv/mjsdf95gyfu/602.ts
+#EXTINF:-1,DE:History_HD
+http://universeiptv.com:8000/live/alexaiptv/mjsdf95gyfu/822.ts
+#EXTINF:-1,DE:Fox_HD
+http://universeiptv.com:8000/live/alexaiptv/mjsdf95gyfu/604.ts
+#EXTINF:-1,DE:Disney_Junior_HD
+http://universeiptv.com:8000/live/alexaiptv/mjsdf95gyfu/823.ts
+#EXTINF:-1,DE:AXN
+http://universeiptv.com:8000/live/alexaiptv/mjsdf95gyfu/833.ts
+#EXTINF:-1,DE:ARD_1
+http://universeiptv.com:8000/live/alexaiptv/mjsdf95gyfu/605.ts
+#EXTINF:-1,DE:13_Street_HD
+http://universeiptv.com:8000/live/alexaiptv/mjsdf95gyfu/603.ts
+#EXTINF:-1,DE: ZDF HD
+http://globiptv.com:8000/live/workfine/skype/1140.ts
+#EXTINF:-1,DE: ZDF
+http://globiptv.com:8000/live/workfine/skype/307.ts
+#EXTINF:-1,DE: WDR HD
+http://globiptv.com:8000/live/workfine/skype/928.ts
+#EXTINF:-1,DE: VOX
+http://globiptv.com:8000/live/workfine/skype/308.ts
+#EXTINF:-1,DE: VH1
+http://globiptv.com:8000/live/workfine/skype/2387.ts
+#EXTINF:-1,DE: Universal Channel HD
+http://globiptv.com:8000/live/workfine/skype/1777.ts
+#EXTINF:-1,DE: TNT Serie HD
+http://globiptv.com:8000/live/workfine/skype/806.ts
+#EXTINF:-1,DE: TNT serie
+http://globiptv.com:8000/live/workfine/skype/2696.ts
+#EXTINF:-1,DE: TNT Film HD
+http://globiptv.com:8000/live/workfine/skype/788.ts
+#EXTINF:-1,DE: TNT Comedy HD
+http://globiptv.com:8000/live/workfine/skype/2738.ts
+#EXTINF:-1,DE: TLC
+http://globiptv.com:8000/live/workfine/skype/2204.ts
+#EXTINF:-1,DE: SYFY HD
+http://globiptv.com:8000/live/workfine/skype/1599.ts
+#EXTINF:-1,DE: SYFY
+http://globiptv.com:8000/live/workfine/skype/2606.ts
+#EXTINF:-1,DE: Super RTL
+http://globiptv.com:8000/live/workfine/skype/309.ts
+#EXTINF:-1,DE: Sportdigital HD
+http://globiptv.com:8000/live/workfine/skype/1778.ts
+#EXTINF:-1,DE: Silverline
+http://globiptv.com:8000/live/workfine/skype/318.ts
+#EXTINF:-1,DE: Sport 1 US HD
+http://globiptv.com:8000/live/workfine/skype/2202.ts
+#EXTINF:-1,DE: Spiegel TV Wissen
+http://globiptv.com:8000/live/workfine/skype/2386.ts
+#EXTINF:-1,DE: Spiegel Geschichte HD
+http://globiptv.com:8000/live/workfine/skype/1779.ts
+#EXTINF:-1,DE: Sony HD
+http://globiptv.com:8000/live/workfine/skype/1298.ts
+#EXTINF:-1,DE: Sky Sports 3 HD
+http://globiptv.com:8000/live/workfine/skype/2384.ts
+#EXTINF:-1,DE: Sky Sports 2 HD
+http://globiptv.com:8000/live/workfine/skype/320.ts
+#EXTINF:-1,DE: Sky Sports 2
+http://globiptv.com:8000/live/workfine/skype/2632.ts
+#EXTINF:-1,DE: Sky Sports 1 HD
+http://globiptv.com:8000/live/workfine/skype/321.ts
+#EXTINF:-1,DE: Sky Sport News.
+http://globiptv.com:8000/live/workfine/skype/2739.ts
+#EXTINF:-1,DE: Sky Sport News
+http://globiptv.com:8000/live/workfine/skype/1780.ts
+#EXTINF:-1,DE: Sky Sport Austria
+http://globiptv.com:8000/live/workfine/skype/310.ts
+#EXTINF:-1,DE: Sport 1+ HD
+http://globiptv.com:8000/live/workfine/skype/2540.ts
+#EXTINF:-1,DE: Sky Nostalgie
+http://globiptv.com:8000/live/workfine/skype/2424.ts
+#EXTINF:-1,DE: Sky Krimi
+http://globiptv.com:8000/live/workfine/skype/1114.ts
+#EXTINF:-1,DE: Sky Hits HD
+http://globiptv.com:8000/live/workfine/skype/1689.ts
+#EXTINF:-1,DE: Sky Hits
+http://globiptv.com:8000/live/workfine/skype/2468.ts
+#EXTINF:-1,DE: Sky Arts HD
+http://globiptv.com:8000/live/workfine/skype/1688.ts
+#EXTINF:-1,DE: Sky Emotion
+http://globiptv.com:8000/live/workfine/skype/1406.ts
+#EXTINF:-1,DE: Sky Comedy HD
+http://globiptv.com:8000/live/workfine/skype/322.ts
+#EXTINF:-1,DE: Sky Cinema HD
+http://globiptv.com:8000/live/workfine/skype/323.ts
+#EXTINF:-1,DE: Sky Cinema +24 HD
+http://globiptv.com:8000/live/workfine/skype/324.ts
+#EXTINF:-1,DE: Sky Cinema +1 HD
+http://globiptv.com:8000/live/workfine/skype/1690.ts
+#EXTINF:-1,DE: Sky Cinema
+http://globiptv.com:8000/live/workfine/skype/2568.ts
+#EXTINF:-1,DE: SKY BUNDESLIGA 1
+http://globiptv.com:8000/live/workfine/skype/2740.ts
+#EXTINF:-1,DE: SKY ATLANTIC HD
+http://globiptv.com:8000/live/workfine/skype/326.ts
+#EXTINF:-1,DE: SKY ATLANTIC +1 HD
+http://globiptv.com:8000/live/workfine/skype/1796.ts
+#EXTINF:-1,DE: SKY ATLANTIC
+http://globiptv.com:8000/live/workfine/skype/2610.ts
+#EXTINF:-1,DE: Sky Action HD
+http://globiptv.com:8000/live/workfine/skype/918.ts
+#EXTINF:-1,DE: Sky Action
+http://globiptv.com:8000/live/workfine/skype/2467.ts
+#EXTINF:-1,DE: Sky 3D
+http://globiptv.com:8000/live/workfine/skype/1687.ts
+#EXTINF:-1,DE: Sixx HD
+http://globiptv.com:8000/live/workfine/skype/1405.ts
+#EXTINF:-1,DE: Servus TV
+http://globiptv.com:8000/live/workfine/skype/1899.ts
+#EXTINF:-1,DE: Sat 1 Gold
+http://globiptv.com:8000/live/workfine/skype/2539.ts
+#EXTINF:-1,DE: Sat 1
+http://globiptv.com:8000/live/workfine/skype/1597.ts
+#EXTINF:-1,DE: RTL Passion
+http://globiptv.com:8000/live/workfine/skype/1785.ts
+#EXTINF:-1,DE: RTL Nitro HD
+http://globiptv.com:8000/live/workfine/skype/927.ts
+#EXTINF:-1,DE: RTL LIVING HD
+http://globiptv.com:8000/live/workfine/skype/2380.ts
+#EXTINF:-1,DE: RTL HD
+http://globiptv.com:8000/live/workfine/skype/923.ts
+#EXTINF:-1,DE: RTL Crime
+http://globiptv.com:8000/live/workfine/skype/1783.ts
+#EXTINF:-1,DE: RTL 2 HD
+http://globiptv.com:8000/live/workfine/skype/924.ts
+#EXTINF:-1,DE: RTL
+http://globiptv.com:8000/live/workfine/skype/2537.ts
+#EXTINF:-1,DE: Romance TV HD
+http://globiptv.com:8000/live/workfine/skype/2383.ts
+#EXTINF:-1,DE: ProSieben HD
+http://globiptv.com:8000/live/workfine/skype/922.ts
+#EXTINF:-1,DE: Pro7 Maxx HD
+http://globiptv.com:8000/live/workfine/skype/2577.ts
+#EXTINF:-1,DE: Pro7 Fun HD
+http://globiptv.com:8000/live/workfine/skype/2489.ts
+#EXTINF:-1,DE: Planet HD
+http://globiptv.com:8000/live/workfine/skype/2120.ts
+#EXTINF:-1,DE: Phoenix HD
+http://globiptv.com:8000/live/workfine/skype/1163.ts
+#EXTINF:-1,DE: ORF 2 HD
+http://globiptv.com:8000/live/workfine/skype/327.ts
+#EXTINF:-1,DE: ORF 1 HD
+http://globiptv.com:8000/live/workfine/skype/311.ts
+#EXTINF:-1,DE: Nickelodeon
+http://globiptv.com:8000/live/workfine/skype/2353.ts
+#EXTINF:-1,DE: Ndr HD
+http://globiptv.com:8000/live/workfine/skype/1425.ts
+#EXTINF:-1,DE: National Geo HD
+http://globiptv.com:8000/live/workfine/skype/304.ts
+#EXTINF:-1,DE: National Geo
+http://globiptv.com:8000/live/workfine/skype/2541.ts
+#EXTINF:-1,DE: NatGeo Wild HD
+http://globiptv.com:8000/live/workfine/skype/1160.ts
+#EXTINF:-1,DE: NatGeo Wild
+http://globiptv.com:8000/live/workfine/skype/2714.ts
+#EXTINF:-1,DE: N24 HD
+http://globiptv.com:8000/live/workfine/skype/1426.ts
+#EXTINF:-1,DE: Motorvision TV
+http://globiptv.com:8000/live/workfine/skype/1786.ts
+#EXTINF:-1,DE: MDR HD
+http://globiptv.com:8000/live/workfine/skype/1413.ts
+#EXTINF:-1,DE: KinoWelt
+http://globiptv.com:8000/live/workfine/skype/2203.ts
+#EXTINF:-1,DE: KIKA HD
+http://globiptv.com:8000/live/workfine/skype/2580.ts
+#EXTINF:-1,DE: KABEL 1 HD
+http://globiptv.com:8000/live/workfine/skype/312.ts
+#EXTINF:-1,DE: KABEL 1 Classics
+http://globiptv.com:8000/live/workfine/skype/2724.ts
+#EXTINF:-1,DE: Junior
+http://globiptv.com:8000/live/workfine/skype/2570.ts
+#EXTINF:-1,DE: Hr HD
+http://globiptv.com:8000/live/workfine/skype/2578.ts
+#EXTINF:-1,DE: History HD
+http://globiptv.com:8000/live/workfine/skype/1113.ts
+#EXTINF:-1,DE: Heimatkanal
+http://globiptv.com:8000/live/workfine/skype/2718.ts
+#EXTINF:-1,DE: Goldstar
+http://globiptv.com:8000/live/workfine/skype/2719.ts
+#EXTINF:-1,DE: Fox HD
+http://globiptv.com:8000/live/workfine/skype/1788.ts
+#EXTINF:-1,DE: Fox
+http://globiptv.com:8000/live/workfine/skype/2604.ts
+#EXTINF:-1,DE: EUROSPORT 1 HD
+http://globiptv.com:8000/live/workfine/skype/1409.ts
+#EXTINF:-1,DE: Euronews
+http://globiptv.com:8000/live/workfine/skype/1306.ts
+#EXTINF:-1,DE: Tele 5 HD
+http://globiptv.com:8000/live/workfine/skype/1407.ts
+#EXTINF:-1,DE: E!
+http://globiptv.com:8000/live/workfine/skype/2488.ts
+#EXTINF:-1,DE: DMAX HD
+http://globiptv.com:8000/live/workfine/skype/929.ts
+#EXTINF:-1,DE: Disney XD HD
+http://globiptv.com:8000/live/workfine/skype/2385.ts
+#EXTINF:-1,DE: Disney Junior HD
+http://globiptv.com:8000/live/workfine/skype/2355.ts
+#EXTINF:-1,DE: Disney Cinemagic HD
+http://globiptv.com:8000/live/workfine/skype/1616.ts
+#EXTINF:-1,DE: Disney Channel HD
+http://globiptv.com:8000/live/workfine/skype/920.ts
+#EXTINF:-1,DE: Discovery Channel HD
+http://globiptv.com:8000/live/workfine/skype/921.ts
+#EXTINF:-1,DE: Discovery Channel
+http://globiptv.com:8000/live/workfine/skype/2747.ts
+#EXTINF:-1,DE: Das Erste HD
+http://globiptv.com:8000/live/workfine/skype/2621.ts
+#EXTINF:-1,DE: Comedy VIVA
+http://globiptv.com:8000/live/workfine/skype/2579.ts
+#EXTINF:-1,DE: Classica
+http://globiptv.com:8000/live/workfine/skype/2725.ts
+#EXTINF:-1,DE: Cartoon Network
+http://globiptv.com:8000/live/workfine/skype/2569.ts
+#EXTINF:-1,DE: Boomerang
+http://globiptv.com:8000/live/workfine/skype/1794.ts
+#EXTINF:-1,DE: AXN HD
+http://globiptv.com:8000/live/workfine/skype/807.ts
+#EXTINF:-1,DE: Auto Motor Sport Channel HD
+http://globiptv.com:8000/live/workfine/skype/2720.ts
+#EXTINF:-1,DE: AUSTRIA 24
+http://globiptv.com:8000/live/workfine/skype/1795.ts
+#EXTINF:-1,DE: Arte HD
+http://globiptv.com:8000/live/workfine/skype/809.ts
+#EXTINF:-1,DE: ARD HD
+http://globiptv.com:8000/live/workfine/skype/1427.ts
+#EXTINF:-1,DE: ARD.
+http://globiptv.com:8000/live/workfine/skype/2357.ts
+#EXTINF:-1,DE: ANIXE
+http://globiptv.com:8000/live/workfine/skype/1601.ts
+#EXTINF:-1,DE: Animal Planet HD
+http://globiptv.com:8000/live/workfine/skype/2469.ts
+#EXTINF:-1,DE: A&E
+http://globiptv.com:8000/live/workfine/skype/2121.ts
+#EXTINF:-1,DE: 3SAT HD
+http://globiptv.com:8000/live/workfine/skype/1410.ts
+#EXTINF:-1,DE: 13th Street HD.
+http://globiptv.com:8000/live/workfine/skype/2605.ts
+#EXTINF:-1,DE: 13th Street HD
+http://globiptv.com:8000/live/workfine/skype/808.ts
