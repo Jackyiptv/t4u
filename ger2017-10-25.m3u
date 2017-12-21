@@ -420,48 +420,6 @@ http://130.185.144.63:8000/live/1234567891011/1234567891011/749.ts
 http://130.185.144.63:8000/live/1234567891011/1234567891011/728.ts
 #EXTINF:-1,DE:13th-Street
 http://130.185.144.63:8000/live/1234567891011/1234567891011/751.ts
-#EXTINF:-1,DE:Syfy_HD
-http://universeiptv.com:8000/live/alexaiptv/mjsdf95gyfu/832.ts
-#EXTINF:-1,DE:SUPER_RTL
-http://universeiptv.com:8000/live/alexaiptv/mjsdf95gyfu/83.ts
-#EXTINF:-1,DE:Sky_TNT_Serie
-http://universeiptv.com:8000/live/alexaiptv/mjsdf95gyfu/608.ts
-#EXTINF:-1,DE:Sky_Sports_HD_1
-http://universeiptv.com:8000/live/alexaiptv/mjsdf95gyfu/606.ts
-#EXTINF:-1,DE:SKY_SELECT_3_HD
-http://universeiptv.com:8000/live/alexaiptv/mjsdf95gyfu/872.ts
-#EXTINF:-1,DE:SKY_SELECT_1_HD
-http://universeiptv.com:8000/live/alexaiptv/mjsdf95gyfu/870.ts
-#EXTINF:-1,DE:Sky_Hits_HD
-http://universeiptv.com:8000/live/alexaiptv/mjsdf95gyfu/1371.ts
-#EXTINF:-1,DE:Sky_Krimi
-http://universeiptv.com:8000/live/alexaiptv/mjsdf95gyfu/597.ts
-#EXTINF:-1,DE:Sky_Comedy
-http://universeiptv.com:8000/live/alexaiptv/mjsdf95gyfu/598.ts
-#EXTINF:-1,DE:Sky_Cinema-24
-http://universeiptv.com:8000/live/alexaiptv/mjsdf95gyfu/599.ts
-#EXTINF:-1,DE:Sky_Atlantic_HD
-http://universeiptv.com:8000/live/alexaiptv/mjsdf95gyfu/816.ts
-#EXTINF:-1,DE:Sixx_HD
-http://universeiptv.com:8000/live/alexaiptv/mjsdf95gyfu/829.ts
-#EXTINF:-1,DE:RTL2
-http://universeiptv.com:8000/live/alexaiptv/mjsdf95gyfu/82.ts
-#EXTINF:-1,DE:National_Geo_HD
-http://universeiptv.com:8000/live/alexaiptv/mjsdf95gyfu/830.ts
-#EXTINF:-1,DE:MGM_HD
-http://universeiptv.com:8000/live/alexaiptv/mjsdf95gyfu/602.ts
-#EXTINF:-1,DE:History_HD
-http://universeiptv.com:8000/live/alexaiptv/mjsdf95gyfu/822.ts
-#EXTINF:-1,DE:Fox_HD
-http://universeiptv.com:8000/live/alexaiptv/mjsdf95gyfu/604.ts
-#EXTINF:-1,DE:Disney_Junior_HD
-http://universeiptv.com:8000/live/alexaiptv/mjsdf95gyfu/823.ts
-#EXTINF:-1,DE:AXN
-http://universeiptv.com:8000/live/alexaiptv/mjsdf95gyfu/833.ts
-#EXTINF:-1,DE:ARD_1
-http://universeiptv.com:8000/live/alexaiptv/mjsdf95gyfu/605.ts
-#EXTINF:-1,DE:13_Street_HD
-http://universeiptv.com:8000/live/alexaiptv/mjsdf95gyfu/603.ts
 #EXTINF:-1,DE:Select-HD-1
 http://ip.fannan.se:8000/live/514/514/8260.ts
 #EXTINF:-1,DE:Select-HD-2
@@ -596,104 +554,184 @@ http://ip.fannan.se:8000/live/514/514/8078.ts
 http://ip.fannan.se:8000/live/514/514/8079.ts
 #EXTINF:-1,DE:ZDF_info
 http://ip.fannan.se:8000/live/514/514/8080.ts
-#EXTINF:-1,DE_EUORO_SPORT_1HD
-http://iptv2017.ddns.net:8100/live/1234/1234/1751.ts
-#EXTINF:-1,DE_EUORO_SPORT_2_HD
-http://iptv2017.ddns.net:8100/live/1234/1234/1750.ts
-#EXTINF:-1,DE_Sport_1_HD
-http://iptv2017.ddns.net:8100/live/1234/1234/1898.ts
-#EXTINF:-1,DE_Sky_Sport_1_HD
-http://iptv2017.ddns.net:8100/live/1234/1234/1734.ts
-#EXTINF:-1,DE_Sky_Sport_2_HD
-http://iptv2017.ddns.net:8100/live/1234/1234/1731.ts
-#EXTINF:-1,DE_SKY- BUNDESLIGA1 _HD
-http://iptv2017.ddns.net:8100/live/1234/1234/2767.ts
-#EXTINF:-1,DE_SKY- BUNDESLIGA4 _HD
-http://iptv2017.ddns.net:8100/live/1234/1234/2770.ts
-#EXTINF:-1,DE_National-Geo-HD
-http://iptv2017.ddns.net:8100/live/1234/1234/1717.ts
-#EXTINF:-1,DE_NatGeoWild_HD
-http://iptv2017.ddns.net:8100/live/1234/1234/1718.ts
-#EXTINF:-1,DE_sky_Discovery_HD
-http://iptv2017.ddns.net:8100/live/1234/1234/1719.ts
-#EXTINF:-1,DE_Sky-Krimi_HD
-http://iptv2017.ddns.net:8100/live/1234/1234/1738.ts
-#EXTINF:-1,DE_Sky_Hits_HD
-http://iptv2017.ddns.net:8100/live/1234/1234/1739.ts
-#EXTINF:-1,DE_SKY_FOX_HD
-http://iptv2017.ddns.net:8100/live/1234/1234/1740.ts
-#EXTINF:-1,DE_Sky_Emotion_HD
-http://iptv2017.ddns.net:8100/live/1234/1234/1741.ts
-#EXTINF:-1,DE_Sky_Comedy_HD
-http://iptv2017.ddns.net:8100/live/1234/1234/1742.ts
-#EXTINF:-1,DE_SKY_AXN_ACTION_HD
-http://iptv2017.ddns.net:8100/live/1234/1234/1743.ts
-#EXTINF:-1,DE_SKY_CINEMA_24_HD
-http://iptv2017.ddns.net:8100/live/1234/1234/1744.ts
-#EXTINF:-1,DE_SKY-Cinema_HD
-http://iptv2017.ddns.net:8100/live/1234/1234/1745.ts
-#EXTINF:-1,DE_Sky_Atlantic_HD
-http://iptv2017.ddns.net:8100/live/1234/1234/1748.ts
-#EXTINF:-1,DE_Sky_Action_HD
-http://iptv2017.ddns.net:8100/live/1234/1234/1749.ts
-#EXTINF:-1,DE_SKY_TNT_SERIES_HD
-http://iptv2017.ddns.net:8100/live/1234/1234/1737.ts
-#EXTINF:-1,DE_13TH_STREET_HD
-http://iptv2017.ddns.net:8100/live/1234/1234/1747.ts
-#EXTINF:-1,DE_SKY- SYFY_ HD
-http://iptv2017.ddns.net:8100/live/1234/1234/2772.ts
-#EXTINF:-1,DE_Sky_select_HD1
-http://iptv2017.ddns.net:8100/live/1234/1234/1892.ts
-#EXTINF:-1,DE_Sky_select_HD2
-http://iptv2017.ddns.net:8100/live/1234/1234/1893.ts
-#EXTINF:-1,DE_Sky_select_HD3
-http://iptv2017.ddns.net:8100/live/1234/1234/1894.ts
-#EXTINF:-1,DE_Sky_select_HD4
-http://iptv2017.ddns.net:8100/live/1234/1234/1895.ts
-#EXTINF:-1,DE_Sky_select_HD5
-http://iptv2017.ddns.net:8100/live/1234/1234/1896.ts
-#EXTINF:-1,DE_VOX_HD
-http://iptv2017.ddns.net:8100/live/1234/1234/1900.ts
-#EXTINF:-1,DE_ZDF_HD
-http://iptv2017.ddns.net:8100/live/1234/1234/2038.ts
-#EXTINF:-1,DE_Super_ RTL_ HD
-http://iptv2017.ddns.net:8100/live/1234/1234/2764.ts
-#EXTINF:-1,DE_RTL_HD
-http://iptv2017.ddns.net:8100/live/1234/1234/2039.ts
-#EXTINF:-1,DE_RTL_2_HD
-http://iptv2017.ddns.net:8100/live/1234/1234/2040.ts
-#EXTINF:-1,DE_Sat_1_HD
-http://iptv2017.ddns.net:8100/live/1234/1234/2382.ts
-#EXTINF:-1,DE_KIKA_HD
-http://iptv2017.ddns.net:8100/live/1234/1234/2388.ts
-#EXTINF:-1,DE_Kabel_1_HD
-http://iptv2017.ddns.net:8100/live/1234/1234/2387.ts
-#EXTINF:-1,DE_history_HD
-http://iptv2017.ddns.net:8100/live/1234/1234/2379.ts
-#EXTINF:-1,DE_ARTE_HD
-http://iptv2017.ddns.net:8100/live/1234/1234/2384.ts
-#EXTINF:-1,DE_ARD_HD
-http://iptv2017.ddns.net:8100/live/1234/1234/2381.ts
-#EXTINF:-1,DE_Zee-One_HD
-http://iptv2017.ddns.net:8100/live/1234/1234/2408.ts
-#EXTINF:-1,DE_3sat_HD
-http://iptv2017.ddns.net:8100/live/1234/1234/2383.ts
-#EXTINF:-1,DE_TLC_HD
-http://iptv2017.ddns.net:8100/live/1234/1234/2773.ts
-#EXTINF:-1,DE_ORF_ 1_HD
-http://iptv2017.ddns.net:8100/live/1234/1234/2762.ts
-#EXTINF:-1,DE_ORF_2_HD
-http://iptv2017.ddns.net:8100/live/1234/1234/2763.ts
-#EXTINF:-1,DE_Disney-Junior_HD
-http://iptv2017.ddns.net:8100/live/1234/1234/2407.ts
-#EXTINF:-1,DE_Disney-XD_HD
-http://iptv2017.ddns.net:8100/live/1234/1234/2028.ts
-#EXTINF:-1,DE_DISNEY- CHANNEL_ HD
-http://iptv2017.ddns.net:8100/live/1234/1234/2766.ts
-#EXTINF:-1,DE_Nickelodeon_HD
-http://iptv2017.ddns.net:8100/live/1234/1234/2386.ts
-#EXTINF:-1,DE_Boomerang_HD
-http://iptv2017.ddns.net:8100/live/1234/1234/2406.ts
+#EXTINF:-1 tvg-name="ZDF" tvg-logo="http://logo.ndasat.com/iptv/images/61931_zdf.png" group-title="{BOUQUET_NAME}",ZDF
+http://iptv.atlasiptv.net:88/live/326831054858617/326831054858617/261.ts
+#EXTINF:-1 tvg-name="ARD" tvg-logo="http://logo.ndasat.com/iptv/images/22065_ard.png" group-title="{BOUQUET_NAME}",ARD
+http://iptv.atlasiptv.net:88/live/326831054858617/326831054858617/262.ts
+#EXTINF:-1 tvg-name="HR DE" tvg-logo="" group-title="{BOUQUET_NAME}",HR DE
+http://iptv.atlasiptv.net:88/live/326831054858617/326831054858617/3604.ts
+#EXTINF:-1 tvg-name="NDR" tvg-logo="http://logo.ndasat.com/iptv/images/73491_ndr.png" group-title="{BOUQUET_NAME}",NDR
+http://iptv.atlasiptv.net:88/live/326831054858617/326831054858617/243.ts
+#EXTINF:-1 tvg-name="WDR" tvg-logo="http://logo.ndasat.com/iptv/images/38274_wdr.png" group-title="{BOUQUET_NAME}",WDR
+http://iptv.atlasiptv.net:88/live/326831054858617/326831054858617/247.ts
+#EXTINF:-1 tvg-name="ARTE DE" tvg-logo="http://logo.ndasat.com/iptv/images/12891_arte.jpg" group-title="{BOUQUET_NAME}",ARTE DE
+http://iptv.atlasiptv.net:88/live/326831054858617/326831054858617/245.ts
+#EXTINF:-1 tvg-name="SWR" tvg-logo="http://logo.ndasat.com/iptv/images/13482_swr.png" group-title="{BOUQUET_NAME}",SWR
+http://iptv.atlasiptv.net:88/live/326831054858617/326831054858617/270.ts
+#EXTINF:-1 tvg-name="Sat1" tvg-logo="http://logo.ndasat.com/iptv/images/14447_sat1.png" group-title="{BOUQUET_NAME}",Sat1
+http://iptv.atlasiptv.net:88/live/326831054858617/326831054858617/260.ts
+#EXTINF:-1 tvg-name="Sat1 Gold" tvg-logo="http://logo.ndasat.com/iptv/images/55122_sat1gold.jpg" group-title="{BOUQUET_NAME}",Sat1 Gold
+http://iptv.atlasiptv.net:88/live/326831054858617/326831054858617/3418.ts
+#EXTINF:-1 tvg-name="RTL" tvg-logo="http://logo.ndasat.com/iptv/images/21533_rtl.jpg" group-title="{BOUQUET_NAME}",RTL
+http://iptv.atlasiptv.net:88/live/326831054858617/326831054858617/252.ts
+#EXTINF:-1 tvg-name="RTL 2" tvg-logo="http://logo.ndasat.com/iptv/images/779_rtl2.png" group-title="{BOUQUET_NAME}",RTL 2
+http://iptv.atlasiptv.net:88/live/326831054858617/326831054858617/250.ts
+#EXTINF:-1 tvg-name="RTL Nitro" tvg-logo="http://logo.ndasat.com/iptv/images/9419_rtlnitro.png" group-title="{BOUQUET_NAME}",RTL Nitro
+http://iptv.atlasiptv.net:88/live/326831054858617/326831054858617/269.ts
+#EXTINF:-1 tvg-name="RTL Crime" tvg-logo="http://logo.ndasat.com/iptv/images/68067_rtlcrime.jpg" group-title="{BOUQUET_NAME}",RTL Crime
+http://iptv.atlasiptv.net:88/live/326831054858617/326831054858617/3417.ts
+#EXTINF:-1 tvg-name="Super RTL" tvg-logo="http://logo.ndasat.com/iptv/images/91051_superrtl.png" group-title="{BOUQUET_NAME}",Super RTL
+http://iptv.atlasiptv.net:88/live/326831054858617/326831054858617/251.ts
+#EXTINF:-1 tvg-name="RTL Living" tvg-logo="" group-title="{BOUQUET_NAME}",RTL Living
+http://iptv.atlasiptv.net:88/live/326831054858617/326831054858617/3606.ts
+#EXTINF:-1 tvg-name="RTL Passion" tvg-logo="http://logo.ndasat.com/iptv/images/5022_rtlpassion.jpg" group-title="{BOUQUET_NAME}",RTL Passion
+http://iptv.atlasiptv.net:88/live/326831054858617/326831054858617/3416.ts
+#EXTINF:-1 tvg-name="PRO 7" tvg-logo="http://logo.ndasat.com/iptv/images/59549_pro7.png" group-title="{BOUQUET_NAME}",PRO 7
+http://iptv.atlasiptv.net:88/live/326831054858617/326831054858617/259.ts
+#EXTINF:-1 tvg-name="Kinowelt" tvg-logo="http://logo.ndasat.com/iptv/images/50985_kinowelt.png" group-title="{BOUQUET_NAME}",Kinowelt
+http://iptv.atlasiptv.net:88/live/326831054858617/326831054858617/3433.ts
+#EXTINF:-1 tvg-name="Sixx" tvg-logo="http://logo.ndasat.com/iptv/images/5732_sixx.png" group-title="{BOUQUET_NAME}",Sixx
+http://iptv.atlasiptv.net:88/live/326831054858617/326831054858617/276.ts
+#EXTINF:-1 tvg-name="3Sat" tvg-logo="http://logo.ndasat.com/iptv/images/28469_3sat.jpg" group-title="{BOUQUET_NAME}",3Sat
+http://iptv.atlasiptv.net:88/live/326831054858617/326831054858617/3419.ts
+#EXTINF:-1 tvg-name="KIKA" tvg-logo="http://logo.ndasat.com/iptv/images/65335_kika.jpg" group-title="{BOUQUET_NAME}",KIKA
+http://iptv.atlasiptv.net:88/live/326831054858617/326831054858617/258.ts
+#EXTINF:-1 tvg-name="PRO 7 Maxx" tvg-logo="http://logo.ndasat.com/iptv/images/66460_pro7maxx.jpg" group-title="{BOUQUET_NAME}",PRO 7 Maxx
+http://iptv.atlasiptv.net:88/live/326831054858617/326831054858617/257.ts
+#EXTINF:-1 tvg-name="NTV DE" tvg-logo="http://logo.ndasat.com/iptv/images/96224_ntv.jpg" group-title="{BOUQUET_NAME}",NTV DE
+http://iptv.atlasiptv.net:88/live/326831054858617/326831054858617/254.ts
+#EXTINF:-1 tvg-name="Kabel1" tvg-logo="http://logo.ndasat.com/iptv/images/99611_kabel1.png" group-title="{BOUQUET_NAME}",Kabel1
+http://iptv.atlasiptv.net:88/live/326831054858617/326831054858617/274.ts
+#EXTINF:-1 tvg-name="VOX" tvg-logo="http://logo.ndasat.com/iptv/images/73023_vox.jpg" group-title="{BOUQUET_NAME}",VOX
+http://iptv.atlasiptv.net:88/live/326831054858617/326831054858617/253.ts
+#EXTINF:-1 tvg-name="N24" tvg-logo="http://logo.ndasat.com/iptv/images/88138_n24.png" group-title="{BOUQUET_NAME}",N24
+http://iptv.atlasiptv.net:88/live/326831054858617/326831054858617/273.ts
+#EXTINF:-1 tvg-name="Junior DE" tvg-logo="http://logo.ndasat.com/iptv/images/65128_junior.jpg" group-title="{BOUQUET_NAME}",Junior DE
+http://iptv.atlasiptv.net:88/live/326831054858617/326831054858617/3444.ts
+#EXTINF:-1 tvg-name="Disney Junior DE" tvg-logo="http://logo.ndasat.com/iptv/images/9391_disneyjunior.jpg" group-title="{BOUQUET_NAME}",Disney Junior DE
+http://iptv.atlasiptv.net:88/live/326831054858617/326831054858617/933.ts
+#EXTINF:-1 tvg-name="Disney XD DE" tvg-logo="http://logo.ndasat.com/iptv/images/80923_disneyxd.jpg" group-title="{BOUQUET_NAME}",Disney XD DE
+http://iptv.atlasiptv.net:88/live/326831054858617/326831054858617/244.ts
+#EXTINF:-1 tvg-name="Disney DE" tvg-logo="http://logo.ndasat.com/iptv/images/63085_disney.jpg" group-title="{BOUQUET_NAME}",Disney DE
+http://iptv.atlasiptv.net:88/live/326831054858617/326831054858617/3441.ts
+#EXTINF:-1 tvg-name="Disney Cine DE" tvg-logo="http://logo.ndasat.com/iptv/images/38619_disney_cinema_fr.png" group-title="{BOUQUET_NAME}",Disney Cine DE
+http://iptv.atlasiptv.net:88/live/326831054858617/326831054858617/3442.ts
+#EXTINF:-1 tvg-name="Boomerang DE" tvg-logo="http://logo.ndasat.com/iptv/images/89928_boomerang.png" group-title="{BOUQUET_NAME}",Boomerang DE
+http://iptv.atlasiptv.net:88/live/326831054858617/326831054858617/3440.ts
+#EXTINF:-1 tvg-name="Toggo Plus" tvg-logo="http://logo.ndasat.com/iptv/images/36778_toggoplus.png" group-title="{BOUQUET_NAME}",Toggo Plus
+http://iptv.atlasiptv.net:88/live/326831054858617/326831054858617/3443.ts
+#EXTINF:-1 tvg-name="Nickelodeon DE" tvg-logo="" group-title="{BOUQUET_NAME}",Nickelodeon DE
+http://iptv.atlasiptv.net:88/live/326831054858617/326831054858617/3607.ts
+#EXTINF:-1 tvg-name="ORF1" tvg-logo="http://logo.ndasat.com/iptv/images/78029_orf1.jpg" group-title="{BOUQUET_NAME}",ORF1
+http://iptv.atlasiptv.net:88/live/326831054858617/326831054858617/248.ts
+#EXTINF:-1 tvg-name="ORF2" tvg-logo="http://logo.ndasat.com/iptv/images/1547_orf2.jpg" group-title="{BOUQUET_NAME}",ORF2
+http://iptv.atlasiptv.net:88/live/326831054858617/326831054858617/249.ts
+#EXTINF:-1 tvg-name="SRF1" tvg-logo="http://logo.ndasat.com/iptv/images/51997_srf1.png" group-title="{BOUQUET_NAME}",SRF1
+http://iptv.atlasiptv.net:88/live/326831054858617/326831054858617/778.ts
+#EXTINF:-1 tvg-name="SRF2" tvg-logo="http://logo.ndasat.com/iptv/images/98389_srf2.jpg" group-title="{BOUQUET_NAME}",SRF2
+http://iptv.atlasiptv.net:88/live/326831054858617/326831054858617/779.ts
+#EXTINF:-1 tvg-name="Sky Cinema DE" tvg-logo="http://logo.ndasat.com/iptv/images/31343_skycinema.jpg" group-title="{BOUQUET_NAME}",Sky Cinema DE
+http://iptv.atlasiptv.net:88/live/326831054858617/326831054858617/161.ts
+#EXTINF:-1 tvg-name="Sky Cinema +1" tvg-logo="http://logo.ndasat.com/iptv/images/24384_skyarts.jpg" group-title="{BOUQUET_NAME}",Sky Cinema +1
+http://iptv.atlasiptv.net:88/live/326831054858617/326831054858617/3435.ts
+#EXTINF:-1 tvg-name="Sky Cinema 24 DE" tvg-logo="http://logo.ndasat.com/iptv/images/21553_skycinema24.png" group-title="{BOUQUET_NAME}",Sky Cinema 24 DE
+http://iptv.atlasiptv.net:88/live/326831054858617/326831054858617/162.ts
+#EXTINF:-1 tvg-name="Sky Action DE" tvg-logo="http://logo.ndasat.com/iptv/images/17439_skyaction.jpg" group-title="{BOUQUET_NAME}",Sky Action DE
+http://iptv.atlasiptv.net:88/live/326831054858617/326831054858617/163.ts
+#EXTINF:-1 tvg-name="Sky Atlantic DE" tvg-logo="http://logo.ndasat.com/iptv/images/18026_skyatlantic.png" group-title="{BOUQUET_NAME}",Sky Atlantic DE
+http://iptv.atlasiptv.net:88/live/326831054858617/326831054858617/168.ts
+#EXTINF:-1 tvg-name="Sky Comedy DE" tvg-logo="http://logo.ndasat.com/iptv/images/49850_skycomedy.png" group-title="{BOUQUET_NAME}",Sky Comedy DE
+http://iptv.atlasiptv.net:88/live/326831054858617/326831054858617/164.ts
+#EXTINF:-1 tvg-name="Sky Emotion DE" tvg-logo="http://logo.ndasat.com/iptv/images/6724_skyemotion.png" group-title="{BOUQUET_NAME}",Sky Emotion DE
+http://iptv.atlasiptv.net:88/live/326831054858617/326831054858617/165.ts
+#EXTINF:-1 tvg-name="Sky Hits DE" tvg-logo="http://logo.ndasat.com/iptv/images/4686_skyhits.jpg" group-title="{BOUQUET_NAME}",Sky Hits DE
+http://iptv.atlasiptv.net:88/live/326831054858617/326831054858617/166.ts
+#EXTINF:-1 tvg-name="Sky Krimi" tvg-logo="http://logo.ndasat.com/iptv/images/42861_skykrimi.jpg" group-title="{BOUQUET_NAME}",Sky Krimi
+http://iptv.atlasiptv.net:88/live/326831054858617/326831054858617/3423.ts
+#EXTINF:-1 tvg-name="Sky Nostalgie" tvg-logo="http://logo.ndasat.com/iptv/images/10043_skynostalgie.jpg" group-title="{BOUQUET_NAME}",Sky Nostalgie
+http://iptv.atlasiptv.net:88/live/326831054858617/326831054858617/3422.ts
+#EXTINF:-1 tvg-name="AXN DE" tvg-logo="http://logo.ndasat.com/iptv/images/64233_AXN.png" group-title="{BOUQUET_NAME}",AXN DE
+http://iptv.atlasiptv.net:88/live/326831054858617/326831054858617/3426.ts
+#EXTINF:-1 tvg-name="Universal DE" tvg-logo="http://logo.ndasat.com/iptv/images/56892_universal.png" group-title="{BOUQUET_NAME}",Universal DE
+http://iptv.atlasiptv.net:88/live/326831054858617/326831054858617/3424.ts
+#EXTINF:-1 tvg-name="TNT Comedy" tvg-logo="http://logo.ndasat.com/iptv/images/88165_tntcomedy.png" group-title="{BOUQUET_NAME}",TNT Comedy
+http://iptv.atlasiptv.net:88/live/326831054858617/326831054858617/3431.ts
+#EXTINF:-1 tvg-name="TNT Film" tvg-logo="http://logo.ndasat.com/iptv/images/98973_tntfilm.jpg" group-title="{BOUQUET_NAME}",TNT Film
+http://iptv.atlasiptv.net:88/live/326831054858617/326831054858617/3430.ts
+#EXTINF:-1 tvg-name="TNT Serie" tvg-logo="http://logo.ndasat.com/iptv/images/31319_tntserie.png" group-title="{BOUQUET_NAME}",TNT Serie
+http://iptv.atlasiptv.net:88/live/326831054858617/326831054858617/3432.ts
+#EXTINF:-1 tvg-name="Syfy DE" tvg-logo="http://logo.ndasat.com/iptv/images/80054_syfy.png" group-title="{BOUQUET_NAME}",Syfy DE
+http://iptv.atlasiptv.net:88/live/326831054858617/326831054858617/3429.ts
+#EXTINF:-1 tvg-name="Fox DE" tvg-logo="http://logo.ndasat.com/iptv/images/5060_foxtv.jpg" group-title="{BOUQUET_NAME}",Fox DE
+http://iptv.atlasiptv.net:88/live/326831054858617/326831054858617/3425.ts
+#EXTINF:-1 tvg-name="Romance TV" tvg-logo="http://logo.ndasat.com/iptv/images/17509_romancetv.jpg" group-title="{BOUQUET_NAME}",Romance TV
+http://iptv.atlasiptv.net:88/live/326831054858617/326831054858617/3434.ts
+#EXTINF:-1 tvg-name="13th Street DE" tvg-logo="http://logo.ndasat.com/iptv/images/55404_13thstreet.jpg" group-title="{BOUQUET_NAME}",13th Street DE
+http://iptv.atlasiptv.net:88/live/326831054858617/326831054858617/3427.ts
+#EXTINF:-1 tvg-name="Classica DE" tvg-logo="" group-title="{BOUQUET_NAME}",Classica DE
+http://iptv.atlasiptv.net:88/live/326831054858617/326831054858617/3608.ts
+#EXTINF:-1 tvg-name="Discovery DE" tvg-logo="http://logo.ndasat.com/iptv/images/57158_discovery.jpg" group-title="{BOUQUET_NAME}",Discovery DE
+http://iptv.atlasiptv.net:88/live/326831054858617/326831054858617/268.ts
+#EXTINF:-1 tvg-name="DMAX DE" tvg-logo="http://logo.ndasat.com/iptv/images/55622_dmax.png" group-title="{BOUQUET_NAME}",DMAX DE
+http://iptv.atlasiptv.net:88/live/326831054858617/326831054858617/241.ts
+#EXTINF:-1 tvg-name="Nat Geo DE" tvg-logo="http://logo.ndasat.com/iptv/images/98491_natgeo.jpg" group-title="{BOUQUET_NAME}",Nat Geo DE
+http://iptv.atlasiptv.net:88/live/326831054858617/326831054858617/1027.ts
+#EXTINF:-1 tvg-name="Nat Geo Wild DE" tvg-logo="http://logo.ndasat.com/iptv/images/25070_natgeowild.png" group-title="{BOUQUET_NAME}",Nat Geo Wild DE
+http://iptv.atlasiptv.net:88/live/326831054858617/326831054858617/1028.ts
+#EXTINF:-1 tvg-name="History DE" tvg-logo="http://logo.ndasat.com/iptv/images/51679_history.png" group-title="{BOUQUET_NAME}",History DE
+http://iptv.atlasiptv.net:88/live/326831054858617/326831054858617/3439.ts
+#EXTINF:-1 tvg-name="Motorvision DE" tvg-logo="http://logo.ndasat.com/iptv/images/85813_motorvision.jpg" group-title="{BOUQUET_NAME}",Motorvision DE
+http://iptv.atlasiptv.net:88/live/326831054858617/326831054858617/3438.ts
+#EXTINF:-1 tvg-name="Animal planet DE" tvg-logo="" group-title="{BOUQUET_NAME}",Animal planet DE
+http://iptv.atlasiptv.net:88/live/326831054858617/326831054858617/3609.ts
+#EXTINF:-1 tvg-name="Family TV DE" tvg-logo="http://logo.ndasat.com/iptv/images/21013_familytv.jpg" group-title="{BOUQUET_NAME}",Family TV DE
+http://iptv.atlasiptv.net:88/live/326831054858617/326831054858617/3428.ts
+#EXTINF:-1 tvg-name="Phoenix" tvg-logo="http://logo.ndasat.com/iptv/images/99030_phoenix.png" group-title="{BOUQUET_NAME}",Phoenix
+http://iptv.atlasiptv.net:88/live/326831054858617/326831054858617/3421.ts
+#EXTINF:-1 tvg-name="Welt Der Wunder" tvg-logo="" group-title="{BOUQUET_NAME}",Welt Der Wunder
+http://iptv.atlasiptv.net:88/live/326831054858617/326831054858617/3610.ts
+#EXTINF:-1 tvg-name="ZDF Neo" tvg-logo="http://logo.ndasat.com/iptv/images/10868_zdfneo.png" group-title="{BOUQUET_NAME}",ZDF Neo
+http://iptv.atlasiptv.net:88/live/326831054858617/326831054858617/3420.ts
+#EXTINF:-1 tvg-name="Sky Sports News De" tvg-logo="http://logo.ndasat.com/iptv/images/57974_skysportnews.jpg" group-title="{BOUQUET_NAME}",Sky Sports News De
+http://iptv.atlasiptv.net:88/live/326831054858617/326831054858617/255.ts
+#EXTINF:-1 tvg-name="Sky Sport 1 DE" tvg-logo="http://logo.ndasat.com/iptv/images/69607_skysport.png" group-title="{BOUQUET_NAME}",Sky Sport 1 DE
+http://iptv.atlasiptv.net:88/live/326831054858617/326831054858617/52.ts
+#EXTINF:-1 tvg-name="Sky Sport 2 DE" tvg-logo="http://logo.ndasat.com/iptv/images/93351_skysport.png" group-title="{BOUQUET_NAME}",Sky Sport 2 DE
+http://iptv.atlasiptv.net:88/live/326831054858617/326831054858617/53.ts
+#EXTINF:-1 tvg-name="Eurosport DE" tvg-logo="http://logo.ndasat.com/iptv/images/69476_eurosport1.png" group-title="{BOUQUET_NAME}",Eurosport DE
+http://iptv.atlasiptv.net:88/live/326831054858617/326831054858617/266.ts
+#EXTINF:-1 tvg-name="Sport1 DE" tvg-logo="http://logo.ndasat.com/iptv/images/32182_sport1.png" group-title="{BOUQUET_NAME}",Sport1 DE
+http://iptv.atlasiptv.net:88/live/326831054858617/326831054858617/275.ts
+#EXTINF:-1 tvg-name="Sport1 USA DE" tvg-logo="http://logo.ndasat.com/iptv/images/51321_sport1usa.png" group-title="{BOUQUET_NAME}",Sport1 USA DE
+http://iptv.atlasiptv.net:88/live/326831054858617/326831054858617/3436.ts
+#EXTINF:-1 tvg-name="Sport Digital" tvg-logo="http://logo.ndasat.com/iptv/images/83240_sportdigital.png" group-title="{BOUQUET_NAME}",Sport Digital
+http://iptv.atlasiptv.net:88/live/326831054858617/326831054858617/3437.ts
+#EXTINF:-1 tvg-name="Sky Bundesliga1 de" tvg-logo="http://logo.ndasat.com/iptv/images/70870_skybunde.jpg" group-title="{BOUQUET_NAME}",Sky Bundesliga1 de
+http://iptv.atlasiptv.net:88/live/326831054858617/326831054858617/51.ts
+#EXTINF:-1 tvg-name="Sky Bundesliga2 (MT)" tvg-logo="http://logo.ndasat.com/iptv/images/50624_bundesliga2.jpg" group-title="{BOUQUET_NAME}",Sky Bundesliga2 (MT)
+http://iptv.atlasiptv.net:88/live/326831054858617/326831054858617/2291.ts
+#EXTINF:-1 tvg-name="Sky Bundesliga3 (MT)" tvg-logo="http://logo.ndasat.com/iptv/images/73825_bundesliga3.jpg" group-title="{BOUQUET_NAME}",Sky Bundesliga3 (MT)
+http://iptv.atlasiptv.net:88/live/326831054858617/326831054858617/2292.ts
+#EXTINF:-1 tvg-name="Sky Bundesliga4 (MT)" tvg-logo="http://logo.ndasat.com/iptv/images/29696_bunesliga4.jpg" group-title="{BOUQUET_NAME}",Sky Bundesliga4 (MT)
+http://iptv.atlasiptv.net:88/live/326831054858617/326831054858617/2293.ts
+#EXTINF:-1 tvg-name="Sky Bundesliga5 (MT)" tvg-logo="http://logo.ndasat.com/iptv/images/24854_bundesliga5.jpg" group-title="{BOUQUET_NAME}",Sky Bundesliga5 (MT)
+http://iptv.atlasiptv.net:88/live/326831054858617/326831054858617/2294.ts
+#EXTINF:-1 tvg-name="Sky Bundesliga6 (MT)" tvg-logo="http://logo.ndasat.com/iptv/images/91455_bundesliga6.jpg" group-title="{BOUQUET_NAME}",Sky Bundesliga6 (MT)
+http://iptv.atlasiptv.net:88/live/326831054858617/326831054858617/2295.ts
+#EXTINF:-1 tvg-name="VOD-Select1" tvg-logo="http://logo.ndasat.com/iptv/images/87066_germany.jpg" group-title="{BOUQUET_NAME}",VOD-Select1
+http://iptv.atlasiptv.net:88/live/326831054858617/326831054858617/557.ts
+#EXTINF:-1 tvg-name="VOD-Select2" tvg-logo="http://logo.ndasat.com/iptv/images/33521_germany.jpg" group-title="{BOUQUET_NAME}",VOD-Select2
+http://iptv.atlasiptv.net:88/live/326831054858617/326831054858617/556.ts
+#EXTINF:-1 tvg-name="VOD-Select3" tvg-logo="http://logo.ndasat.com/iptv/images/63848_germany.jpg" group-title="{BOUQUET_NAME}",VOD-Select3
+http://iptv.atlasiptv.net:88/live/326831054858617/326831054858617/555.ts
+#EXTINF:-1 tvg-name="VOD-select4" tvg-logo="http://logo.ndasat.com/iptv/images/39148_germany.jpg" group-title="{BOUQUET_NAME}",VOD-select4
+http://iptv.atlasiptv.net:88/live/326831054858617/326831054858617/554.ts
+#EXTINF:-1 tvg-name="VOD-Select5" tvg-logo="http://logo.ndasat.com/iptv/images/84948_germany.jpg" group-title="{BOUQUET_NAME}",VOD-Select5
+http://iptv.atlasiptv.net:88/live/326831054858617/326831054858617/553.ts
+#EXTINF:-1 tvg-name="VOD-Select6" tvg-logo="http://logo.ndasat.com/iptv/images/44453_germany.jpg" group-title="{BOUQUET_NAME}",VOD-Select6
+http://iptv.atlasiptv.net:88/live/326831054858617/326831054858617/552.ts
+#EXTINF:-1 tvg-name="Bein Series" tvg-logo="" group-title="{BOUQUET_NAME}",Bein Series
+http://iptv.atlasiptv.net:88/live/326831054858617/326831054858617/2590.ts
 #EXTINF:-1,DE_CARTOON-NETWORK_ HD
 http://iptv2017.ddns.net:8100/live/1234/1234/2765.ts
 #EXTINF:-1,DE: ZDF HD
