@@ -4,41 +4,6 @@ http://www.lengua.com/anthems/Indonesia.mp3
 #EXTINF:-1 tvg-name="Ger1" tvg-logo="" group-title="{BOUQUET_NAME}",Channel Kick Out in 15-20Sec Visit http://bit.ly/fixkick
 http://www.lengua.com/anthems/Indonesia.mp3
 
-
-#EXTINF:-1,IT: Premium Eurosport 1
-http://super1.ideaiptv.com:8000/live/Bhakjd/515533/2801.ts
-#EXTINF:-1,IT: Premium Eurosport 2
-http://super1.ideaiptv.com:8000/live/Bhakjd/515533/2800.ts
-#EXTINF:-1,IT: Rai 1 HD
-http://super1.ideaiptv.com:8000/live/Bhakjd/515533/2768.ts
-#EXTINF:-1,IT: Rai 2 HD
-http://super1.ideaiptv.com:8000/live/Bhakjd/515533/2769.ts
-#EXTINF:-1,IT: Rai 3 HD
-http://super1.ideaiptv.com:8000/live/Bhakjd/515533/2770.ts
-#EXTINF:-1,IT: Rai 4 HD
-http://super1.ideaiptv.com:8000/live/Bhakjd/515533/1506.ts
-#EXTINF:-1,IT: Rai 5 HD
-http://super1.ideaiptv.com:8000/live/Bhakjd/515533/2772.ts
-#EXTINF:-1,IT: Rai Storia
-http://super1.ideaiptv.com:8000/live/Bhakjd/515533/2777.ts
-#EXTINF:-1,IT: Rai Senato
-http://super1.ideaiptv.com:8000/live/Bhakjd/515533/2779.ts
-#EXTINF:-1,IT: Rai Scuola
-http://super1.ideaiptv.com:8000/live/Bhakjd/515533/2778.ts
-#EXTINF:-1,IT: Rai News 24
-http://super1.ideaiptv.com:8000/live/Bhakjd/515533/2774.ts
-#EXTINF:-1,IT: Rai Movie
-http://super1.ideaiptv.com:8000/live/Bhakjd/515533/2775.ts
-#EXTINF:-1,IT: Rai Gulp
-http://super1.ideaiptv.com:8000/live/Bhakjd/515533/2776.ts
-#EXTINF:-1,IT: Rai Yoyo
-http://super1.ideaiptv.com:8000/live/Bhakjd/515533/1606.ts
-#EXTINF:-1,IT: Rai sport 2
-http://super1.ideaiptv.com:8000/live/Bhakjd/515533/1552.ts
-#EXTINF:-1,IT: Rai Sport 1 HD
-http://super1.ideaiptv.com:8000/live/Bhakjd/515533/1551.ts
-#EXTINF:-1,IT: Rai premium
-http://super1.ideaiptv.com:8000/live/Bhakjd/515533/1508.ts
 #EXTINF:-1,IT: Rsi La 2 HD
 http://super1.ideaiptv.com:8000/live/Bhakjd/515533/2786.ts
 #EXTINF:-1,IT: Rsi La 1 HD
@@ -115,6 +80,40 @@ http://super1.ideaiptv.com:8000/live/Bhakjd/515533/2802.ts
 http://super1.ideaiptv.com:8000/live/Bhakjd/515533/2787.ts
 #EXTINF:-1,IT: Mediasat Extra
 http://super1.ideaiptv.com:8000/live/Bhakjd/515533/2788.ts
+#EXTINF:-1,IT: Premium Eurosport 1
+http://super1.ideaiptv.com:8000/live/Bhakjd/515533/2801.ts
+#EXTINF:-1,IT: Premium Eurosport 2
+http://super1.ideaiptv.com:8000/live/Bhakjd/515533/2800.ts
+#EXTINF:-1,IT: Rai 1 HD
+http://super1.ideaiptv.com:8000/live/Bhakjd/515533/2768.ts
+#EXTINF:-1,IT: Rai 2 HD
+http://super1.ideaiptv.com:8000/live/Bhakjd/515533/2769.ts
+#EXTINF:-1,IT: Rai 3 HD
+http://super1.ideaiptv.com:8000/live/Bhakjd/515533/2770.ts
+#EXTINF:-1,IT: Rai 4 HD
+http://super1.ideaiptv.com:8000/live/Bhakjd/515533/1506.ts
+#EXTINF:-1,IT: Rai 5 HD
+http://super1.ideaiptv.com:8000/live/Bhakjd/515533/2772.ts
+#EXTINF:-1,IT: Rai Storia
+http://super1.ideaiptv.com:8000/live/Bhakjd/515533/2777.ts
+#EXTINF:-1,IT: Rai Senato
+http://super1.ideaiptv.com:8000/live/Bhakjd/515533/2779.ts
+#EXTINF:-1,IT: Rai Scuola
+http://super1.ideaiptv.com:8000/live/Bhakjd/515533/2778.ts
+#EXTINF:-1,IT: Rai News 24
+http://super1.ideaiptv.com:8000/live/Bhakjd/515533/2774.ts
+#EXTINF:-1,IT: Rai Movie
+http://super1.ideaiptv.com:8000/live/Bhakjd/515533/2775.ts
+#EXTINF:-1,IT: Rai Gulp
+http://super1.ideaiptv.com:8000/live/Bhakjd/515533/2776.ts
+#EXTINF:-1,IT: Rai Yoyo
+http://super1.ideaiptv.com:8000/live/Bhakjd/515533/1606.ts
+#EXTINF:-1,IT: Rai sport 2
+http://super1.ideaiptv.com:8000/live/Bhakjd/515533/1552.ts
+#EXTINF:-1,IT: Rai Sport 1 HD
+http://super1.ideaiptv.com:8000/live/Bhakjd/515533/1551.ts
+#EXTINF:-1,IT: Rai premium
+http://super1.ideaiptv.com:8000/live/Bhakjd/515533/1508.ts
 #EXTINF:-1,IT: La 7
 http://super1.ideaiptv.com:8000/live/Bhakjd/515533/2781.ts
 #EXTINF:-1,IT: La 5
@@ -202,572 +201,750 @@ http://super1.ideaiptv.com:8000/live/Bhakjd/515533/2710.ts
 #EXTINF:-1,IT: Canale 5 HD
 http://super1.ideaiptv.com:8000/live/Bhakjd/515533/1512.ts
 #EXTINF:-1,Rai 1 HD
-http://star-tv.ddns.me:25461/live/enzo/enzo/2.ts
+http://flashtv.mine.nu:8000/live/1dhoCjnVWX/MgemuZ9wIk/3346.ts
 #EXTINF:-1,Rai 2 HD
-http://star-tv.ddns.me:25461/live/enzo/enzo/4.ts
+http://flashtv.mine.nu:8000/live/1dhoCjnVWX/MgemuZ9wIk/3344.ts
 #EXTINF:-1,Rai 3 HD
-http://star-tv.ddns.me:25461/live/enzo/enzo/6.ts
+http://flashtv.mine.nu:8000/live/1dhoCjnVWX/MgemuZ9wIk/3342.ts
 #EXTINF:-1,Rete 4 HD
-http://star-tv.ddns.me:25461/live/enzo/enzo/8.ts
+http://flashtv.mine.nu:8000/live/1dhoCjnVWX/MgemuZ9wIk/3340.ts
 #EXTINF:-1,Canale 5 HD
-http://star-tv.ddns.me:25461/live/enzo/enzo/8717.ts
-#EXTINF:-1,Canale 5  +1 HD
-http://star-tv.ddns.me:25461/live/enzo/enzo/20059.ts
+http://flashtv.mine.nu:8000/live/1dhoCjnVWX/MgemuZ9wIk/3338.ts
 #EXTINF:-1,Italia 1 HD
-http://star-tv.ddns.me:25461/live/enzo/enzo/12.ts
-#EXTINF:-1,Grande Fratello Vip Diretta
-http://star-tv.ddns.me:25461/live/enzo/enzo/20224.ts
-#EXTINF:-1,TV8
-http://star-tv.ddns.me:25461/live/enzo/enzo/19383.ts
-#EXTINF:-1,RSI La1 HD
-http://star-tv.ddns.me:25461/live/enzo/enzo/614.ts
-#EXTINF:-1,RSI La2 HD
-http://star-tv.ddns.me:25461/live/enzo/enzo/22.ts
-#EXTINF:-1,======== SKY CINEMA HD ========
-http://star-tv.ddns.me:25461/live/enzo/enzo/26.ts
-#EXTINF:-1,Sky Cinema Uno HD
-http://star-tv.ddns.me:25461/live/enzo/enzo/28.ts
-#EXTINF:-1,Sky Cinema  + 1 HD
-http://star-tv.ddns.me:25461/live/enzo/enzo/31.ts
-#EXTINF:-1,Sky Cinema  +24 HD
-http://star-tv.ddns.me:25461/live/enzo/enzo/34.ts
-#EXTINF:-1,Sky Cinema Comedy HD
-http://star-tv.ddns.me:25461/live/enzo/enzo/52.ts
-#EXTINF:-1,Sky Cinema Family HD
-http://star-tv.ddns.me:25461/live/enzo/enzo/40.ts
-#EXTINF:-1,Sky Cinema Family +1 HD
-http://star-tv.ddns.me:25461/live/enzo/enzo/9649.ts
-#EXTINF:-1,Sky Cinema Hits HD
-http://star-tv.ddns.me:25461/live/enzo/enzo/37.ts
-#EXTINF:-1,Sky Cinema Max HD
-http://star-tv.ddns.me:25461/live/enzo/enzo/46.ts
-#EXTINF:-1,Sky Cinema Max  1 HD
-http://star-tv.ddns.me:25461/live/enzo/enzo/8018.ts
-#EXTINF:-1,Sky Cinema Classic HD
-http://star-tv.ddns.me:25461/live/enzo/enzo/60.ts
-#EXTINF:-1,Sky Cinema Passion HD
-http://star-tv.ddns.me:25461/live/enzo/enzo/55.ts
-#EXTINF:-1,Sky Cinema Cult HD
-http://star-tv.ddns.me:25461/live/enzo/enzo/58.ts
-#EXTINF:-1,======== INTRATTENIMENTO ========
-http://star-tv.ddns.me:25461/live/enzo/enzo/183.ts
-#EXTINF:-1,Sky Atlantic HD
-http://star-tv.ddns.me:25461/live/enzo/enzo/190.ts
-#EXTINF:-1,Sky Atlantic  +1 HD
-http://star-tv.ddns.me:25461/live/enzo/enzo/8020.ts
-#EXTINF:-1,Sky Uno HD
-http://star-tv.ddns.me:25461/live/enzo/enzo/185.ts
-#EXTINF:-1,Sky Uno +1 HD
-http://star-tv.ddns.me:25461/live/enzo/enzo/8019.ts
-#EXTINF:-1,Sky Arte HD
-http://star-tv.ddns.me:25461/live/enzo/enzo/208.ts
-#EXTINF:-1,Fox HD
-http://star-tv.ddns.me:25461/live/enzo/enzo/188.ts
-#EXTINF:-1,Fox  HD +1
-http://star-tv.ddns.me:25461/live/enzo/enzo/9647.ts
-#EXTINF:-1,Fox Life HD
-http://star-tv.ddns.me:25461/live/enzo/enzo/194.ts
-#EXTINF:-1,Fox Comedy HD
-http://star-tv.ddns.me:25461/live/enzo/enzo/199.ts
-#EXTINF:-1,Fox Crime HD
-http://star-tv.ddns.me:25461/live/enzo/enzo/197.ts
-#EXTINF:-1,Fox Crime  1
-http://star-tv.ddns.me:25461/live/enzo/enzo/20050.ts
-#EXTINF:-1,FOX ANIMATION
-http://star-tv.ddns.me:25461/live/enzo/enzo/8718.ts
-#EXTINF:-1,Comedy Central
-http://star-tv.ddns.me:25461/live/enzo/enzo/214.ts
-#EXTINF:-1,RAI 4 HD
-http://star-tv.ddns.me:25461/live/enzo/enzo/17.ts
-#EXTINF:-1,Rai 5 HD
-http://star-tv.ddns.me:25461/live/enzo/enzo/19.ts
+http://flashtv.mine.nu:8000/live/1dhoCjnVWX/MgemuZ9wIk/3347.ts
+#EXTINF:-1,Cine Sony
+http://flashtv.mine.nu:8000/live/1dhoCjnVWX/MgemuZ9wIk/4193.ts
 #EXTINF:-1,Mediaset Extra
-http://star-tv.ddns.me:25461/live/enzo/enzo/249.ts
+http://flashtv.mine.nu:8000/live/1dhoCjnVWX/MgemuZ9wIk/3276.ts
+#EXTINF:-1,Premium Extra 1
+http://flashtv.mine.nu:8000/live/1dhoCjnVWX/MgemuZ9wIk/4134.ts
+#EXTINF:-1,Premium Extra 2
+http://tkvhd.servegame.org:43100/live/BackupFlash/KprgVKoIgy/21803.ts
 #EXTINF:-1,Mediaset Italia 2
-http://star-tv.ddns.me:25461/live/enzo/enzo/248.ts
-#EXTINF:-1,Paramount Channel HD
-http://star-tv.ddns.me:25461/live/enzo/enzo/168.ts
-#EXTINF:-1,Iris
-http://star-tv.ddns.me:25461/live/enzo/enzo/165.ts
-#EXTINF:-1,La 5
-http://star-tv.ddns.me:25461/live/enzo/enzo/14.ts
-#EXTINF:-1,Top Crime
-http://star-tv.ddns.me:25461/live/enzo/enzo/166.ts
-#EXTINF:-1,La 7 HD
-http://star-tv.ddns.me:25461/live/enzo/enzo/15.ts
-#EXTINF:-1,LA7d
-http://star-tv.ddns.me:25461/live/enzo/enzo/16.ts
-#EXTINF:-1,Giallo
-http://star-tv.ddns.me:25461/live/enzo/enzo/245.ts
-#EXTINF:-1,CLASSICA HD
-http://star-tv.ddns.me:25461/live/enzo/enzo/215.ts
-#EXTINF:-1,La Sposa HD
-http://star-tv.ddns.me:25461/live/enzo/enzo/8024.ts
-#EXTINF:-1,======== MEDIASET PREMIUM CINEMA ========
-http://star-tv.ddns.me:25461/live/enzo/enzo/148.ts
-#EXTINF:-1,Premium Cinema HD
-http://star-tv.ddns.me:25461/live/enzo/enzo/149.ts
-#EXTINF:-1,Premium Cinema 2 HD
-http://star-tv.ddns.me:25461/live/enzo/enzo/151.ts
-#EXTINF:-1,Premium Cinema 2 +24
-http://star-tv.ddns.me:25461/live/enzo/enzo/152.ts
-#EXTINF:-1,Premium Cinema  +24
-http://star-tv.ddns.me:25461/live/enzo/enzo/150.ts
-#EXTINF:-1,Premium Emotion
-http://star-tv.ddns.me:25461/live/enzo/enzo/160.ts
-#EXTINF:-1,Premium Cinema Energy +24
-http://star-tv.ddns.me:25461/live/enzo/enzo/9628.ts
-#EXTINF:-1,Premium Cinema Energy
-http://star-tv.ddns.me:25461/live/enzo/enzo/158.ts
-#EXTINF:-1,Premium Cinema Comedy
-http://star-tv.ddns.me:25461/live/enzo/enzo/157.ts
-#EXTINF:-1,Premium Discovery Investigation
-http://star-tv.ddns.me:25461/live/enzo/enzo/207.ts
-#EXTINF:-1,Premium Crime HD
-http://star-tv.ddns.me:25461/live/enzo/enzo/155.ts
-#EXTINF:-1,Premium Crime  +24
-http://star-tv.ddns.me:25461/live/enzo/enzo/156.ts
-#EXTINF:-1,Premium Action HD
-http://star-tv.ddns.me:25461/live/enzo/enzo/153.ts
-#EXTINF:-1,Premium Action  +24
-http://star-tv.ddns.me:25461/live/enzo/enzo/154.ts
-#EXTINF:-1,Premium Joy
-http://star-tv.ddns.me:25461/live/enzo/enzo/161.ts
-#EXTINF:-1,Premium Joy  +24
-http://star-tv.ddns.me:25461/live/enzo/enzo/162.ts
-#EXTINF:-1,Premium Stories
-http://star-tv.ddns.me:25461/live/enzo/enzo/163.ts
-#EXTINF:-1,Premium Stories +24
-http://star-tv.ddns.me:25461/live/enzo/enzo/164.ts
-#EXTINF:-1,Premium Studio Universal
-http://star-tv.ddns.me:25461/live/enzo/enzo/167.ts
-#EXTINF:-1,======== SKY SPORT ========
-http://star-tv.ddns.me:25461/live/enzo/enzo/91.ts
-#EXTINF:-1,Sky Sport 24 HD
-http://star-tv.ddns.me:25461/live/enzo/enzo/93.ts
-#EXTINF:-1,Sky Sport 1 FULL HD
-http://star-tv.ddns.me:25461/live/enzo/enzo/96.ts
-#EXTINF:-1,Sky Sport 1 HD
-http://star-tv.ddns.me:25461/live/enzo/enzo/11620.ts
-#EXTINF:-1,Sky Sport 2 HD
-http://star-tv.ddns.me:25461/live/enzo/enzo/99.ts
-#EXTINF:-1,SkySport 3 FHD
-http://star-tv.ddns.me:25461/live/enzo/enzo/20041.ts
-#EXTINF:-1,Sky Sport 3 HD
-http://star-tv.ddns.me:25461/live/enzo/enzo/102.ts
-#EXTINF:-1,Sky Sport Mix
-http://star-tv.ddns.me:25461/live/enzo/enzo/20038.ts
-#EXTINF:-1,Sky Sport Plus HD
-http://star-tv.ddns.me:25461/live/enzo/enzo/107.ts
-#EXTINF:-1,Sky Sport F1 HD
-http://star-tv.ddns.me:25461/live/enzo/enzo/110.ts
-#EXTINF:-1,Sky Sport Moto GP HD
-http://star-tv.ddns.me:25461/live/enzo/enzo/113.ts
-#EXTINF:-1,Fox Sports HD
-http://star-tv.ddns.me:25461/live/enzo/enzo/105.ts
-#EXTINF:-1,Rai Sport 1 HD
-http://star-tv.ddns.me:25461/live/enzo/enzo/118.ts
-#EXTINF:-1,Rai Sport 2 HD
-http://star-tv.ddns.me:25461/live/enzo/enzo/119.ts
-#EXTINF:-1,Pesca e Caccia
-http://star-tv.ddns.me:25461/live/enzo/enzo/257.ts
-#EXTINF:-1,Caccia e Pesca
-http://star-tv.ddns.me:25461/live/enzo/enzo/256.ts
-#EXTINF:-1,Italian Fishing
-http://star-tv.ddns.me:25461/live/enzo/enzo/258.ts
-#EXTINF:-1,Sport Italia
-http://star-tv.ddns.me:25461/live/enzo/enzo/117.ts
-#EXTINF:-1,SuperTennis
-http://star-tv.ddns.me:25461/live/enzo/enzo/123.ts
-#EXTINF:-1,AutoMoto TV
-http://star-tv.ddns.me:25461/live/enzo/enzo/120.ts
-#EXTINF:-1,Bike Channell HD
-http://star-tv.ddns.me:25461/live/enzo/enzo/124.ts
-#EXTINF:-1,EuroSport 1 HD
-http://star-tv.ddns.me:25461/live/enzo/enzo/115.ts
-#EXTINF:-1,EuroSport 2 HD
-http://star-tv.ddns.me:25461/live/enzo/enzo/116.ts
-#EXTINF:-1,UNIRESAT HD
-http://star-tv.ddns.me:25461/live/enzo/enzo/9532.ts
-#EXTINF:-1,WWE Wrestling HD
-http://star-tv.ddns.me:25461/live/enzo/enzo/127.ts
-#EXTINF:-1,======== SKY CALCIO ========
-http://star-tv.ddns.me:25461/live/enzo/enzo/128.ts
-#EXTINF:-1,Sky Supercalcio HD
-http://star-tv.ddns.me:25461/live/enzo/enzo/129.ts
-#EXTINF:-1,Sky Calcio 1 HD
-http://star-tv.ddns.me:25461/live/enzo/enzo/131.ts
-#EXTINF:-1,Sky Calcio 2 HD
-http://star-tv.ddns.me:25461/live/enzo/enzo/134.ts
-#EXTINF:-1,Sky Calcio 3 HD
-http://star-tv.ddns.me:25461/live/enzo/enzo/136.ts
-#EXTINF:-1,Sky Calcio 4 HD
-http://star-tv.ddns.me:25461/live/enzo/enzo/137.ts
-#EXTINF:-1,Sky Calcio 5 HD
-http://star-tv.ddns.me:25461/live/enzo/enzo/138.ts
-#EXTINF:-1,Sky Calcio 6 HD
-http://star-tv.ddns.me:25461/live/enzo/enzo/139.ts
-#EXTINF:-1,Sky Calcio 7 HD
-http://star-tv.ddns.me:25461/live/enzo/enzo/140.ts
-#EXTINF:-1,Sky Calcio 8 HD
-http://star-tv.ddns.me:25461/live/enzo/enzo/141.ts
-#EXTINF:-1,Sky Calcio 9 HD
-http://star-tv.ddns.me:25461/live/enzo/enzo/142.ts
-#EXTINF:-1,Sky Calcio 10 HD
-http://star-tv.ddns.me:25461/live/enzo/enzo/7030.ts
-#EXTINF:-1,Sky Calcio 11 HD
-http://star-tv.ddns.me:25461/live/enzo/enzo/20431.ts
-#EXTINF:-1,Juventus Channel
-http://star-tv.ddns.me:25461/live/enzo/enzo/143.ts
-#EXTINF:-1,Lazio Channel
-http://star-tv.ddns.me:25461/live/enzo/enzo/6254.ts
-#EXTINF:-1,Milan Channel
-http://star-tv.ddns.me:25461/live/enzo/enzo/146.ts
-#EXTINF:-1,Inter Channel
-http://star-tv.ddns.me:25461/live/enzo/enzo/145.ts
-#EXTINF:-1,Roma Channel
-http://star-tv.ddns.me:25461/live/enzo/enzo/144.ts
-#EXTINF:-1,TORINO CHANNEL
-http://star-tv.ddns.me:25461/live/enzo/enzo/19380.ts
-#EXTINF:-1,Lega pro Palinsesto
-http://star-tv.ddns.me:25461/live/enzo/enzo/21494.ts
-#EXTINF:-1,Lega Pro  Olbia
-http://star-tv.ddns.me:25461/live/enzo/enzo/21493.ts
-#EXTINF:-1,Lega Pro 11 Sanbenedettese
-http://star-tv.ddns.me:25461/live/enzo/enzo/21495.ts
-#EXTINF:-1,Lega pro Modena
-http://star-tv.ddns.me:25461/live/enzo/enzo/21490.ts
-#EXTINF:-1,Lega Pro Piacenza
-http://star-tv.ddns.me:25461/live/enzo/enzo/21496.ts
-#EXTINF:-1,LEGA PRO Sport mix 1
-http://star-tv.ddns.me:25461/live/enzo/enzo/21491.ts
-#EXTINF:-1,LEGA PRO Sport mix 2
-http://star-tv.ddns.me:25461/live/enzo/enzo/21492.ts
-#EXTINF:-1,Serie-C Akragas
-http://star-tv.ddns.me:25461/live/enzo/enzo/20152.ts
-#EXTINF:-1,Serie-C Catania
-http://star-tv.ddns.me:25461/live/enzo/enzo/20158.ts
-#EXTINF:-1,Serie-C Cosenza
-http://star-tv.ddns.me:25461/live/enzo/enzo/20149.ts
-#EXTINF:-1,Serie-C Fidelis Andria
-http://star-tv.ddns.me:25461/live/enzo/enzo/20151.ts
-#EXTINF:-1,Serie-C Juve Stabia
-http://star-tv.ddns.me:25461/live/enzo/enzo/20147.ts
-#EXTINF:-1,Serie-C Lecce
-http://star-tv.ddns.me:25461/live/enzo/enzo/20157.ts
-#EXTINF:-1,Serie-C Reggina
-http://star-tv.ddns.me:25461/live/enzo/enzo/20156.ts
-#EXTINF:-1,Serie-C Trapani
-http://star-tv.ddns.me:25461/live/enzo/enzo/20155.ts
-#EXTINF:-1,Serie-C Pisa
-http://star-tv.ddns.me:25461/live/enzo/enzo/20153.ts
-#EXTINF:-1,Serie-C Casertana
-http://star-tv.ddns.me:25461/live/enzo/enzo/20148.ts
-#EXTINF:-1,Serie-C Siracusa
-http://star-tv.ddns.me:25461/live/enzo/enzo/20145.ts
-#EXTINF:-1,Serie-C Reggiana
-http://star-tv.ddns.me:25461/live/enzo/enzo/20144.ts
-#EXTINF:-1,Serie-C Livorno
-http://star-tv.ddns.me:25461/live/enzo/enzo/20143.ts
-#EXTINF:-1,======== MEDIASET PREMIUM SPORT ========
-http://star-tv.ddns.me:25461/live/enzo/enzo/169.ts
-#EXTINF:-1,Premium Sport FULL HD
-http://star-tv.ddns.me:25461/live/enzo/enzo/8715.ts
-#EXTINF:-1,Premium sport AURIEMMA
-http://star-tv.ddns.me:25461/live/enzo/enzo/21175.ts
-#EXTINF:-1,Premium Sport HD
-http://star-tv.ddns.me:25461/live/enzo/enzo/171.ts
-#EXTINF:-1,Premium sport 2 HD
-http://star-tv.ddns.me:25461/live/enzo/enzo/6251.ts
-#EXTINF:-1,Premium Calcio 1
-http://star-tv.ddns.me:25461/live/enzo/enzo/176.ts
-#EXTINF:-1,Premium Calcio 1 HD
-http://star-tv.ddns.me:25461/live/enzo/enzo/175.ts
-#EXTINF:-1,Premium Calcio 2
-http://star-tv.ddns.me:25461/live/enzo/enzo/177.ts
-#EXTINF:-1,Premium Calcio 3
-http://star-tv.ddns.me:25461/live/enzo/enzo/178.ts
-#EXTINF:-1,Premium Calcio 4
-http://star-tv.ddns.me:25461/live/enzo/enzo/179.ts
-#EXTINF:-1,Premium Calcio 5
-http://star-tv.ddns.me:25461/live/enzo/enzo/180.ts
-#EXTINF:-1,Premium Calcio 6
-http://star-tv.ddns.me:25461/live/enzo/enzo/181.ts
-#EXTINF:-1,======== CULTURA ========
-http://star-tv.ddns.me:25461/live/enzo/enzo/235.ts
-#EXTINF:-1,Nat Geographic HD
-http://star-tv.ddns.me:25461/live/enzo/enzo/241.ts
-#EXTINF:-1,NatGeo People HD
-http://star-tv.ddns.me:25461/live/enzo/enzo/239.ts
-#EXTINF:-1,NatGeo Wild HD
-http://star-tv.ddns.me:25461/live/enzo/enzo/240.ts
-#EXTINF:-1,Discovery Channel HD
-http://star-tv.ddns.me:25461/live/enzo/enzo/236.ts
-#EXTINF:-1,Discovery Science HD
-http://star-tv.ddns.me:25461/live/enzo/enzo/237.ts
-#EXTINF:-1,Discovery Travel & Living HD
-http://star-tv.ddns.me:25461/live/enzo/enzo/238.ts
-#EXTINF:-1,CI Crime Investigation HD
-http://star-tv.ddns.me:25461/live/enzo/enzo/205.ts
-#EXTINF:-1,History HD
-http://star-tv.ddns.me:25461/live/enzo/enzo/243.ts
-#EXTINF:-1,Focus
-http://star-tv.ddns.me:25461/live/enzo/enzo/242.ts
-#EXTINF:-1,Gambero rosso HD
-http://star-tv.ddns.me:25461/live/enzo/enzo/255.ts
-#EXTINF:-1,Animal Planet
-http://star-tv.ddns.me:25461/live/enzo/enzo/252.ts
-#EXTINF:-1,Alice
-http://star-tv.ddns.me:25461/live/enzo/enzo/251.ts
-#EXTINF:-1,Blaze HD
-http://star-tv.ddns.me:25461/live/enzo/enzo/20047.ts
-#EXTINF:-1,Cielo HD
-http://star-tv.ddns.me:25461/live/enzo/enzo/212.ts
-#EXTINF:-1,Dmax
-http://star-tv.ddns.me:25461/live/enzo/enzo/254.ts
-#EXTINF:-1,Fine living
-http://star-tv.ddns.me:25461/live/enzo/enzo/244.ts
-#EXTINF:-1,Real Time HD
-http://star-tv.ddns.me:25461/live/enzo/enzo/246.ts
+http://flashtv.mine.nu:8000/live/1dhoCjnVWX/MgemuZ9wIk/3275.ts
+#EXTINF:-1,Rai 4 HD
+http://flashtv.mine.nu:8000/live/1dhoCjnVWX/MgemuZ9wIk/3335.ts
+#EXTINF:-1,Rai 5 HD
+http://flashtv.mine.nu:8000/live/1dhoCjnVWX/MgemuZ9wIk/3336.ts
 #EXTINF:-1,Rai Storia
-http://star-tv.ddns.me:25461/live/enzo/enzo/7995.ts
-#EXTINF:-1,MARCOPOLO
-http://star-tv.ddns.me:25461/live/enzo/enzo/250.ts
-#EXTINF:-1,======== BAMBINI ========
-http://star-tv.ddns.me:25461/live/enzo/enzo/216.ts
-#EXTINF:-1,blaze e le megamacchine-live
-http://star-tv.ddns.me:25461/live/enzo/enzo/20027.ts
-#EXTINF:-1,Heidi Live
-http://star-tv.ddns.me:25461/live/enzo/enzo/20032.ts
-#EXTINF:-1,I SIMPSON LIVE
-http://star-tv.ddns.me:25461/live/enzo/enzo/20031.ts
-#EXTINF:-1,Pj-mask-Pgiamini Channel
-http://star-tv.ddns.me:25461/live/enzo/enzo/20030.ts
-#EXTINF:-1,PAWPATROL-LIVE
-http://star-tv.ddns.me:25461/live/enzo/enzo/20026.ts
-#EXTINF:-1,candy candy-live
-http://star-tv.ddns.me:25461/live/enzo/enzo/20029.ts
-#EXTINF:-1,sam il pompiere-live
-http://star-tv.ddns.me:25461/live/enzo/enzo/20028.ts
-#EXTINF:-1,topolino strumentopolo-live
-http://star-tv.ddns.me:25461/live/enzo/enzo/20025.ts
-#EXTINF:-1,Disney Channel HD
-http://star-tv.ddns.me:25461/live/enzo/enzo/7981.ts
-#EXTINF:-1,Disney Junior
-http://star-tv.ddns.me:25461/live/enzo/enzo/7988.ts
-#EXTINF:-1,Disney XD
-http://star-tv.ddns.me:25461/live/enzo/enzo/7980.ts
-#EXTINF:-1,MANGA
-http://star-tv.ddns.me:25461/live/enzo/enzo/217.ts
-#EXTINF:-1,Nickelodeon
-http://star-tv.ddns.me:25461/live/enzo/enzo/8667.ts
-#EXTINF:-1,Frisbee
-http://star-tv.ddns.me:25461/live/enzo/enzo/7990.ts
-#EXTINF:-1,Boomerang
-http://star-tv.ddns.me:25461/live/enzo/enzo/10266.ts
-#EXTINF:-1,Baby TV
-http://star-tv.ddns.me:25461/live/enzo/enzo/8026.ts
-#EXTINF:-1,Cartoon Network
-http://star-tv.ddns.me:25461/live/enzo/enzo/7982.ts
-#EXTINF:-1,Cartoonito
-http://star-tv.ddns.me:25461/live/enzo/enzo/7983.ts
-#EXTINF:-1,Dea Kids
-http://star-tv.ddns.me:25461/live/enzo/enzo/7994.ts
-#EXTINF:-1,Masha e L'Orso Channel
-http://star-tv.ddns.me:25461/live/enzo/enzo/223.ts
-#EXTINF:-1,Nick Junior
-http://star-tv.ddns.me:25461/live/enzo/enzo/7993.ts
-#EXTINF:-1,Rai yoyo
-http://star-tv.ddns.me:25461/live/enzo/enzo/7985.ts
-#EXTINF:-1,Rai Gulp
-http://star-tv.ddns.me:25461/live/enzo/enzo/7986.ts
-#EXTINF:-1,Rai Scuola
-http://star-tv.ddns.me:25461/live/enzo/enzo/7984.ts
-#EXTINF:-1,Boing
-http://star-tv.ddns.me:25461/live/enzo/enzo/7989.ts
-#EXTINF:-1,Super!
-http://star-tv.ddns.me:25461/live/enzo/enzo/7991.ts
-#EXTINF:-1,K2
-http://star-tv.ddns.me:25461/live/enzo/enzo/7987.ts
-#EXTINF:-1,======== NOTIZIE ========
-http://star-tv.ddns.me:25461/live/enzo/enzo/259.ts
-#EXTINF:-1,Sky TG 24
-http://star-tv.ddns.me:25461/live/enzo/enzo/261.ts
-#EXTINF:-1,CNBC Class
-http://star-tv.ddns.me:25461/live/enzo/enzo/9658.ts
-#EXTINF:-1,TG Norba 24
-http://star-tv.ddns.me:25461/live/enzo/enzo/266.ts
-#EXTINF:-1,Euronews Italiano
-http://star-tv.ddns.me:25461/live/enzo/enzo/6328.ts
-#EXTINF:-1,Tg Com 24
-http://star-tv.ddns.me:25461/live/enzo/enzo/260.ts
+http://flashtv.mine.nu:8000/live/1dhoCjnVWX/MgemuZ9wIk/3222.ts
 #EXTINF:-1,Rai Movie
-http://star-tv.ddns.me:25461/live/enzo/enzo/263.ts
-#EXTINF:-1,Rai News 24
-http://star-tv.ddns.me:25461/live/enzo/enzo/262.ts
+http://flashtv.mine.nu:8000/live/1dhoCjnVWX/MgemuZ9wIk/3229.ts
 #EXTINF:-1,Rai Premium
-http://star-tv.ddns.me:25461/live/enzo/enzo/264.ts
-#EXTINF:-1,=========BASSA DEFINIZIONE/SD=========
-http://star-tv.ddns.me:25461/live/enzo/enzo/442.ts
-#EXTINF:-1,Rai 1 SD
-http://star-tv.ddns.me:25461/live/enzo/enzo/3.ts
-#EXTINF:-1,Rai 2 SD
-http://star-tv.ddns.me:25461/live/enzo/enzo/5.ts
-#EXTINF:-1,Rai 3 SD
-http://star-tv.ddns.me:25461/live/enzo/enzo/7.ts
-#EXTINF:-1,Rete 4 SD
-http://star-tv.ddns.me:25461/live/enzo/enzo/9.ts
-#EXTINF:-1,Canale 5 SD
-http://star-tv.ddns.me:25461/live/enzo/enzo/11.ts
-#EXTINF:-1,Italia 1 SD
-http://star-tv.ddns.me:25461/live/enzo/enzo/13.ts
-#EXTINF:-1,RSI La1 SD
-http://star-tv.ddns.me:25461/live/enzo/enzo/720.ts
-#EXTINF:-1,RSI La2 SD
-http://star-tv.ddns.me:25461/live/enzo/enzo/23.ts
-#EXTINF:-1,Sky Cinema Uno SD
-http://star-tv.ddns.me:25461/live/enzo/enzo/29.ts
-#EXTINF:-1,Sky Cinema  +Uno SD
-http://star-tv.ddns.me:25461/live/enzo/enzo/32.ts
-#EXTINF:-1,Sky Cinema  24 SD
-http://star-tv.ddns.me:25461/live/enzo/enzo/35.ts
-#EXTINF:-1,Sky Cinema Comedy SD
-http://star-tv.ddns.me:25461/live/enzo/enzo/53.ts
-#EXTINF:-1,Sky Cinema Family SD
-http://star-tv.ddns.me:25461/live/enzo/enzo/41.ts
-#EXTINF:-1,Sky Cinema Hits SD
-http://star-tv.ddns.me:25461/live/enzo/enzo/38.ts
-#EXTINF:-1,Sky Cinema Max SD
-http://star-tv.ddns.me:25461/live/enzo/enzo/47.ts
-#EXTINF:-1,Sky Cinema Classic SD
-http://star-tv.ddns.me:25461/live/enzo/enzo/61.ts
-#EXTINF:-1,Sky Cinema Passion SD
-http://star-tv.ddns.me:25461/live/enzo/enzo/8000.ts
-#EXTINF:-1,Sky Cinema Cult SD
-http://star-tv.ddns.me:25461/live/enzo/enzo/59.ts
-#EXTINF:-1,Fox Crime SD
-http://star-tv.ddns.me:25461/live/enzo/enzo/198.ts
-#EXTINF:-1,Fox Comedy SD
-http://star-tv.ddns.me:25461/live/enzo/enzo/200.ts
-#EXTINF:-1,Sky Sport 24 SD
-http://star-tv.ddns.me:25461/live/enzo/enzo/94.ts
-#EXTINF:-1,Sky Sport 1 SD
-http://star-tv.ddns.me:25461/live/enzo/enzo/97.ts
-#EXTINF:-1,Sky Sport 2 SD
-http://star-tv.ddns.me:25461/live/enzo/enzo/100.ts
-#EXTINF:-1,Sky Sport 3 SD
-http://star-tv.ddns.me:25461/live/enzo/enzo/103.ts
-#EXTINF:-1,Sky Formula 1 SD
-http://star-tv.ddns.me:25461/live/enzo/enzo/111.ts
-#EXTINF:-1,Fox Sports SD
-http://star-tv.ddns.me:25461/live/enzo/enzo/106.ts
-#EXTINF:-1,Sky Supercalcio SD
-http://star-tv.ddns.me:25461/live/enzo/enzo/130.ts
-#EXTINF:-1,Sky Calcio 1 SD
-http://star-tv.ddns.me:25461/live/enzo/enzo/132.ts
-#EXTINF:-1,Sky Calcio 2 SD
-http://star-tv.ddns.me:25461/live/enzo/enzo/135.ts
-#EXTINF:-1,Premium Sport SD
-http://star-tv.ddns.me:25461/live/enzo/enzo/173.ts
-#EXTINF:-1,Sky Sports 1
-http://jazoora.net:8000/live/Shahid1/Shahid1/2518.ts
-#EXTINF:-1,Sky Sports 2
-http://jazoora.net:8000/live/Shahid1/Shahid1/2520.ts
-#EXTINF:-1,Sky Sports 3
-http://jazoora.net:8000/live/Shahid1/Shahid1/2519.ts
-#EXTINF:-1,Sky Sport 24
-http://jazoora.net:8000/live/Shahid1/Shahid1/2521.ts
-#EXTINF:-1,Sky Sports F1
-http://jazoora.net:8000/live/Shahid1/Shahid1/2517.ts
-#EXTINF:-1,FOX SPORTS
-http://jazoora.net:8000/live/Shahid1/Shahid1/2508.ts
-#EXTINF:-1,Supercalcio
-http://jazoora.net:8000/live/Shahid1/Shahid1/2575.ts
-#EXTINF:-1,Sky Cinema 1 HD
-http://jazoora.net:8000/live/Shahid1/Shahid1/2509.ts
-#EXTINF:-1,Sky Cinema Passion HD
-http://jazoora.net:8000/live/Shahid1/Shahid1/2516.ts
-#EXTINF:-1,SKY CINEMA MAX HD
-http://jazoora.net:8000/live/Shahid1/Shahid1/2510.ts
+http://flashtv.mine.nu:8000/live/1dhoCjnVWX/MgemuZ9wIk/3231.ts
+#EXTINF:-1,Rai Scuola
+http://flashtv.mine.nu:8000/live/1dhoCjnVWX/MgemuZ9wIk/3227.ts
+#EXTINF:-1,Paramount Channel HD
+http://flashtv.mine.nu:8000/live/1dhoCjnVWX/MgemuZ9wIk/3692.ts
+#EXTINF:-1,Nove
+http://flashtv.mine.nu:8000/live/1dhoCjnVWX/MgemuZ9wIk/4242.ts
+#EXTINF:-1,La 5
+http://flashtv.mine.nu:8000/live/1dhoCjnVWX/MgemuZ9wIk/3133.ts
+#EXTINF:-1,La 7 HD
+http://flashtv.mine.nu:8000/live/1dhoCjnVWX/MgemuZ9wIk/3349.ts
+#EXTINF:-1,La 7d
+http://flashtv.mine.nu:8000/live/1dhoCjnVWX/MgemuZ9wIk/3697.ts
+#EXTINF:-1,Cielo HD
+http://flashtv.mine.nu:8000/live/1dhoCjnVWX/MgemuZ9wIk/3203.ts
+#EXTINF:-1,Giallo
+http://flashtv.mine.nu:8000/live/1dhoCjnVWX/MgemuZ9wIk/3123.ts
+#EXTINF:-1,Iris
+http://flashtv.mine.nu:8000/live/1dhoCjnVWX/MgemuZ9wIk/3124.ts
+#EXTINF:-1,LaEffe
+http://flashtv.mine.nu:8000/live/1dhoCjnVWX/MgemuZ9wIk/3077.ts
+#EXTINF:-1,La Sposa HD
+http://flashtv.mine.nu:8000/live/1dhoCjnVWX/MgemuZ9wIk/3169.ts
+#EXTINF:-1,Fine living
+http://flashtv.mine.nu:8000/live/1dhoCjnVWX/MgemuZ9wIk/3132.ts
+#EXTINF:-1,RSI La1 HD
+http://flashtv.mine.nu:8000/live/1dhoCjnVWX/MgemuZ9wIk/3334.ts
+#EXTINF:-1,RSI La2 HD
+http://flashtv.mine.nu:8000/live/1dhoCjnVWX/MgemuZ9wIk/3332.ts
+#EXTINF:-1,Tele Ticino
+http://flashtv.mine.nu:8000/live/1dhoCjnVWX/MgemuZ9wIk/4182.ts
+#EXTINF:-1,TV 8
+http://flashtv.mine.nu:8000/live/1dhoCjnVWX/MgemuZ9wIk/3114.ts
+#EXTINF:-1,TV2000
+http://flashtv.mine.nu:8000/live/1dhoCjnVWX/MgemuZ9wIk/3113.ts
+#EXTINF:-1,------- SKY CINEMA -------
+http://flashtv.mine.nu:8000/live/1dhoCjnVWX/MgemuZ9wIk/2753.ts
+#EXTINF:-1,Mosaiko Sky Cinema
+http://flashtv.mine.nu:8000/live/1dhoCjnVWX/MgemuZ9wIk/4160.ts
+#EXTINF:-1,Sky Cinema Uno FULL HD
+http://flashtv.mine.nu:8000/live/1dhoCjnVWX/MgemuZ9wIk/3710.ts
+#EXTINF:-1,Sky Cinema Uno HD
+http://flashtv.mine.nu:8000/live/1dhoCjnVWX/MgemuZ9wIk/3330.ts
+#EXTINF:-1,Sky Cinema Uno +1 HD
+http://flashtv.mine.nu:8000/live/1dhoCjnVWX/MgemuZ9wIk/3329.ts
+#EXTINF:-1,Sky Cinema +24 HD
+http://flashtv.mine.nu:8000/live/1dhoCjnVWX/MgemuZ9wIk/3328.ts
+#EXTINF:-1,Sky Cinema Hits FULL HD
+http://flashtv.mine.nu:8000/live/1dhoCjnVWX/MgemuZ9wIk/4162.ts
 #EXTINF:-1,Sky Cinema Hits HD
-http://jazoora.net:8000/live/Shahid1/Shahid1/2511.ts
+http://flashtv.mine.nu:8000/live/1dhoCjnVWX/MgemuZ9wIk/3325.ts
+#EXTINF:-1,Sky Cinema Max FULL HD
+http://flashtv.mine.nu:8000/live/1dhoCjnVWX/MgemuZ9wIk/4163.ts
+#EXTINF:-1,Sky Cinema Max HD
+http://flashtv.mine.nu:8000/live/1dhoCjnVWX/MgemuZ9wIk/3327.ts
+#EXTINF:-1,Sky Cinema Max +1 HD
+http://flashtv.mine.nu:8000/live/1dhoCjnVWX/MgemuZ9wIk/3326.ts
+#EXTINF:-1,Sky Cinema Family FULL HD
+http://flashtv.mine.nu:8000/live/1dhoCjnVWX/MgemuZ9wIk/4103.ts
 #EXTINF:-1,Sky Cinema Family HD
-http://jazoora.net:8000/live/Shahid1/Shahid1/2512.ts
-#EXTINF:-1,Sky Cinema Cult HD
-http://jazoora.net:8000/live/Shahid1/Shahid1/2515.ts
+http://flashtv.mine.nu:8000/live/1dhoCjnVWX/MgemuZ9wIk/3324.ts
+#EXTINF:-1,Sky Cinema Comedy FULL HD
+http://flashtv.mine.nu:8000/live/1dhoCjnVWX/MgemuZ9wIk/4164.ts
 #EXTINF:-1,Sky Cinema Comedy HD
-http://jazoora.net:8000/live/Shahid1/Shahid1/2513.ts
+http://flashtv.mine.nu:8000/live/1dhoCjnVWX/MgemuZ9wIk/3323.ts
+#EXTINF:-1,Sky Cinema Cult FULL HD
+http://flashtv.mine.nu:8000/live/1dhoCjnVWX/MgemuZ9wIk/4176.ts
+#EXTINF:-1,Sky Cinema Cult HD
+http://flashtv.mine.nu:8000/live/1dhoCjnVWX/MgemuZ9wIk/3320.ts
+#EXTINF:-1,Sky Cinema Classic FULL HD
+http://flashtv.mine.nu:8000/live/1dhoCjnVWX/MgemuZ9wIk/4177.ts
 #EXTINF:-1,Sky Cinema Classic HD
-http://jazoora.net:8000/live/Shahid1/Shahid1/2514.ts
-#EXTINF:-1,Sky UNO
-http://jazoora.net:8000/live/Shahid1/Shahid1/2576.ts
-#EXTINF:-1,FOX +1
-http://jazoora.net:8000/live/Shahid1/Shahid1/2580.ts
-#EXTINF:-1,Fox Life
-http://jazoora.net:8000/live/Shahid1/Shahid1/2579.ts
-#EXTINF:-1,Fox Crime
-http://jazoora.net:8000/live/Shahid1/Shahid1/2578.ts
-#EXTINF:-1,ITALIA 1 HD
-http://jazoora.net:8000/live/Shahid1/Shahid1/3227.ts
-#EXTINF:-1,ITALIA 2 HD
-http://jazoora.net:8000/live/Shahid1/Shahid1/3253.ts
-#EXTINF:-1,REAL TIME
-http://jazoora.net:8000/live/Shahid1/Shahid1/3252.ts
-#EXTINF:-1,CIELO HD
-http://jazoora.net:8000/live/Shahid1/Shahid1/3251.ts
-#EXTINF:-1,CANALE 5 HD
-http://jazoora.net:8000/live/Shahid1/Shahid1/3226.ts
-#EXTINF:-1,RAI 1 HD
-http://jazoora.net:8000/live/Shahid1/Shahid1/3245.ts
-#EXTINF:-1,RAI 2 HD
-http://jazoora.net:8000/live/Shahid1/Shahid1/3246.ts
-#EXTINF:-1,RAI 3 HD
-http://jazoora.net:8000/live/Shahid1/Shahid1/3247.ts
-#EXTINF:-1,RAI 4 HD
-http://jazoora.net:8000/live/Shahid1/Shahid1/3248.ts
-#EXTINF:-1,RAI 5 HD
-http://jazoora.net:8000/live/Shahid1/Shahid1/3249.ts
-#EXTINF:-1,RAI MOVIE HD
-http://jazoora.net:8000/live/Shahid1/Shahid1/3250.ts
+http://flashtv.mine.nu:8000/live/1dhoCjnVWX/MgemuZ9wIk/3321.ts
+#EXTINF:-1,Sky Cinema Passion FULL HD
+http://flashtv.mine.nu:8000/live/1dhoCjnVWX/MgemuZ9wIk/4178.ts
+#EXTINF:-1,Sky Cinema Passion HD
+http://flashtv.mine.nu:8000/live/1dhoCjnVWX/MgemuZ9wIk/3322.ts
+#EXTINF:-1,------- PRIMAFILA -------
+http://flashtv.mine.nu:8000/live/1dhoCjnVWX/MgemuZ9wIk/3078.ts
+#EXTINF:-1,Vetrina Primafila Live OnDemand
+http://flashtv.mine.nu:8000/live/1dhoCjnVWX/MgemuZ9wIk/3446.ts
+#EXTINF:-1,Trailer Primafila 1-2
+http://flashtv.mine.nu:8000/movie/1dhoCjnVWX/MgemuZ9wIk/4122.mkv
+#EXTINF:-1,Primafila 1 Live-CATTIVISSIMO ME 3
+http://flashtv.mine.nu:8000/live/1dhoCjnVWX/MgemuZ9wIk/3076.ts
+#EXTINF:-1,Primafila 2 OnDemand
+http://flashtv.mine.nu:8000/movie/1dhoCjnVWX/MgemuZ9wIk/3735.mkv
+#EXTINF:-1,Trailer Primafila 3-4
+http://flashtv.mine.nu:8000/movie/1dhoCjnVWX/MgemuZ9wIk/4123.mp4
+#EXTINF:-1,Primafila 3 Live- DUNKIRK
+http://flashtv.mine.nu:8000/live/1dhoCjnVWX/MgemuZ9wIk/3064.ts
+#EXTINF:-1,Primafila 4 OnDemand
+http://flashtv.mine.nu:8000/movie/1dhoCjnVWX/MgemuZ9wIk/3600.mkv
+#EXTINF:-1,Trailer Primafila 5-6
+http://tkvhd.servegame.org:43100/live/PRIMAFILAVOD/uNURSueGrh/21643.ts
+#EXTINF:-1,Primafila 5 Live- ATOMICA BIONDA
+http://flashtv.mine.nu:8000/live/1dhoCjnVWX/MgemuZ9wIk/3062.ts
+#EXTINF:-1,Primafila 6  OnDemand
+http://flashtv.mine.nu:8000/movie/1dhoCjnVWX/MgemuZ9wIk/3602.mkv
+#EXTINF:-1,Trailer Prmafila 7-8
+http://flashtv.mine.nu:8000/movie/1dhoCjnVWX/MgemuZ9wIk/4125.mp4
+#EXTINF:-1,Primafila 7 Live- PIRATI DEI CARAIBI LAVENDETTA DI SALAZAR
+http://flashtv.mine.nu:8000/live/1dhoCjnVWX/MgemuZ9wIk/3059.ts
+#EXTINF:-1,Primafila 8 OnDemand
+http://flashtv.mine.nu:8000/movie/1dhoCjnVWX/MgemuZ9wIk/3604.mkv
+#EXTINF:-1,Trailer Primafila 9-10
+http://flashtv.mine.nu:8000/movie/1dhoCjnVWX/MgemuZ9wIk/4126.mp4
+#EXTINF:-1,Primafila 9 Live - SPIDERMAN HOME COMING
+http://flashtv.mine.nu:8000/live/1dhoCjnVWX/MgemuZ9wIk/3057.ts
+#EXTINF:-1,Primafila 10 OnDemand
+http://flashtv.mine.nu:8000/movie/1dhoCjnVWX/MgemuZ9wIk/3606.mkv
+#EXTINF:-1,Trailer Primafila 11-12
+http://flashtv.mine.nu:8000/movie/1dhoCjnVWX/MgemuZ9wIk/4127.mp4
+#EXTINF:-1,Primafila 11 Live - CODICE UNLOCKED
+http://flashtv.mine.nu:8000/live/1dhoCjnVWX/MgemuZ9wIk/3074.ts
+#EXTINF:-1,Primafila 12 OnDemand
+http://flashtv.mine.nu:8000/movie/1dhoCjnVWX/MgemuZ9wIk/3608.mkv
+#EXTINF:-1,Trailer Primafila 13-14
+http://flashtv.mine.nu:8000/movie/1dhoCjnVWX/MgemuZ9wIk/4128.mp4
+#EXTINF:-1,Primafila 13 Live - LA VERITA' VE LA SPIEGO SULL'AMORE
+http://flashtv.mine.nu:8000/live/1dhoCjnVWX/MgemuZ9wIk/3072.ts
+#EXTINF:-1,Primafila 14 OnDemand
+http://flashtv.mine.nu:8000/movie/1dhoCjnVWX/MgemuZ9wIk/3610.mkv
+#EXTINF:-1,Trailer Primafila 15-16
+http://flashtv.mine.nu:8000/movie/1dhoCjnVWX/MgemuZ9wIk/4129.mp4
+#EXTINF:-1,Primafila 15 Live - RICHARD MISSIONE AFRICA
+http://flashtv.mine.nu:8000/live/1dhoCjnVWX/MgemuZ9wIk/3070.ts
+#EXTINF:-1,Primafila 16 OnDemand
+http://flashtv.mine.nu:8000/movie/1dhoCjnVWX/MgemuZ9wIk/3612.mkv
+#EXTINF:-1,Trailer Primafila 17-18
+http://flashtv.mine.nu:8000/movie/1dhoCjnVWX/MgemuZ9wIk/4130.mp4
+#EXTINF:-1,Primafila 17 Live - BABY BOSS
+http://flashtv.mine.nu:8000/live/1dhoCjnVWX/MgemuZ9wIk/3068.ts
+#EXTINF:-1,Primafila 18 OnDemand
+http://flashtv.mine.nu:8000/movie/1dhoCjnVWX/MgemuZ9wIk/3614.mkv
+#EXTINF:-1,------- PREMIUM CINEMA -------
+http://flashtv.mine.nu:8000/live/1dhoCjnVWX/MgemuZ9wIk/3378.ts
+#EXTINF:-1,Premium Cinema FULL HD
+http://flashtv.mine.nu:8000/live/1dhoCjnVWX/MgemuZ9wIk/4161.ts
+#EXTINF:-1,Premium Cinema HD
+http://flashtv.mine.nu:8000/live/1dhoCjnVWX/MgemuZ9wIk/3318.ts
+#EXTINF:-1,Premium Cinema +24
+http://flashtv.mine.nu:8000/live/1dhoCjnVWX/MgemuZ9wIk/3317.ts
+#EXTINF:-1,Premium Cinema 2 HD
+http://flashtv.mine.nu:8000/live/1dhoCjnVWX/MgemuZ9wIk/3316.ts
+#EXTINF:-1,Premium Cinema 2 +24
+http://flashtv.mine.nu:8000/live/1dhoCjnVWX/MgemuZ9wIk/3315.ts
+#EXTINF:-1,Premium Cinema Comedy
+http://flashtv.mine.nu:8000/live/1dhoCjnVWX/MgemuZ9wIk/3314.ts
+#EXTINF:-1,Premium Cinema Energy
+http://flashtv.mine.nu:8000/live/1dhoCjnVWX/MgemuZ9wIk/3313.ts
+#EXTINF:-1,Premium Cinema Energy +24
+http://flashtv.mine.nu:8000/live/1dhoCjnVWX/MgemuZ9wIk/3312.ts
+#EXTINF:-1,Premium Crime HD
+http://flashtv.mine.nu:8000/live/1dhoCjnVWX/MgemuZ9wIk/3309.ts
+#EXTINF:-1,Premium Crime +24
+http://flashtv.mine.nu:8000/live/1dhoCjnVWX/MgemuZ9wIk/3308.ts
+#EXTINF:-1,Top Crime
+http://flashtv.mine.nu:8000/live/1dhoCjnVWX/MgemuZ9wIk/3731.ts
+#EXTINF:-1,Premium Action HD
+http://flashtv.mine.nu:8000/live/1dhoCjnVWX/MgemuZ9wIk/3311.ts
+#EXTINF:-1,Premium Action +24
+http://flashtv.mine.nu:8000/live/1dhoCjnVWX/MgemuZ9wIk/3310.ts
+#EXTINF:-1,Premium Joy
+http://flashtv.mine.nu:8000/live/1dhoCjnVWX/MgemuZ9wIk/3306.ts
+#EXTINF:-1,Premium Joy +24
+http://flashtv.mine.nu:8000/live/1dhoCjnVWX/MgemuZ9wIk/3305.ts
+#EXTINF:-1,Premium Stories
+http://flashtv.mine.nu:8000/live/1dhoCjnVWX/MgemuZ9wIk/3304.ts
+#EXTINF:-1,Premium Stories +24
+http://flashtv.mine.nu:8000/live/1dhoCjnVWX/MgemuZ9wIk/3303.ts
+#EXTINF:-1,Premium Emotion
+http://flashtv.mine.nu:8000/live/1dhoCjnVWX/MgemuZ9wIk/3307.ts
+#EXTINF:-1,Premium Discovery Investigation
+http://flashtv.mine.nu:8000/live/1dhoCjnVWX/MgemuZ9wIk/3284.ts
+#EXTINF:-1,Premium Studio Universal
+http://flashtv.mine.nu:8000/live/1dhoCjnVWX/MgemuZ9wIk/3302.ts
+#EXTINF:-1,------- SKY SPORT -------
+http://flashtv.mine.nu:8000/live/1dhoCjnVWX/MgemuZ9wIk/2878.ts
+#EXTINF:-1,Sky Sport Mix
+http://flashtv.mine.nu:8000/live/1dhoCjnVWX/MgemuZ9wIk/3664.ts
+#EXTINF:-1,Sky Sport 24 FULL HD
+http://flashtv.mine.nu:8000/live/1dhoCjnVWX/MgemuZ9wIk/4100.ts
+#EXTINF:-1,Sky Sport 24 HD
+http://flashtv.mine.nu:8000/live/1dhoCjnVWX/MgemuZ9wIk/3253.ts
+#EXTINF:-1,Sky Sport 1 FULL  HD
+http://flashtv.mine.nu:8000/live/1dhoCjnVWX/MgemuZ9wIk/4101.ts
+#EXTINF:-1,Sky Sport 1 HD
+http://flashtv.mine.nu:8000/live/1dhoCjnVWX/MgemuZ9wIk/3256.ts
+#EXTINF:-1,Sky Sport 2 FULL HD
+http://flashtv.mine.nu:8000/live/1dhoCjnVWX/MgemuZ9wIk/4172.ts
+#EXTINF:-1,Sky Sport 2 HD
+http://flashtv.mine.nu:8000/live/1dhoCjnVWX/MgemuZ9wIk/3255.ts
+#EXTINF:-1,Sky Sport 3 FULL HD
+http://flashtv.mine.nu:8000/live/1dhoCjnVWX/MgemuZ9wIk/4173.ts
+#EXTINF:-1,Sky Sport 3 HD
+http://flashtv.mine.nu:8000/live/1dhoCjnVWX/MgemuZ9wIk/3254.ts
+#EXTINF:-1,Sky Sport Plus FULL HD
+http://flashtv.mine.nu:8000/live/1dhoCjnVWX/MgemuZ9wIk/4174.ts
+#EXTINF:-1,Sky Sport Plus HD
+http://flashtv.mine.nu:8000/live/1dhoCjnVWX/MgemuZ9wIk/3252.ts
+#EXTINF:-1,Fox Sports FULL HD
+http://flashtv.mine.nu:8000/live/1dhoCjnVWX/MgemuZ9wIk/4175.ts
+#EXTINF:-1,Fox Sports HD
+http://flashtv.mine.nu:8000/live/1dhoCjnVWX/MgemuZ9wIk/3251.ts
+#EXTINF:-1,Sky Sport F1 FULL HD
+http://flashtv.mine.nu:8000/live/1dhoCjnVWX/MgemuZ9wIk/3709.ts
+#EXTINF:-1,Sky Sport F1 HD
+http://flashtv.mine.nu:8000/live/1dhoCjnVWX/MgemuZ9wIk/3249.ts
+#EXTINF:-1,Sky MotoGP FULL HD
+http://flashtv.mine.nu:8000/live/1dhoCjnVWX/MgemuZ9wIk/3711.ts
+#EXTINF:-1,Sky MotoGP HD
+http://flashtv.mine.nu:8000/live/1dhoCjnVWX/MgemuZ9wIk/3707.ts
+#EXTINF:-1,EuroSport 1 HD
+http://flashtv.mine.nu:8000/live/1dhoCjnVWX/MgemuZ9wIk/3224.ts
+#EXTINF:-1,EuroSport 2 HD
+http://flashtv.mine.nu:8000/live/1dhoCjnVWX/MgemuZ9wIk/3223.ts
 #EXTINF:-1,Rai Sport 1 HD
-http://jazoora.net:8000/live/Shahid1/Shahid1/3254.ts
-#EXTINF:-1,Rai Sport 2
-http://jazoora.net:8000/live/Shahid1/Shahid1/3255.ts
+http://flashtv.mine.nu:8000/live/1dhoCjnVWX/MgemuZ9wIk/3226.ts
+#EXTINF:-1,Rai Sport 2 HD
+http://flashtv.mine.nu:8000/live/1dhoCjnVWX/MgemuZ9wIk/3225.ts
+#EXTINF:-1,SuperTennis
+http://flashtv.mine.nu:8000/live/1dhoCjnVWX/MgemuZ9wIk/3122.ts
+#EXTINF:-1,Sportitalia
+http://flashtv.mine.nu:8000/live/1dhoCjnVWX/MgemuZ9wIk/3669.ts
+#EXTINF:-1,UnireSat HD
+http://flashtv.mine.nu:8000/live/1dhoCjnVWX/MgemuZ9wIk/3388.ts
+#EXTINF:-1,Bike Channel HD
+http://flashtv.mine.nu:8000/live/1dhoCjnVWX/MgemuZ9wIk/3121.ts
+#EXTINF:-1,AutoMoto TV
+http://flashtv.mine.nu:8000/live/1dhoCjnVWX/MgemuZ9wIk/3204.ts
+#EXTINF:-1,Juventus Channel
+http://flashtv.mine.nu:8000/live/1dhoCjnVWX/MgemuZ9wIk/3261.ts
+#EXTINF:-1,Roma Channel
+http://flashtv.mine.nu:8000/live/1dhoCjnVWX/MgemuZ9wIk/3259.ts
+#EXTINF:-1,Inter Channel
+http://flashtv.mine.nu:8000/live/1dhoCjnVWX/MgemuZ9wIk/3260.ts
+#EXTINF:-1,Milan Channel
+http://flashtv.mine.nu:8000/live/1dhoCjnVWX/MgemuZ9wIk/3257.ts
+#EXTINF:-1,Lazio Channel
+http://flashtv.mine.nu:8000/live/1dhoCjnVWX/MgemuZ9wIk/3258.ts
+#EXTINF:-1,Torino Channel
+http://flashtv.mine.nu:8000/live/1dhoCjnVWX/MgemuZ9wIk/3671.ts
+#EXTINF:-1,WWE Wrestling HD
+http://flashtv.mine.nu:8000/live/1dhoCjnVWX/MgemuZ9wIk/3673.ts
+#EXTINF:-1,------- SKY CALCIO -------
+http://flashtv.mine.nu:8000/live/1dhoCjnVWX/MgemuZ9wIk/3355.ts
+#EXTINF:-1,SKY SUPERCALCIO EVENTO
+http://flashtv.mine.nu:8000/live/1dhoCjnVWX/MgemuZ9wIk/4184.ts
+#EXTINF:-1,SKY CALCIO EVENTO
+http://flashtv.mine.nu:8000/live/1dhoCjnVWX/MgemuZ9wIk/4183.ts
+#EXTINF:-1,Mosaiko Sky Calcio
+http://flashtv.mine.nu:8000/live/1dhoCjnVWX/MgemuZ9wIk/4159.ts
+#EXTINF:-1,Sky Supercalcio FULL HD
+http://flashtv.mine.nu:8000/live/1dhoCjnVWX/MgemuZ9wIk/3695.ts
+#EXTINF:-1,Sky Supercalcio HD
+http://flashtv.mine.nu:8000/live/1dhoCjnVWX/MgemuZ9wIk/3272.ts
+#EXTINF:-1,Sky Calcio 1 FULL HD
+http://flashtv.mine.nu:8000/live/1dhoCjnVWX/MgemuZ9wIk/4171.ts
+#EXTINF:-1,Sky Calcio 1 HD
+http://flashtv.mine.nu:8000/live/1dhoCjnVWX/MgemuZ9wIk/3271.ts
+#EXTINF:-1,Sky Calcio 2 HD
+http://flashtv.mine.nu:8000/live/1dhoCjnVWX/MgemuZ9wIk/3270.ts
+#EXTINF:-1,Sky Calcio 3 HD
+http://flashtv.mine.nu:8000/live/1dhoCjnVWX/MgemuZ9wIk/3269.ts
+#EXTINF:-1,Sky Calcio 4 HD
+http://flashtv.mine.nu:8000/live/1dhoCjnVWX/MgemuZ9wIk/3268.ts
+#EXTINF:-1,Sky Calcio 5 HD
+http://flashtv.mine.nu:8000/live/1dhoCjnVWX/MgemuZ9wIk/3267.ts
+#EXTINF:-1,Sky Calcio 6 HD
+http://flashtv.mine.nu:8000/live/1dhoCjnVWX/MgemuZ9wIk/3266.ts
+#EXTINF:-1,Sky Calcio 7 HD
+http://flashtv.mine.nu:8000/live/1dhoCjnVWX/MgemuZ9wIk/3265.ts
+#EXTINF:-1,Sky Calcio 8 HD
+http://flashtv.mine.nu:8000/live/1dhoCjnVWX/MgemuZ9wIk/3264.ts
+#EXTINF:-1,Sky Calcio 9 HD
+http://flashtv.mine.nu:8000/live/1dhoCjnVWX/MgemuZ9wIk/3263.ts
+#EXTINF:-1,Sky Calcio 10 HD
+http://flashtv.mine.nu:8000/live/1dhoCjnVWX/MgemuZ9wIk/3262.ts
+#EXTINF:-1,Sky Calcio 11 HD
+http://flashtv.mine.nu:8000/live/1dhoCjnVWX/MgemuZ9wIk/4189.ts
+#EXTINF:-1,------- PREMIUM SPORT -------
+http://flashtv.mine.nu:8000/live/1dhoCjnVWX/MgemuZ9wIk/2783.ts
+#EXTINF:-1,PREMIUM SPORT HD EVENTO
+http://flashtv.mine.nu:8000/live/1dhoCjnVWX/MgemuZ9wIk/4136.ts
+#EXTINF:-1,PREMIUM SPORT SD EVENTO
+http://flashtv.mine.nu:8000/live/1dhoCjnVWX/MgemuZ9wIk/4137.ts
+#EXTINF:-1,Premium Sport FULL HD
+http://flashtv.mine.nu:8000/live/1dhoCjnVWX/MgemuZ9wIk/3240.ts
+#EXTINF:-1,Premium Sport HD
+http://flashtv.mine.nu:8000/live/1dhoCjnVWX/MgemuZ9wIk/3239.ts
+#EXTINF:-1,Premium Sport SD
+http://flashtv.mine.nu:8000/live/1dhoCjnVWX/MgemuZ9wIk/4132.ts
+#EXTINF:-1,Premium Sport 2 FULL HD
+http://flashtv.mine.nu:8000/live/1dhoCjnVWX/MgemuZ9wIk/4179.ts
+#EXTINF:-1,Premium Sport 2 HD
+http://flashtv.mine.nu:8000/live/1dhoCjnVWX/MgemuZ9wIk/4093.ts
+#EXTINF:-1,Premium Sport 2
+http://flashtv.mine.nu:8000/live/1dhoCjnVWX/MgemuZ9wIk/3237.ts
+#EXTINF:-1,Premium Calcio 1 HD
+http://flashtv.mine.nu:8000/live/1dhoCjnVWX/MgemuZ9wIk/3246.ts
+#EXTINF:-1,Premium Calcio 1 SD
+http://flashtv.mine.nu:8000/live/1dhoCjnVWX/MgemuZ9wIk/4133.ts
+#EXTINF:-1,Premium Calcio 2
+http://flashtv.mine.nu:8000/live/1dhoCjnVWX/MgemuZ9wIk/3245.ts
+#EXTINF:-1,Premium Calcio 3
+http://flashtv.mine.nu:8000/live/1dhoCjnVWX/MgemuZ9wIk/3244.ts
+#EXTINF:-1,Premium Calcio 4
+http://flashtv.mine.nu:8000/live/1dhoCjnVWX/MgemuZ9wIk/3243.ts
+#EXTINF:-1,Premium Calcio 5
+http://flashtv.mine.nu:8000/live/1dhoCjnVWX/MgemuZ9wIk/3242.ts
+#EXTINF:-1,Premium Calcio 6
+http://flashtv.mine.nu:8000/live/1dhoCjnVWX/MgemuZ9wIk/3241.ts
+#EXTINF:-1,Premium Calcio 7
+http://flashtv.mine.nu:8000/live/1dhoCjnVWX/MgemuZ9wIk/3683.ts
+#EXTINF:-1,------- LEGA PRO -------
+http://flashtv.mine.nu:8000/live/1dhoCjnVWX/MgemuZ9wIk/3357.ts
+#EXTINF:-1,LEGA PRO INFO
+http://flashtv.mine.nu:8000/live/1dhoCjnVWX/MgemuZ9wIk/4181.ts
+#EXTINF:-1,DIRETTA EVENTO 1 GIRONE A
+http://flashtv.mine.nu:8000/live/1dhoCjnVWX/MgemuZ9wIk/4241.ts
+#EXTINF:-1,DIRETTA EVENTO 2 GIRONE A
+http://flashtv.mine.nu:8000/live/1dhoCjnVWX/MgemuZ9wIk/4240.ts
+#EXTINF:-1,Lega Pro Channel ALESSANDRIA
+http://flashtv.mine.nu:8000/live/1dhoCjnVWX/MgemuZ9wIk/4239.ts
+#EXTINF:-1,Lega Pro Channel  PIACENZA
+http://flashtv.mine.nu:8000/live/1dhoCjnVWX/MgemuZ9wIk/4243.ts
+#EXTINF:-1,Lega Pro Channel OLBIA
+http://flashtv.mine.nu:8000/live/1dhoCjnVWX/MgemuZ9wIk/4246.ts
+#EXTINF:-1,Lega Pro Channel CUNEO
+http://flashtv.mine.nu:8000/live/1dhoCjnVWX/MgemuZ9wIk/4225.ts
+#EXTINF:-1,Lega Pro Channel VITERBESE
+http://flashtv.mine.nu:8000/live/1dhoCjnVWX/MgemuZ9wIk/4220.ts
+#EXTINF:-1,Lega Pro Channel PONTEDERA
+http://flashtv.mine.nu:8000/live/1dhoCjnVWX/MgemuZ9wIk/4224.ts
+#EXTINF:-1,Lega Pro Channel CARRARESE
+http://flashtv.mine.nu:8000/live/1dhoCjnVWX/MgemuZ9wIk/4226.ts
+#EXTINF:-1,Lega Pro Channel PRATO
+http://flashtv.mine.nu:8000/live/1dhoCjnVWX/MgemuZ9wIk/4223.ts
+#EXTINF:-1,Lega Pro Channel SIENA
+http://flashtv.mine.nu:8000/live/1dhoCjnVWX/MgemuZ9wIk/4221.ts
+#EXTINF:-1,Lega Pro Channel LIVORNO
+http://flashtv.mine.nu:8000/live/1dhoCjnVWX/MgemuZ9wIk/4230.ts
+#EXTINF:-1,Lega Pro Channel PISA
+http://flashtv.mine.nu:8000/live/1dhoCjnVWX/MgemuZ9wIk/4229.ts
+#EXTINF:-1,DIRETTA EVENTO 1 GIRONE B
+http://flashtv.mine.nu:8000/live/1dhoCjnVWX/MgemuZ9wIk/4228.ts
+#EXTINF:-1,DIRETTA EVENTO 2 GIRONE B
+http://flashtv.mine.nu:8000/live/1dhoCjnVWX/MgemuZ9wIk/4227.ts
+#EXTINF:-1,Lega Pro Channel FANO
+http://flashtv.mine.nu:8000/live/1dhoCjnVWX/MgemuZ9wIk/4238.ts
+#EXTINF:-1,Lega Pro Channel GUBBIO
+http://flashtv.mine.nu:8000/live/1dhoCjnVWX/MgemuZ9wIk/4237.ts
+#EXTINF:-1,Lega Pro Channel SAMBENEDETTESE
+http://flashtv.mine.nu:8000/live/1dhoCjnVWX/MgemuZ9wIk/4245.ts
+#EXTINF:-1,Lega Pro Channel PADOVA
+http://flashtv.mine.nu:8000/live/1dhoCjnVWX/MgemuZ9wIk/4236.ts
+#EXTINF:-1,Lega Pro Channel PORDENONE
+http://flashtv.mine.nu:8000/live/1dhoCjnVWX/MgemuZ9wIk/4235.ts
+#EXTINF:-1,Lega Pro Channel RAVENNA
+http://flashtv.mine.nu:8000/live/1dhoCjnVWX/MgemuZ9wIk/4234.ts
+#EXTINF:-1,Lega Pro Channel RENATE
+http://flashtv.mine.nu:8000/live/1dhoCjnVWX/MgemuZ9wIk/4233.ts
+#EXTINF:-1,Lega Pro Channel TRIESTINA
+http://flashtv.mine.nu:8000/live/1dhoCjnVWX/MgemuZ9wIk/4232.ts
+#EXTINF:-1,Lega Pro Channel VICENZA
+http://flashtv.mine.nu:8000/live/1dhoCjnVWX/MgemuZ9wIk/4231.ts
+#EXTINF:-1,Lega Pro Channel REGGIANA
+http://flashtv.mine.nu:8000/live/1dhoCjnVWX/MgemuZ9wIk/4217.ts
+#EXTINF:-1,DIRETTA EVENTO 1 GIRONE C
+http://flashtv.mine.nu:8000/live/1dhoCjnVWX/MgemuZ9wIk/4219.ts
+#EXTINF:-1,DIRETTA EVENTO 2 GIRONE C
+http://flashtv.mine.nu:8000/live/1dhoCjnVWX/MgemuZ9wIk/4218.ts
+#EXTINF:-1,Lega Pro Channel AKRAGAS
+http://flashtv.mine.nu:8000/live/1dhoCjnVWX/MgemuZ9wIk/4216.ts
+#EXTINF:-1,Lega Pro Channel BISCEGLIE
+http://flashtv.mine.nu:8000/live/1dhoCjnVWX/MgemuZ9wIk/4207.ts
+#EXTINF:-1,Lega Pro Channel CASERTANA
+http://flashtv.mine.nu:8000/live/1dhoCjnVWX/MgemuZ9wIk/4215.ts
+#EXTINF:-1,Lega Pro Channel REGGINA
+http://flashtv.mine.nu:8000/live/1dhoCjnVWX/MgemuZ9wIk/4222.ts
+#EXTINF:-1,Lega Pro Channel CATANIA
+http://flashtv.mine.nu:8000/live/1dhoCjnVWX/MgemuZ9wIk/4214.ts
+#EXTINF:-1,Lega Pro Channel CATANZARO
+http://flashtv.mine.nu:8000/live/1dhoCjnVWX/MgemuZ9wIk/4206.ts
+#EXTINF:-1,Lega Pro Channel COSENZA
+http://flashtv.mine.nu:8000/live/1dhoCjnVWX/MgemuZ9wIk/4213.ts
+#EXTINF:-1,Lega Pro Channel FIDELIS ANDRIA
+http://flashtv.mine.nu:8000/live/1dhoCjnVWX/MgemuZ9wIk/4212.ts
+#EXTINF:-1,Lega Pro Channel FRANCAVILLA
+http://flashtv.mine.nu:8000/live/1dhoCjnVWX/MgemuZ9wIk/4205.ts
+#EXTINF:-1,Lega Pro Channel JUVE STABIA
+http://flashtv.mine.nu:8000/live/1dhoCjnVWX/MgemuZ9wIk/4211.ts
+#EXTINF:-1,Lega Pro Channel LECCE
+http://flashtv.mine.nu:8000/live/1dhoCjnVWX/MgemuZ9wIk/4210.ts
+#EXTINF:-1,Lega Pro Channel MATERA
+http://flashtv.mine.nu:8000/live/1dhoCjnVWX/MgemuZ9wIk/4204.ts
+#EXTINF:-1,Lega Pro Channel MONOPOLI
+http://flashtv.mine.nu:8000/live/1dhoCjnVWX/MgemuZ9wIk/4203.ts
+#EXTINF:-1,Lega Pro Channel PAGANESE
+http://flashtv.mine.nu:8000/live/1dhoCjnVWX/MgemuZ9wIk/4202.ts
+#EXTINF:-1,Lega Pro Channel RENDE
+http://flashtv.mine.nu:8000/live/1dhoCjnVWX/MgemuZ9wIk/4201.ts
+#EXTINF:-1,Lega Pro Channel SICULA
+http://flashtv.mine.nu:8000/live/1dhoCjnVWX/MgemuZ9wIk/4200.ts
+#EXTINF:-1,Lega Pro Channel SIRACUSA
+http://flashtv.mine.nu:8000/live/1dhoCjnVWX/MgemuZ9wIk/4209.ts
+#EXTINF:-1,Lega Pro Channel TRAPANI
+http://flashtv.mine.nu:8000/live/1dhoCjnVWX/MgemuZ9wIk/4208.ts
+#EXTINF:-1,LEGA PRO SPORT MIX 1
+http://flashtv.mine.nu:8000/live/1dhoCjnVWX/MgemuZ9wIk/4198.ts
+#EXTINF:-1,LEGA PRO SPORT MIX 2
+http://flashtv.mine.nu:8000/live/1dhoCjnVWX/MgemuZ9wIk/4197.ts
+#EXTINF:-1,------- INTRATTENIMENTO -------
+http://flashtv.mine.nu:8000/live/1dhoCjnVWX/MgemuZ9wIk/3351.ts
+#EXTINF:-1,GRANDE FRATELLO
+http://tkvhd.servegame.org:43100/live/BackupFlash/KprgVKoIgy/21803.ts
+#EXTINF:-1,Sky Uno FULL HD
+http://flashtv.mine.nu:8000/live/1dhoCjnVWX/MgemuZ9wIk/4186.ts
+#EXTINF:-1,Sky Uno HD
+http://flashtv.mine.nu:8000/live/1dhoCjnVWX/MgemuZ9wIk/3301.ts
+#EXTINF:-1,Sky Uno HD +1
+http://flashtv.mine.nu:8000/live/1dhoCjnVWX/MgemuZ9wIk/3300.ts
 #EXTINF:-1,Sky 3D
-http://jazoora.net:8000/live/Shahid1/Shahid1/2770.ts
-#EXTINF:-1,Sky Primafila 01 HD
-http://jazoora.net:8000/live/Shahid1/Shahid1/2882.ts
-#EXTINF:-1,Sky Primafila 02 HD
-http://jazoora.net:8000/live/Shahid1/Shahid1/2883.ts
-#EXTINF:-1,Sky Primafila 03 HD
-http://jazoora.net:8000/live/Shahid1/Shahid1/2884.ts
-#EXTINF:-1,Sky Primafila 04 HD
-http://jazoora.net:8000/live/Shahid1/Shahid1/2885.ts
-#EXTINF:-1,Sky Primafila 05 HD
-http://jazoora.net:8000/live/Shahid1/Shahid1/2886.ts
-#EXTINF:-1,Sky Primafila 06 HD
-http://jazoora.net:8000/live/Shahid1/Shahid1/2887.ts
-#EXTINF:-1,Sky Primafila 07 HD
-http://jazoora.net:8000/live/Shahid1/Shahid1/2888.ts
-#EXTINF:-1,Sky Primafila 08 HD
-http://jazoora.net:8000/live/Shahid1/Shahid1/2889.ts
-#EXTINF:-1,Sky Primafila 09 HD
-http://jazoora.net:8000/live/Shahid1/Shahid1/2890.ts
-#EXTINF:-1,Sky Primafila 10 HD
-http://jazoora.net:8000/live/Shahid1/Shahid1/2891.ts
-#EXTINF:-1,Sky Primafila 11 HD
-http://jazoora.net:8000/live/Shahid1/Shahid1/2999.ts
-#EXTINF:-1,Sky Primafila 12 HD
-http://jazoora.net:8000/live/Shahid1/Shahid1/3000.ts
-#EXTINF:-1,Sky Primafila 13 HD
-http://jazoora.net:8000/live/Shahid1/Shahid1/3001.ts
-#EXTINF:-1,Sky Primafila 14 HD
-http://jazoora.net:8000/live/Shahid1/Shahid1/3002.ts
-#EXTINF:-1,Sky Primafila 15 HD
-http://jazoora.net:8000/live/Shahid1/Shahid1/3003.ts
-#EXTINF:-1,Sky Primafila 16 HD
-http://jazoora.net:8000/live/Shahid1/Shahid1/3004.ts
-#EXTINF:-1,Sky Primafila 17 HD
-http://jazoora.net:8000/live/Shahid1/Shahid1/3005.ts
-#EXTINF:-1,Sky Primafila 18 HD
-http://jazoora.net:8000/live/Shahid1/Shahid1/3006.ts
+http://flashtv.mine.nu:8000/live/1dhoCjnVWX/MgemuZ9wIk/3319.ts
+#EXTINF:-1,GOMORRA EVENTO 1
+http://flashtv.mine.nu:8000/live/1dhoCjnVWX/MgemuZ9wIk/4248.ts
+#EXTINF:-1,GOMORRA EVENTO 2
+http://flashtv.mine.nu:8000/live/1dhoCjnVWX/MgemuZ9wIk/4249.ts
+#EXTINF:-1,GOMORRA EVENTO 3
+http://flashtv.mine.nu:8000/live/1dhoCjnVWX/MgemuZ9wIk/4250.ts
+#EXTINF:-1,Sky Atlantic HD
+http://flashtv.mine.nu:8000/live/1dhoCjnVWX/MgemuZ9wIk/3298.ts
+#EXTINF:-1,Sky Atlantic HD +1
+http://flashtv.mine.nu:8000/live/1dhoCjnVWX/MgemuZ9wIk/3297.ts
+#EXTINF:-1,Fox Life HD
+http://flashtv.mine.nu:8000/live/1dhoCjnVWX/MgemuZ9wIk/3290.ts
+#EXTINF:-1,Fox HD
+http://flashtv.mine.nu:8000/live/1dhoCjnVWX/MgemuZ9wIk/3296.ts
+#EXTINF:-1,Fox HD +1
+http://flashtv.mine.nu:8000/live/1dhoCjnVWX/MgemuZ9wIk/3295.ts
+#EXTINF:-1,Fox Crime HD
+http://flashtv.mine.nu:8000/live/1dhoCjnVWX/MgemuZ9wIk/3293.ts
+#EXTINF:-1,Fox Animation HD
+http://flashtv.mine.nu:8000/live/1dhoCjnVWX/MgemuZ9wIk/3289.ts
+#EXTINF:-1,Fox Comedy HD
+http://flashtv.mine.nu:8000/live/1dhoCjnVWX/MgemuZ9wIk/3294.ts
+#EXTINF:-1,Comedy Central
+http://flashtv.mine.nu:8000/live/1dhoCjnVWX/MgemuZ9wIk/3288.ts
+#EXTINF:-1,DoveTV
+http://flashtv.mine.nu:8000/live/1dhoCjnVWX/MgemuZ9wIk/3687.ts
+#EXTINF:-1,LEI
+http://flashtv.mine.nu:8000/live/1dhoCjnVWX/MgemuZ9wIk/3686.ts
+#EXTINF:-1,Dmax
+http://flashtv.mine.nu:8000/live/1dhoCjnVWX/MgemuZ9wIk/3129.ts
+#EXTINF:-1,Real Time HD
+http://flashtv.mine.nu:8000/live/1dhoCjnVWX/MgemuZ9wIk/3277.ts
+#EXTINF:-1,------- CULTURA -------
+http://flashtv.mine.nu:8000/live/1dhoCjnVWX/MgemuZ9wIk/2857.ts
+#EXTINF:-1,Sky Arte FULL HD
+http://flashtv.mine.nu:8000/live/1dhoCjnVWX/MgemuZ9wIk/4170.ts
+#EXTINF:-1,Sky Arte HD
+http://flashtv.mine.nu:8000/live/1dhoCjnVWX/MgemuZ9wIk/3299.ts
+#EXTINF:-1,National Geografic FULL HD
+http://flashtv.mine.nu:8000/live/1dhoCjnVWX/MgemuZ9wIk/4165.ts
+#EXTINF:-1,National Geografic HD
+http://flashtv.mine.nu:8000/live/1dhoCjnVWX/MgemuZ9wIk/3281.ts
+#EXTINF:-1,NatGeo People  FULL HD
+http://flashtv.mine.nu:8000/live/1dhoCjnVWX/MgemuZ9wIk/4166.ts
+#EXTINF:-1,NatGeo People HD
+http://flashtv.mine.nu:8000/live/1dhoCjnVWX/MgemuZ9wIk/3279.ts
+#EXTINF:-1,NatGeo Wild FULL HD
+http://flashtv.mine.nu:8000/live/1dhoCjnVWX/MgemuZ9wIk/4167.ts
+#EXTINF:-1,NatGeo Wild HD
+http://flashtv.mine.nu:8000/live/1dhoCjnVWX/MgemuZ9wIk/3282.ts
+#EXTINF:-1,Discovery HD FULL HD
+http://flashtv.mine.nu:8000/live/1dhoCjnVWX/MgemuZ9wIk/4168.ts
+#EXTINF:-1,Discovery HD
+http://flashtv.mine.nu:8000/live/1dhoCjnVWX/MgemuZ9wIk/3287.ts
+#EXTINF:-1,Discovery  SC HD
+http://flashtv.mine.nu:8000/live/1dhoCjnVWX/MgemuZ9wIk/3286.ts
+#EXTINF:-1,History Channel HD
+http://flashtv.mine.nu:8000/live/1dhoCjnVWX/MgemuZ9wIk/3283.ts
+#EXTINF:-1,Animal Planet
+http://flashtv.mine.nu:8000/live/1dhoCjnVWX/MgemuZ9wIk/3280.ts
+#EXTINF:-1,CI Crime Inv HD
+http://flashtv.mine.nu:8000/live/1dhoCjnVWX/MgemuZ9wIk/3130.ts
+#EXTINF:-1,Discovery Trav & Living FULL HD
+http://flashtv.mine.nu:8000/live/1dhoCjnVWX/MgemuZ9wIk/4169.ts
+#EXTINF:-1,Discovery Travel Living HD
+http://flashtv.mine.nu:8000/live/1dhoCjnVWX/MgemuZ9wIk/3285.ts
+#EXTINF:-1,Blaze HD
+http://flashtv.mine.nu:8000/live/1dhoCjnVWX/MgemuZ9wIk/3676.ts
+#EXTINF:-1,Caccia e Pesca
+http://flashtv.mine.nu:8000/live/1dhoCjnVWX/MgemuZ9wIk/3366.ts
+#EXTINF:-1,Pesca e Caccia
+http://flashtv.mine.nu:8000/live/1dhoCjnVWX/MgemuZ9wIk/3367.ts
+#EXTINF:-1,Pescare e Cacciare
+http://flashtv.mine.nu:8000/live/1dhoCjnVWX/MgemuZ9wIk/3368.ts
+#EXTINF:-1,Italian Fishing
+http://flashtv.mine.nu:8000/live/1dhoCjnVWX/MgemuZ9wIk/3374.ts
+#EXTINF:-1,Focus
+http://flashtv.mine.nu:8000/live/1dhoCjnVWX/MgemuZ9wIk/3125.ts
+#EXTINF:-1,Alice
+http://flashtv.mine.nu:8000/live/1dhoCjnVWX/MgemuZ9wIk/3127.ts
+#EXTINF:-1,Gambero rosso HD
+http://flashtv.mine.nu:8000/live/1dhoCjnVWX/MgemuZ9wIk/3126.ts
+#EXTINF:-1,Marcopolo
+http://flashtv.mine.nu:8000/live/1dhoCjnVWX/MgemuZ9wIk/3274.ts
+#EXTINF:-1,Class Horse TV
+http://flashtv.mine.nu:8000/live/1dhoCjnVWX/MgemuZ9wIk/3202.ts
+#EXTINF:-1,Sky Classica HD
+http://flashtv.mine.nu:8000/live/1dhoCjnVWX/MgemuZ9wIk/3273.ts
+#EXTINF:-1,------- BAMBINI -------
+http://flashtv.mine.nu:8000/live/1dhoCjnVWX/MgemuZ9wIk/3373.ts
+#EXTINF:-1,Disney XD HD
+http://flashtv.mine.nu:8000/live/1dhoCjnVWX/MgemuZ9wIk/3117.ts
+#EXTINF:-1,Disney Junior
+http://flashtv.mine.nu:8000/live/1dhoCjnVWX/MgemuZ9wIk/3118.ts
+#EXTINF:-1,Disney Channel HD
+http://flashtv.mine.nu:8000/live/1dhoCjnVWX/MgemuZ9wIk/3119.ts
+#EXTINF:-1,Cartoonito
+http://flashtv.mine.nu:8000/live/1dhoCjnVWX/MgemuZ9wIk/3210.ts
+#EXTINF:-1,Cartoon Network
+http://flashtv.mine.nu:8000/live/1dhoCjnVWX/MgemuZ9wIk/3209.ts
+#EXTINF:-1,Baby TV
+http://flashtv.mine.nu:8000/live/1dhoCjnVWX/MgemuZ9wIk/3108.ts
+#EXTINF:-1,Boing
+http://flashtv.mine.nu:8000/live/1dhoCjnVWX/MgemuZ9wIk/3208.ts
+#EXTINF:-1,Dea Kids
+http://flashtv.mine.nu:8000/live/1dhoCjnVWX/MgemuZ9wIk/3201.ts
+#EXTINF:-1,Manga
+http://flashtv.mine.nu:8000/live/1dhoCjnVWX/MgemuZ9wIk/3205.ts
+#EXTINF:-1,Boomerang
+http://flashtv.mine.nu:8000/live/1dhoCjnVWX/MgemuZ9wIk/3377.ts
+#EXTINF:-1,Nick Junior
+http://flashtv.mine.nu:8000/live/1dhoCjnVWX/MgemuZ9wIk/3207.ts
+#EXTINF:-1,Nickelodeon
+http://flashtv.mine.nu:8000/live/1dhoCjnVWX/MgemuZ9wIk/3206.ts
+#EXTINF:-1,Super!
+http://flashtv.mine.nu:8000/live/1dhoCjnVWX/MgemuZ9wIk/3116.ts
+#EXTINF:-1,Frisbee
+http://flashtv.mine.nu:8000/live/1dhoCjnVWX/MgemuZ9wIk/3375.ts
+#EXTINF:-1,K2
+http://flashtv.mine.nu:8000/live/1dhoCjnVWX/MgemuZ9wIk/3376.ts
+#EXTINF:-1,Rai Gulp
+http://flashtv.mine.nu:8000/live/1dhoCjnVWX/MgemuZ9wIk/3230.ts
+#EXTINF:-1,Rai yoyo
+http://flashtv.mine.nu:8000/live/1dhoCjnVWX/MgemuZ9wIk/3221.ts
+#EXTVLCOPT:http-user-agent=www.iptv4sat.com
+#EXTINF:-1,IT:Premium Action HD
+http://momens.info:8089/live/I3473/5a3eb7499f7fb/288.ts
+#EXTVLCOPT:http-user-agent=www.iptv4sat.com
+#EXTINF:-1,IT:Premium Action  24HD
+http://momens.info:8089/live/I3473/5a3eb7499f7fb/289.ts
+#EXTVLCOPT:http-user-agent=www.iptv4sat.com
+#EXTINF:-1,IT:Premium Cinema HD
+http://momens.info:8089/live/I3473/5a3eb7499f7fb/290.ts
+#EXTVLCOPT:http-user-agent=www.iptv4sat.com
+#EXTINF:-1,IT:Premium Cinema 2 HD
+http://momens.info:8089/live/I3473/5a3eb7499f7fb/291.ts
+#EXTVLCOPT:http-user-agent=www.iptv4sat.com
+#EXTINF:-1,IT:Sky Primafila 1 HD
+http://momens.info:8089/live/I3473/5a3eb7499f7fb/292.ts
+#EXTVLCOPT:http-user-agent=www.iptv4sat.com
+#EXTINF:-1,IT:Sky Primafila 2 HD
+http://momens.info:8089/live/I3473/5a3eb7499f7fb/293.ts
+#EXTVLCOPT:http-user-agent=www.iptv4sat.com
+#EXTINF:-1,IT:Sky Primafila 3 HD
+http://momens.info:8089/live/I3473/5a3eb7499f7fb/294.ts
+#EXTVLCOPT:http-user-agent=www.iptv4sat.com
+#EXTINF:-1,IT:Sky Primafila 4 HD
+http://momens.info:8089/live/I3473/5a3eb7499f7fb/295.ts
+#EXTVLCOPT:http-user-agent=www.iptv4sat.com
+#EXTINF:-1,IT:Sky Primafila 5 HD
+http://momens.info:8089/live/I3473/5a3eb7499f7fb/296.ts
+#EXTVLCOPT:http-user-agent=www.iptv4sat.com
+#EXTINF:-1,IT:Sky Primafila 6 HD
+http://momens.info:8089/live/I3473/5a3eb7499f7fb/297.ts
+#EXTVLCOPT:http-user-agent=www.iptv4sat.com
+#EXTINF:-1,IT:Sky Primafila 7 HD
+http://momens.info:8089/live/I3473/5a3eb7499f7fb/298.ts
+#EXTVLCOPT:http-user-agent=www.iptv4sat.com
+#EXTINF:-1,IT:Sky Primafila 8 HD
+http://momens.info:8089/live/I3473/5a3eb7499f7fb/299.ts
+#EXTVLCOPT:http-user-agent=www.iptv4sat.com
+#EXTINF:-1,IT:Sky Primafila 9 HD
+http://momens.info:8089/live/I3473/5a3eb7499f7fb/300.ts
+#EXTVLCOPT:http-user-agent=www.iptv4sat.com
+#EXTINF:-1,IT:Sky Primafila 10 HD
+http://momens.info:8089/live/I3473/5a3eb7499f7fb/301.ts
+#EXTVLCOPT:http-user-agent=www.iptv4sat.com
+#EXTINF:-1,IT:Sky Primafila 11 HD
+http://momens.info:8089/live/I3473/5a3eb7499f7fb/302.ts
+#EXTVLCOPT:http-user-agent=www.iptv4sat.com
+#EXTINF:-1,IT:Sky Primafila 12 HD
+http://momens.info:8089/live/I3473/5a3eb7499f7fb/303.ts
+#EXTVLCOPT:http-user-agent=www.iptv4sat.com
+#EXTINF:-1,IT:Sky Primafila 13 HD
+http://momens.info:8089/live/I3473/5a3eb7499f7fb/304.ts
+#EXTVLCOPT:http-user-agent=www.iptv4sat.com
+#EXTINF:-1,IT:Sky Primafila 14 HD
+http://momens.info:8089/live/I3473/5a3eb7499f7fb/305.ts
+#EXTVLCOPT:http-user-agent=www.iptv4sat.com
+#EXTINF:-1,IT:Sky Primafila 15 HD
+http://momens.info:8089/live/I3473/5a3eb7499f7fb/306.ts
+#EXTVLCOPT:http-user-agent=www.iptv4sat.com
+#EXTINF:-1,IT:Sky Primafila 16 HD
+http://momens.info:8089/live/I3473/5a3eb7499f7fb/307.ts
+#EXTVLCOPT:http-user-agent=www.iptv4sat.com
+#EXTINF:-1,IT:Sky Primafila 17 HD
+http://momens.info:8089/live/I3473/5a3eb7499f7fb/308.ts
+#EXTVLCOPT:http-user-agent=www.iptv4sat.com
+#EXTINF:-1,IT:Sky Primafila 18 HD
+http://momens.info:8089/live/I3473/5a3eb7499f7fb/309.ts
+#EXTVLCOPT:http-user-agent=www.iptv4sat.com
+#EXTINF:-1,IT:Sky Cinema24
+http://momens.info:8089/live/I3473/5a3eb7499f7fb/310.ts
+#EXTVLCOPT:http-user-agent=www.iptv4sat.com
+#EXTINF:-1,IT:Sky Cinema plus1
+http://momens.info:8089/live/I3473/5a3eb7499f7fb/311.ts
+#EXTVLCOPT:http-user-agent=www.iptv4sat.com
+#EXTINF:-1,IT:Sky Cinema Passion
+http://momens.info:8089/live/I3473/5a3eb7499f7fb/312.ts
+#EXTVLCOPT:http-user-agent=www.iptv4sat.com
+#EXTINF:-1,IT:Sky Cinema Hits
+http://momens.info:8089/live/I3473/5a3eb7499f7fb/313.ts
+#EXTVLCOPT:http-user-agent=www.iptv4sat.com
+#EXTINF:-1,IT:Sky Cinema family
+http://momens.info:8089/live/I3473/5a3eb7499f7fb/314.ts
+#EXTVLCOPT:http-user-agent=www.iptv4sat.com
+#EXTINF:-1,IT:Sky Cinema Comedy
+http://momens.info:8089/live/I3473/5a3eb7499f7fb/315.ts
+#EXTVLCOPT:http-user-agent=www.iptv4sat.com
+#EXTINF:-1,IT:Sky Cinema Classic
+http://momens.info:8089/live/I3473/5a3eb7499f7fb/316.ts
+#EXTVLCOPT:http-user-agent=www.iptv4sat.com
+#EXTINF:-1,IT:Cinema Max
+http://momens.info:8089/live/I3473/5a3eb7499f7fb/317.ts
+#EXTVLCOPT:http-user-agent=www.iptv4sat.com
+#EXTINF:-1,IT:Sky Fox HD
+http://momens.info:8089/live/I3473/5a3eb7499f7fb/318.ts
+#EXTVLCOPT:http-user-agent=www.iptv4sat.com
+#EXTINF:-1,IT:Sky TG24
+http://momens.info:8089/live/I3473/5a3eb7499f7fb/319.ts
+#EXTVLCOPT:http-user-agent=www.iptv4sat.com
+#EXTINF:-1,IT:Fox Life
+http://momens.info:8089/live/I3473/5a3eb7499f7fb/320.ts
+#EXTVLCOPT:http-user-agent=www.iptv4sat.com
+#EXTINF:-1,IT:Fox Comedy
+http://momens.info:8089/live/I3473/5a3eb7499f7fb/321.ts
+#EXTVLCOPT:http-user-agent=www.iptv4sat.com
+#EXTINF:-1,IT:Fox Animation
+http://momens.info:8089/live/I3473/5a3eb7499f7fb/322.ts
+#EXTVLCOPT:http-user-agent=www.iptv4sat.com
+#EXTINF:-1,IT:Rai 1
+http://momens.info:8089/live/I3473/5a3eb7499f7fb/323.ts
+#EXTVLCOPT:http-user-agent=www.iptv4sat.com
+#EXTINF:-1,IT:Rai2
+http://momens.info:8089/live/I3473/5a3eb7499f7fb/324.ts
+#EXTVLCOPT:http-user-agent=www.iptv4sat.com
+#EXTINF:-1,IT:Rai 3
+http://momens.info:8089/live/I3473/5a3eb7499f7fb/325.ts
+#EXTVLCOPT:http-user-agent=www.iptv4sat.com
+#EXTINF:-1,IT:Rai News24
+http://momens.info:8089/live/I3473/5a3eb7499f7fb/326.ts
+#EXTVLCOPT:http-user-agent=www.iptv4sat.com
+#EXTINF:-1,IT:LA 9
+http://momens.info:8089/live/I3473/5a3eb7499f7fb/327.ts
+#EXTVLCOPT:http-user-agent=www.iptv4sat.com
+#EXTINF:-1,IT:LA 8
+http://momens.info:8089/live/I3473/5a3eb7499f7fb/328.ts
+#EXTVLCOPT:http-user-agent=www.iptv4sat.com
+#EXTINF:-1,IT:LA 5
+http://momens.info:8089/live/I3473/5a3eb7499f7fb/329.ts
+#EXTVLCOPT:http-user-agent=www.iptv4sat.com
+#EXTINF:-1,IT:Italia1
+http://momens.info:8089/live/I3473/5a3eb7499f7fb/330.ts
+#EXTVLCOPT:http-user-agent=www.iptv4sat.com
+#EXTINF:-1,IT:Italia Fishing
+http://momens.info:8089/live/I3473/5a3eb7499f7fb/331.ts
+#EXTVLCOPT:http-user-agent=www.iptv4sat.com
+#EXTINF:-1,IT:Star Sat
+http://momens.info:8089/live/I3473/5a3eb7499f7fb/332.ts
+#EXTVLCOPT:http-user-agent=www.iptv4sat.com
+#EXTINF:-1,IT:Teleuno
+http://momens.info:8089/live/I3473/5a3eb7499f7fb/333.ts
+#EXTVLCOPT:http-user-agent=www.iptv4sat.com
+#EXTINF:-1,IT:RAI 4 HD
+http://momens.info:8089/live/I3473/5a3eb7499f7fb/334.ts
+#EXTVLCOPT:http-user-agent=www.iptv4sat.com
+#EXTINF:-1,IT:Canale 5
+http://momens.info:8089/live/I3473/5a3eb7499f7fb/335.ts
+#EXTVLCOPT:http-user-agent=www.iptv4sat.com
+#EXTINF:-1,IT:Media sat Extra
+http://momens.info:8089/live/I3473/5a3eb7499f7fb/336.ts
+#EXTVLCOPT:http-user-agent=www.iptv4sat.com
+#EXTINF:-1,IT:Camera daide
+http://momens.info:8089/live/I3473/5a3eb7499f7fb/337.ts
+#EXTVLCOPT:http-user-agent=www.iptv4sat.com
+#EXTINF:-1,IT:Cartoon network
+http://momens.info:8089/live/I3473/5a3eb7499f7fb/349.ts
+#EXTVLCOPT:http-user-agent=www.iptv4sat.com
+#EXTINF:-1,IT:Disney XD
+http://momens.info:8089/live/I3473/5a3eb7499f7fb/350.ts
+#EXTVLCOPT:http-user-agent=www.iptv4sat.com
+#EXTINF:-1,IT:Sky Nat Wild
+http://momens.info:8089/live/I3473/5a3eb7499f7fb/347.ts
+#EXTVLCOPT:http-user-agent=www.iptv4sat.com
+#EXTINF:-1,IT:Nat Geo People
+http://momens.info:8089/live/I3473/5a3eb7499f7fb/348.ts
+#EXTVLCOPT:http-user-agent=www.iptv4sat.com
+#EXTINF:-1,IT:Music TV
+http://momens.info:8089/live/I3473/5a3eb7499f7fb/338.ts
+#EXTVLCOPT:http-user-agent=www.iptv4sat.com
+#EXTINF:-1,IT:Viva Italia
+http://momens.info:8089/live/I3473/5a3eb7499f7fb/339.ts
