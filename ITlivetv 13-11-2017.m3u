@@ -3,279 +3,494 @@
 http://www.lengua.com/anthems/Indonesia.mp3
 #EXTINF:-1 tvg-name="Ger1" tvg-logo="" group-title="{BOUQUET_NAME}",Channel Kick Out in 15-20Sec Visit http://bit.ly/fixkick
 http://www.lengua.com/anthems/Indonesia.mp3
+#EXTINF:-1 tvg-name="Ger1" tvg-logo="" group-title="{BOUQUET_NAME}",Updated on 15 Jan 2018 Around 5 PM
+http://www.lengua.com/anthems/Indonesia.mp3
 
-#EXTINF:-1,|IT| Rai 1 HD
-http://149.202.78.31:2086/live/winsor_ZwRN7u/IGjwqET3/1424.ts
-#EXTINF:-1,|IT| Rai 2 HD
-http://149.202.78.31:2086/live/winsor_ZwRN7u/IGjwqET3/1423.ts
-#EXTINF:-1,|IT| Rai 3 HD
-http://149.202.78.31:2086/live/winsor_ZwRN7u/IGjwqET3/1422.ts
-#EXTINF:-1,|IT| Rai 4 HD
-http://149.202.78.31:2086/live/winsor_ZwRN7u/IGjwqET3/1421.ts
-#EXTINF:-1,|IT| Rai Sport 1
-http://149.202.78.31:2086/live/winsor_ZwRN7u/IGjwqET3/1427.ts
-#EXTINF:-1,|IT| Rai Sport 2
-http://149.202.78.31:2086/live/winsor_ZwRN7u/IGjwqET3/1426.ts
-#EXTINF:-1,|IT| Rail YoYo
-http://149.202.78.31:2086/live/winsor_ZwRN7u/IGjwqET3/1425.ts
-#EXTINF:-1,|IT| Rai Glup
-http://149.202.78.31:2086/live/winsor_ZwRN7u/IGjwqET3/1460.ts
-#EXTINF:-1,|IT| Rai Storia
-http://149.202.78.31:2086/live/winsor_ZwRN7u/IGjwqET3/1456.ts
-#EXTINF:-1,|IT| Rai Scuola
-http://149.202.78.31:2086/live/winsor_ZwRN7u/IGjwqET3/1457.ts
-#EXTINF:-1,|IT| Rai Movies
-http://149.202.78.31:2086/live/winsor_ZwRN7u/IGjwqET3/1459.ts
-#EXTINF:-1,|IT| Rai News 24
-http://149.202.78.31:2086/live/winsor_ZwRN7u/IGjwqET3/1458.ts
-#EXTINF:-1,|IT| Rai Premium
-http://149.202.78.31:2086/live/winsor_ZwRN7u/IGjwqET3/1428.ts
-#EXTINF:-1,|IT| DMAX
-http://149.202.78.31:2086/live/winsor_ZwRN7u/IGjwqET3/1467.ts
-#EXTINF:-1,|IT| Fox Crime
-http://149.202.78.31:2086/live/winsor_ZwRN7u/IGjwqET3/1466.ts
-#EXTINF:-1,|IT| Fox Life
-http://149.202.78.31:2086/live/winsor_ZwRN7u/IGjwqET3/1465.ts
-#EXTINF:-1,|IT| Sky Cinema Hits
-http://149.202.78.31:2086/live/winsor_ZwRN7u/IGjwqET3/1454.ts
-#EXTINF:-1,|IT| Sky Cinema UNO
-http://149.202.78.31:2086/live/winsor_ZwRN7u/IGjwqET3/1453.ts
-#EXTINF:-1,|IT| Canal 5
-http://149.202.78.31:2086/live/winsor_ZwRN7u/IGjwqET3/1452.ts
-#EXTINF:-1,|IT| Disney Channel
-http://149.202.78.31:2086/live/winsor_ZwRN7u/IGjwqET3/1450.ts
-#EXTINF:-1,|IT| Fox HD
-http://149.202.78.31:2086/live/winsor_ZwRN7u/IGjwqET3/1449.ts
-#EXTINF:-1,|IT| Fox Sports
-http://149.202.78.31:2086/live/winsor_ZwRN7u/IGjwqET3/1448.ts
-#EXTINF:-1,|IT| Giallo
-http://149.202.78.31:2086/live/winsor_ZwRN7u/IGjwqET3/1447.ts
-#EXTINF:-1,|IT| Italia 1
-http://149.202.78.31:2086/live/winsor_ZwRN7u/IGjwqET3/1446.ts
-#EXTINF:-1,|IT| Nat Geo People
-http://149.202.78.31:2086/live/winsor_ZwRN7u/IGjwqET3/1445.ts
-#EXTINF:-1,|IT| Nat Geo Wild
-http://149.202.78.31:2086/live/winsor_ZwRN7u/IGjwqET3/1444.ts
-#EXTINF:-1,|IT| Premium Action 24
-http://149.202.78.31:2086/live/winsor_ZwRN7u/IGjwqET3/1443.ts
-#EXTINF:-1,|IT| Premium Action HD
-http://149.202.78.31:2086/live/winsor_ZwRN7u/IGjwqET3/1442.ts
-#EXTINF:-1,|IT| Premium Calcio 1
-http://149.202.78.31:2086/live/winsor_ZwRN7u/IGjwqET3/1441.ts
-#EXTINF:-1,|IT| Premium Cinema 2
-http://149.202.78.31:2086/live/winsor_ZwRN7u/IGjwqET3/1438.ts
-#EXTINF:-1,|IT| Premium Cinema Comedy
-http://149.202.78.31:2086/live/winsor_ZwRN7u/IGjwqET3/1437.ts
-#EXTINF:-1,|IT| Premium Cinema Energy
-http://149.202.78.31:2086/live/winsor_ZwRN7u/IGjwqET3/1436.ts
-#EXTINF:-1,|IT| Premium Cinema HD
-http://149.202.78.31:2086/live/winsor_ZwRN7u/IGjwqET3/1435.ts
-#EXTINF:-1,|IT| Premium Cinema 2 24+
-http://149.202.78.31:2086/live/winsor_ZwRN7u/IGjwqET3/1434.ts
-#EXTINF:-1,|IT| Premium Crime HD
-http://149.202.78.31:2086/live/winsor_ZwRN7u/IGjwqET3/1432.ts
-#EXTINF:-1,|IT| Premium Emotion
-http://149.202.78.31:2086/live/winsor_ZwRN7u/IGjwqET3/1429.ts
-#EXTINF:-1,|IT| Rete 4
-http://149.202.78.31:2086/live/winsor_ZwRN7u/IGjwqET3/1420.ts
-#EXTINF:-1,|IT| RSI LA 1
-http://149.202.78.31:2086/live/winsor_ZwRN7u/IGjwqET3/1419.ts
-#EXTINF:-1,|IT| RSI LA 2
-http://149.202.78.31:2086/live/winsor_ZwRN7u/IGjwqET3/1418.ts
-#EXTINF:-1,|IT| SKY Calcio 1
-http://149.202.78.31:2086/live/winsor_ZwRN7u/IGjwqET3/1417.ts
-#EXTINF:-1,|IT| SKY Cinema Classic
-http://149.202.78.31:2086/live/winsor_ZwRN7u/IGjwqET3/1415.ts
-#EXTINF:-1,|IT| SKY Cinema Comedy
-http://149.202.78.31:2086/live/winsor_ZwRN7u/IGjwqET3/1414.ts
-#EXTINF:-1,|IT| SKY Cinema Cult
-http://149.202.78.31:2086/live/winsor_ZwRN7u/IGjwqET3/1413.ts
-#EXTINF:-1,|IT| SKY Cinema Family
-http://149.202.78.31:2086/live/winsor_ZwRN7u/IGjwqET3/1412.ts
-#EXTINF:-1,|IT| SKY Cinema Max
-http://149.202.78.31:2086/live/winsor_ZwRN7u/IGjwqET3/1411.ts
-#EXTINF:-1,|IT| SKY Sport F1
-http://149.202.78.31:2086/live/winsor_ZwRN7u/IGjwqET3/1409.ts
-#EXTINF:-1,|IT| National Geographic
-http://149.202.78.31:2086/live/winsor_ZwRN7u/IGjwqET3/1408.ts
-#EXTINF:-1,|IT| SKY Sport 1
-http://149.202.78.31:2086/live/winsor_ZwRN7u/IGjwqET3/1407.ts
-#EXTINF:-1,|IT| SKY Sport 2
-http://149.202.78.31:2086/live/winsor_ZwRN7u/IGjwqET3/1406.ts
-#EXTINF:-1,|IT| SKY Sport 24
-http://149.202.78.31:2086/live/winsor_ZwRN7u/IGjwqET3/1405.ts
-#EXTINF:-1,|IT| SKY Cinema Atlantic
-http://149.202.78.31:2086/live/winsor_ZwRN7u/IGjwqET3/1403.ts
-#EXTINF:-1,|IT| Cartoon Network
-http://149.202.78.31:2086/live/winsor_ZwRN7u/IGjwqET3/1402.ts
-#EXTINF:-1,|IT| TV8
-http://149.202.78.31:2086/live/winsor_ZwRN7u/IGjwqET3/1390.ts
-#EXTINF:-1,IT: Rai 1
-http://iptv-belge.ddns.net:8012/live/androtv0/androtv0/938.ts
-#EXTINF:-1,IT: Rai 2
-http://iptv-belge.ddns.net:8012/live/androtv0/androtv0/939.ts
-#EXTINF:-1,IT: Rai 3
-http://iptv-belge.ddns.net:8012/live/androtv0/androtv0/940.ts
-#EXTINF:-1,IT: Rai 4
-http://iptv-belge.ddns.net:8012/live/androtv0/androtv0/941.ts
-#EXTINF:-1,IT: Rai 5
-http://iptv-belge.ddns.net:8012/live/androtv0/androtv0/942.ts
-#EXTINF:-1,IT: Rai Sport
-http://iptv-belge.ddns.net:8012/live/androtv0/androtv0/943.ts
+#EXTINF:-1,IT: Sky Cinema 1 HD
+http://iptv.magsat.tv:80/live/MagSat/demissionchadly/475.ts
+#EXTINF:-1,IT: Discovery ScienceHD
+http://iptv.magsat.tv:80/live/MagSat/demissionchadly/470.ts
+#EXTINF:-1,IT: Cartoonito
+http://iptv.magsat.tv:80/live/MagSat/demissionchadly/472.ts
+#EXTINF:-1,IT: Cartoon Network
+http://iptv.magsat.tv:80/live/MagSat/demissionchadly/473.ts
+#EXTINF:-1,IT: RAI 1
+http://iptv.magsat.tv:80/live/MagSat/demissionchadly/207.ts
+#EXTINF:-1,IT: RAI 2
+http://iptv.magsat.tv:80/live/MagSat/demissionchadly/200.ts
+#EXTINF:-1,IT: RAI 3
+http://iptv.magsat.tv:80/live/MagSat/demissionchadly/201.ts
+#EXTINF:-1,IT: RAI 4
+http://iptv.magsat.tv:80/live/MagSat/demissionchadly/210.ts
+#EXTINF:-1,IT: RAI 5
+http://iptv.magsat.tv:80/live/MagSat/demissionchadly/202.ts
+#EXTINF:-1,IT: Rai Premium
+http://iptv.magsat.tv:80/live/MagSat/demissionchadly/764.ts
+#EXTINF:-1,IT: Rai Movie
+http://iptv.magsat.tv:80/live/MagSat/demissionchadly/763.ts
+#EXTINF:-1,IT: Rai Scuola
+http://iptv.magsat.tv:80/live/MagSat/demissionchadly/477.ts
+#EXTINF:-1,IT: Rai Gulp
+http://iptv.magsat.tv:80/live/MagSat/demissionchadly/761.ts
+#EXTINF:-1,IT: Rai YoYo
+http://iptv.magsat.tv:80/live/MagSat/demissionchadly/762.ts
+#EXTINF:-1,IT: RAI NEWS 24
+http://iptv.magsat.tv:80/live/MagSat/demissionchadly/148.ts
+#EXTINF:-1,IT: RSI LA 1
+http://iptv.magsat.tv:80/live/MagSat/demissionchadly/211.ts
+#EXTINF:-1,IT: RSI LA 2
+http://iptv.magsat.tv:80/live/MagSat/demissionchadly/209.ts
+#EXTINF:-1,IT: La 7 it
+http://iptv.magsat.tv:80/live/MagSat/demissionchadly/199.ts
+#EXTINF:-1,IT: Canale 5
+http://iptv.magsat.tv:80/live/MagSat/demissionchadly/356.ts
+#EXTINF:-1,IT: Canale 7
+http://iptv.magsat.tv:80/live/MagSat/demissionchadly/474.ts
+#EXTINF:-1,IT: Italia 1
+http://iptv.magsat.tv:80/live/MagSat/demissionchadly/203.ts
+#EXTINF:-1,IT: SuperCalcio
+http://iptv.magsat.tv:80/live/MagSat/demissionchadly/432.ts
+#EXTINF:-1,IT: Sky Sport 1 HD
+http://iptv.magsat.tv:80/live/MagSat/demissionchadly/431.ts
+#EXTINF:-1,IT: Premium Sport
+http://iptv.magsat.tv:80/live/MagSat/demissionchadly/440.ts
+#EXTINF:-1,IT: Premium Calcio 6
+http://iptv.magsat.tv:80/live/MagSat/demissionchadly/433.ts
+#EXTINF:-1,IT: Premium Calcio 5
+http://iptv.magsat.tv:80/live/MagSat/demissionchadly/434.ts
+#EXTINF:-1,IT: Premium Calcio 4
+http://iptv.magsat.tv:80/live/MagSat/demissionchadly/435.ts
+#EXTINF:-1,IT: Premium Calcio 3
+http://iptv.magsat.tv:80/live/MagSat/demissionchadly/436.ts
+#EXTINF:-1,IT: Premium Calcio 2
+http://iptv.magsat.tv:80/live/MagSat/demissionchadly/437.ts
+
+#EXTINF:-1,IT: Alice
+http://overflow.dynu.com:25461/live/iptv_i041/2593iT/321.ts
+#EXTINF:-1,IT: Alpa Uno TV
+http://overflow.dynu.com:25461/live/iptv_i041/2593iT/368.ts
+#EXTINF:-1,IT: Alto Adige
+http://overflow.dynu.com:25461/live/iptv_i041/2593iT/367.ts
+#EXTINF:-1,IT: Animal Planet
+http://overflow.dynu.com:25461/live/iptv_i041/2593iT/315.ts
+#EXTINF:-1,IT: Antenna 3 TV
+http://overflow.dynu.com:25461/live/iptv_i041/2593iT/336.ts
+#EXTINF:-1,IT: AutoMoto TV
+http://overflow.dynu.com:25461/live/iptv_i041/2593iT/464.ts
+#EXTINF:-1,IT: AXN HD
+http://overflow.dynu.com:25461/live/iptv_i041/2593iT/239.ts
+#EXTINF:-1,IT: Boing
+http://overflow.dynu.com:25461/live/iptv_i041/2593iT/190.ts
+#EXTINF:-1,IT: Brescia Tv
+http://overflow.dynu.com:25461/live/iptv_i041/2593iT/418.ts
+#EXTINF:-1,IT: Canale 21 Campania
+http://overflow.dynu.com:25461/live/iptv_i041/2593iT/393.ts
+#EXTINF:-1,IT: Canale 21 Lazio
+http://overflow.dynu.com:25461/live/iptv_i041/2593iT/392.ts
+#EXTINF:-1,IT: Canale 33
+http://overflow.dynu.com:25461/live/iptv_i041/2593iT/394.ts
+#EXTINF:-1,IT: Canale 46
+http://overflow.dynu.com:25461/live/iptv_i041/2593iT/395.ts
+#EXTINF:-1,IT: Canale 5
+http://overflow.dynu.com:25461/live/iptv_i041/2593iT/176.ts
+#EXTINF:-1,IT: CANALE 5 HD
+http://overflow.dynu.com:25461/live/iptv_i041/2593iT/175.ts
+#EXTINF:-1,IT: Canale 7 Gold
+http://overflow.dynu.com:25461/live/iptv_i041/2593iT/183.ts
+#EXTINF:-1,IT: Canale 7 Ita
+http://overflow.dynu.com:25461/live/iptv_i041/2593iT/384.ts
+#EXTINF:-1,IT: Canale 8
+http://overflow.dynu.com:25461/live/iptv_i041/2593iT/185.ts
+#EXTINF:-1,IT: Canale10
+http://overflow.dynu.com:25461/live/iptv_i041/2593iT/417.ts
+#EXTINF:-1,IT: Canale8
+http://overflow.dynu.com:25461/live/iptv_i041/2593iT/387.ts
+#EXTINF:-1,IT: CanaleDieci TV
+http://overflow.dynu.com:25461/live/iptv_i041/2593iT/388.ts
+#EXTINF:-1,IT: Cartoon Network
+http://overflow.dynu.com:25461/live/iptv_i041/2593iT/198.ts
+#EXTINF:-1,IT: Cartoonito
+http://overflow.dynu.com:25461/live/iptv_i041/2593iT/192.ts
+#EXTINF:-1,IT: Cielo
+http://overflow.dynu.com:25461/live/iptv_i041/2593iT/181.ts
+#EXTINF:-1,IT: CNBC Class
+http://overflow.dynu.com:25461/live/iptv_i041/2593iT/416.ts
+#EXTINF:-1,IT: CTS TV
+http://overflow.dynu.com:25461/live/iptv_i041/2593iT/383.ts
+#EXTINF:-1,IT: Di TV 1
+http://overflow.dynu.com:25461/live/iptv_i041/2593iT/380.ts
+#EXTINF:-1,IT: Di TV 2
+http://overflow.dynu.com:25461/live/iptv_i041/2593iT/381.ts
+#EXTINF:-1,IT: Di TV 3
+http://overflow.dynu.com:25461/live/iptv_i041/2593iT/382.ts
+#EXTINF:-1,IT: Discovery Channel HD
+http://overflow.dynu.com:25461/live/iptv_i041/2593iT/306.ts
+#EXTINF:-1,IT: Discovery Science HD
+http://overflow.dynu.com:25461/live/iptv_i041/2593iT/307.ts
+#EXTINF:-1,IT: Discovery Travel & Living HD
+http://overflow.dynu.com:25461/live/iptv_i041/2593iT/308.ts
+#EXTINF:-1,IT: Disney Channel HD
+http://overflow.dynu.com:25461/live/iptv_i041/2593iT/197.ts
+#EXTINF:-1,IT: Disney XD
+http://overflow.dynu.com:25461/live/iptv_i041/2593iT/196.ts
+#EXTINF:-1,IT: Dmax
+http://overflow.dynu.com:25461/live/iptv_i041/2593iT/317.ts
+#EXTINF:-1,IT: Dmax  1
+http://overflow.dynu.com:25461/live/iptv_i041/2593iT/318.ts
+#EXTINF:-1,IT: Dmax HD
+http://overflow.dynu.com:25461/live/iptv_i041/2593iT/316.ts
+#EXTINF:-1,IT: DSF Cinema Alberto Sordi
+http://overflow.dynu.com:25461/live/iptv_i041/2593iT/209.ts
+#EXTINF:-1,IT: DSF Cinema Avventura
+http://overflow.dynu.com:25461/live/iptv_i041/2593iT/205.ts
+#EXTINF:-1,IT: DSF Cinema Azione
+http://overflow.dynu.com:25461/live/iptv_i041/2593iT/204.ts
+#EXTINF:-1,IT: DSF Cinema Comedia
+http://overflow.dynu.com:25461/live/iptv_i041/2593iT/203.ts
+#EXTINF:-1,IT: DSF Cinema Drama
+http://overflow.dynu.com:25461/live/iptv_i041/2593iT/206.ts
+#EXTINF:-1,IT: DSF Cinema Horror
+http://overflow.dynu.com:25461/live/iptv_i041/2593iT/207.ts
+#EXTINF:-1,IT: DSF Cinema Kids
+http://overflow.dynu.com:25461/live/iptv_i041/2593iT/210.ts
+#EXTINF:-1,IT: DSF Cinema Panettone
+http://overflow.dynu.com:25461/live/iptv_i041/2593iT/202.ts
+#EXTINF:-1,IT: DSF Cinema Toto
+http://overflow.dynu.com:25461/live/iptv_i041/2593iT/208.ts
+#EXTINF:-1,IT: E20 Sicilia
+http://overflow.dynu.com:25461/live/iptv_i041/2593iT/389.ts
+#EXTINF:-1,IT: Eden TV
+http://overflow.dynu.com:25461/live/iptv_i041/2593iT/378.ts
+#EXTINF:-1,IT: Enna TV
+http://overflow.dynu.com:25461/live/iptv_i041/2593iT/377.ts
+#EXTINF:-1,IT: Esperia TV
+http://overflow.dynu.com:25461/live/iptv_i041/2593iT/376.ts
+#EXTINF:-1,IT: ETV Marche
+http://overflow.dynu.com:25461/live/iptv_i041/2593iT/375.ts
+#EXTINF:-1,IT: Euronews Italiano
+http://overflow.dynu.com:25461/live/iptv_i041/2593iT/327.ts
+#EXTINF:-1,IT: Eurosport 1 HD
+http://overflow.dynu.com:25461/live/iptv_i041/2593iT/461.ts
+#EXTINF:-1,IT: Eurosport 2 HD
+http://overflow.dynu.com:25461/live/iptv_i041/2593iT/462.ts
+#EXTINF:-1,IT: Fano TV
+http://overflow.dynu.com:25461/live/iptv_i041/2593iT/374.ts
+#EXTINF:-1,IT: Film in Sala 1 HD
+http://overflow.dynu.com:25461/live/iptv_i041/2593iT/286.ts
+#EXTINF:-1,IT: Film in Sala 10 HD
+http://overflow.dynu.com:25461/live/iptv_i041/2593iT/295.ts
+#EXTINF:-1,IT: Film in Sala 11 HD
+http://overflow.dynu.com:25461/live/iptv_i041/2593iT/296.ts
+#EXTINF:-1,IT: Film in Sala 12 HD
+http://overflow.dynu.com:25461/live/iptv_i041/2593iT/297.ts
+#EXTINF:-1,IT: Film in Sala 13 HD
+http://overflow.dynu.com:25461/live/iptv_i041/2593iT/298.ts
+#EXTINF:-1,IT: Film in Sala 14 HD
+http://overflow.dynu.com:25461/live/iptv_i041/2593iT/299.ts
+#EXTINF:-1,IT: Film in Sala 15 HD
+http://overflow.dynu.com:25461/live/iptv_i041/2593iT/300.ts
+#EXTINF:-1,IT: Film in Sala 16 HD
+http://overflow.dynu.com:25461/live/iptv_i041/2593iT/301.ts
+#EXTINF:-1,IT: Film in Sala 17 HD
+http://overflow.dynu.com:25461/live/iptv_i041/2593iT/302.ts
+#EXTINF:-1,IT: Film in Sala 2 HD
+http://overflow.dynu.com:25461/live/iptv_i041/2593iT/287.ts
+#EXTINF:-1,IT: Film in Sala 3 HD
+http://overflow.dynu.com:25461/live/iptv_i041/2593iT/288.ts
+#EXTINF:-1,IT: Film in Sala 4 HD
+http://overflow.dynu.com:25461/live/iptv_i041/2593iT/289.ts
+#EXTINF:-1,IT: Film in Sala 5 HD
+http://overflow.dynu.com:25461/live/iptv_i041/2593iT/290.ts
+#EXTINF:-1,IT: Film in Sala 6 HD
+http://overflow.dynu.com:25461/live/iptv_i041/2593iT/291.ts
+#EXTINF:-1,IT: Film in Sala 7 HD
+http://overflow.dynu.com:25461/live/iptv_i041/2593iT/292.ts
+#EXTINF:-1,IT: Film in Sala 8 HD
+http://overflow.dynu.com:25461/live/iptv_i041/2593iT/293.ts
+#EXTINF:-1,IT: Film in Sala 9 HD
+http://overflow.dynu.com:25461/live/iptv_i041/2593iT/294.ts
+#EXTINF:-1,IT: Fishing Tv italiano
+http://overflow.dynu.com:25461/live/iptv_i041/2593iT/314.ts
+#EXTINF:-1,IT: Focus
+http://overflow.dynu.com:25461/live/iptv_i041/2593iT/312.ts
+#EXTINF:-1,IT: FOX ANIMATION
+http://overflow.dynu.com:25461/live/iptv_i041/2593iT/237.ts
+#EXTINF:-1,IT: Fox Comedy HD
+http://overflow.dynu.com:25461/live/iptv_i041/2593iT/238.ts
+#EXTINF:-1,IT: FOX CRIME HD ITA
+http://overflow.dynu.com:25461/live/iptv_i041/2593iT/236.ts
+#EXTINF:-1,IT: Fox HD
+http://overflow.dynu.com:25461/live/iptv_i041/2593iT/234.ts
+#EXTINF:-1,IT: Fox LIfe HD
+http://overflow.dynu.com:25461/live/iptv_i041/2593iT/235.ts
+#EXTINF:-1,IT: Fox Sport HD Italia
+http://overflow.dynu.com:25461/live/iptv_i041/2593iT/459.ts
+#EXTINF:-1,IT: Frisbee
+http://overflow.dynu.com:25461/live/iptv_i041/2593iT/193.ts
+#EXTINF:-1,IT: Frisbee Mini
+http://overflow.dynu.com:25461/live/iptv_i041/2593iT/200.ts
+#EXTINF:-1,IT: Gambero Rosso
+http://overflow.dynu.com:25461/live/iptv_i041/2593iT/319.ts
+#EXTINF:-1,IT: Giallo
+http://overflow.dynu.com:25461/live/iptv_i041/2593iT/266.ts
+#EXTINF:-1,IT: History Channel
+http://overflow.dynu.com:25461/live/iptv_i041/2593iT/313.ts
+#EXTINF:-1,IT: History Lab
+http://overflow.dynu.com:25461/live/iptv_i041/2593iT/415.ts
+#EXTINF:-1,IT: INTER CHANNEL
+http://overflow.dynu.com:25461/live/iptv_i041/2593iT/453.ts
+#EXTINF:-1,IT: IRIS
+http://overflow.dynu.com:25461/live/iptv_i041/2593iT/180.ts
+#EXTINF:-1,IT: Italia 1
+http://overflow.dynu.com:25461/live/iptv_i041/2593iT/173.ts
+#EXTINF:-1,IT: Italia 1 HD
+http://overflow.dynu.com:25461/live/iptv_i041/2593iT/172.ts
+#EXTINF:-1,IT: Italia 2 HD
+http://overflow.dynu.com:25461/live/iptv_i041/2593iT/174.ts
+#EXTINF:-1,IT: Juventus Channel
+http://overflow.dynu.com:25461/live/iptv_i041/2593iT/451.ts
+#EXTINF:-1,IT: K2
+http://overflow.dynu.com:25461/live/iptv_i041/2593iT/191.ts
+#EXTINF:-1,IT: La 7 HD
+http://overflow.dynu.com:25461/live/iptv_i041/2593iT/186.ts
+#EXTINF:-1,IT: LA 7D
+http://overflow.dynu.com:25461/live/iptv_i041/2593iT/187.ts
+#EXTINF:-1,IT: La Sicilia TV
+http://overflow.dynu.com:25461/live/iptv_i041/2593iT/373.ts
+#EXTINF:-1,IT: LA5
+http://overflow.dynu.com:25461/live/iptv_i041/2593iT/182.ts
+#EXTINF:-1,IT: Lazzio Channel
+http://overflow.dynu.com:25461/live/iptv_i041/2593iT/455.ts
+#EXTINF:-1,IT: Lucania TV
+http://overflow.dynu.com:25461/live/iptv_i041/2593iT/414.ts
+#EXTINF:-1,IT: m2o (musica)
+http://overflow.dynu.com:25461/live/iptv_i041/2593iT/422.ts
+#EXTINF:-1,IT: MAN-GA
+http://overflow.dynu.com:25461/live/iptv_i041/2593iT/195.ts
+#EXTINF:-1,IT: Marco polo
+http://overflow.dynu.com:25461/live/iptv_i041/2593iT/320.ts
+#EXTINF:-1,IT: Masha e Orso Channel IT
+http://overflow.dynu.com:25461/live/iptv_i041/2593iT/199.ts
+#EXTINF:-1,IT: Mediaset Extra
+http://overflow.dynu.com:25461/live/iptv_i041/2593iT/179.ts
+#EXTINF:-1,IT: Milan Channel
+http://overflow.dynu.com:25461/live/iptv_i041/2593iT/452.ts
+#EXTINF:-1,IT: Napoli Canale 21 TV
+http://overflow.dynu.com:25461/live/iptv_i041/2593iT/391.ts
+#EXTINF:-1,IT: Napoli TV 21
+http://overflow.dynu.com:25461/live/iptv_i041/2593iT/390.ts
+#EXTINF:-1,IT: Nat Geo People HD
+http://overflow.dynu.com:25461/live/iptv_i041/2593iT/310.ts
+#EXTINF:-1,IT: Nat Geo Wild HD
+http://overflow.dynu.com:25461/live/iptv_i041/2593iT/311.ts
+#EXTINF:-1,IT: National Geographic HD
+http://overflow.dynu.com:25461/live/iptv_i041/2593iT/309.ts
+#EXTINF:-1,IT: Onda TV
+http://overflow.dynu.com:25461/live/iptv_i041/2593iT/372.ts
+#EXTINF:-1,IT: Orler TV
+http://overflow.dynu.com:25461/live/iptv_i041/2593iT/371.ts
+#EXTINF:-1,IT: OTTO 8fm TV (music)
+http://overflow.dynu.com:25461/live/iptv_i041/2593iT/423.ts
+#EXTINF:-1,IT: Paramount Channel Ita HD
+http://overflow.dynu.com:25461/live/iptv_i041/2593iT/240.ts
+#EXTINF:-1,IT: Premium Action 24 HD
+http://overflow.dynu.com:25461/live/iptv_i041/2593iT/249.ts
+#EXTINF:-1,IT: Premium Action HD
+http://overflow.dynu.com:25461/live/iptv_i041/2593iT/248.ts
+#EXTINF:-1,IT: Premium Calcio 1 HD
+http://overflow.dynu.com:25461/live/iptv_i041/2593iT/445.ts
+#EXTINF:-1,IT: Premium Calcio 2 HD
+http://overflow.dynu.com:25461/live/iptv_i041/2593iT/446.ts
+#EXTINF:-1,IT: Premium Calcio 3 HD
+http://overflow.dynu.com:25461/live/iptv_i041/2593iT/447.ts
+#EXTINF:-1,IT: Premium Calcio 4 HD
+http://overflow.dynu.com:25461/live/iptv_i041/2593iT/448.ts
+#EXTINF:-1,IT: Premium Calcio 5 HD
+http://overflow.dynu.com:25461/live/iptv_i041/2593iT/449.ts
+#EXTINF:-1,IT: Premium Calcio 6 HD
+http://overflow.dynu.com:25461/live/iptv_i041/2593iT/450.ts
+#EXTINF:-1,IT: Premium Cartoon Network
+http://overflow.dynu.com:25461/live/iptv_i041/2593iT/201.ts
 #EXTINF:-1,IT: Premium Cinema
-http://iptv-belge.ddns.net:8012/live/androtv0/androtv0/924.ts
+http://overflow.dynu.com:25461/live/iptv_i041/2593iT/243.ts
+#EXTINF:-1,IT: Premium Cinema 1 HD
+http://overflow.dynu.com:25461/live/iptv_i041/2593iT/241.ts
+#EXTINF:-1,IT: Premium Cinema 2 24 HD
+http://overflow.dynu.com:25461/live/iptv_i041/2593iT/247.ts
+#EXTINF:-1,IT: Premium Cinema 2 HD
+http://overflow.dynu.com:25461/live/iptv_i041/2593iT/246.ts
 #EXTINF:-1,IT: Premium Cinema 24
-http://iptv-belge.ddns.net:8012/live/androtv0/androtv0/919.ts
+http://overflow.dynu.com:25461/live/iptv_i041/2593iT/245.ts
+#EXTINF:-1,IT: Premium Cinema 24 HD
+http://overflow.dynu.com:25461/live/iptv_i041/2593iT/244.ts
+#EXTINF:-1,IT: Premium Cinema HD (ENG)
+http://overflow.dynu.com:25461/live/iptv_i041/2593iT/242.ts
 #EXTINF:-1,IT: Premium Comedy
-http://iptv-belge.ddns.net:8012/live/androtv0/androtv0/920.ts
-#EXTINF:-1,IT: Premium Crime
-http://iptv-belge.ddns.net:8012/live/androtv0/androtv0/921.ts
+http://overflow.dynu.com:25461/live/iptv_i041/2593iT/251.ts
+#EXTINF:-1,IT: Premium Comedy HD
+http://overflow.dynu.com:25461/live/iptv_i041/2593iT/250.ts
+#EXTINF:-1,IT: Premium Crime  24
+http://overflow.dynu.com:25461/live/iptv_i041/2593iT/264.ts
 #EXTINF:-1,IT: Premium Crime 24
-http://iptv-belge.ddns.net:8012/live/androtv0/androtv0/928.ts
+http://overflow.dynu.com:25461/live/iptv_i041/2593iT/263.ts
+#EXTINF:-1,IT: Premium Crime 24 HD
+http://overflow.dynu.com:25461/live/iptv_i041/2593iT/262.ts
+#EXTINF:-1,IT: Premium Crime HD
+http://overflow.dynu.com:25461/live/iptv_i041/2593iT/261.ts
+#EXTINF:-1,IT: Premium Discovery HD
+http://overflow.dynu.com:25461/live/iptv_i041/2593iT/305.ts
 #EXTINF:-1,IT: Premium Emotion
-http://iptv-belge.ddns.net:8012/live/androtv0/androtv0/922.ts
+http://overflow.dynu.com:25461/live/iptv_i041/2593iT/255.ts
+#EXTINF:-1,IT: Premium Emotion HD
+http://overflow.dynu.com:25461/live/iptv_i041/2593iT/254.ts
 #EXTINF:-1,IT: Premium Energy
-http://iptv-belge.ddns.net:8012/live/androtv0/androtv0/923.ts
-#EXTINF:-1,IT: Premium Fox Sport
-http://iptv-belge.ddns.net:8012/live/androtv0/androtv0/935.ts
+http://overflow.dynu.com:25461/live/iptv_i041/2593iT/253.ts
+#EXTINF:-1,IT: Premium Energy HD
+http://overflow.dynu.com:25461/live/iptv_i041/2593iT/252.ts
 #EXTINF:-1,IT: Premium Joy
-http://iptv-belge.ddns.net:8012/live/androtv0/androtv0/936.ts
-#EXTINF:-1,IT: Sky Cielo
-http://iptv-belge.ddns.net:8012/live/androtv0/androtv0/918.ts
-#EXTINF:-1,IT: Sky Cinema
-http://iptv-belge.ddns.net:8012/live/androtv0/androtv0/914.ts
-#EXTINF:-1,IT: Sky Cinema Classic
-http://iptv-belge.ddns.net:8012/live/androtv0/androtv0/912.ts
-#EXTINF:-1,IT: Sky Cinema Comedy
-http://iptv-belge.ddns.net:8012/live/androtv0/androtv0/917.ts
-#EXTINF:-1,IT: Sky Cinema Cult
-http://iptv-belge.ddns.net:8012/live/androtv0/androtv0/916.ts
-#EXTINF:-1,IT: Sky Cinema Passion
-http://iptv-belge.ddns.net:8012/live/androtv0/androtv0/915.ts
-#EXTINF:-1,IT: Sky FOX
-http://iptv-belge.ddns.net:8012/live/androtv0/androtv0/925.ts
-#EXTINF:-1,IT: Sky History
-http://iptv-belge.ddns.net:8012/live/androtv0/androtv0/926.ts
-#EXTINF:-1,IT: Sky Sport 1
-http://iptv-belge.ddns.net:8012/live/androtv0/androtv0/931.ts
-#EXTINF:-1,IT: Sky Sport 2
-http://iptv-belge.ddns.net:8012/live/androtv0/androtv0/932.ts
-#EXTINF:-1,IT: Sky Sport 24
-http://iptv-belge.ddns.net:8012/live/androtv0/androtv0/929.ts
-#EXTINF:-1,IT: Sky Sport 3
-http://iptv-belge.ddns.net:8012/live/androtv0/androtv0/933.ts
-#EXTINF:-1,IT: Sky Sport F1
-http://iptv-belge.ddns.net:8012/live/androtv0/androtv0/934.ts
-#EXTINF:-1,IT: Sky Supercalcio
-http://iptv-belge.ddns.net:8012/live/androtv0/androtv0/930.ts
-#EXTINF:-1,IT: Sky Uno
-http://iptv-belge.ddns.net:8012/live/androtv0/androtv0/927.ts
-#EXTINF:-1,|IT| Rai 1 HD
-http://149.202.78.31:2086/live/winsor_baRpMj/Z8n4MaAP/1424.ts
-#EXTINF:-1,|IT| Rai 2 HD
-http://149.202.78.31:2086/live/winsor_baRpMj/Z8n4MaAP/1423.ts
-#EXTINF:-1,|IT| Rai 3 HD
-http://149.202.78.31:2086/live/winsor_baRpMj/Z8n4MaAP/1422.ts
-#EXTINF:-1,|IT| Rai 4 HD
-http://149.202.78.31:2086/live/winsor_baRpMj/Z8n4MaAP/1421.ts
-#EXTINF:-1,|IT| Rai Sport 1
-http://149.202.78.31:2086/live/winsor_baRpMj/Z8n4MaAP/1427.ts
-#EXTINF:-1,|IT| Rai Sport 2
-http://149.202.78.31:2086/live/winsor_baRpMj/Z8n4MaAP/1426.ts
-#EXTINF:-1,|IT| Rail YoYo
-http://149.202.78.31:2086/live/winsor_baRpMj/Z8n4MaAP/1425.ts
-#EXTINF:-1,|IT| Rai Glup
-http://149.202.78.31:2086/live/winsor_baRpMj/Z8n4MaAP/1460.ts
-#EXTINF:-1,|IT| Rai Storia
-http://149.202.78.31:2086/live/winsor_baRpMj/Z8n4MaAP/1456.ts
-#EXTINF:-1,|IT| Rai Scuola
-http://149.202.78.31:2086/live/winsor_baRpMj/Z8n4MaAP/1457.ts
-#EXTINF:-1,|IT| Rai Movies
-http://149.202.78.31:2086/live/winsor_baRpMj/Z8n4MaAP/1459.ts
-#EXTINF:-1,|IT| Rai News 24
-http://149.202.78.31:2086/live/winsor_baRpMj/Z8n4MaAP/1458.ts
-#EXTINF:-1,|IT| Rai Premium
-http://149.202.78.31:2086/live/winsor_baRpMj/Z8n4MaAP/1428.ts
-#EXTINF:-1,|IT| DMAX
-http://149.202.78.31:2086/live/winsor_baRpMj/Z8n4MaAP/1467.ts
-#EXTINF:-1,|IT| Fox Crime
-http://149.202.78.31:2086/live/winsor_baRpMj/Z8n4MaAP/1466.ts
-#EXTINF:-1,|IT| Fox Life
-http://149.202.78.31:2086/live/winsor_baRpMj/Z8n4MaAP/1465.ts
-#EXTINF:-1,|IT| Sky Cinema Hits
-http://149.202.78.31:2086/live/winsor_baRpMj/Z8n4MaAP/1454.ts
-#EXTINF:-1,|IT| Sky Cinema UNO
-http://149.202.78.31:2086/live/winsor_baRpMj/Z8n4MaAP/1453.ts
-#EXTINF:-1,|IT| Canal 5
-http://149.202.78.31:2086/live/winsor_baRpMj/Z8n4MaAP/1452.ts
-#EXTINF:-1,|IT| Disney Channel
-http://149.202.78.31:2086/live/winsor_baRpMj/Z8n4MaAP/1450.ts
-#EXTINF:-1,|IT| Fox HD
-http://149.202.78.31:2086/live/winsor_baRpMj/Z8n4MaAP/1449.ts
-#EXTINF:-1,|IT| Fox Sports
-http://149.202.78.31:2086/live/winsor_baRpMj/Z8n4MaAP/1448.ts
-#EXTINF:-1,|IT| Giallo
-http://149.202.78.31:2086/live/winsor_baRpMj/Z8n4MaAP/1447.ts
-#EXTINF:-1,|IT| Italia 1
-http://149.202.78.31:2086/live/winsor_baRpMj/Z8n4MaAP/1446.ts
-#EXTINF:-1,|IT| Nat Geo People
-http://149.202.78.31:2086/live/winsor_baRpMj/Z8n4MaAP/1445.ts
-#EXTINF:-1,|IT| Nat Geo Wild
-http://149.202.78.31:2086/live/winsor_baRpMj/Z8n4MaAP/1444.ts
-#EXTINF:-1,|IT| Premium Action 24
-http://149.202.78.31:2086/live/winsor_baRpMj/Z8n4MaAP/1443.ts
-#EXTINF:-1,|IT| Premium Action HD
-http://149.202.78.31:2086/live/winsor_baRpMj/Z8n4MaAP/1442.ts
-#EXTINF:-1,|IT| Premium Calcio 1
-http://149.202.78.31:2086/live/winsor_baRpMj/Z8n4MaAP/1441.ts
-#EXTINF:-1,|IT| Premium Cinema 2
-http://149.202.78.31:2086/live/winsor_baRpMj/Z8n4MaAP/1438.ts
-#EXTINF:-1,|IT| Premium Cinema Comedy
-http://149.202.78.31:2086/live/winsor_baRpMj/Z8n4MaAP/1437.ts
-#EXTINF:-1,|IT| Premium Cinema Energy
-http://149.202.78.31:2086/live/winsor_baRpMj/Z8n4MaAP/1436.ts
-#EXTINF:-1,|IT| Premium Cinema HD
-http://149.202.78.31:2086/live/winsor_baRpMj/Z8n4MaAP/1435.ts
-#EXTINF:-1,|IT| Premium Cinema 2 24+
-http://149.202.78.31:2086/live/winsor_baRpMj/Z8n4MaAP/1434.ts
-#EXTINF:-1,|IT| Premium Crime HD
-http://149.202.78.31:2086/live/winsor_baRpMj/Z8n4MaAP/1432.ts
-#EXTINF:-1,|IT| Premium Emotion
-http://149.202.78.31:2086/live/winsor_baRpMj/Z8n4MaAP/1429.ts
-#EXTINF:-1,|IT| Rete 4
-http://149.202.78.31:2086/live/winsor_baRpMj/Z8n4MaAP/1420.ts
-#EXTINF:-1,|IT| RSI LA 1
-http://149.202.78.31:2086/live/winsor_baRpMj/Z8n4MaAP/1419.ts
-#EXTINF:-1,|IT| RSI LA 2
-http://149.202.78.31:2086/live/winsor_baRpMj/Z8n4MaAP/1418.ts
-#EXTINF:-1,|IT| SKY Calcio 1
-http://149.202.78.31:2086/live/winsor_baRpMj/Z8n4MaAP/1417.ts
-#EXTINF:-1,|IT| SKY Cinema Classic
-http://149.202.78.31:2086/live/winsor_baRpMj/Z8n4MaAP/1415.ts
-#EXTINF:-1,|IT| SKY Cinema Comedy
-http://149.202.78.31:2086/live/winsor_baRpMj/Z8n4MaAP/1414.ts
-#EXTINF:-1,|IT| SKY Cinema Cult
-http://149.202.78.31:2086/live/winsor_baRpMj/Z8n4MaAP/1413.ts
-#EXTINF:-1,|IT| SKY Cinema Family
-http://149.202.78.31:2086/live/winsor_baRpMj/Z8n4MaAP/1412.ts
-#EXTINF:-1,|IT| SKY Cinema Max
-http://149.202.78.31:2086/live/winsor_baRpMj/Z8n4MaAP/1411.ts
-#EXTINF:-1,|IT| SKY Sport F1
-http://149.202.78.31:2086/live/winsor_baRpMj/Z8n4MaAP/1409.ts
-#EXTINF:-1,|IT| National Geographic
-http://149.202.78.31:2086/live/winsor_baRpMj/Z8n4MaAP/1408.ts
-#EXTINF:-1,|IT| SKY Sport 1
-http://149.202.78.31:2086/live/winsor_baRpMj/Z8n4MaAP/1407.ts
-#EXTINF:-1,|IT| SKY Sport 2
-http://149.202.78.31:2086/live/winsor_baRpMj/Z8n4MaAP/1406.ts
-#EXTINF:-1,|IT| SKY Sport 24
-http://149.202.78.31:2086/live/winsor_baRpMj/Z8n4MaAP/1405.ts
-#EXTINF:-1,|IT| SKY Cinema Atlantic
-http://149.202.78.31:2086/live/winsor_baRpMj/Z8n4MaAP/1403.ts
-#EXTINF:-1,|IT| Cartoon Network
-http://149.202.78.31:2086/live/winsor_baRpMj/Z8n4MaAP/1402.ts
-#EXTINF:-1,|IT| TV8
-http://149.202.78.31:2086/live/winsor_baRpMj/Z8n4MaAP/1390.ts
+http://overflow.dynu.com:25461/live/iptv_i041/2593iT/257.ts
+#EXTINF:-1,IT: Premium Joy  24
+http://overflow.dynu.com:25461/live/iptv_i041/2593iT/258.ts
+#EXTINF:-1,IT: Premium Joy HD
+http://overflow.dynu.com:25461/live/iptv_i041/2593iT/256.ts
+#EXTINF:-1,IT: Premium Sport 2 HD
+http://overflow.dynu.com:25461/live/iptv_i041/2593iT/444.ts
+#EXTINF:-1,IT: PREMIUM SPORT HD
+http://overflow.dynu.com:25461/live/iptv_i041/2593iT/443.ts
+#EXTINF:-1,IT: Premium Stories
+http://overflow.dynu.com:25461/live/iptv_i041/2593iT/259.ts
+#EXTINF:-1,IT: Premium Studio Universal
+http://overflow.dynu.com:25461/live/iptv_i041/2593iT/265.ts
+#EXTINF:-1,IT: Premium TOP Crime
+http://overflow.dynu.com:25461/live/iptv_i041/2593iT/260.ts
+#EXTINF:-1,IT: PRIMAFILA-1 LIVE (L'era glaciale: In rotta di collisione)
+http://overflow.dynu.com:25461/live/iptv_i041/2593iT/267.ts
+#EXTINF:-1,IT: PRIMAFILA-10 VOD (Star Trek Beyond)
+http://overflow.dynu.com:25461/live/iptv_i041/2593iT/276.ts
+#EXTINF:-1,IT: PRIMAFILA-11 LIVE (The legend of Tarzan)
+http://overflow.dynu.com:25461/live/iptv_i041/2593iT/277.ts
+#EXTINF:-1,IT: PRIMAFILA-12 VOD (The legend of Tarzan)
+http://overflow.dynu.com:25461/live/iptv_i041/2593iT/278.ts
+#EXTINF:-1,IT: PRIMAFILA-13 LIVE (Tartarughe Ninja: Fuori dall'ombra)
+http://overflow.dynu.com:25461/live/iptv_i041/2593iT/279.ts
+#EXTINF:-1,IT: PRIMAFILA-14 VOD (Tartarughe Ninja: Fuori dall'ombra)
+http://overflow.dynu.com:25461/live/iptv_i041/2593iT/280.ts
+#EXTINF:-1,IT: PRIMAFILA-15 LIVE (Whiskey Tango Foxtrot)
+http://overflow.dynu.com:25461/live/iptv_i041/2593iT/281.ts
+#EXTINF:-1,IT: PRIMAFILA-16 VOD (Una spia e mezzo)
+http://overflow.dynu.com:25461/live/iptv_i041/2593iT/282.ts
+#EXTINF:-1,IT: PRIMAFILA-17 LIVE (Una spia e mezzo)
+http://overflow.dynu.com:25461/live/iptv_i041/2593iT/283.ts
+#EXTINF:-1,IT: PRIMAFILA-18 VOD (La pazza gioia)
+http://overflow.dynu.com:25461/live/iptv_i041/2593iT/284.ts
+#EXTINF:-1,IT: PRIMAFILA-19 LIVE (La pazza gioia)
+http://overflow.dynu.com:25461/live/iptv_i041/2593iT/285.ts
+#EXTINF:-1,IT: PRIMAFILA-2 VOD (L'era glaciale: In rotta di collisione)
+http://overflow.dynu.com:25461/live/iptv_i041/2593iT/268.ts
+#EXTINF:-1,IT: PRIMAFILA-3 LIVE (Attacco al potere 2)
+http://overflow.dynu.com:25461/live/iptv_i041/2593iT/269.ts
+#EXTINF:-1,IT: PRIMAFILA-4 VOD (Attacco al potere 2)
+http://overflow.dynu.com:25461/live/iptv_i041/2593iT/270.ts
+#EXTINF:-1,IT: PRIMAFILA-5 LIVE (Il drago invisibile)
+http://overflow.dynu.com:25461/live/iptv_i041/2593iT/271.ts
+#EXTINF:-1,IT: PRIMAFILA-6 VOD (Il drago invisibile)
+http://overflow.dynu.com:25461/live/iptv_i041/2593iT/272.ts
+#EXTINF:-1,IT: PRIMAFILA-7 LIVE (Ghostbusters)
+http://overflow.dynu.com:25461/live/iptv_i041/2593iT/273.ts
+#EXTINF:-1,IT: PRIMAFILA-8 VOD (Ghostbusters)
+http://overflow.dynu.com:25461/live/iptv_i041/2593iT/274.ts
+#EXTINF:-1,IT: PRIMAFILA-9 LIVE (Star Trek Beyond)
+http://overflow.dynu.com:25461/live/iptv_i041/2593iT/275.ts
+#EXTINF:-1,IT: Primocanale TV
+http://overflow.dynu.com:25461/live/iptv_i041/2593iT/379.ts
+#EXTINF:-1,IT: Radio Italia TV
+http://overflow.dynu.com:25461/live/iptv_i041/2593iT/428.ts
+#EXTINF:-1,IT: Radio Norba TV
+http://overflow.dynu.com:25461/live/iptv_i041/2593iT/427.ts
+#EXTINF:-1,IT: Radio Radicale Camera TV
+http://overflow.dynu.com:25461/live/iptv_i041/2593iT/421.ts
+#EXTINF:-1,IT: Radio Radicale Senato TV
+http://overflow.dynu.com:25461/live/iptv_i041/2593iT/420.ts
+#EXTINF:-1,IT: Radio Radicale TV
+http://overflow.dynu.com:25461/live/iptv_i041/2593iT/413.ts
+#EXTINF:-1,IT: RadioMonteCarlo
+http://overflow.dynu.com:25461/live/iptv_i041/2593iT/426.ts
+#EXTINF:-1,IT: Rai 1
+http://overflow.dynu.com:25461/live/iptv_i041/2593iT/163.ts
+#EXTINF:-1,IT: Rai 1 HD
+http://overflow.dynu.com:25461/live/iptv_i041/2593iT/158.ts
+#EXTINF:-1,IT: Rai 2
+http://overflow.dynu.com:25461/live/iptv_i041/2593iT/164.ts
+#EXTINF:-1,IT: RAI 2 HD
+http://overflow.dynu.com:25461/live/iptv_i041/2593iT/159.ts
+#EXTINF:-1,IT: Rai 3
+http://overflow.dynu.com:25461/live/iptv_i041/2593iT/165.ts
+#EXTINF:-1,IT: RAI 3 HD
+http://overflow.dynu.com:25461/live/iptv_i041/2593iT/160.ts
+#EXTINF:-1,IT: Rai 4
+http://overflow.dynu.com:25461/live/iptv_i041/2593iT/166.ts
+#EXTINF:-1,IT: Rai 4 HD
+http://overflow.dynu.com:25461/live/iptv_i041/2593iT/161.ts
+#EXTINF:-1,IT: Rai 5
+http://overflow.dynu.com:25461/live/iptv_i041/2593iT/167.ts
+#EXTINF:-1,IT: Rai 5 HD
+http://overflow.dynu.com:25461/live/iptv_i041/2593iT/162.ts
+#EXTINF:-1,IT: Rai Gulp
+http://overflow.dynu.com:25461/live/iptv_i041/2593iT/188.ts
+#EXTINF:-1,IT: Rai Movie
+http://overflow.dynu.com:25461/live/iptv_i041/2593iT/169.ts
+#EXTINF:-1,IT: Rai Nettuno
+http://overflow.dynu.com:25461/live/iptv_i041/2593iT/171.ts
+#EXTINF:-1,IT: Rai News 24
+http://overflow.dynu.com:25461/live/iptv_i041/2593iT/322.ts
+#EXTINF:-1,IT: Rai Premium
+http://overflow.dynu.com:25461/live/iptv_i041/2593iT/168.ts
+#EXTINF:-1,IT: Rai Scuola
+http://overflow.dynu.com:25461/live/iptv_i041/2593iT/170.ts
+#EXTINF:-1,IT: Rai Sport 1 HD
+http://overflow.dynu.com:25461/live/iptv_i041/2593iT/456.ts
+#EXTINF:-1,IT: Rai Sport 2
+http://overflow.dynu.com:25461/live/iptv_i041/2593iT/458.ts
+#EXTINF:-1,IT: Rai Sport 2 HD
+http://overflow.dynu.com:25461/live/iptv_i041/2593iT/457.ts
+#EXTINF:-1,IT: Rai Yoyo
+http://overflow.dynu.com:25461/live/iptv_i041/2593iT/189.ts
+#EXTINF:-1,IT: Real Time
+http://overflow.dynu.com:25461/live/iptv_i041/2593iT/303.ts
+#EXTINF:-1,IT: Real Time  1
+http://overflow.dynu.com:25461/live/iptv_i041/2593iT/304.ts
+#EXTINF:-1,IT: Rete 4
+http://overflow.dynu.com:25461/live/iptv_i041/2593iT/178.ts
+#EXTINF:-1,IT: Rete 4 HD
+http://overflow.dynu.com:25461/live/iptv_i041/2593iT/177.ts
+#EXTINF:-1,IT: Rete 55 Live
+http://overflow.dynu.com:25461/live/iptv_i041/2593iT/396.ts
+#EXTINF:-1,IT: Rete Versilia
+http://overflow.dynu.com:25461/live/iptv_i041/2593iT/366.ts
+#EXTINF:-1,IT: Rete8 Sport
+http://overflow.dynu.com:25461/live/iptv_i041/2593iT/385.ts
+#EXTINF:-1,IT: ReteBiella TV
+http://overflow.dynu.com:25461/live/iptv_i041/2593iT/365.ts
+#EXTINF:-1,IT: ReteSole Lazio
+http://overflow.dynu.com:25461/live/iptv_i041/2593iT/369.ts
+#EXTINF:-1,IT: ReteSole Umbria
+http://overflow.dynu.com:25461/live/iptv_i041/2593iT/370.ts
+#EXTINF:-1,IT: RmkTV
+http://overflow.dynu.com:25461/live/iptv_i041/2593iT/364.ts
+#EXTINF:-1,IT: ROMA CHANNEL
+http://overflow.dynu.com:25461/live/iptv_i041/2593iT/454.ts
+#EXTINF:-1,IT: RTL 102.5 TV (musica)
+http://overflow.dynu.com:25461/live/iptv_i041/2593iT/424.ts
+#EXTINF:-1,IT: RtpTV
+http://overflow.dynu.com:25461/live/iptv_i041/2593iT/363.ts
+#EXTINF:-1,IT: RTV 105
+http://overflow.dynu.com:25461/live/iptv_i041/2593iT/425.ts
+#EXTINF:-1,IT: Sardegna Uno
+http://overflow.dynu.com:25461/live/iptv_i041/2593iT/332.ts
+#EXTINF:-1,IT: Sardegna Uno TV
+http://overflow.dynu.com:25461/live/iptv_i041/2593iT/331.ts
+#EXTINF:-1,IT: Sky Atlantic HD
+http://overflow.dynu.com:25461/live/iptv_i041/2593iT/232.ts
 
 #EXTVLCOPT:http-user-agent=www.iptv4sat.com
 #EXTINF:-1,IT:Premium Action HD
@@ -446,326 +661,80 @@ http://momens.info:8089/live/I3473/5a3eb7499f7fb/338.ts
 #EXTINF:-1,IT:Viva Italia
 http://momens.info:8089/live/I3473/5a3eb7499f7fb/339.ts
 
-#EXTINF:-1,IT: Rsi La 2 HD
-http://super1.ideaiptv.com:8000/live/Bhakjd/515533/2786.ts
-#EXTINF:-1,IT: Rsi La 1 HD
-http://super1.ideaiptv.com:8000/live/Bhakjd/515533/2785.ts
-#EXTINF:-1,IT: Rete 4 HD
-http://super1.ideaiptv.com:8000/live/Bhakjd/515533/2773.ts
-#EXTINF:-1,IT: Virgin TV
-http://super1.ideaiptv.com:8000/live/Bhakjd/515533/2799.ts
-#EXTINF:-1,IT: Sport Italia
-http://super1.ideaiptv.com:8000/live/Bhakjd/515533/2798.ts
-#EXTINF:-1,IT: SKY UNO HD
-http://super1.ideaiptv.com:8000/live/Bhakjd/515533/2804.ts
-#EXTINF:-1,IT: Sky Tg Com 24
-http://super1.ideaiptv.com:8000/live/Bhakjd/515533/2805.ts
-#EXTINF:-1,IT: Sky tg 24
-http://super1.ideaiptv.com:8000/live/Bhakjd/515533/2806.ts
-#EXTINF:-1,IT: Sky Super tennis HD
-http://super1.ideaiptv.com:8000/live/Bhakjd/515533/2803.ts
-#EXTINF:-1,IT: Sky HISTORY HD
-http://super1.ideaiptv.com:8000/live/Bhakjd/515533/2807.ts
-#EXTINF:-1,IT: Sky Fox Sports HD
-http://super1.ideaiptv.com:8000/live/Bhakjd/515533/2810.ts
-#EXTINF:-1,IT: Sky Fox Life HD
-http://super1.ideaiptv.com:8000/live/Bhakjd/515533/2811.ts
-#EXTINF:-1,IT: Sky Fox Comedy HD
-http://super1.ideaiptv.com:8000/live/Bhakjd/515533/2812.ts
-#EXTINF:-1,IT: Sky Fox crime HD
-http://super1.ideaiptv.com:8000/live/Bhakjd/515533/2813.ts
-#EXTINF:-1,IT: Sky Fox Animation HD
-http://super1.ideaiptv.com:8000/live/Bhakjd/515533/2814.ts
-#EXTINF:-1,IT: Sky Formula 1 HD
-http://super1.ideaiptv.com:8000/live/Bhakjd/515533/2815.ts
-#EXTINF:-1,IT: Sky Dmax
-http://super1.ideaiptv.com:8000/live/Bhakjd/515533/2818.ts
-#EXTINF:-1,IT: Sky Disney XD
-http://super1.ideaiptv.com:8000/live/Bhakjd/515533/2819.ts
-#EXTINF:-1,IT: Sky Movies Disney
-http://super1.ideaiptv.com:8000/live/Bhakjd/515533/2820.ts
-#EXTINF:-1,IT: Discovery Travel & Living
-http://super1.ideaiptv.com:8000/live/Bhakjd/515533/2821.ts
-#EXTINF:-1,IT: Discovery HD
-http://super1.ideaiptv.com:8000/live/Bhakjd/515533/2822.ts
-#EXTINF:-1,IT: Sky Discovery Channel HD
-http://super1.ideaiptv.com:8000/live/Bhakjd/515533/2823.ts
-#EXTINF:-1,IT: Crime Investigation HD
-http://super1.ideaiptv.com:8000/live/Bhakjd/515533/2824.ts
-#EXTINF:-1,IT: Sky Sports 2 HD
-http://super1.ideaiptv.com:8000/live/Bhakjd/515533/2253.ts
-#EXTINF:-1,IT: Sky Sport F1 HD
-http://super1.ideaiptv.com:8000/live/Bhakjd/515533/2254.ts
-#EXTINF:-1,IT: Sky Sport HD
-http://super1.ideaiptv.com:8000/live/Bhakjd/515533/2255.ts
-#EXTINF:-1,IT: Sky Sport 24 HD
-http://super1.ideaiptv.com:8000/live/Bhakjd/515533/1548.ts
-#EXTINF:-1,IT: Sky Cinema Passion HD
-http://super1.ideaiptv.com:8000/live/Bhakjd/515533/2259.ts
-#EXTINF:-1,IT: Sky Cinema Family HD
-http://super1.ideaiptv.com:8000/live/Bhakjd/515533/1603.ts
-#EXTINF:-1,IT: Sky Cinema Cult HD
-http://super1.ideaiptv.com:8000/live/Bhakjd/515533/1604.ts
-#EXTINF:-1,IT: Sky Cinema Max
-http://super1.ideaiptv.com:8000/live/Bhakjd/515533/1599.ts
-#EXTINF:-1,IT: Sky Cinema Hits HD
-http://super1.ideaiptv.com:8000/live/Bhakjd/515533/1600.ts
-#EXTINF:-1,IT: Sky Cinema Comedy HD
-http://super1.ideaiptv.com:8000/live/Bhakjd/515533/1601.ts
-#EXTINF:-1,IT: Sky Cinema Classic HD
-http://super1.ideaiptv.com:8000/live/Bhakjd/515533/1602.ts
-#EXTINF:-1,IT: National Geo HD
-http://super1.ideaiptv.com:8000/live/Bhakjd/515533/1742.ts
-#EXTINF:-1,IT: Marco Polo
-http://super1.ideaiptv.com:8000/live/Bhakjd/515533/2802.ts
-#EXTINF:-1,IT: Mediaset Italia 2
-http://super1.ideaiptv.com:8000/live/Bhakjd/515533/2787.ts
-#EXTINF:-1,IT: Mediasat Extra
-http://super1.ideaiptv.com:8000/live/Bhakjd/515533/2788.ts
-#EXTINF:-1,IT: Premium Eurosport 1
-http://super1.ideaiptv.com:8000/live/Bhakjd/515533/2801.ts
-#EXTINF:-1,IT: Premium Eurosport 2
-http://super1.ideaiptv.com:8000/live/Bhakjd/515533/2800.ts
-#EXTINF:-1,IT: Rai 1 HD
-http://super1.ideaiptv.com:8000/live/Bhakjd/515533/2768.ts
-#EXTINF:-1,IT: Rai 2 HD
-http://super1.ideaiptv.com:8000/live/Bhakjd/515533/2769.ts
-#EXTINF:-1,IT: Rai 3 HD
-http://super1.ideaiptv.com:8000/live/Bhakjd/515533/2770.ts
-#EXTINF:-1,IT: Rai 4 HD
-http://super1.ideaiptv.com:8000/live/Bhakjd/515533/1506.ts
-#EXTINF:-1,IT: Rai 5 HD
-http://super1.ideaiptv.com:8000/live/Bhakjd/515533/2772.ts
-#EXTINF:-1,IT: Rai Storia
-http://super1.ideaiptv.com:8000/live/Bhakjd/515533/2777.ts
-#EXTINF:-1,IT: Rai Senato
-http://super1.ideaiptv.com:8000/live/Bhakjd/515533/2779.ts
-#EXTINF:-1,IT: Rai Scuola
-http://super1.ideaiptv.com:8000/live/Bhakjd/515533/2778.ts
-#EXTINF:-1,IT: Rai News 24
-http://super1.ideaiptv.com:8000/live/Bhakjd/515533/2774.ts
-#EXTINF:-1,IT: Rai Movie
-http://super1.ideaiptv.com:8000/live/Bhakjd/515533/2775.ts
-#EXTINF:-1,IT: Rai Gulp
-http://super1.ideaiptv.com:8000/live/Bhakjd/515533/2776.ts
-#EXTINF:-1,IT: Rai Yoyo
-http://super1.ideaiptv.com:8000/live/Bhakjd/515533/1606.ts
-#EXTINF:-1,IT: Rai sport 2
-http://super1.ideaiptv.com:8000/live/Bhakjd/515533/1552.ts
-#EXTINF:-1,IT: Rai Sport 1 HD
-http://super1.ideaiptv.com:8000/live/Bhakjd/515533/1551.ts
-#EXTINF:-1,IT: Rai premium
-http://super1.ideaiptv.com:8000/live/Bhakjd/515533/1508.ts
-#EXTINF:-1,IT: La 7
-http://super1.ideaiptv.com:8000/live/Bhakjd/515533/2781.ts
-#EXTINF:-1,IT: La 5
-http://super1.ideaiptv.com:8000/live/Bhakjd/515533/2780.ts
-#EXTINF:-1,IT: Iris
-http://super1.ideaiptv.com:8000/live/Bhakjd/515533/2771.ts
-#EXTINF:-1,IT: Premium Cinema 24 HD
-http://super1.ideaiptv.com:8000/live/Bhakjd/515533/2793.ts
-#EXTINF:-1,IT: Premium Stories HD
-http://super1.ideaiptv.com:8000/live/Bhakjd/515533/2460.ts
-#EXTINF:-1,IT: PREMIUM SPORT 1 HD
-http://super1.ideaiptv.com:8000/live/Bhakjd/515533/2458.ts
-#EXTINF:-1,IT: PREMIUM SPORT 2 HD
-http://super1.ideaiptv.com:8000/live/Bhakjd/515533/2459.ts
-#EXTINF:-1,IT: Premium Joy HD
-http://super1.ideaiptv.com:8000/live/Bhakjd/515533/2461.ts
-#EXTINF:-1,IT: PREMIUM CRIME
-http://super1.ideaiptv.com:8000/live/Bhakjd/515533/2462.ts
-#EXTINF:-1,IT: Premium Cinema
-http://super1.ideaiptv.com:8000/live/Bhakjd/515533/2463.ts
-#EXTINF:-1,IT: PREMIUM CALCIO 1 HD
-http://super1.ideaiptv.com:8000/live/Bhakjd/515533/2466.ts
-#EXTINF:-1,IT: PREMIUM CALCIO 2
-http://super1.ideaiptv.com:8000/live/Bhakjd/515533/2465.ts
-#EXTINF:-1,IT: PREMIUM CALCIO 3
-http://super1.ideaiptv.com:8000/live/Bhakjd/515533/2464.ts
-#EXTINF:-1,IT: PREMIUM ACTION HD
-http://super1.ideaiptv.com:8000/live/Bhakjd/515533/2468.ts
-#EXTINF:-1,IT: PREMIUM ACTION HD  24
-http://super1.ideaiptv.com:8000/live/Bhakjd/515533/2467.ts
-#EXTINF:-1,IT: Primafilla 1 HD
-http://super1.ideaiptv.com:8000/live/Bhakjd/515533/1533.ts
-#EXTINF:-1,IT: Primafilla 2 HD
-http://super1.ideaiptv.com:8000/live/Bhakjd/515533/1534.ts
-#EXTINF:-1,IT: Primafilla 3 HD
-http://super1.ideaiptv.com:8000/live/Bhakjd/515533/1536.ts
-#EXTINF:-1,IT: Primafilla 4 HD
-http://super1.ideaiptv.com:8000/live/Bhakjd/515533/1537.ts
-#EXTINF:-1,IT: Primafilla 5 HD
-http://super1.ideaiptv.com:8000/live/Bhakjd/515533/1538.ts
-#EXTINF:-1,IT: Sky Nat Geo Wild HD
-http://super1.ideaiptv.com:8000/live/Bhakjd/515533/2257.ts
-#EXTINF:-1,IT: Primafila 6 HD
-http://super1.ideaiptv.com:8000/live/Bhakjd/515533/1539.ts
-#EXTINF:-1,IT: Premium Studio Universal
-http://super1.ideaiptv.com:8000/live/Bhakjd/515533/1605.ts
-#EXTINF:-1,IT: Premium Energy HD
-http://super1.ideaiptv.com:8000/live/Bhakjd/515533/1522.ts
-#EXTINF:-1,IT: Premium-Cinema-HD
-http://super1.ideaiptv.com:8000/live/Bhakjd/515533/1523.ts
-#EXTINF:-1,IT: Premium Comedy
-http://super1.ideaiptv.com:8000/live/Bhakjd/515533/1521.ts
-#EXTINF:-1,IT: Premium Cinema 2 HD
-http://super1.ideaiptv.com:8000/live/Bhakjd/515533/1513.ts
-#EXTINF:-1,IT: Premium Cinema 2 24
-http://super1.ideaiptv.com:8000/live/Bhakjd/515533/1515.ts
-#EXTINF:-1,IT: Premium Cinema Energy
-http://super1.ideaiptv.com:8000/live/Bhakjd/515533/1520.ts
-#EXTINF:-1,IT: Nat Geo People HD
-http://super1.ideaiptv.com:8000/live/Bhakjd/515533/1544.ts
-#EXTINF:-1,IT: History HD
-http://super1.ideaiptv.com:8000/live/Bhakjd/515533/2792.ts
-#EXTINF:-1,IT: Discovery Science HD
-http://super1.ideaiptv.com:8000/live/Bhakjd/515533/2790.ts
-#EXTINF:-1,IT: Animal Planet
-http://super1.ideaiptv.com:8000/live/Bhakjd/515533/2791.ts
-#EXTINF:-1,IT: ITALIA 1 HD
-http://super1.ideaiptv.com:8000/live/Bhakjd/515533/2471.ts
-#EXTINF:-1,IT: Sky Gambero Rosso
-http://super1.ideaiptv.com:8000/live/Bhakjd/515533/2789.ts
-#EXTINF:-1,it: Sky Cinema 1 HD
-http://super1.ideaiptv.com:8000/live/Bhakjd/515533/2794.ts
-#EXTINF:-1,IT: Cielo
-http://super1.ideaiptv.com:8000/live/Bhakjd/515533/2783.ts
-#EXTINF:-1,IT: Disney Junior Xd
-http://super1.ideaiptv.com:8000/live/Bhakjd/515533/1541.ts
-#EXTINF:-1,IT: Cartoonito
-http://super1.ideaiptv.com:8000/live/Bhakjd/515533/2782.ts
-#EXTINF:-1,IT: Boing
-http://super1.ideaiptv.com:8000/live/Bhakjd/515533/2784.ts
-#EXTINF:-1,IT: SKY AXN HD
-http://super1.ideaiptv.com:8000/live/Bhakjd/515533/2708.ts
-#EXTINF:-1,IT: ALICE
-http://super1.ideaiptv.com:8000/live/Bhakjd/515533/2710.ts
-#EXTINF:-1,IT: Canale 5 HD
-http://super1.ideaiptv.com:8000/live/Bhakjd/515533/1512.ts
-#EXTINF:-1,IT: Canale 5 HD
-http://ip.fannan.se:8000/live/332/332/8144.ts
-#EXTINF:-1,IT: Cartoon Network
-http://ip.fannan.se:8000/live/332/332/8107.ts
-#EXTINF:-1,IT: Cinema classic HD
-http://ip.fannan.se:8000/live/332/332/8141.ts
-#EXTINF:-1,IT: Cinema cult HD
-http://ip.fannan.se:8000/live/332/332/8139.ts
-#EXTINF:-1,IT: Cinema hits HD
-http://ip.fannan.se:8000/live/332/332/8137.ts
-#EXTINF:-1,IT: Cinema max HD
-http://ip.fannan.se:8000/live/332/332/8136.ts
-#EXTINF:-1,IT: Cinema passion HD
-http://ip.fannan.se:8000/live/332/332/8135.ts
-#EXTINF:-1,IT: Discovery Science
-http://ip.fannan.se:8000/live/332/332/8134.ts
-#EXTINF:-1,IT: Europort 1
-http://ip.fannan.se:8000/live/332/332/8133.ts
-#EXTINF:-1,IT: Europort 2 HD
-http://ip.fannan.se:8000/live/332/332/8132.ts
-#EXTINF:-1,IT: Fox
-http://ip.fannan.se:8000/live/332/332/8131.ts
-#EXTINF:-1,IT: Fox animation
-http://ip.fannan.se:8000/live/332/332/8130.ts
-#EXTINF:-1,IT: Fox comedy
-http://ip.fannan.se:8000/live/332/332/8129.ts
-#EXTINF:-1,IT: Fox crime
-http://ip.fannan.se:8000/live/332/332/8128.ts
-#EXTINF:-1,IT: Fox life
-http://ip.fannan.se:8000/live/332/332/8127.ts
-#EXTINF:-1,IT: Italia 1 HD
-http://ip.fannan.se:8000/live/332/332/8105.ts
-#EXTINF:-1,IT: La7
-http://ip.fannan.se:8000/live/332/332/8104.ts
-#EXTINF:-1,IT: NATIONAL GEO PEOPLE
-http://ip.fannan.se:8000/live/332/332/8109.ts
-#EXTINF:-1,IT: NATIONAL GEO WILD HD
-http://ip.fannan.se:8000/live/332/332/8103.ts
-#EXTINF:-1,IT: Premium  Disney Channel
-http://ip.fannan.se:8000/live/332/332/8108.ts
-#EXTINF:-1,IT: Premium Action  24
-http://ip.fannan.se:8000/live/332/332/8124.ts
-#EXTINF:-1,IT: Premium Action HD
-http://ip.fannan.se:8000/live/332/332/8123.ts
-#EXTINF:-1,IT: Premium Cinema
-http://ip.fannan.se:8000/live/332/332/8118.ts
-#EXTINF:-1,IT: Premium Cinema  24
-http://ip.fannan.se:8000/live/332/332/8122.ts
-#EXTINF:-1,IT: Premium Cinema 2
-http://ip.fannan.se:8000/live/332/332/8121.ts
-#EXTINF:-1,IT: Premium Cinema Comedy
-http://ip.fannan.se:8000/live/332/332/8120.ts
-#EXTINF:-1,IT: Premium Cinema Energy
-http://ip.fannan.se:8000/live/332/332/8119.ts
-#EXTINF:-1,IT: Premium Crime
-http://ip.fannan.se:8000/live/332/332/8116.ts
-#EXTINF:-1,IT: Premium Crime  24
-http://ip.fannan.se:8000/live/332/332/8117.ts
-#EXTINF:-1,IT: Premium Emotion
-http://ip.fannan.se:8000/live/332/332/8115.ts
-#EXTINF:-1,IT: Premium Joy
-http://ip.fannan.se:8000/live/332/332/8114.ts
-#EXTINF:-1,IT: Premium Sport 2 HD
-http://ip.fannan.se:8000/live/332/332/8113.ts
-#EXTINF:-1,IT: Premium Sport HD
-http://ip.fannan.se:8000/live/332/332/8112.ts
-#EXTINF:-1,IT: Premium Stories
-http://ip.fannan.se:8000/live/332/332/8111.ts
-#EXTINF:-1,IT: Rai 1 HD
-http://ip.fannan.se:8000/live/332/332/8102.ts
-#EXTINF:-1,IT: Rai 2 HD
-http://ip.fannan.se:8000/live/332/332/8101.ts
-#EXTINF:-1,IT: Rai 3 HD
-http://ip.fannan.se:8000/live/332/332/8100.ts
-#EXTINF:-1,IT: RAI YOYO
-http://ip.fannan.se:8000/live/332/332/8110.ts
-#EXTINF:-1,IT: Rete 4
-http://ip.fannan.se:8000/live/332/332/8099.ts
-#EXTINF:-1,IT: RSI LA 1
-http://ip.fannan.se:8000/live/332/332/8098.ts
-#EXTINF:-1,IT: RSI LA 2
-http://ip.fannan.se:8000/live/332/332/8097.ts
-#EXTINF:-1,IT: SKY ANIMAL PLANET HD
-http://ip.fannan.se:8000/live/332/332/8095.ts
-#EXTINF:-1,IT: Sky atlantic
-http://ip.fannan.se:8000/live/332/332/8094.ts
-#EXTINF:-1,IT: Sky Calcio 1 HD
-http://ip.fannan.se:8000/live/332/332/8093.ts
-#EXTINF:-1,IT: Sky Calcio 2 HD
-http://ip.fannan.se:8000/live/332/332/8092.ts
-#EXTINF:-1,IT: Sky Cinema 1 HD
-http://ip.fannan.se:8000/live/332/332/8142.ts
-#EXTINF:-1,IT: Sky Cinema 24
-http://ip.fannan.se:8000/live/332/332/8143.ts
-#EXTINF:-1,IT: SKY Cinema 3D
-http://ip.fannan.se:8000/live/332/332/8096.ts
-#EXTINF:-1,IT: Sky Cinema Comedy
-http://ip.fannan.se:8000/live/332/332/8140.ts
-#EXTINF:-1,IT: Sky Cinema Family
-http://ip.fannan.se:8000/live/332/332/8138.ts
-#EXTINF:-1,IT: SKY Disney channel
-http://ip.fannan.se:8000/live/332/332/8126.ts
-#EXTINF:-1,IT: SKY Disney Junior
-http://ip.fannan.se:8000/live/332/332/8125.ts
-#EXTINF:-1,IT: SKY F1 HD
-http://ip.fannan.se:8000/live/332/332/8091.ts
-#EXTINF:-1,IT: SKY Moto GP
-http://ip.fannan.se:8000/live/332/332/8090.ts
-#EXTINF:-1,IT: SKY SPORT 1 HD
-http://ip.fannan.se:8000/live/332/332/8089.ts
-#EXTINF:-1,IT: SKY SPORT 2
-http://ip.fannan.se:8000/live/332/332/8088.ts
-#EXTINF:-1,IT: SKY SPORT 24 HD
-http://ip.fannan.se:8000/live/332/332/8087.ts
-#EXTINF:-1,IT: SKY SPORT 3 HD
-http://ip.fannan.se:8000/live/332/332/8086.ts
-#EXTINF:-1,IT: SKY SUPERCALCIO HD
-http://ip.fannan.se:8000/live/332/332/8085.ts
-#EXTINF:-1,IT: Sky TG24 HD
-http://ip.fannan.se:8000/live/332/332/8084.ts
-#EXTINF:-1,IT: Sky uno
-http://ip.fannan.se:8000/live/332/332/8083.ts
+#EXTINF:-1,IT: Fox Sport
+http://iptv.magsat.tv:80/live/minialv/ZZWBEvlUpk/439.ts
+#EXTINF:-1,IT: RAI Sport 1
+http://iptv.magsat.tv:80/live/minialv/ZZWBEvlUpk/204.ts
+#EXTINF:-1,IT: RAI SPORT 2
+http://iptv.magsat.tv:80/live/minialv/ZZWBEvlUpk/110.ts
 #EXTINF:-1,IT: Sport italia
-http://ip.fannan.se:8000/live/332/332/8082.ts
+http://iptv.magsat.tv:80/live/minialv/ZZWBEvlUpk/205.ts
+#EXTINF:-1,IT: SKY TG 24
+http://iptv.magsat.tv:80/live/minialv/ZZWBEvlUpk/149.ts
+#EXTINF:-1,IT: Premium Sport HD
+http://iptv.magsat.tv:80/live/minialv/ZZWBEvlUpk/447.ts
+#EXTINF:-1,IT: Premium Sport
+http://iptv.magsat.tv:80/live/minialv/ZZWBEvlUpk/440.ts
+#EXTINF:-1,IT: Premium Calcio 2
+http://iptv.magsat.tv:80/live/minialv/ZZWBEvlUpk/437.ts
+#EXTINF:-1,IT: Premium Calcio 3
+http://iptv.magsat.tv:80/live/minialv/ZZWBEvlUpk/436.ts
+#EXTINF:-1,IT: Sky Cinema 1 HD
+http://iptv.magsat.tv:80/live/minialv/ZZWBEvlUpk/475.ts
+#EXTINF:-1,IT: Sky Calcio 4 HD
+http://iptv.magsat.tv:80/live/minialv/ZZWBEvlUpk/479.ts
+#EXTINF:-1,IT: Discovery ScienceHD
+http://iptv.magsat.tv:80/live/minialv/ZZWBEvlUpk/470.ts
+#EXTINF:-1,IT: Cartoonito
+http://iptv.magsat.tv:80/live/minialv/ZZWBEvlUpk/472.ts
+#EXTINF:-1,IT: Cartoon Network
+http://iptv.magsat.tv:80/live/minialv/ZZWBEvlUpk/473.ts
+#EXTINF:-1,IT: Boing
+http://iptv.magsat.tv:80/live/minialv/ZZWBEvlUpk/476.ts
+#EXTINF:-1,IT: Alice
+http://iptv.magsat.tv:80/live/minialv/ZZWBEvlUpk/478.ts
+#EXTINF:-1,IT: AXN
+http://iptv.magsat.tv:80/live/minialv/ZZWBEvlUpk/366.ts
+#EXTINF:-1,IT: RAI 1
+http://iptv.magsat.tv:80/live/minialv/ZZWBEvlUpk/207.ts
+#EXTINF:-1,IT: RAI 2
+http://iptv.magsat.tv:80/live/minialv/ZZWBEvlUpk/200.ts
+#EXTINF:-1,IT: RAI 3
+http://iptv.magsat.tv:80/live/minialv/ZZWBEvlUpk/201.ts
+#EXTINF:-1,IT: RAI 4
+http://iptv.magsat.tv:80/live/minialv/ZZWBEvlUpk/210.ts
+#EXTINF:-1,IT: RAI 5
+http://iptv.magsat.tv:80/live/minialv/ZZWBEvlUpk/202.ts
+#EXTINF:-1,IT: Rai Premium
+http://iptv.magsat.tv:80/live/minialv/ZZWBEvlUpk/764.ts
+#EXTINF:-1,IT: Rai Movie
+http://iptv.magsat.tv:80/live/minialv/ZZWBEvlUpk/763.ts
+#EXTINF:-1,IT: Rai Scuola
+http://iptv.magsat.tv:80/live/minialv/ZZWBEvlUpk/477.ts
+#EXTINF:-1,IT: Rai Gulp
+http://iptv.magsat.tv:80/live/minialv/ZZWBEvlUpk/761.ts
+#EXTINF:-1,IT: Rai YoYo
+http://iptv.magsat.tv:80/live/minialv/ZZWBEvlUpk/762.ts
+#EXTINF:-1,IT: RAI NEWS 24
+http://iptv.magsat.tv:80/live/minialv/ZZWBEvlUpk/148.ts
+#EXTINF:-1,IT: RSI LA 1
+http://iptv.magsat.tv:80/live/minialv/ZZWBEvlUpk/211.ts
+#EXTINF:-1,IT: RSI LA 2
+http://iptv.magsat.tv:80/live/minialv/ZZWBEvlUpk/209.ts
+#EXTINF:-1,IT: La 7 it
+http://iptv.magsat.tv:80/live/minialv/ZZWBEvlUpk/199.ts
+#EXTINF:-1,IT: Canale 5
+http://iptv.magsat.tv:80/live/minialv/ZZWBEvlUpk/356.ts
+#EXTINF:-1,IT: Canale 7
+http://iptv.magsat.tv:80/live/minialv/ZZWBEvlUpk/474.ts
+#EXTINF:-1,IT: Italia 1
+http://iptv.magsat.tv:80/live/minialv/ZZWBEvlUpk/203.ts
+#EXTINF:-1,IT: SuperCalcio
+http://iptv.magsat.tv:80/live/minialv/ZZWBEvlUpk/432.ts
+#EXTINF:-1,IT: Sky Sport 1 HD
+http://iptv.magsat.tv:80/live/minialv/ZZWBEvlUpk/431.ts
+#EXTINF:-1,IT: Premium Sport
+http://iptv.magsat.tv:80/live/minialv/ZZWBEvlUpk/440.ts
 
 #EXTVLCOPT:http-user-agent=iptv4sat.com
 #EXTINF:-1,IT:Premium Action HD
@@ -935,3 +904,326 @@ http://momens.info:8089/live/I3475/5a00937c0e675/338.ts
 #EXTVLCOPT:http-user-agent=iptv4sat.com
 #EXTINF:-1,IT:Viva Italia
 http://momens.info:8089/live/I3475/5a00937c0e675/339.ts
+
+#EXTINF:-1,Animal Planet IT
+http://smartiptvworld.com:8080/live/Marco2/Marco2/1271.ts
+#EXTINF:-1,Antenna Sicilia IT
+http://smartiptvworld.com:8080/live/Marco2/Marco2/5221.ts
+#EXTINF:-1,AutoMoto TV IT
+http://smartiptvworld.com:8080/live/Marco2/Marco2/5213.ts
+#EXTINF:-1,AXN HD IT
+http://smartiptvworld.com:8080/live/Marco2/Marco2/1284.ts
+#EXTINF:-1,Baby TV IT
+http://smartiptvworld.com:8080/live/Marco2/Marco2/5192.ts
+#EXTINF:-1,Bike Channel HD IT
+http://smartiptvworld.com:8080/live/Marco2/Marco2/1255.ts
+#EXTINF:-1,Boing IT
+http://smartiptvworld.com:8080/live/Marco2/Marco2/1282.ts
+#EXTINF:-1,Caccia e Pesca IT
+http://smartiptvworld.com:8080/live/Marco2/Marco2/1254.ts
+#EXTINF:-1,Cartoonito IT
+http://smartiptvworld.com:8080/live/Marco2/Marco2/5188.ts
+#EXTINF:-1,Cartoon Network IT
+http://smartiptvworld.com:8080/live/Marco2/Marco2/5187.ts
+#EXTINF:-1,Canale 5 IT
+http://smartiptvworld.com:8080/live/Marco2/Marco2/7685.ts
+#EXTINF:-1,Canale 5 HD IT
+http://smartiptvworld.com:8080/live/Marco2/Marco2/7686.ts
+#EXTINF:-1,Canale 5 FHD IT
+http://smartiptvworld.com:8080/live/Marco2/Marco2/330.ts
+#EXTINF:-1,Canale 8 IT
+http://smartiptvworld.com:8080/live/Marco2/Marco2/5228.ts
+#EXTINF:-1,Cielo HD IT
+http://smartiptvworld.com:8080/live/Marco2/Marco2/5217.ts
+#EXTINF:-1,Class Horse TV IT
+http://smartiptvworld.com:8080/live/Marco2/Marco2/5214.ts
+#EXTINF:-1,Crime Investigation HD IT
+http://smartiptvworld.com:8080/live/Marco2/Marco2/1267.ts
+#EXTINF:-1,DeeJay TV IT
+http://smartiptvworld.com:8080/live/Marco2/Marco2/5223.ts
+#EXTINF:-1,Discovery Channel HD IT
+http://smartiptvworld.com:8080/live/Marco2/Marco2/1276.ts
+#EXTINF:-1,Discovery Science HD IT
+http://smartiptvworld.com:8080/live/Marco2/Marco2/1277.ts
+#EXTINF:-1,Discovery Travel & Living HD IT
+http://smartiptvworld.com:8080/live/Marco2/Marco2/1278.ts
+#EXTINF:-1,Disney Channel HD IT
+http://smartiptvworld.com:8080/live/Marco2/Marco2/5185.ts
+#EXTINF:-1,Disney XD HD IT
+http://smartiptvworld.com:8080/live/Marco2/Marco2/5181.ts
+#EXTINF:-1,Disney Junior IT
+http://smartiptvworld.com:8080/live/Marco2/Marco2/5184.ts
+#EXTINF:-1,Dmax IT
+http://smartiptvworld.com:8080/live/Marco2/Marco2/1274.ts
+#EXTINF:-1,Euronews IT
+http://smartiptvworld.com:8080/live/Marco2/Marco2/5194.ts
+#EXTINF:-1,EuroSport 1 HD IT
+http://smartiptvworld.com:8080/live/Marco2/Marco2/1260.ts
+#EXTINF:-1,EuroSport 2 HD IT
+http://smartiptvworld.com:8080/live/Marco2/Marco2/1259.ts
+#EXTINF:-1,Fine Living IT
+http://smartiptvworld.com:8080/live/Marco2/Marco2/5220.ts
+#EXTINF:-1,Frisbee IT
+http://smartiptvworld.com:8080/live/Marco2/Marco2/5180.ts
+#EXTINF:-1,Focus IT
+http://smartiptvworld.com:8080/live/Marco2/Marco2/1273.ts
+#EXTINF:-1,Fox Animation HD IT
+http://smartiptvworld.com:8080/live/Marco2/Marco2/1287.ts
+#EXTINF:-1,Fox HD IT
+http://smartiptvworld.com:8080/live/Marco2/Marco2/1290.ts
+#EXTINF:-1,Fox Comedy HD IT
+http://smartiptvworld.com:8080/live/Marco2/Marco2/1288.ts
+#EXTINF:-1,Fox Crime HD IT
+http://smartiptvworld.com:8080/live/Marco2/Marco2/1289.ts
+#EXTINF:-1,Fox Life +1 IT
+http://smartiptvworld.com:8080/live/Marco2/Marco2/1285.ts
+#EXTINF:-1,Fox Life HD IT
+http://smartiptvworld.com:8080/live/Marco2/Marco2/1286.ts
+#EXTINF:-1,Fox Sport HD IT
+http://smartiptvworld.com:8080/live/Marco2/Marco2/313.ts
+#EXTINF:-1,Gambero Rosso HD IT
+http://smartiptvworld.com:8080/live/Marco2/Marco2/1272.ts
+#EXTINF:-1,History HD IT
+http://smartiptvworld.com:8080/live/Marco2/Marco2/1275.ts
+#EXTINF:-1,Investigation Discovery IT
+http://smartiptvworld.com:8080/live/Marco2/Marco2/5200.ts
+#EXTINF:-1,Inter Channel IT
+http://smartiptvworld.com:8080/live/Marco2/Marco2/329.ts
+#EXTINF:-1,Iris IT
+http://smartiptvworld.com:8080/live/Marco2/Marco2/5233.ts
+#EXTINF:-1,Italia 2 HD IT
+http://smartiptvworld.com:8080/live/Marco2/Marco2/328.ts
+#EXTINF:-1,Italia Uno IT
+http://smartiptvworld.com:8080/live/Marco2/Marco2/327.ts
+#EXTINF:-1,Italian Fishing IT
+http://smartiptvworld.com:8080/live/Marco2/Marco2/1251.ts
+#EXTINF:-1,Juventus Channel IT
+http://smartiptvworld.com:8080/live/Marco2/Marco2/1257.ts
+#EXTINF:-1,K2 IT
+http://smartiptvworld.com:8080/live/Marco2/Marco2/5179.ts
+#EXTINF:-1,La 5 IT
+http://smartiptvworld.com:8080/live/Marco2/Marco2/5232.ts
+#EXTINF:-1,La7 IT
+http://smartiptvworld.com:8080/live/Marco2/Marco2/5231.ts
+#EXTINF:-1,La7d HD IT
+http://smartiptvworld.com:8080/live/Marco2/Marco2/5230.ts
+#EXTINF:-1,La 7D FHD IT
+http://smartiptvworld.com:8080/live/Marco2/Marco2/6539.ts
+#EXTINF:-1,Lazio Style Channel IT
+http://smartiptvworld.com:8080/live/Marco2/Marco2/1258.ts
+#EXTINF:-1,M2O IT
+http://smartiptvworld.com:8080/live/Marco2/Marco2/5177.ts
+#EXTINF:-1,m2otv IT
+http://smartiptvworld.com:8080/live/Marco2/Marco2/4045.ts
+#EXTINF:-1,Manga IT
+http://smartiptvworld.com:8080/live/Marco2/Marco2/5182.ts
+#EXTINF:-1,Marco Polo IT
+http://smartiptvworld.com:8080/live/Marco2/Marco2/5199.ts
+#EXTINF:-1,Milan Channel IT
+http://smartiptvworld.com:8080/live/Marco2/Marco2/326.ts
+#EXTINF:-1,Mediaset Extra IT
+http://smartiptvworld.com:8080/live/Marco2/Marco2/5238.ts
+#EXTINF:-1,Nat Geo HD IT
+http://smartiptvworld.com:8080/live/Marco2/Marco2/1280.ts
+#EXTINF:-1,Nat Geo People HD IT
+http://smartiptvworld.com:8080/live/Marco2/Marco2/1281.ts
+#EXTINF:-1,Nat Geo Wild HD IT
+http://smartiptvworld.com:8080/live/Marco2/Marco2/1279.ts
+#EXTINF:-1,Nick Junior IT
+http://smartiptvworld.com:8080/live/Marco2/Marco2/5178.ts
+#EXTINF:-1,Paramount HD IT
+http://smartiptvworld.com:8080/live/Marco2/Marco2/5218.ts
+#EXTINF:-1,Pesca e Caccia IT
+http://smartiptvworld.com:8080/live/Marco2/Marco2/1253.ts
+#EXTINF:-1,Pescare e Cacciare IT
+http://smartiptvworld.com:8080/live/Marco2/Marco2/1252.ts
+#EXTINF:-1,Premium Action HD IT
+http://smartiptvworld.com:8080/live/Marco2/Marco2/1299.ts
+#EXTINF:-1,Premium Action +24 IT
+http://smartiptvworld.com:8080/live/Marco2/Marco2/1298.ts
+#EXTINF:-1,Premium Cinema +24 IT
+http://smartiptvworld.com:8080/live/Marco2/Marco2/1305.ts
+#EXTINF:-1,Premium Cinema 2 +24 IT
+http://smartiptvworld.com:8080/live/Marco2/Marco2/1303.ts
+#EXTINF:-1,Premium Cinema HD IT
+http://smartiptvworld.com:8080/live/Marco2/Marco2/1306.ts
+#EXTINF:-1,Premium Cinema 2 HD IT
+http://smartiptvworld.com:8080/live/Marco2/Marco2/1304.ts
+#EXTINF:-1,Premium Cinema Comedy IT
+http://smartiptvworld.com:8080/live/Marco2/Marco2/1302.ts
+#EXTINF:-1,Premium Cinema Energy IT
+http://smartiptvworld.com:8080/live/Marco2/Marco2/1301.ts
+#EXTINF:-1,Premium Crime HD IT
+http://smartiptvworld.com:8080/live/Marco2/Marco2/1294.ts
+#EXTINF:-1,Premium Crime +24 IT
+http://smartiptvworld.com:8080/live/Marco2/Marco2/1293.ts
+#EXTINF:-1,Premium Emotion IT
+http://smartiptvworld.com:8080/live/Marco2/Marco2/1297.ts
+#EXTINF:-1,Premium Stories IT
+http://smartiptvworld.com:8080/live/Marco2/Marco2/1295.ts
+#EXTINF:-1,Premium Joi IT
+http://smartiptvworld.com:8080/live/Marco2/Marco2/1300.ts
+#EXTINF:-1,Premium Studio Universal IT
+http://smartiptvworld.com:8080/live/Marco2/Marco2/1296.ts
+#EXTINF:-1,PrimaFila 1 HD 1080P
+http://smartiptvworld.com:8080/live/Marco2/Marco2/2195.ts
+#EXTINF:-1,PrimaFila 2 HD 1080P
+http://smartiptvworld.com:8080/live/Marco2/Marco2/2194.ts
+#EXTINF:-1,PrimaFila 3 HD 1080P
+http://smartiptvworld.com:8080/live/Marco2/Marco2/2193.ts
+#EXTINF:-1,PrimaFila 4 HD 1080P
+http://smartiptvworld.com:8080/live/Marco2/Marco2/2192.ts
+#EXTINF:-1,PrimaFila 5 HD 1080P
+http://smartiptvworld.com:8080/live/Marco2/Marco2/2191.ts
+#EXTINF:-1,PrimaFila 6 HD 1080P
+http://smartiptvworld.com:8080/live/Marco2/Marco2/2190.ts
+#EXTINF:-1,PrimaFila 7 HD 1080P
+http://smartiptvworld.com:8080/live/Marco2/Marco2/2189.ts
+#EXTINF:-1,PrimaFila 8 HD 1080P
+http://smartiptvworld.com:8080/live/Marco2/Marco2/2188.ts
+#EXTINF:-1,PrimaFila 9 HD 1080P
+http://smartiptvworld.com:8080/live/Marco2/Marco2/2187.ts
+#EXTINF:-1,Radio Capital TV IT
+http://smartiptvworld.com:8080/live/Marco2/Marco2/5175.ts
+#EXTINF:-1,Radio 105 TV IT
+http://smartiptvworld.com:8080/live/Marco2/Marco2/5176.ts
+#EXTINF:-1,Radio Italia TV IT
+http://smartiptvworld.com:8080/live/Marco2/Marco2/5174.ts
+#EXTINF:-1,Rai 1 IT
+http://smartiptvworld.com:8080/live/Marco2/Marco2/325.ts
+#EXTINF:-1,Rai 2 IT
+http://smartiptvworld.com:8080/live/Marco2/Marco2/324.ts
+#EXTINF:-1,Rai 3 HD IT
+http://smartiptvworld.com:8080/live/Marco2/Marco2/323.ts
+#EXTINF:-1,Rai 4 HD IT
+http://smartiptvworld.com:8080/live/Marco2/Marco2/5240.ts
+#EXTINF:-1,Rai 5 IT
+http://smartiptvworld.com:8080/live/Marco2/Marco2/5239.ts
+#EXTINF:-1,Rai Gulp IT
+http://smartiptvworld.com:8080/live/Marco2/Marco2/5191.ts
+#EXTINF:-1,Rai News 24 IT
+http://smartiptvworld.com:8080/live/Marco2/Marco2/5195.ts
+#EXTINF:-1,Rai Movie IT
+http://smartiptvworld.com:8080/live/Marco2/Marco2/5237.ts
+#EXTINF:-1,Rai Premium IT
+http://smartiptvworld.com:8080/live/Marco2/Marco2/5236.ts
+#EXTINF:-1,Rai Scuola IT
+http://smartiptvworld.com:8080/live/Marco2/Marco2/5234.ts
+#EXTINF:-1,Rai Storia IT
+http://smartiptvworld.com:8080/live/Marco2/Marco2/5235.ts
+#EXTINF:-1,Rai YoYo HD IT
+http://smartiptvworld.com:8080/live/Marco2/Marco2/5190.ts
+#EXTINF:-1,Real Giallo IT
+http://smartiptvworld.com:8080/live/Marco2/Marco2/1270.ts
+#EXTINF:-1,Real Time FHD IT
+http://smartiptvworld.com:8080/live/Marco2/Marco2/1283.ts
+#EXTINF:-1,Rete 4 IT
+http://smartiptvworld.com:8080/live/Marco2/Marco2/1314.ts
+#EXTINF:-1,Roma Channel IT
+http://smartiptvworld.com:8080/live/Marco2/Marco2/1256.ts
+#EXTINF:-1,RSI La 1 HD IT
+http://smartiptvworld.com:8080/live/Marco2/Marco2/1313.ts
+#EXTINF:-1,RSI La 2 HD IT
+http://smartiptvworld.com:8080/live/Marco2/Marco2/1312.ts
+#EXTINF:-1,RTL 102.5 IT
+http://smartiptvworld.com:8080/live/Marco2/Marco2/5170.ts
+#EXTINF:-1,Sky 3D IT
+http://smartiptvworld.com:8080/live/Marco2/Marco2/1307.ts
+#EXTINF:-1,Sky Arte HD IT
+http://smartiptvworld.com:8080/live/Marco2/Marco2/5198.ts
+#EXTINF:-1,Sky Atlantic HD IT
+http://smartiptvworld.com:8080/live/Marco2/Marco2/1291.ts
+#EXTINF:-1,Sky Cinema Uno FHD IT
+http://smartiptvworld.com:8080/live/Marco2/Marco2/322.ts
+#EXTINF:-1,Sky Cinema +1 HD IT
+http://smartiptvworld.com:8080/live/Marco2/Marco2/1311.ts
+#EXTINF:-1,Sky Cinema +24 HD IT
+http://smartiptvworld.com:8080/live/Marco2/Marco2/1310.ts
+#EXTINF:-1,Sky Cinema Cult HD IT
+http://smartiptvworld.com:8080/live/Marco2/Marco2/1309.ts
+#EXTINF:-1,Sky Cinema Classic HD IT
+http://smartiptvworld.com:8080/live/Marco2/Marco2/321.ts
+#EXTINF:-1,Sky Cinema Comedy HD IT
+http://smartiptvworld.com:8080/live/Marco2/Marco2/320.ts
+#EXTINF:-1,Sky Cinema Family HD IT
+http://smartiptvworld.com:8080/live/Marco2/Marco2/319.ts
+#EXTINF:-1,Sky Cinema Hits HD IT
+http://smartiptvworld.com:8080/live/Marco2/Marco2/1308.ts
+#EXTINF:-1,Sky Cinema Max HD IT
+http://smartiptvworld.com:8080/live/Marco2/Marco2/318.ts
+#EXTINF:-1,Sky Virgin Music TV IT
+http://smartiptvworld.com:8080/live/Marco2/Marco2/5172.ts
+#EXTINF:-1,Sky Cinema Passion HD IT
+http://smartiptvworld.com:8080/live/Marco2/Marco2/317.ts
+#EXTINF:-1,Sky Supercalcio HD IT
+http://smartiptvworld.com:8080/live/Marco2/Marco2/5211.ts
+#EXTINF:-1,Sky TG 24 HD IT
+http://smartiptvworld.com:8080/live/Marco2/Marco2/5197.ts
+#EXTINF:-1,Sky Uno IT
+http://smartiptvworld.com:8080/live/Marco2/Marco2/314.ts
+#EXTINF:-1,Sky Uno +1 HD IT
+http://smartiptvworld.com:8080/live/Marco2/Marco2/1292.ts
+#EXTINF:-1,Super! IT
+http://smartiptvworld.com:8080/live/Marco2/Marco2/5189.ts
+#EXTINF:-1,Telecolor IT
+http://smartiptvworld.com:8080/live/Marco2/Marco2/5226.ts
+#EXTINF:-1,Tg Com 24 IT
+http://smartiptvworld.com:8080/live/Marco2/Marco2/5196.ts
+#EXTINF:-1,Top Crime IT
+http://smartiptvworld.com:8080/live/Marco2/Marco2/1269.ts
+#EXTINF:-1,TV8 IT
+http://smartiptvworld.com:8080/live/Marco2/Marco2/5229.ts
+#EXTINF:-1,TV2000 HD IT
+http://smartiptvworld.com:8080/live/Marco2/Marco2/1268.ts
+#EXTINF:-1,Wrestling IT
+http://smartiptvworld.com:8080/live/Marco2/Marco2/5212.ts
+#EXTINF:-1,Rai Sport 1 HD IT
+http://smartiptvworld.com:8080/live/Marco2/Marco2/1264.ts
+#EXTINF:-1,Rai Sport 2 IT
+http://smartiptvworld.com:8080/live/Marco2/Marco2/1263.ts
+#EXTINF:-1,Premium Calcio 1 IT
+http://smartiptvworld.com:8080/live/Marco2/Marco2/5206.ts
+#EXTINF:-1,Premium Calcio 2 IT
+http://smartiptvworld.com:8080/live/Marco2/Marco2/5205.ts
+#EXTINF:-1,Premium Calcio 3 IT
+http://smartiptvworld.com:8080/live/Marco2/Marco2/5204.ts
+#EXTINF:-1,Premium Calcio 4 IT
+http://smartiptvworld.com:8080/live/Marco2/Marco2/5203.ts
+#EXTINF:-1,Premium Calcio 5 IT
+http://smartiptvworld.com:8080/live/Marco2/Marco2/5202.ts
+#EXTINF:-1,Premium Calcio 6 IT
+http://smartiptvworld.com:8080/live/Marco2/Marco2/5201.ts
+#EXTINF:-1,Premium Sport HD IT
+http://smartiptvworld.com:8080/live/Marco2/Marco2/312.ts
+#EXTINF:-1,Premium Sport 2 IT
+http://smartiptvworld.com:8080/live/Marco2/Marco2/311.ts
+#EXTINF:-1,Sky Calcio 1 IT
+http://smartiptvworld.com:8080/live/Marco2/Marco2/307.ts
+#EXTINF:-1,Sky Calcio 2 IT
+http://smartiptvworld.com:8080/live/Marco2/Marco2/306.ts
+#EXTINF:-1,Sky Calcio 3 HD IT
+http://smartiptvworld.com:8080/live/Marco2/Marco2/5210.ts
+#EXTINF:-1,Sky Calcio 4 HD IT
+http://smartiptvworld.com:8080/live/Marco2/Marco2/5209.ts
+#EXTINF:-1,Sky Calcio 5 HD IT
+http://smartiptvworld.com:8080/live/Marco2/Marco2/5208.ts
+#EXTINF:-1,Sky Calcio 6 HD IT
+http://smartiptvworld.com:8080/live/Marco2/Marco2/5207.ts
+#EXTINF:-1,Sport Italia IT
+http://smartiptvworld.com:8080/live/Marco2/Marco2/1261.ts
+#EXTINF:-1,Sky Sport 1 HD IT
+http://smartiptvworld.com:8080/live/Marco2/Marco2/316.ts
+#EXTINF:-1,Sky Sport 2 HD IT
+http://smartiptvworld.com:8080/live/Marco2/Marco2/315.ts
+#EXTINF:-1,Sky Sport 3 HD IT
+http://smartiptvworld.com:8080/live/Marco2/Marco2/1266.ts
+#EXTINF:-1,Sky Sport 24 HD IT
+http://smartiptvworld.com:8080/live/Marco2/Marco2/309.ts
+#EXTINF:-1,Sky Sport F1 HD IT
+http://smartiptvworld.com:8080/live/Marco2/Marco2/308.ts
+#EXTINF:-1,Sky Sport Plus HD IT
+http://smartiptvworld.com:8080/live/Marco2/Marco2/1265.ts
+#EXTINF:-1,Sky MotoGP HD IT
+http://smartiptvworld.com:8080/live/Marco2/Marco2/310.ts
+#EXTINF:-1,Super Tennis HD IT
+http://smartiptvworld.com:8080/live/Marco2/Marco2/1262.ts
