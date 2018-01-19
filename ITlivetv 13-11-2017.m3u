@@ -3,88 +3,8 @@
 http://live-bloomberg-us-east.global.ssl.fastly.net/btv/desktop/bbr_radio.m3u8
 #EXTINF:-1,Channel Kick Out in 15-20Sec Visit http://bit.ly/fixkick
 http://s2.voscast.com:12294/;stream.mp3
-#EXTINF:-1,Updated on 16 Jan 2018 Around 5 PM Italian Time
+#EXTINF:-1,Updated on 19 Jan 2018 Around 5 PM Italian Time
 http://www.lengua.com/anthems/Indonesia.mp3
-
-#EXTINF:-1,SP-IT: Sky Sport 24 HD
-http://ndasat.pro:8000/live/22872685429678/1593574628/4200.ts
-#EXTINF:-1,SP-IT: Sky Sport 1 HD
-http://ndasat.pro:8000/live/22872685429678/1593574628/4199.ts
-#EXTINF:-1,SP-IT: Sky Sport 2 HD
-http://ndasat.pro:8000/live/22872685429678/1593574628/4198.ts
-#EXTINF:-1,SP-IT: Sky Sport 3 HD
-http://ndasat.pro:8000/live/22872685429678/1593574628/4197.ts
-#EXTINF:-1,SP-IT: Sky Sport F1 HD
-http://ndasat.pro:8000/live/22872685429678/1593574628/4175.ts
-#EXTINF:-1,SP-IT: Premium Calcio 1 HD
-http://ndasat.pro:8000/live/22872685429678/1593574628/4194.ts
-#EXTINF:-1,SP-IT: Premium Calcio 2 HD
-http://ndasat.pro:8000/live/22872685429678/1593574628/4193.ts
-#EXTINF:-1,SP-IT: Premium Calcio 3 HD
-http://ndasat.pro:8000/live/22872685429678/1593574628/4192.ts
-#EXTINF:-1,SP-IT: Premium Calcio 4 HD
-http://ndasat.pro:8000/live/22872685429678/1593574628/4191.ts
-#EXTINF:-1,SP-IT: Premium Calcio 5 HD
-http://ndasat.pro:8000/live/22872685429678/1593574628/4190.ts
-#EXTINF:-1,SP-IT: Premium Calcio 6 HD
-http://ndasat.pro:8000/live/22872685429678/1593574628/4189.ts
-#EXTINF:-1,SP-IT: PREMIUM SPORT HD
-http://ndasat.pro:8000/live/22872685429678/1593574628/4196.ts
-#EXTINF:-1,SP-IT: Premium Sport 2 HD
-http://ndasat.pro:8000/live/22872685429678/1593574628/4195.ts
-#EXTINF:-1,SP-IT: ROMA CHANNEL
-http://ndasat.pro:8000/live/22872685429678/1593574628/4185.ts
-#EXTINF:-1,SP-IT: INTER CHANNEL
-http://ndasat.pro:8000/live/22872685429678/1593574628/4186.ts
-#EXTINF:-1,SP-IT: Juventus Channel
-http://ndasat.pro:8000/live/22872685429678/1593574628/4188.ts
-#EXTINF:-1,SP-IT: Milan Channel
-http://ndasat.pro:8000/live/22872685429678/1593574628/4187.ts
-#EXTINF:-1,SP-IT: Sky Calcio 1
-http://ndasat.pro:8000/live/22872685429678/1593574628/4209.ts
-#EXTINF:-1,SP-IT: Sky Calcio 2
-http://ndasat.pro:8000/live/22872685429678/1593574628/4208.ts
-#EXTINF:-1,SP-IT: Sky Calcio.3
-http://ndasat.pro:8000/live/22872685429678/1593574628/4207.ts
-#EXTINF:-1,SP-IT: Sky Calcio.4
-http://ndasat.pro:8000/live/22872685429678/1593574628/4206.ts
-#EXTINF:-1,SP-IT: Sky Calcio.5
-http://ndasat.pro:8000/live/22872685429678/1593574628/4205.ts
-#EXTINF:-1,SP-IT: Sky Calcio.6
-http://ndasat.pro:8000/live/22872685429678/1593574628/4204.ts
-#EXTINF:-1,SP-IT: Sky Calcio.7
-http://ndasat.pro:8000/live/22872685429678/1593574628/4203.ts
-#EXTINF:-1,SP-IT : Sky Calcio 8
-http://ndasat.pro:8000/live/22872685429678/1593574628/4202.ts
-#EXTINF:-1,SP-IT: Sky Sport MotoGP HD
-http://ndasat.pro:8000/live/22872685429678/1593574628/4174.ts
-#EXTINF:-1,SP-IT: Sport Italia
-http://ndasat.pro:8000/live/22872685429678/1593574628/4177.ts
-#EXTINF:-1,SP-IT: Super Tennis HD
-http://ndasat.pro:8000/live/22872685429678/1593574628/4180.ts
-#EXTINF:-1,SP-IT: Rai Sport 1 HD
-http://ndasat.pro:8000/live/22872685429678/1593574628/4184.ts
-#EXTINF:-1,SP-IT: Rai Sport 2 HD
-http://ndasat.pro:8000/live/22872685429678/1593574628/4183.ts
-#EXTINF:-1,SP-IT: Eurosport 1 HD
-http://ndasat.pro:8000/live/22872685429678/1593574628/4179.ts
-#EXTINF:-1,SP-IT: Eurosport 2 HD
-http://ndasat.pro:8000/live/22872685429678/1593574628/4178.ts
-#EXTINF:-1,SP-IT: Fox Sport HD Italia
-http://ndasat.pro:8000/live/22872685429678/1593574628/4181.ts
-#EXTINF:-1,SP-IT: San Marino Rtv Sport
-http://ndasat.pro:8000/live/22872685429678/1593574628/4210.ts
-#EXTINF:-1,SP-IT: AutoMoto TV
-http://ndasat.pro:8000/live/22872685429678/1593574628/4176.ts
-
-#EXTINF:-1,IT | SKY SPORT 1 HD
-http://sport.goldentv.eu:8899/live/tural/tural/4336.ts
-#EXTINF:-1,IT | SKY SPORT 2 HD
-http://sport.goldentv.eu:8899/live/tural/tural/4344.ts
-#EXTINF:-1,IT | SKY SPORT F1 HD
-http://sport.goldentv.eu:8899/live/tural/tural/4335.ts
-#EXTINF:-1,IT | SKY MOTO GP HD
-http://sport.goldentv.eu:8899/live/tural/tural/4343.ts
 
 #EXTINF:-1,IT: RAI 1 HD
 http://173.212.194.126:8000/live/antonio/antonio/1227.ts
@@ -349,268 +269,263 @@ http://173.212.194.126:8000/live/antonio/antonio/1268.ts
 #EXTINF:-1,IT: SUPER TENNIS HD
 http://173.212.194.126:8000/live/antonio/antonio/1267.ts
 
-#EXTINF:-1,IT: ALICE
-http://cdn.mysubtv.com:8000/live/3143063948195417/1593574628/1243.ts
-#EXTINF:-1,IT: ANIMAL_PLANETE
-http://cdn.mysubtv.com:8000/live/3143063948195417/1593574628/1287.ts
-#EXTINF:-1,IT: CANALE 5 HD
-http://cdn.mysubtv.com:8000/live/3143063948195417/1593574628/1247.ts
-#EXTINF:-1,IT: Canale_7
-http://cdn.mysubtv.com:8000/live/3143063948195417/1593574628/1246.ts
-#EXTINF:-1,IT: CARTOONITO
-http://cdn.mysubtv.com:8000/live/3143063948195417/1593574628/1288.ts
-#EXTINF:-1,IT: CRIME NVESTIGATION HD
-http://cdn.mysubtv.com:8000/live/3143063948195417/1593574628/1294.ts
-#EXTINF:-1,IT: DISCOVERY HD
-http://cdn.mysubtv.com:8000/live/3143063948195417/1593574628/1293.ts
-#EXTINF:-1,IT: DISCOVERY SCIENCE
-http://cdn.mysubtv.com:8000/live/3143063948195417/1593574628/1280.ts
-#EXTINF:-1,IT: DISCOVERY Travel & Living
-http://cdn.mysubtv.com:8000/live/3143063948195417/1593574628/1278.ts
-#EXTINF:-1,IT: Disney HD
-http://cdn.mysubtv.com:8000/live/3143063948195417/1593574628/1292.ts
-#EXTINF:-1,IT: DISNEY_XD
-http://cdn.mysubtv.com:8000/live/3143063948195417/1593574628/1291.ts
-#EXTINF:-1,IT: DMAX HD
-http://cdn.mysubtv.com:8000/live/3143063948195417/1593574628/1290.ts
-#EXTINF:-1,IT: DMAX_HD
-http://cdn.mysubtv.com:8000/live/3143063948195417/1593574628/3317.ts
-#EXTINF:-1,IT: EUROSPORT 2 HD
-http://cdn.mysubtv.com:8000/live/3143063948195417/1593574628/1265.ts
-#EXTINF:-1,IT: EUROSPORT 1 HD
-http://cdn.mysubtv.com:8000/live/3143063948195417/1593574628/1264.ts
-#EXTINF:-1,IT: FOX ANIMATION HD
-http://cdn.mysubtv.com:8000/live/3143063948195417/1593574628/1289.ts
-#EXTINF:-1,IT: FOX HD
-http://cdn.mysubtv.com:8000/live/3143063948195417/1593574628/1286.ts
-#EXTINF:-1,IT: FOX LIFE HD
-http://cdn.mysubtv.com:8000/live/3143063948195417/1593574628/1285.ts
-#EXTINF:-1,IT: ITALIA 1 HD
-http://cdn.mysubtv.com:8000/live/3143063948195417/1593574628/1242.ts
-#EXTINF:-1,IT: La 5
-http://cdn.mysubtv.com:8000/live/3143063948195417/1593574628/1244.ts
-#EXTINF:-1,IT: La 7
-http://cdn.mysubtv.com:8000/live/3143063948195417/1593574628/1245.ts
-#EXTINF:-1,IT: MILAN CHANNEL
-http://cdn.mysubtv.com:8000/live/3143063948195417/1593574628/1263.ts
-#EXTINF:-1,IT: NAT GEOGRAPHIC HD
-http://cdn.mysubtv.com:8000/live/3143063948195417/1593574628/1281.ts
-#EXTINF:-1,IT: NATIONALGEO PEOPLE HD
-http://cdn.mysubtv.com:8000/live/3143063948195417/1593574628/1283.ts
-#EXTINF:-1,IT: NATIONALGEO WILD HD
-http://cdn.mysubtv.com:8000/live/3143063948195417/1593574628/1282.ts
-#EXTINF:-1,IT: PESCA E CACCIA
-http://cdn.mysubtv.com:8000/live/3143063948195417/1593574628/1279.ts
-#EXTINF:-1,IT: PREMIUM CARTOON NETWORK
-http://cdn.mysubtv.com:8000/live/3143063948195417/1593574628/1327.ts
-#EXTINF:-1,IT: PREMIUM CINEMA 2 HD
-http://cdn.mysubtv.com:8000/live/3143063948195417/1593574628/1326.ts
-#EXTINF:-1,IT: Premium Crime +24
-http://cdn.mysubtv.com:8000/live/3143063948195417/1593574628/1319.ts
-#EXTINF:-1,IT: PREMIUM ACTION 24
-http://cdn.mysubtv.com:8000/live/3143063948195417/1593574628/1324.ts
-#EXTINF:-1,IT: PREMIUM ACTION HD
-http://cdn.mysubtv.com:8000/live/3143063948195417/1593574628/1328.ts
-#EXTINF:-1,IT: PREMIUM CALCIO 1 HD
-http://cdn.mysubtv.com:8000/live/3143063948195417/1593574628/1306.ts
-#EXTINF:-1,IT: PREMIUM CALCIO 2 HD
-http://cdn.mysubtv.com:8000/live/3143063948195417/1593574628/1307.ts
-#EXTINF:-1,IT: PREMIUM_CALCIO_3_HD
-http://cdn.mysubtv.com:8000/live/3143063948195417/1593574628/1308.ts
-#EXTINF:-1,IT: PREMIUM_CALCIO_4_HD
-http://cdn.mysubtv.com:8000/live/3143063948195417/1593574628/1309.ts
-#EXTINF:-1,IT: PREMIUM CALCIO 5 HD
-http://cdn.mysubtv.com:8000/live/3143063948195417/1593574628/1310.ts
-#EXTINF:-1,IT: PREMIUM_CALCIO_6_HD
-http://cdn.mysubtv.com:8000/live/3143063948195417/1593574628/1311.ts
-#EXTINF:-1,IT: PREMIUM_CALCIO_HD
-http://cdn.mysubtv.com:8000/live/3143063948195417/1593574628/1305.ts
-#EXTINF:-1,IT: PREMIUM_CINEMA_24
-http://cdn.mysubtv.com:8000/live/3143063948195417/1593574628/1325.ts
-#EXTINF:-1,IT: PREMIUM CINEMA ENERGY_HD
-http://cdn.mysubtv.com:8000/live/3143063948195417/1593574628/1323.ts
-#EXTINF:-1,IT: PREMIUM_CINEMA_HD
-http://cdn.mysubtv.com:8000/live/3143063948195417/1593574628/1322.ts
-#EXTINF:-1,IT: PREMIUM_COMEDY_HD
-http://cdn.mysubtv.com:8000/live/3143063948195417/1593574628/1321.ts
-#EXTINF:-1,IT: PREMIUM_CRIME_HD
-http://cdn.mysubtv.com:8000/live/3143063948195417/1593574628/1320.ts
-#EXTINF:-1,IT: Premium DISNEY CHANNEL HD
-http://cdn.mysubtv.com:8000/live/3143063948195417/1593574628/1316.ts
-#EXTINF:-1,IT: Premium_Disney_Junior
-http://cdn.mysubtv.com:8000/live/3143063948195417/1593574628/1315.ts
-#EXTINF:-1,IT: PREMIUM_EMOTION
-http://cdn.mysubtv.com:8000/live/3143063948195417/1593574628/1318.ts
-#EXTINF:-1,IT: PREMIUM JOI
-http://cdn.mysubtv.com:8000/live/3143063948195417/1593574628/1313.ts
-#EXTINF:-1,IT: PREMIUM_JOY
-http://cdn.mysubtv.com:8000/live/3143063948195417/1593574628/1314.ts
-#EXTINF:-1,IT: PREMIUM_SPORT_2_HD
-http://cdn.mysubtv.com:8000/live/3143063948195417/1593574628/3476.ts
-#EXTINF:-1,IT: PREMIUM SPORT HD
-http://cdn.mysubtv.com:8000/live/3143063948195417/1593574628/1312.ts
-#EXTINF:-1,IT: PREMIUM STORIES
-http://cdn.mysubtv.com:8000/live/3143063948195417/1593574628/1284.ts
-#EXTINF:-1,IT: Premium STUDIO UNIVERSAL
-http://cdn.mysubtv.com:8000/live/3143063948195417/1593574628/1317.ts
-#EXTINF:-1,IT: PRIMAFILA_1_HD
-http://cdn.mysubtv.com:8000/live/3143063948195417/1593574628/1209.ts
-#EXTINF:-1,IT: PRIMAFILA_10_HD
-http://cdn.mysubtv.com:8000/live/3143063948195417/1593574628/1218.ts
-#EXTINF:-1,IT: PRIMAFILA 11 HD
-http://cdn.mysubtv.com:8000/live/3143063948195417/1593574628/1219.ts
-#EXTINF:-1,IT: PRIMAFILA 12 HD
-http://cdn.mysubtv.com:8000/live/3143063948195417/1593574628/1220.ts
-#EXTINF:-1,IT: PRIMAFILA 13 HD
-http://cdn.mysubtv.com:8000/live/3143063948195417/1593574628/1221.ts
-#EXTINF:-1,IT: PRIMAFILA 14 HD
-http://cdn.mysubtv.com:8000/live/3143063948195417/1593574628/1222.ts
-#EXTINF:-1,IT: PRIMAFILA 15 HD
-http://cdn.mysubtv.com:8000/live/3143063948195417/1593574628/1223.ts
-#EXTINF:-1,IT: PRIMAFILA_16_HD
-http://cdn.mysubtv.com:8000/live/3143063948195417/1593574628/1224.ts
-#EXTINF:-1,IT: PRIMAFILA 2 HD
-http://cdn.mysubtv.com:8000/live/3143063948195417/1593574628/1210.ts
-#EXTINF:-1,IT: PRIMAFILA_3_HD
-http://cdn.mysubtv.com:8000/live/3143063948195417/1593574628/1211.ts
-#EXTINF:-1,IT: PRIMAFILA_4_HD
-http://cdn.mysubtv.com:8000/live/3143063948195417/1593574628/1212.ts
-#EXTINF:-1,IT: PRIMAFILA 5 HD
-http://cdn.mysubtv.com:8000/live/3143063948195417/1593574628/1213.ts
-#EXTINF:-1,IT: PRIMAFILA 6 HD
-http://cdn.mysubtv.com:8000/live/3143063948195417/1593574628/1214.ts
-#EXTINF:-1,IT: PRIMAFILA 7 HD
-http://cdn.mysubtv.com:8000/live/3143063948195417/1593574628/1215.ts
-#EXTINF:-1,IT: PRIMAFILA_8_HD
-http://cdn.mysubtv.com:8000/live/3143063948195417/1593574628/1216.ts
-#EXTINF:-1,IT: PRIMAFILA 9 HD
-http://cdn.mysubtv.com:8000/live/3143063948195417/1593574628/1217.ts
-#EXTINF:-1,IT: RAI 1 HD
-http://cdn.mysubtv.com:8000/live/3143063948195417/1593574628/1227.ts
-#EXTINF:-1,IT: RAI 2 HD
-http://cdn.mysubtv.com:8000/live/3143063948195417/1593574628/1228.ts
-#EXTINF:-1,IT: RAI 3 HD
-http://cdn.mysubtv.com:8000/live/3143063948195417/1593574628/1229.ts
-#EXTINF:-1,IT: RAI 4 HD
-http://cdn.mysubtv.com:8000/live/3143063948195417/1593574628/1230.ts
-#EXTINF:-1,IT: RAI 5 HD
-http://cdn.mysubtv.com:8000/live/3143063948195417/1593574628/1231.ts
-#EXTINF:-1,IT: RAI GULP
-http://cdn.mysubtv.com:8000/live/3143063948195417/1593574628/1234.ts
-#EXTINF:-1,IT: RAI NEWS
-http://cdn.mysubtv.com:8000/live/3143063948195417/1593574628/1232.ts
-#EXTINF:-1,IT: RAI PREMIUM HD
-http://cdn.mysubtv.com:8000/live/3143063948195417/1593574628/1271.ts
-#EXTINF:-1,IT: RAI SPORT 2
-http://cdn.mysubtv.com:8000/live/3143063948195417/1593574628/1237.ts
-#EXTINF:-1,IT: RAI YOYO
-http://cdn.mysubtv.com:8000/live/3143063948195417/1593574628/1235.ts
-#EXTINF:-1,IT: RAI MOVIE
-http://cdn.mysubtv.com:8000/live/3143063948195417/1593574628/1233.ts
-#EXTINF:-1,IT: RAI SPORT 1
-http://cdn.mysubtv.com:8000/live/3143063948195417/1593574628/1236.ts
-#EXTINF:-1,IT: RETE 4 HD
-http://cdn.mysubtv.com:8000/live/3143063948195417/1593574628/1240.ts
-#EXTINF:-1,IT: RSI LA 1 HD
-http://cdn.mysubtv.com:8000/live/3143063948195417/1593574628/1238.ts
-#EXTINF:-1,IT: RSI LA 2 HD
-http://cdn.mysubtv.com:8000/live/3143063948195417/1593574628/1239.ts
-#EXTINF:-1,IT: SKY AXN HD
-http://cdn.mysubtv.com:8000/live/3143063948195417/1593574628/1275.ts
-#EXTINF:-1,IT: SKY CALCIO 1 HD
-http://cdn.mysubtv.com:8000/live/3143063948195417/1593574628/1256.ts
-#EXTINF:-1,IT: SKY CIELO
-http://cdn.mysubtv.com:8000/live/3143063948195417/1593574628/1274.ts
-#EXTINF:-1,IT: SKY CINEMA 1 HD
-http://cdn.mysubtv.com:8000/live/3143063948195417/1593574628/2896.ts
-#EXTINF:-1,IT: SKY CINEMA 24 HD
-http://cdn.mysubtv.com:8000/live/3143063948195417/1593574628/1304.ts
-#EXTINF:-1,IT: SKY CINEMA COMEDY HD
-http://cdn.mysubtv.com:8000/live/3143063948195417/1593574628/2900.ts
-#EXTINF:-1,IT: SKY CINEMA CULT HD
-http://cdn.mysubtv.com:8000/live/3143063948195417/1593574628/2899.ts
-#EXTINF:-1,IT: SKY CINEMA HITS HD
-http://cdn.mysubtv.com:8000/live/3143063948195417/1593574628/2902.ts
-#EXTINF:-1,IT: SKY  CINEMA MAX hD
-http://cdn.mysubtv.com:8000/live/3143063948195417/1593574628/2901.ts
-#EXTINF:-1,IT: SKY CINEMA PASSION HD
-http://cdn.mysubtv.com:8000/live/3143063948195417/1593574628/2898.ts
-#EXTINF:-1,IT: SKY FOX COMEDY HD
-http://cdn.mysubtv.com:8000/live/3143063948195417/1593574628/2903.ts
-#EXTINF:-1,IT: SKY FOX CRIME HD
-http://cdn.mysubtv.com:8000/live/3143063948195417/1593574628/1272.ts
-#EXTINF:-1,IT: Sky Primafila 1 HD
-http://cdn.mysubtv.com:8000/live/3143063948195417/1593574628/374.ts
-#EXTINF:-1,IT: Sky Primafila 10 HD
-http://cdn.mysubtv.com:8000/live/3143063948195417/1593574628/373.ts
-#EXTINF:-1,IT: Sky Primafila 11 HD
-http://cdn.mysubtv.com:8000/live/3143063948195417/1593574628/372.ts
-#EXTINF:-1,IT: Sky PrimaFila 12 HD
-http://cdn.mysubtv.com:8000/live/3143063948195417/1593574628/371.ts
-#EXTINF:-1,IT: Sky Primafila 2 HD
-http://cdn.mysubtv.com:8000/live/3143063948195417/1593574628/370.ts
-#EXTINF:-1,IT: Sky Primafila 3 HD
-http://cdn.mysubtv.com:8000/live/3143063948195417/1593574628/369.ts
-#EXTINF:-1,IT: Sky Primafila 4 HD
-http://cdn.mysubtv.com:8000/live/3143063948195417/1593574628/368.ts
-#EXTINF:-1,IT: Sky Primafila 5 HD
-http://cdn.mysubtv.com:8000/live/3143063948195417/1593574628/367.ts
-#EXTINF:-1,IT: Sky Primafila 6 HD
-http://cdn.mysubtv.com:8000/live/3143063948195417/1593574628/366.ts
-#EXTINF:-1,IT: Sky Primafila 7 HD
-http://cdn.mysubtv.com:8000/live/3143063948195417/1593574628/365.ts
-#EXTINF:-1,IT: Sky Primafila 8 HD
-http://cdn.mysubtv.com:8000/live/3143063948195417/1593574628/364.ts
-#EXTINF:-1,IT: Sky Primafila 9 HD
-http://cdn.mysubtv.com:8000/live/3143063948195417/1593574628/363.ts
-#EXTINF:-1,IT: SKY SPORT 1 HD
-http://cdn.mysubtv.com:8000/live/3143063948195417/1593574628/1250.ts
-#EXTINF:-1,IT: SKY SPORT 24 HD
-http://cdn.mysubtv.com:8000/live/3143063948195417/1593574628/1255.ts
-#EXTINF:-1,IT: SKY SPORT 3 HD
-http://cdn.mysubtv.com:8000/live/3143063948195417/1593574628/1252.ts
-#EXTINF:-1,IT: SKY SPORT MOTO GP HD
-http://cdn.mysubtv.com:8000/live/3143063948195417/1593574628/1254.ts
-#EXTINF:-1,IT: SKY SPORTS F1 HD
-http://cdn.mysubtv.com:8000/live/3143063948195417/1593574628/1253.ts
-#EXTINF:-1,IT: SKY UNO HD
-http://cdn.mysubtv.com:8000/live/3143063948195417/1593574628/1269.ts
-#EXTINF:-1,IT: SKY_ARTE_HD
-http://cdn.mysubtv.com:8000/live/3143063948195417/1593574628/1277.ts
-#EXTINF:-1,IT: SKY_ATLANTIC_HD
-http://cdn.mysubtv.com:8000/live/3143063948195417/1593574628/1276.ts
+#EXTINF:-1,IT: Premium Sport HD
+http://164.132.200.17:8080/live/alparslan/alparslan/1312.ts
+#EXTINF:-1,IT: Sky Supercalcio HD
+http://164.132.200.17:8080/live/alparslan/alparslan/1305.ts
+#EXTINF:-1,IT: Premium Sport 1 HD
+http://164.132.200.17:8080/live/alparslan/alparslan/1856.ts
+#EXTINF:-1,IT: Premium Sport 2 HD
+http://164.132.200.17:8080/live/alparslan/alparslan/1313.ts
+#EXTINF:-1,IT: Sky Calcio 1 HD
+http://164.132.200.17:8080/live/alparslan/alparslan/1314.ts
 #EXTINF:-1,IT: Sky Calcio 2 HD
-http://cdn.mysubtv.com:8000/live/3143063948195417/1593574628/1257.ts
-#EXTINF:-1,IT: SKY CALCIO 3 HD
-http://cdn.mysubtv.com:8000/live/3143063948195417/1593574628/1258.ts
-#EXTINF:-1,IT: SKY CALCIO 4 HD
-http://cdn.mysubtv.com:8000/live/3143063948195417/1593574628/1259.ts
-#EXTINF:-1,IT: SKY_CALCIO_5_HD
-http://cdn.mysubtv.com:8000/live/3143063948195417/1593574628/1260.ts
-#EXTINF:-1,IT: SKY CALCIO 6 HD
-http://cdn.mysubtv.com:8000/live/3143063948195417/1593574628/1261.ts
-#EXTINF:-1,IT: SKY CALCIO 7 HD
-http://cdn.mysubtv.com:8000/live/3143063948195417/1593574628/1262.ts
-#EXTINF:-1,IT: SKY_CINEMA_1_HD
-http://cdn.mysubtv.com:8000/live/3143063948195417/1593574628/1303.ts
-#EXTINF:-1,IT: SKY_CINEMA_CLASSICS_HD
-http://cdn.mysubtv.com:8000/live/3143063948195417/1593574628/1302.ts
-#EXTINF:-1,IT: SKY_CINEMA_CULT_HD
-http://cdn.mysubtv.com:8000/live/3143063948195417/1593574628/1300.ts
-#EXTINF:-1,IT: SKY CINEMA FAMILY HD
-http://cdn.mysubtv.com:8000/live/3143063948195417/1593574628/1299.ts
-#EXTINF:-1,IT: SKY_CINEMA_PASSION_HD
-http://cdn.mysubtv.com:8000/live/3143063948195417/1593574628/1296.ts
-#EXTINF:-1,IT: SKY_SPORT_2_HD
-http://cdn.mysubtv.com:8000/live/3143063948195417/1593574628/1251.ts
-#EXTINF:-1,IT: SKY TG 24 HD
-http://cdn.mysubtv.com:8000/live/3143063948195417/1593574628/1270.ts
-#EXTINF:-1,IT: SPORT ITALIA
-http://cdn.mysubtv.com:8000/live/3143063948195417/1593574628/1241.ts
-#EXTINF:-1,IT: SUPER CALCIO HD
-http://cdn.mysubtv.com:8000/live/3143063948195417/1593574628/1268.ts
-#EXTINF:-1,IT: SUPER TENNIS HD
-http://cdn.mysubtv.com:8000/live/3143063948195417/1593574628/1267.ts
+http://164.132.200.17:8080/live/alparslan/alparslan/1306.ts
+#EXTINF:-1,IT: Sky Calcio 3 HD
+http://164.132.200.17:8080/live/alparslan/alparslan/1307.ts
+#EXTINF:-1,IT: Sky Calcio 4 HD
+http://164.132.200.17:8080/live/alparslan/alparslan/1308.ts
+#EXTINF:-1,IT: Sky Calcio 5 HD
+http://164.132.200.17:8080/live/alparslan/alparslan/1309.ts
+#EXTINF:-1,IT: Sky Calcio 6 HD
+http://164.132.200.17:8080/live/alparslan/alparslan/1310.ts
+#EXTINF:-1,IT: Sky Calcio 7 HD
+http://164.132.200.17:8080/live/alparslan/alparslan/1311.ts
+#EXTINF:-1,IT: SKY SPORT 1 HD
+http://164.132.200.17:8080/live/alparslan/alparslan/633.ts
+#EXTINF:-1,IT: SKY SPORT 2 HD
+http://164.132.200.17:8080/live/alparslan/alparslan/634.ts
+#EXTINF:-1,IT: SKY SPORT 3 HD
+http://164.132.200.17:8080/live/alparslan/alparslan/635.ts
+#EXTINF:-1,IT: SKY PRIMAFILA 1 HD
+http://164.132.200.17:8080/live/alparslan/alparslan/1549.ts
+#EXTINF:-1,IT: SKY PRIMAFILA 2 HD
+http://164.132.200.17:8080/live/alparslan/alparslan/1550.ts
+#EXTINF:-1,IT: SKY PRIMAFILA 3 HD
+http://164.132.200.17:8080/live/alparslan/alparslan/1551.ts
+#EXTINF:-1,IT: SKY PRIMAFILA 4 HD
+http://164.132.200.17:8080/live/alparslan/alparslan/1552.ts
+#EXTINF:-1,IT: SKY PRIMAFILA 5 HD
+http://164.132.200.17:8080/live/alparslan/alparslan/1553.ts
+#EXTINF:-1,IT: SKY PRIMAFILA 6 HD
+http://164.132.200.17:8080/live/alparslan/alparslan/1554.ts
+#EXTINF:-1,IT: SKY PRIMAFILA 7 HD
+http://164.132.200.17:8080/live/alparslan/alparslan/1555.ts
+#EXTINF:-1,IT: Premium Cinema 1 HD
+http://164.132.200.17:8080/live/alparslan/alparslan/1546.ts
+#EXTINF:-1,IT: Premium Cinema 2 HD
+http://164.132.200.17:8080/live/alparslan/alparslan/1547.ts
+#EXTINF:-1,IT: Sky Cinema Classic HD
+http://164.132.200.17:8080/live/alparslan/alparslan/1558.ts
+#EXTINF:-1,IT: Sky Cinema Max
+http://164.132.200.17:8080/live/alparslan/alparslan/1557.ts
+#EXTINF:-1,IT: Sky Cinema COMEDY
+http://164.132.200.17:8080/live/alparslan/alparslan/1556.ts
+#EXTINF:-1,IT: National Geographic HD
+http://164.132.200.17:8080/live/alparslan/alparslan/1559.ts
+#EXTINF:-1,IT: Nat Geo Wild HD
+http://164.132.200.17:8080/live/alparslan/alparslan/1560.ts
+#EXTINF:-1,IT: Discovery Channel HD
+http://164.132.200.17:8080/live/alparslan/alparslan/1562.ts
+#EXTINF:-1,IT: Discovery Science HD
+http://164.132.200.17:8080/live/alparslan/alparslan/1561.ts
+#EXTINF:-1,IT: Premium Cinema
+http://164.132.200.17:8080/live/alparslan/alparslan/1548.ts
+#EXTINF:-1,IT: Rai 1 HD
+http://164.132.200.17:8080/live/alparslan/alparslan/1042.ts
+#EXTINF:-1,IT: Rai 2 HD
+http://164.132.200.17:8080/live/alparslan/alparslan/1043.ts
+#EXTINF:-1,IT: Rai 3 HD
+http://164.132.200.17:8080/live/alparslan/alparslan/1044.ts
+#EXTINF:-1,IT: Rai 4 HD
+http://164.132.200.17:8080/live/alparslan/alparslan/1045.ts
+#EXTINF:-1,IT: Rai 5 HD
+http://164.132.200.17:8080/live/alparslan/alparslan/1046.ts
+#EXTINF:-1,IT: CANALE 5 HD
+http://164.132.200.17:8080/live/alparslan/alparslan/1047.ts
+
+#EXTINF:-1,IT:-Rai-1-HD
+http://IPTV.Nador-Sat.Com:9300/live/aaa/bbb/1622.ts
+#EXTINF:-1,IT:-RAI-2
+http://IPTV.Nador-Sat.Com:9300/live/aaa/bbb/1623.ts
+#EXTINF:-1,IT:-RAI-3
+http://IPTV.Nador-Sat.Com:9300/live/aaa/bbb/1624.ts
+#EXTINF:-1,IT:-RAI-5
+http://IPTV.Nador-Sat.Com:9300/live/aaa/bbb/1717.ts
+#EXTINF:-1,IT:-RAI-premium
+http://IPTV.Nador-Sat.Com:9300/live/aaa/bbb/1900.ts
+#EXTINF:-1,IT:-Rai-Movie
+http://IPTV.Nador-Sat.Com:9300/live/aaa/bbb/1894.ts
+#EXTINF:-1,IT:-Rai-Storia
+http://IPTV.Nador-Sat.Com:9300/live/aaa/bbb/1891.ts
+#EXTINF:-1,IT:-Rai-Scuola
+http://IPTV.Nador-Sat.Com:9300/live/aaa/bbb/1893.ts
+#EXTINF:-1,IT:-RAI-NEWS-24
+http://IPTV.Nador-Sat.Com:9300/live/aaa/bbb/1715.ts
+#EXTINF:-1,IT:-RAI-GULP
+http://IPTV.Nador-Sat.Com:9300/live/aaa/bbb/1716.ts
+#EXTINF:-1,IT:-Rai-Sport-1
+http://IPTV.Nador-Sat.Com:9300/live/aaa/bbb/1628.ts
+#EXTINF:-1,IT:-Rai-Sport-2-HD
+http://IPTV.Nador-Sat.Com:9300/live/aaa/bbb/1629.ts
+#EXTINF:-1,IT:-RAI-YOYO
+http://IPTV.Nador-Sat.Com:9300/live/aaa/bbb/1627.ts
+#EXTINF:-1,IT:-RSI-La1-HD
+http://IPTV.Nador-Sat.Com:9300/live/aaa/bbb/1684.ts
+#EXTINF:-1,IT:-RSI-LA-2-HD
+http://IPTV.Nador-Sat.Com:9300/live/aaa/bbb/1631.ts
+#EXTINF:-1,IT:-Sky-Uno-HD
+http://IPTV.Nador-Sat.Com:9300/live/aaa/bbb/1630.ts
+#EXTINF:-1,IT:-Italia-1
+http://IPTV.Nador-Sat.Com:9300/live/aaa/bbb/1632.ts
+#EXTINF:-1,IT:-ITALIA2
+http://IPTV.Nador-Sat.Com:9300/live/aaa/bbb/2323.ts
+#EXTINF:-1,IT:-Canale-5
+http://IPTV.Nador-Sat.Com:9300/live/aaa/bbb/1633.ts
+#EXTINF:-1,IT:_Video_Calabria
+http://IPTV.Nador-Sat.Com:9300/live/aaa/bbb/3705.ts
+#EXTINF:-1,IT:_Video_Brescia
+http://IPTV.Nador-Sat.Com:9300/live/aaa/bbb/3704.ts
+#EXTINF:-1,IT:_Videolina
+http://IPTV.Nador-Sat.Com:9300/live/aaa/bbb/3703.ts
+#EXTINF:-1,IT:_TV_Luna
+http://IPTV.Nador-Sat.Com:9300/live/aaa/bbb/3701.ts
+#EXTINF:-1,IT:_TVRS
+http://IPTV.Nador-Sat.Com:9300/live/aaa/bbb/3700.ts
+#EXTINF:-1,IT:_TSN
+http://IPTV.Nador-Sat.Com:9300/live/aaa/bbb/3698.ts
+#EXTINF:-1,IT:_Trentino_TV
+http://IPTV.Nador-Sat.Com:9300/live/aaa/bbb/3697.ts
+#EXTINF:-1,IT:_TeleArena
+http://IPTV.Nador-Sat.Com:9300/live/aaa/bbb/3691.ts
+#EXTINF:-1,IT:_SuperTV
+http://IPTV.Nador-Sat.Com:9300/live/aaa/bbb/3690.ts
+#EXTINF:-1,IT:_RTV_38
+http://IPTV.Nador-Sat.Com:9300/live/aaa/bbb/3688.ts
+#EXTINF:-1,IT:_Rete_55
+http://IPTV.Nador-Sat.Com:9300/live/aaa/bbb/3686.ts
+#EXTINF:-1,IT:_Radio_Virgin_TV
+http://IPTV.Nador-Sat.Com:9300/live/aaa/bbb/3685.ts
+#EXTINF:-1,IT:_Radio_Taormina
+http://IPTV.Nador-Sat.Com:9300/live/aaa/bbb/3684.ts
+#EXTINF:-1,IT:_Radio_Italia_TV
+http://IPTV.Nador-Sat.Com:9300/live/aaa/bbb/3682.ts
+#EXTINF:-1,IT:_Radio_105_TV
+http://IPTV.Nador-Sat.Com:9300/live/aaa/bbb/3680.ts
+#EXTINF:-1,IT:_OttoFM_TV
+http://IPTV.Nador-Sat.Com:9300/live/aaa/bbb/3679.ts
+#EXTINF:-1,IT:_m20_TV
+http://IPTV.Nador-Sat.Com:9300/live/aaa/bbb/3677.ts
+#EXTINF:-1,IT:_History_Lab
+http://IPTV.Nador-Sat.Com:9300/live/aaa/bbb/3676.ts
+#EXTINF:-1,IT:_eTV_Marche
+http://IPTV.Nador-Sat.Com:9300/live/aaa/bbb/3675.ts
+#EXTINF:-1,IT:_Cremona_1
+http://IPTV.Nador-Sat.Com:9300/live/aaa/bbb/3674.ts
+#EXTINF:-1,IT:_Carina_TV
+http://IPTV.Nador-Sat.Com:9300/live/aaa/bbb/3672.ts
+#EXTINF:-1,IT:_Canale_10
+http://IPTV.Nador-Sat.Com:9300/live/aaa/bbb/3671.ts
+#EXTINF:-1,IT:_Alto_Adige_TV
+http://IPTV.Nador-Sat.Com:9300/live/aaa/bbb/3670.ts
+#EXTINF:-1,========|||-ITALIA-PREMIUM-|||========
+http://IPTV.Nador-Sat.Com:9300/live/aaa/bbb/1718.ts
+#EXTINF:-1,IT:-Premium-Action-HD
+http://IPTV.Nador-Sat.Com:9300/live/aaa/bbb/1646.ts
+#EXTINF:-1,IT:-Premium-Action+24HD
+http://IPTV.Nador-Sat.Com:9300/live/aaa/bbb/1690.ts
+#EXTINF:-1,IT:-Premium-Joy
+http://IPTV.Nador-Sat.Com:9300/live/aaa/bbb/1639.ts
+#EXTINF:-1,IT:-Premium-Comedy
+http://IPTV.Nador-Sat.Com:9300/live/aaa/bbb/1688.ts
+#EXTINF:-1,IT:-Premium-Stories
+http://IPTV.Nador-Sat.Com:9300/live/aaa/bbb/1685.ts
+#EXTINF:-1,IT:-PREMIUM-EMOTION
+http://IPTV.Nador-Sat.Com:9300/live/aaa/bbb/1641.ts
+#EXTINF:-1,IT:-PREMIUM-ENERGY
+http://IPTV.Nador-Sat.Com:9300/live/aaa/bbb/1640.ts
+#EXTINF:-1,IT:-PREMIUM-CINEMA-HD
+http://IPTV.Nador-Sat.Com:9300/live/aaa/bbb/1645.ts
+#EXTINF:-1,IT:-Premium-Cinema-2-HD
+http://IPTV.Nador-Sat.Com:9300/live/aaa/bbb/1644.ts
+#EXTINF:-1,IT:-Premium-Cinema+24
+http://IPTV.Nador-Sat.Com:9300/live/aaa/bbb/1636.ts
+#EXTINF:-1,IT:-Premium-Crime-HD
+http://IPTV.Nador-Sat.Com:9300/live/aaa/bbb/1637.ts
+#EXTINF:-1,IT:-Premium-Crime-24
+http://IPTV.Nador-Sat.Com:9300/live/aaa/bbb/1638.ts
+#EXTINF:-1,IT:-Premium-Studio-Universal-HD
+http://IPTV.Nador-Sat.Com:9300/live/aaa/bbb/1642.ts
+#EXTINF:-1,IT:-Premium-Carton-Network-HD
+http://IPTV.Nador-Sat.Com:9300/live/aaa/bbb/1643.ts
+#EXTINF:-1,========|||-ITALIA-CINEMA-|||========
+http://IPTV.Nador-Sat.Com:9300/live/aaa/bbb/1720.ts
+#EXTINF:-1,IT:-SKY-CINEMA-1-HD
+http://IPTV.Nador-Sat.Com:9300/live/aaa/bbb/1692.ts
+#EXTINF:-1,IT:-Sky-Cinema-Max
+http://IPTV.Nador-Sat.Com:9300/live/aaa/bbb/1693.ts
+#EXTINF:-1,IT:-Sky-Cinema-Hits
+http://IPTV.Nador-Sat.Com:9300/live/aaa/bbb/1694.ts
+#EXTINF:-1,IT:-Sky-Cinema-Cult-HD
+http://IPTV.Nador-Sat.Com:9300/live/aaa/bbb/1691.ts
+#EXTINF:-1,IT:-Sky-Cinema-Passion-HD
+http://IPTV.Nador-Sat.Com:9300/live/aaa/bbb/1634.ts
+#EXTINF:-1,IT:-Sky-Cinema-Classic-HD
+http://IPTV.Nador-Sat.Com:9300/live/aaa/bbb/1635.ts
+#EXTINF:-1,========|||-ITALIA-PRIMAFILA-|||========
+http://IPTV.Nador-Sat.Com:9300/live/aaa/bbb/1719.ts
+#EXTINF:-1,IT:-PRIMAFILA-1-HD
+http://IPTV.Nador-Sat.Com:9300/live/aaa/bbb/1652.ts
+#EXTINF:-1,IT:-PRIMAFILA-2-HD
+http://IPTV.Nador-Sat.Com:9300/live/aaa/bbb/1653.ts
+#EXTINF:-1,IT:-PRIMAFILA-3-HD
+http://IPTV.Nador-Sat.Com:9300/live/aaa/bbb/1654.ts
+#EXTINF:-1,IT:-PRIMAFILA-4-HD
+http://IPTV.Nador-Sat.Com:9300/live/aaa/bbb/1655.ts
+#EXTINF:-1,IT:-PRIMAFILA-5-HD
+http://IPTV.Nador-Sat.Com:9300/live/aaa/bbb/1656.ts
+#EXTINF:-1,IT:-PRIMAFILA-6-HD
+http://IPTV.Nador-Sat.Com:9300/live/aaa/bbb/6768.ts
+#EXTINF:-1,IT:-PRIMAFILA-7-HD
+http://IPTV.Nador-Sat.Com:9300/live/aaa/bbb/1657.ts
+#EXTINF:-1,IT:-PRIMAFILA-8-HD
+http://IPTV.Nador-Sat.Com:9300/live/aaa/bbb/1658.ts
+#EXTINF:-1,IT:-PRIMAFILA--9-HD
+http://IPTV.Nador-Sat.Com:9300/live/aaa/bbb/1659.ts
+#EXTINF:-1,IT:-PRIMAFILA-10-HD
+http://IPTV.Nador-Sat.Com:9300/live/aaa/bbb/1660.ts
+#EXTINF:-1,IT:-PRIMAFILA-11-HD
+http://IPTV.Nador-Sat.Com:9300/live/aaa/bbb/1661.ts
+#EXTINF:-1,IT:-PRIMAFILA-12-HD
+http://IPTV.Nador-Sat.Com:9300/live/aaa/bbb/6769.ts
+#EXTINF:-1,IT:-PRIMAFILA-13-HD
+http://IPTV.Nador-Sat.Com:9300/live/aaa/bbb/1662.ts
+#EXTINF:-1,IT:-PRIMAFILA-14-HD
+http://IPTV.Nador-Sat.Com:9300/live/aaa/bbb/6770.ts
+#EXTINF:-1,IT:-PRIMAFILA-15-HD
+http://IPTV.Nador-Sat.Com:9300/live/aaa/bbb/1663.ts
+#EXTINF:-1,IT:-PRIMAFILA-16-HD
+http://IPTV.Nador-Sat.Com:9300/live/aaa/bbb/1664.ts
+#EXTINF:-1,IT:-SKY-History-HD
+http://IPTV.Nador-Sat.Com:9300/live/aaa/bbb/1647.ts
+#EXTINF:-1,IT:-Discovery-Sci-HD
+http://IPTV.Nador-Sat.Com:9300/live/aaa/bbb/1648.ts
+#EXTINF:-1,IT:-Sky.Discovery.Channel.HD
+http://IPTV.Nador-Sat.Com:9300/live/aaa/bbb/1649.ts
+#EXTINF:-1,IT:-Sky-Caccia-Pesca-HD
+http://IPTV.Nador-Sat.Com:9300/live/aaa/bbb/1650.ts
+#EXTINF:-1,IT:_Nat_GEOGRAPHIC_HD
+http://IPTV.Nador-Sat.Com:9300/live/aaa/bbb/1699.ts
+#EXTINF:-1,IT:-NAT-GEO-PEOPLE-HD
+http://IPTV.Nador-Sat.Com:9300/live/aaa/bbb/1651.ts
+#EXTINF:-1,IT:-Sky-Tg-24
+http://IPTV.Nador-Sat.Com:9300/live/aaa/bbb/1698.ts
+#EXTINF:-1,IT:-Sky-Sport-1
+http://IPTV.Nador-Sat.Com:9300/live/aaa/bbb/1695.ts
+#EXTINF:-1,IT:-Sky-Sports-2-HD
+http://IPTV.Nador-Sat.Com:9300/live/aaa/bbb/1696.ts
+#EXTINF:-1,IT:-Sky-Sport-3
+http://IPTV.Nador-Sat.Com:9300/live/aaa/bbb/1697.ts
 
 #EXTVLCOPT:http-user-agent=www.iptv4sat.com
 #EXTINF:-1,IT:Premium Action HD
