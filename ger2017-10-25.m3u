@@ -3,103 +3,305 @@
 http://live-bloomberg-us-east.global.ssl.fastly.net/btv/desktop/bbr_radio.m3u8
 #EXTINF:-1,Channel Kick Out in 15-20Sec Visit http://bit.ly/fixkick
 http://s2.voscast.com:12294/;stream.mp3
-#EXTINF:-1,Updated on 25 Jan 2018 Around 5 PM German Time
+#EXTINF:-1,Updated on 26 Jan 2018 Around 5 PM German Time
 http://www.lengua.com/anthems/Indonesia.mp3
 
-#EXTINF:-1,De: ZDF
-http://5.196.90.26:8000/live/mahmod/mahmod/890.ts
-#EXTINF:-1,De: ZDF Neo
-http://5.196.90.26:8000/live/mahmod/mahmod/1492.ts
-#EXTINF:-1,De: Vox
-http://5.196.90.26:8000/live/mahmod/mahmod/717.ts
-#EXTINF:-1,De: Kabel
-http://5.196.90.26:8000/live/mahmod/mahmod/1866.ts
-#EXTINF:-1,De: Pro 7
-http://5.196.90.26:8000/live/mahmod/mahmod/1887.ts
-#EXTINF:-1,De: ProSieben Maxx
-http://5.196.90.26:8000/live/mahmod/mahmod/2420.ts
-#EXTINF:-1,De: N 24
-http://5.196.90.26:8000/live/mahmod/mahmod/2414.ts
-#EXTINF:-1,De: Sat 1
-http://5.196.90.26:8000/live/mahmod/mahmod/2407.ts
-#EXTINF:-1,De: Sat 1 Gold
-http://5.196.90.26:8000/live/mahmod/mahmod/2440.ts
-#EXTINF:-1,De: Tlc
-http://5.196.90.26:8000/live/mahmod/mahmod/2412.ts
-#EXTINF:-1,De: Arte
-http://5.196.90.26:8000/live/mahmod/mahmod/2630.ts
-#EXTINF:-1,De: 3 sat
-http://5.196.90.26:8000/live/mahmod/mahmod/1865.ts
-#EXTINF:-1,De: RTL
-http://5.196.90.26:8000/live/mahmod/mahmod/718.ts
-#EXTINF:-1,De: RTL 2
-http://5.196.90.26:8000/live/mahmod/mahmod/719.ts
-#EXTINF:-1,De: RTL Crime
-http://5.196.90.26:8000/live/mahmod/mahmod/1486.ts
-#EXTINF:-1,De: RTL Nitro
-http://5.196.90.26:8000/live/mahmod/mahmod/886.ts
-#EXTINF:-1,De: RTL Passion
-http://5.196.90.26:8000/live/mahmod/mahmod/1487.ts
-#EXTINF:-1,De: Super Rtl
-http://5.196.90.26:8000/live/mahmod/mahmod/889.ts
-#EXTINF:-1,De: Syfy
-http://5.196.90.26:8000/live/mahmod/mahmod/1480.ts
-#EXTINF:-1,De: Axn
-http://5.196.90.26:8000/live/mahmod/mahmod/619.ts
-#EXTINF:-1,De: Sixx
-http://5.196.90.26:8000/live/mahmod/mahmod/2418.ts
-#EXTINF:-1,De: WDR
-http://5.196.90.26:8000/live/mahmod/mahmod/2428.ts
-#EXTINF:-1,De: 13th Street
-http://5.196.90.26:8000/live/mahmod/mahmod/1488.ts
-#EXTINF:-1,De: Disney
-http://5.196.90.26:8000/live/mahmod/mahmod/1493.ts
-#EXTINF:-1,De: Nickelodeon
-http://5.196.90.26:8000/live/mahmod/mahmod/2413.ts
-#EXTINF:-1,De: Sky BundesLiga 1
-http://5.196.90.26:8000/live/mahmod/mahmod/83.ts
-#EXTINF:-1,De: Sky BundesLiga 2
-http://5.196.90.26:8000/live/mahmod/mahmod/6586.ts
-#EXTINF:-1,De: Sky Sport 1
-http://5.196.90.26:8000/live/mahmod/mahmod/84.ts
-#EXTINF:-1,De: Sky Sport 2
-http://5.196.90.26:8000/live/mahmod/mahmod/85.ts
-#EXTINF:-1,De: National Geographic
-http://5.196.90.26:8000/live/mahmod/mahmod/1483.ts
-#EXTINF:-1,De: National Geo Wild
-http://5.196.90.26:8000/live/mahmod/mahmod/599.ts
-#EXTINF:-1,De: Discovery
-http://5.196.90.26:8000/live/mahmod/mahmod/1484.ts
-#EXTINF:-1,De: History
-http://5.196.90.26:8000/live/mahmod/mahmod/2432.ts
-#EXTINF:-1,De: Planet
-http://5.196.90.26:8000/live/mahmod/mahmod/1489.ts
-#EXTINF:-1,De: Sky Atlantic
-http://5.196.90.26:8000/live/mahmod/mahmod/1475.ts
-#EXTINF:-1,De: Sky Cinema
-http://5.196.90.26:8000/live/mahmod/mahmod/1002.ts
-#EXTINF:-1,De: Sky Cinema 24
-http://5.196.90.26:8000/live/mahmod/mahmod/1000.ts
-#EXTINF:-1,De: Sky Family
-http://5.196.90.26:8000/live/mahmod/mahmod/2411.ts
-#EXTINF:-1,De: Sky Comedy
-http://5.196.90.26:8000/live/mahmod/mahmod/580.ts
-#EXTINF:-1,De: Sky Emotion
-http://5.196.90.26:8000/live/mahmod/mahmod/999.ts
-#EXTINF:-1,De: Sky Krimi
-http://5.196.90.26:8000/live/mahmod/mahmod/1477.ts
-#EXTINF:-1,De: Sky Nostalgie
-http://5.196.90.26:8000/live/mahmod/mahmod/1476.ts
-#EXTINF:-1,De: Sky Select 1
-http://5.196.90.26:8000/live/mahmod/mahmod/6568.ts
-#EXTINF:-1,De: Sky Select 2
-http://5.196.90.26:8000/live/mahmod/mahmod/6567.ts
-#EXTINF:-1,De: Sky Select 3
-http://5.196.90.26:8000/live/mahmod/mahmod/6566.ts
-#EXTINF:-1,De: Sky Select 4
-http://5.196.90.26:8000/live/mahmod/mahmod/6565.ts
-#EXTINF:-1,De: Sky Select 5
-http://5.196.90.26:8000/live/mahmod/mahmod/6564.ts
+#EXTINF:-1,DE: ZDF HD
+http://bfcnew.ddns.net:8000/live/DuoJanKevin2/M9TFJoZ7PW/1051.ts
+#EXTINF:-1,DE: RTL HD
+http://bfcnew.ddns.net:8000/live/DuoJanKevin2/M9TFJoZ7PW/1039.ts
+#EXTINF:-1,DE: RTL II HD
+http://bfcnew.ddns.net:8000/live/DuoJanKevin2/M9TFJoZ7PW/1035.ts
+#EXTINF:-1,DE: Prosieben HD
+http://bfcnew.ddns.net:8000/live/DuoJanKevin2/M9TFJoZ7PW/1041.ts
+#EXTINF:-1,DE: Das Erste HD
+http://bfcnew.ddns.net:8000/live/DuoJanKevin2/M9TFJoZ7PW/977.ts
+#EXTINF:-1,DE: Prosieben Fun HD
+http://bfcnew.ddns.net:8000/live/DuoJanKevin2/M9TFJoZ7PW/990.ts
+#EXTINF:-1,DE: Prosieben MAXX HD
+http://bfcnew.ddns.net:8000/live/DuoJanKevin2/M9TFJoZ7PW/1038.ts
+#EXTINF:-1,DE: Zee One HD
+http://bfcnew.ddns.net:8000/live/DuoJanKevin2/M9TFJoZ7PW/976.ts
+#EXTINF:-1,DE: SAT.1 HD
+http://bfcnew.ddns.net:8000/live/DuoJanKevin2/M9TFJoZ7PW/1050.ts
+#EXTINF:-1,DE: SAT.1 Emotions HD
+http://bfcnew.ddns.net:8000/live/DuoJanKevin2/M9TFJoZ7PW/954.ts
+#EXTINF:-1,DE: SAT.1 Gold HD
+http://bfcnew.ddns.net:8000/live/DuoJanKevin2/M9TFJoZ7PW/987.ts
+#EXTINF:-1,DE: Kabel 1 HD
+http://bfcnew.ddns.net:8000/live/DuoJanKevin2/M9TFJoZ7PW/1037.ts
+#EXTINF:-1,DE: VOX HD
+http://bfcnew.ddns.net:8000/live/DuoJanKevin2/M9TFJoZ7PW/1059.ts
+#EXTINF:-1,DE: TLC HD
+http://bfcnew.ddns.net:8000/live/DuoJanKevin2/M9TFJoZ7PW/980.ts
+#EXTINF:-1,DE: DMAX HD
+http://bfcnew.ddns.net:8000/live/DuoJanKevin2/M9TFJoZ7PW/979.ts
+#EXTINF:-1,DE: SIXX HD
+http://bfcnew.ddns.net:8000/live/DuoJanKevin2/M9TFJoZ7PW/1043.ts
+#EXTINF:-1,DE: MTV HD
+http://bfcnew.ddns.net:8000/live/DuoJanKevin2/M9TFJoZ7PW/985.ts
+#EXTINF:-1,DE: Tele 5 HD
+http://bfcnew.ddns.net:8000/live/DuoJanKevin2/M9TFJoZ7PW/1065.ts
+#EXTINF:-1,DE: N24 HD
+http://bfcnew.ddns.net:8000/live/DuoJanKevin2/M9TFJoZ7PW/1015.ts
+#EXTINF:-1,DE: NTV HD
+http://bfcnew.ddns.net:8000/live/DuoJanKevin2/M9TFJoZ7PW/1052.ts
+#EXTINF:-1,DE: Euronews (offline)
+http://bfcnew.ddns.net:8000/live/DuoJanKevin2/M9TFJoZ7PW/2797.ts
+#EXTINF:-1,DE: ZDF NEO HD
+http://bfcnew.ddns.net:8000/live/DuoJanKevin2/M9TFJoZ7PW/3316.ts
+#EXTINF:-1,DE: ZDF Info HD
+http://bfcnew.ddns.net:8000/live/DuoJanKevin2/M9TFJoZ7PW/4129.ts
+#EXTINF:-1,DE: Super RTL HD
+http://bfcnew.ddns.net:8000/live/DuoJanKevin2/M9TFJoZ7PW/1040.ts
+#EXTINF:-1,DE: ONE HD
+http://bfcnew.ddns.net:8000/live/DuoJanKevin2/M9TFJoZ7PW/3495.ts
+#EXTINF:-1,DE: ServusTV HD
+http://bfcnew.ddns.net:8000/live/DuoJanKevin2/M9TFJoZ7PW/971.ts
+#EXTINF:-1,DE: ServusTV HD AT
+http://bfcnew.ddns.net:8000/live/DuoJanKevin2/M9TFJoZ7PW/2798.ts
+#EXTINF:-1,DE: PHOENIX HD
+http://bfcnew.ddns.net:8000/live/DuoJanKevin2/M9TFJoZ7PW/3711.ts
+#EXTINF:-1,DE: 3sat HD
+http://bfcnew.ddns.net:8000/live/DuoJanKevin2/M9TFJoZ7PW/3503.ts
+#EXTINF:-1,DE: MDR HD
+http://bfcnew.ddns.net:8000/live/DuoJanKevin2/M9TFJoZ7PW/3651.ts
+#EXTINF:-1,DE: NDR HD
+http://bfcnew.ddns.net:8000/live/DuoJanKevin2/M9TFJoZ7PW/2796.ts
+#EXTINF:-1,DE: RBB HD
+http://bfcnew.ddns.net:8000/live/DuoJanKevin2/M9TFJoZ7PW/958.ts
+#EXTINF:-1,DE: HR HD
+http://bfcnew.ddns.net:8000/live/DuoJanKevin2/M9TFJoZ7PW/3653.ts
+#EXTINF:-1,DE: SWR HD
+http://bfcnew.ddns.net:8000/live/DuoJanKevin2/M9TFJoZ7PW/3715.ts
+#EXTINF:-1,DE: WDR HD
+http://bfcnew.ddns.net:8000/live/DuoJanKevin2/M9TFJoZ7PW/1004.ts
+#EXTINF:-1,DE: BR Fernsehen HD
+http://bfcnew.ddns.net:8000/live/DuoJanKevin2/M9TFJoZ7PW/3750.ts
+#EXTINF:-1,------- DE SRF+ORF -------
+http://bfcnew.ddns.net:8000/live/DuoJanKevin2/M9TFJoZ7PW/1073.ts
+#EXTINF:-1,DE: Teleclub Cinema Full HD
+http://bfcnew.ddns.net:8000/live/DuoJanKevin2/M9TFJoZ7PW/5017.ts
+#EXTINF:-1,DE: Teleclub Prime Full HD
+http://bfcnew.ddns.net:8000/live/DuoJanKevin2/M9TFJoZ7PW/5019.ts
+#EXTINF:-1,DE: Teleclub Star Full HD
+http://bfcnew.ddns.net:8000/live/DuoJanKevin2/M9TFJoZ7PW/5018.ts
+#EXTINF:-1,DE: Acht HD
+http://bfcnew.ddns.net:8000/live/DuoJanKevin2/M9TFJoZ7PW/9406.ts
+#EXTINF:-1,DE: PULS 4
+http://bfcnew.ddns.net:8000/live/DuoJanKevin2/M9TFJoZ7PW/9412.ts
+#EXTINF:-1,DE: 3+ HD
+http://bfcnew.ddns.net:8000/live/DuoJanKevin2/M9TFJoZ7PW/5247.ts
+#EXTINF:-1,DE: 4+ HD
+http://bfcnew.ddns.net:8000/live/DuoJanKevin2/M9TFJoZ7PW/5248.ts
+#EXTINF:-1,DE: 5+ HD
+http://bfcnew.ddns.net:8000/live/DuoJanKevin2/M9TFJoZ7PW/5249.ts
+#EXTINF:-1,DE: ATV HD
+http://bfcnew.ddns.net:8000/live/DuoJanKevin2/M9TFJoZ7PW/3718.ts
+#EXTINF:-1,DE: ATV 2
+http://bfcnew.ddns.net:8000/live/DuoJanKevin2/M9TFJoZ7PW/3652.ts
+#EXTINF:-1,DE: SRF HD 1
+http://bfcnew.ddns.net:8000/live/DuoJanKevin2/M9TFJoZ7PW/1053.ts
+#EXTINF:-1,DE: SRF HD 2
+http://bfcnew.ddns.net:8000/live/DuoJanKevin2/M9TFJoZ7PW/1054.ts
+#EXTINF:-1,DE: ORF 1 HD
+http://bfcnew.ddns.net:8000/live/DuoJanKevin2/M9TFJoZ7PW/978.ts
+#EXTINF:-1,DE: ORF 2 HD
+http://bfcnew.ddns.net:8000/live/DuoJanKevin2/M9TFJoZ7PW/1036.ts
+#EXTINF:-1,DE: ORF 3 HD
+http://bfcnew.ddns.net:8000/live/DuoJanKevin2/M9TFJoZ7PW/5204.ts
+#EXTINF:-1,------- DE Cinema -------
+http://bfcnew.ddns.net:8000/live/DuoJanKevin2/M9TFJoZ7PW/1076.ts
+#EXTINF:-1,DE: Sky Cinema HD
+http://bfcnew.ddns.net:8000/live/DuoJanKevin2/M9TFJoZ7PW/1046.ts
+#EXTINF:-1,DE: Sky Cinema +1 HD
+http://bfcnew.ddns.net:8000/live/DuoJanKevin2/M9TFJoZ7PW/1063.ts
+#EXTINF:-1,DE: Sky Cinema +24 HD
+http://bfcnew.ddns.net:8000/live/DuoJanKevin2/M9TFJoZ7PW/994.ts
+#EXTINF:-1,DE: Sky Cinema Family HD
+http://bfcnew.ddns.net:8000/live/DuoJanKevin2/M9TFJoZ7PW/1066.ts
+#EXTINF:-1,DE: Sky Action HD
+http://bfcnew.ddns.net:8000/live/DuoJanKevin2/M9TFJoZ7PW/1031.ts
+#EXTINF:-1,DE: Sky Cinema Hits HD
+http://bfcnew.ddns.net:8000/live/DuoJanKevin2/M9TFJoZ7PW/1020.ts
+#EXTINF:-1,DE: Sky Comedy
+http://bfcnew.ddns.net:8000/live/DuoJanKevin2/M9TFJoZ7PW/991.ts
+#EXTINF:-1,DE: Sky Nostalgie
+http://bfcnew.ddns.net:8000/live/DuoJanKevin2/M9TFJoZ7PW/993.ts
+#EXTINF:-1,DE: Sky Emotion
+http://bfcnew.ddns.net:8000/live/DuoJanKevin2/M9TFJoZ7PW/992.ts
+#EXTINF:-1,DE: kabel eins CLASSICS HD
+http://bfcnew.ddns.net:8000/live/DuoJanKevin2/M9TFJoZ7PW/986.ts
+#EXTINF:-1,DE: Syfy HD
+http://bfcnew.ddns.net:8000/live/DuoJanKevin2/M9TFJoZ7PW/1033.ts
+#EXTINF:-1,DE: Kinowelt HD
+http://bfcnew.ddns.net:8000/live/DuoJanKevin2/M9TFJoZ7PW/1009.ts
+#EXTINF:-1,DE: TNT Film HD
+http://bfcnew.ddns.net:8000/live/DuoJanKevin2/M9TFJoZ7PW/1008.ts
+#EXTINF:-1,DE: 13th Street HD
+http://bfcnew.ddns.net:8000/live/DuoJanKevin2/M9TFJoZ7PW/1014.ts
+#EXTINF:-1,DE: AXN HD
+http://bfcnew.ddns.net:8000/live/DuoJanKevin2/M9TFJoZ7PW/1045.ts
+#EXTINF:-1,DE: Universal HD
+http://bfcnew.ddns.net:8000/live/DuoJanKevin2/M9TFJoZ7PW/1001.ts
+#EXTINF:-1,DE: Sony Entertainment TV HD
+http://bfcnew.ddns.net:8000/live/DuoJanKevin2/M9TFJoZ7PW/998.ts
+#EXTINF:-1,DE: eoTV
+http://bfcnew.ddns.net:8000/live/DuoJanKevin2/M9TFJoZ7PW/7700.ts
+#EXTINF:-1,DE: Silverline
+http://bfcnew.ddns.net:8000/live/DuoJanKevin2/M9TFJoZ7PW/989.ts
+#EXTINF:-1,DE: Heimatkanal
+http://bfcnew.ddns.net:8000/live/DuoJanKevin2/M9TFJoZ7PW/996.ts
+#EXTINF:-1,------- DE Serien / Unterhaltung -------
+http://bfcnew.ddns.net:8000/live/DuoJanKevin2/M9TFJoZ7PW/250.ts
+#EXTINF:-1,DE: Sky Atlantic HD
+http://bfcnew.ddns.net:8000/live/DuoJanKevin2/M9TFJoZ7PW/1002.ts
+#EXTINF:-1,DE: TNT Serie HD
+http://bfcnew.ddns.net:8000/live/DuoJanKevin2/M9TFJoZ7PW/1030.ts
+#EXTINF:-1,DE: TNT Comedy HD
+http://bfcnew.ddns.net:8000/live/DuoJanKevin2/M9TFJoZ7PW/1016.ts
+#EXTINF:-1,DE: Sky 1 HD
+http://bfcnew.ddns.net:8000/live/DuoJanKevin2/M9TFJoZ7PW/1028.ts
+#EXTINF:-1,DE: Sky Krimi
+http://bfcnew.ddns.net:8000/live/DuoJanKevin2/M9TFJoZ7PW/1019.ts
+#EXTINF:-1,DE: Fox HD
+http://bfcnew.ddns.net:8000/live/DuoJanKevin2/M9TFJoZ7PW/1018.ts
+#EXTINF:-1,DE: Romance TV HD
+http://bfcnew.ddns.net:8000/live/DuoJanKevin2/M9TFJoZ7PW/1010.ts
+#EXTINF:-1,DE: RTL Crime HD
+http://bfcnew.ddns.net:8000/live/DuoJanKevin2/M9TFJoZ7PW/1029.ts
+#EXTINF:-1,DE: RTL Passion HD
+http://bfcnew.ddns.net:8000/live/DuoJanKevin2/M9TFJoZ7PW/1021.ts
+#EXTINF:-1,DE: RTL Nitro HD
+http://bfcnew.ddns.net:8000/live/DuoJanKevin2/M9TFJoZ7PW/1034.ts
+#EXTINF:-1,DE: RTL Living HD
+http://bfcnew.ddns.net:8000/live/DuoJanKevin2/M9TFJoZ7PW/1022.ts
+#EXTINF:-1,DE: E! Entertainment HD
+http://bfcnew.ddns.net:8000/live/DuoJanKevin2/M9TFJoZ7PW/1023.ts
+#EXTINF:-1,------- DE Kinder -------
+http://bfcnew.ddns.net:8000/live/DuoJanKevin2/M9TFJoZ7PW/885.ts
+#EXTINF:-1,DE: Boomerang HD
+http://bfcnew.ddns.net:8000/live/DuoJanKevin2/M9TFJoZ7PW/981.ts
+#EXTINF:-1,DE: Cartoon Network HD
+http://bfcnew.ddns.net:8000/live/DuoJanKevin2/M9TFJoZ7PW/975.ts
+#EXTINF:-1,DE: Disney Channel HD
+http://bfcnew.ddns.net:8000/live/DuoJanKevin2/M9TFJoZ7PW/982.ts
+#EXTINF:-1,DE: Disney Cinemagic HD
+http://bfcnew.ddns.net:8000/live/DuoJanKevin2/M9TFJoZ7PW/997.ts
+#EXTINF:-1,DE: Disney Jr. HD
+http://bfcnew.ddns.net:8000/live/DuoJanKevin2/M9TFJoZ7PW/988.ts
+#EXTINF:-1,DE: Disney XD HD
+http://bfcnew.ddns.net:8000/live/DuoJanKevin2/M9TFJoZ7PW/1060.ts
+#EXTINF:-1,DE: Fix&Foxi
+http://bfcnew.ddns.net:8000/live/DuoJanKevin2/M9TFJoZ7PW/955.ts
+#EXTINF:-1,DE: Kika HD
+http://bfcnew.ddns.net:8000/live/DuoJanKevin2/M9TFJoZ7PW/3710.ts
+#EXTINF:-1,DE: Nick Jr. HD
+http://bfcnew.ddns.net:8000/live/DuoJanKevin2/M9TFJoZ7PW/1057.ts
+#EXTINF:-1,DE: Nickelodeon HD
+http://bfcnew.ddns.net:8000/live/DuoJanKevin2/M9TFJoZ7PW/983.ts
+#EXTINF:-1,DE: TOGGO Plus
+http://bfcnew.ddns.net:8000/live/DuoJanKevin2/M9TFJoZ7PW/956.ts
+#EXTINF:-1,DE: Junior [6:00-20:00]
+http://bfcnew.ddns.net:8000/live/DuoJanKevin2/M9TFJoZ7PW/959.ts
+#EXTINF:-1,DE: VIVA/COMEDY CENTRAL HD
+http://bfcnew.ddns.net:8000/live/DuoJanKevin2/M9TFJoZ7PW/984.ts
+#EXTINF:-1,------- DE Doku -------
+http://bfcnew.ddns.net:8000/live/DuoJanKevin2/M9TFJoZ7PW/1075.ts
+#EXTINF:-1,DE: Arte HD
+http://bfcnew.ddns.net:8000/live/DuoJanKevin2/M9TFJoZ7PW/957.ts
+#EXTINF:-1,DE: Kabel 1 Doku
+http://bfcnew.ddns.net:8000/live/DuoJanKevin2/M9TFJoZ7PW/7724.ts
+#EXTINF:-1,DE: N24 Doku
+http://bfcnew.ddns.net:8000/live/DuoJanKevin2/M9TFJoZ7PW/7725.ts
+#EXTINF:-1,DE: A&E HD
+http://bfcnew.ddns.net:8000/live/DuoJanKevin2/M9TFJoZ7PW/999.ts
+#EXTINF:-1,DE: Sky Arts HD
+http://bfcnew.ddns.net:8000/live/DuoJanKevin2/M9TFJoZ7PW/3705.ts
+#EXTINF:-1,DE: Geo TV HD
+http://bfcnew.ddns.net:8000/live/DuoJanKevin2/M9TFJoZ7PW/4120.ts
+#EXTINF:-1,DE: Bon Gusto HD
+http://bfcnew.ddns.net:8000/live/DuoJanKevin2/M9TFJoZ7PW/2800.ts
+#EXTINF:-1,DE: Planet HD
+http://bfcnew.ddns.net:8000/live/DuoJanKevin2/M9TFJoZ7PW/1013.ts
+#EXTINF:-1,DE: Animal Planet HD
+http://bfcnew.ddns.net:8000/live/DuoJanKevin2/M9TFJoZ7PW/995.ts
+#EXTINF:-1,DE: HISTORY HD
+http://bfcnew.ddns.net:8000/live/DuoJanKevin2/M9TFJoZ7PW/1067.ts
+#EXTINF:-1,DE: NatGeo HD
+http://bfcnew.ddns.net:8000/live/DuoJanKevin2/M9TFJoZ7PW/1026.ts
+#EXTINF:-1,DE: NatGeo Wild HD
+http://bfcnew.ddns.net:8000/live/DuoJanKevin2/M9TFJoZ7PW/1032.ts
+#EXTINF:-1,DE: Discovery Channel HD
+http://bfcnew.ddns.net:8000/live/DuoJanKevin2/M9TFJoZ7PW/1058.ts
+#EXTINF:-1,DE: Spiegel TV Wissen HD
+http://bfcnew.ddns.net:8000/live/DuoJanKevin2/M9TFJoZ7PW/973.ts
+#EXTINF:-1,DE: Spiegel TV Geschichte
+http://bfcnew.ddns.net:8000/live/DuoJanKevin2/M9TFJoZ7PW/1017.ts
+#EXTINF:-1,------- DE Sport -------
+http://bfcnew.ddns.net:8000/live/DuoJanKevin2/M9TFJoZ7PW/1077.ts
+#EXTINF:-1,DE: Sky Sport News HD
+http://bfcnew.ddns.net:8000/live/DuoJanKevin2/M9TFJoZ7PW/1000.ts
+#EXTINF:-1,DE: Sky Bundesliga 1 HD [24/7]
+http://bfcnew.ddns.net:8000/live/DuoJanKevin2/M9TFJoZ7PW/1024.ts
+#EXTINF:-1,DE: Sky Bundesliga 2 HD
+http://bfcnew.ddns.net:8000/live/DuoJanKevin2/M9TFJoZ7PW/970.ts
+#EXTINF:-1,DE: Sky Bundesliga 3 HD
+http://bfcnew.ddns.net:8000/live/DuoJanKevin2/M9TFJoZ7PW/969.ts
+#EXTINF:-1,DE: Sky Bundesliga 4 HD
+http://bfcnew.ddns.net:8000/live/DuoJanKevin2/M9TFJoZ7PW/968.ts
+#EXTINF:-1,DE: Sky Bundesliga 5
+http://bfcnew.ddns.net:8000/live/DuoJanKevin2/M9TFJoZ7PW/967.ts
+#EXTINF:-1,DE: Sky Bundesliga 6
+http://bfcnew.ddns.net:8000/live/DuoJanKevin2/M9TFJoZ7PW/966.ts
+#EXTINF:-1,DE: Sky Bundesliga 7
+http://bfcnew.ddns.net:8000/live/DuoJanKevin2/M9TFJoZ7PW/965.ts
+#EXTINF:-1,DE: Sky Bundesliga 8
+http://bfcnew.ddns.net:8000/live/DuoJanKevin2/M9TFJoZ7PW/964.ts
+#EXTINF:-1,DE: Sky Bundesliga 9
+http://bfcnew.ddns.net:8000/live/DuoJanKevin2/M9TFJoZ7PW/2773.ts
+#EXTINF:-1,DE: Sky Bundesliga 10
+http://bfcnew.ddns.net:8000/live/DuoJanKevin2/M9TFJoZ7PW/2774.ts
+#EXTINF:-1,DE: Sky Sport 1 HD [24/7]
+http://bfcnew.ddns.net:8000/live/DuoJanKevin2/M9TFJoZ7PW/1025.ts
+#EXTINF:-1,DE: Sky Sport 2 HD [24/7]
+http://bfcnew.ddns.net:8000/live/DuoJanKevin2/M9TFJoZ7PW/1044.ts
+#EXTINF:-1,DE: Sky Sport 3 HD
+http://bfcnew.ddns.net:8000/live/DuoJanKevin2/M9TFJoZ7PW/963.ts
+#EXTINF:-1,DE: Sky Sport 4 HD
+http://bfcnew.ddns.net:8000/live/DuoJanKevin2/M9TFJoZ7PW/962.ts
+#EXTINF:-1,DE: Sky Sport 5 HD
+http://bfcnew.ddns.net:8000/live/DuoJanKevin2/M9TFJoZ7PW/961.ts
+#EXTINF:-1,DE: Sky Sport 6
+http://bfcnew.ddns.net:8000/live/DuoJanKevin2/M9TFJoZ7PW/2768.ts
+#EXTINF:-1,DE: Sky Sport 7
+http://bfcnew.ddns.net:8000/live/DuoJanKevin2/M9TFJoZ7PW/2769.ts
+#EXTINF:-1,DE: Sky Sport 8
+http://bfcnew.ddns.net:8000/live/DuoJanKevin2/M9TFJoZ7PW/2770.ts
+#EXTINF:-1,DE: Sky Sport 9
+http://bfcnew.ddns.net:8000/live/DuoJanKevin2/M9TFJoZ7PW/2771.ts
+#EXTINF:-1,DE: Sky Sport 10
+http://bfcnew.ddns.net:8000/live/DuoJanKevin2/M9TFJoZ7PW/2772.ts
+#EXTINF:-1,DE: Sky Sport Austria HD
+http://bfcnew.ddns.net:8000/live/DuoJanKevin2/M9TFJoZ7PW/1047.ts
+#EXTINF:-1,DE: Eurosport 1 HD
+http://bfcnew.ddns.net:8000/live/DuoJanKevin2/M9TFJoZ7PW/974.ts
+#EXTINF:-1,DE: Eurosport 2 HD
+http://bfcnew.ddns.net:8000/live/DuoJanKevin2/M9TFJoZ7PW/1916.ts
+#EXTINF:-1,DE: Eurosport 2 HD Xtra
+http://bfcnew.ddns.net:8000/live/DuoJanKevin2/M9TFJoZ7PW/5245.ts
+#EXTINF:-1,DE: Sportdigital HD
+http://bfcnew.ddns.net:8000/live/DuoJanKevin2/M9TFJoZ7PW/1012.ts
+#EXTINF:-1,DE: Sport1 HD
+http://bfcnew.ddns.net:8000/live/DuoJanKevin2/M9TFJoZ7PW/960.ts
+#EXTINF:-1,DE: Sport1+ HD
+http://bfcnew.ddns.net:8000/live/DuoJanKevin2/M9TFJoZ7PW/1048.ts
+#EXTINF:-1,DE: Sport1 US HD
+http://bfcnew.ddns.net:8000/live/DuoJanKevin2/M9TFJoZ7PW/1049.ts
+#EXTINF:-1,DE: ORF Sport Plus
+http://bfcnew.ddns.net:8000/live/DuoJanKevin2/M9TFJoZ7PW/3140.ts
+#EXTINF:-1,DE: Auto Motor Sport Channel HD
+http://bfcnew.ddns.net:8000/live/DuoJanKevin2/M9TFJoZ7PW/972.ts
 
 #EXTINF:-1,DE: SPORT 1 HD
 http://gold.fransa365.net:8080/live/bebe/bebe/2962.ts
@@ -308,6 +510,299 @@ http://gold.fransa365.net:8080/live/bebe/bebe/1893.ts
 #EXTINF:-1,DE: FILM CLUB HD 6
 http://gold.fransa365.net:8080/live/bebe/bebe/1894.ts
 
+#EXTINF:-1,DE: ZDF HD
+http://bfcnew.ddns.net:8000/live/ilno/BnziDxx8rj/1051.ts
+#EXTINF:-1,DE: RTL HD
+http://bfcnew.ddns.net:8000/live/ilno/BnziDxx8rj/1039.ts
+#EXTINF:-1,DE: RTL II HD
+http://bfcnew.ddns.net:8000/live/ilno/BnziDxx8rj/1035.ts
+#EXTINF:-1,DE: Prosieben HD
+http://bfcnew.ddns.net:8000/live/ilno/BnziDxx8rj/1041.ts
+#EXTINF:-1,DE: Prosieben Fun HD
+http://bfcnew.ddns.net:8000/live/ilno/BnziDxx8rj/990.ts
+#EXTINF:-1,DE: Prosieben MAXX HD
+http://bfcnew.ddns.net:8000/live/ilno/BnziDxx8rj/1038.ts
+#EXTINF:-1,DE: Zee One HD
+http://bfcnew.ddns.net:8000/live/ilno/BnziDxx8rj/976.ts
+#EXTINF:-1,DE: SAT.1 HD
+http://bfcnew.ddns.net:8000/live/ilno/BnziDxx8rj/1050.ts
+#EXTINF:-1,DE: SAT.1 Emotions HD
+http://bfcnew.ddns.net:8000/live/ilno/BnziDxx8rj/954.ts
+#EXTINF:-1,DE: SAT.1 Gold HD
+http://bfcnew.ddns.net:8000/live/ilno/BnziDxx8rj/987.ts
+#EXTINF:-1,DE: Kabel 1 HD
+http://bfcnew.ddns.net:8000/live/ilno/BnziDxx8rj/1037.ts
+#EXTINF:-1,DE: VOX HD
+http://bfcnew.ddns.net:8000/live/ilno/BnziDxx8rj/1059.ts
+#EXTINF:-1,DE: TLC HD
+http://bfcnew.ddns.net:8000/live/ilno/BnziDxx8rj/980.ts
+#EXTINF:-1,DE: DMAX HD
+http://bfcnew.ddns.net:8000/live/ilno/BnziDxx8rj/979.ts
+#EXTINF:-1,DE: SIXX HD
+http://bfcnew.ddns.net:8000/live/ilno/BnziDxx8rj/1043.ts
+#EXTINF:-1,DE: MTV HD
+http://bfcnew.ddns.net:8000/live/ilno/BnziDxx8rj/985.ts
+#EXTINF:-1,DE: Tele 5 HD
+http://bfcnew.ddns.net:8000/live/ilno/BnziDxx8rj/1065.ts
+#EXTINF:-1,DE: N24 HD
+http://bfcnew.ddns.net:8000/live/ilno/BnziDxx8rj/1015.ts
+#EXTINF:-1,DE: NTV HD
+http://bfcnew.ddns.net:8000/live/ilno/BnziDxx8rj/1052.ts
+#EXTINF:-1,DE: Euronews (offline)
+http://bfcnew.ddns.net:8000/live/ilno/BnziDxx8rj/2797.ts
+#EXTINF:-1,DE: ZDF NEO HD
+http://bfcnew.ddns.net:8000/live/ilno/BnziDxx8rj/3316.ts
+#EXTINF:-1,DE: ZDF Info HD
+http://bfcnew.ddns.net:8000/live/ilno/BnziDxx8rj/4129.ts
+#EXTINF:-1,DE: Super RTL HD
+http://bfcnew.ddns.net:8000/live/ilno/BnziDxx8rj/1040.ts
+#EXTINF:-1,DE: ONE HD
+http://bfcnew.ddns.net:8000/live/ilno/BnziDxx8rj/3495.ts
+#EXTINF:-1,DE: ServusTV HD
+http://bfcnew.ddns.net:8000/live/ilno/BnziDxx8rj/971.ts
+#EXTINF:-1,DE: ServusTV HD AT
+http://bfcnew.ddns.net:8000/live/ilno/BnziDxx8rj/2798.ts
+#EXTINF:-1,DE: PHOENIX HD
+http://bfcnew.ddns.net:8000/live/ilno/BnziDxx8rj/3711.ts
+#EXTINF:-1,DE: 3sat HD
+http://bfcnew.ddns.net:8000/live/ilno/BnziDxx8rj/3503.ts
+#EXTINF:-1,DE: MDR HD
+http://bfcnew.ddns.net:8000/live/ilno/BnziDxx8rj/3651.ts
+#EXTINF:-1,DE: NDR HD
+http://bfcnew.ddns.net:8000/live/ilno/BnziDxx8rj/2796.ts
+#EXTINF:-1,DE: RBB HD
+http://bfcnew.ddns.net:8000/live/ilno/BnziDxx8rj/958.ts
+#EXTINF:-1,DE: HR HD
+http://bfcnew.ddns.net:8000/live/ilno/BnziDxx8rj/3653.ts
+#EXTINF:-1,DE: SWR HD
+http://bfcnew.ddns.net:8000/live/ilno/BnziDxx8rj/3715.ts
+#EXTINF:-1,DE: WDR HD
+http://bfcnew.ddns.net:8000/live/ilno/BnziDxx8rj/1004.ts
+#EXTINF:-1,DE: BR Fernsehen HD
+http://bfcnew.ddns.net:8000/live/ilno/BnziDxx8rj/3750.ts
+#EXTINF:-1,------- DE SRF+ORF -------
+http://bfcnew.ddns.net:8000/live/ilno/BnziDxx8rj/1073.ts
+#EXTINF:-1,DE: Teleclub Cinema Full HD
+http://bfcnew.ddns.net:8000/live/ilno/BnziDxx8rj/5017.ts
+#EXTINF:-1,DE: Teleclub Prime Full HD
+http://bfcnew.ddns.net:8000/live/ilno/BnziDxx8rj/5019.ts
+#EXTINF:-1,DE: Teleclub Star Full HD
+http://bfcnew.ddns.net:8000/live/ilno/BnziDxx8rj/5018.ts
+#EXTINF:-1,DE: Acht HD
+http://bfcnew.ddns.net:8000/live/ilno/BnziDxx8rj/9406.ts
+#EXTINF:-1,DE: PULS 4
+http://bfcnew.ddns.net:8000/live/ilno/BnziDxx8rj/9412.ts
+#EXTINF:-1,DE: 3+ HD
+http://bfcnew.ddns.net:8000/live/ilno/BnziDxx8rj/5247.ts
+#EXTINF:-1,DE: 4+ HD
+http://bfcnew.ddns.net:8000/live/ilno/BnziDxx8rj/5248.ts
+#EXTINF:-1,DE: 5+ HD
+http://bfcnew.ddns.net:8000/live/ilno/BnziDxx8rj/5249.ts
+#EXTINF:-1,DE: ATV HD
+http://bfcnew.ddns.net:8000/live/ilno/BnziDxx8rj/3718.ts
+#EXTINF:-1,DE: ATV 2
+http://bfcnew.ddns.net:8000/live/ilno/BnziDxx8rj/3652.ts
+#EXTINF:-1,DE: SRF HD 1
+http://bfcnew.ddns.net:8000/live/ilno/BnziDxx8rj/1053.ts
+#EXTINF:-1,DE: SRF HD 2
+http://bfcnew.ddns.net:8000/live/ilno/BnziDxx8rj/1054.ts
+#EXTINF:-1,DE: ORF 1 HD
+http://bfcnew.ddns.net:8000/live/ilno/BnziDxx8rj/978.ts
+#EXTINF:-1,DE: ORF 2 HD
+http://bfcnew.ddns.net:8000/live/ilno/BnziDxx8rj/1036.ts
+#EXTINF:-1,DE: ORF 3 HD
+http://bfcnew.ddns.net:8000/live/ilno/BnziDxx8rj/5204.ts
+#EXTINF:-1,------- DE Cinema -------
+http://bfcnew.ddns.net:8000/live/ilno/BnziDxx8rj/1076.ts
+#EXTINF:-1,DE: Sky Cinema HD
+http://bfcnew.ddns.net:8000/live/ilno/BnziDxx8rj/1046.ts
+#EXTINF:-1,DE: Sky Cinema +1 HD
+http://bfcnew.ddns.net:8000/live/ilno/BnziDxx8rj/1063.ts
+#EXTINF:-1,DE: Sky Cinema +24 HD
+http://bfcnew.ddns.net:8000/live/ilno/BnziDxx8rj/994.ts
+#EXTINF:-1,DE: Sky Cinema Family HD
+http://bfcnew.ddns.net:8000/live/ilno/BnziDxx8rj/1066.ts
+#EXTINF:-1,DE: Sky Action HD
+http://bfcnew.ddns.net:8000/live/ilno/BnziDxx8rj/1031.ts
+#EXTINF:-1,DE: Sky Cinema Hits HD
+http://bfcnew.ddns.net:8000/live/ilno/BnziDxx8rj/1020.ts
+#EXTINF:-1,DE: Sky Comedy
+http://bfcnew.ddns.net:8000/live/ilno/BnziDxx8rj/991.ts
+#EXTINF:-1,DE: Sky Nostalgie
+http://bfcnew.ddns.net:8000/live/ilno/BnziDxx8rj/993.ts
+#EXTINF:-1,DE: Sky Emotion
+http://bfcnew.ddns.net:8000/live/ilno/BnziDxx8rj/992.ts
+#EXTINF:-1,DE: kabel eins CLASSICS HD
+http://bfcnew.ddns.net:8000/live/ilno/BnziDxx8rj/986.ts
+#EXTINF:-1,DE: Syfy HD
+http://bfcnew.ddns.net:8000/live/ilno/BnziDxx8rj/1033.ts
+#EXTINF:-1,DE: Kinowelt HD
+http://bfcnew.ddns.net:8000/live/ilno/BnziDxx8rj/1009.ts
+#EXTINF:-1,DE: TNT Film HD
+http://bfcnew.ddns.net:8000/live/ilno/BnziDxx8rj/1008.ts
+#EXTINF:-1,DE: 13th Street HD
+http://bfcnew.ddns.net:8000/live/ilno/BnziDxx8rj/1014.ts
+#EXTINF:-1,DE: AXN HD
+http://bfcnew.ddns.net:8000/live/ilno/BnziDxx8rj/1045.ts
+#EXTINF:-1,DE: Universal HD
+http://bfcnew.ddns.net:8000/live/ilno/BnziDxx8rj/1001.ts
+#EXTINF:-1,DE: Sony Entertainment TV HD
+http://bfcnew.ddns.net:8000/live/ilno/BnziDxx8rj/998.ts
+#EXTINF:-1,DE: eoTV
+http://bfcnew.ddns.net:8000/live/ilno/BnziDxx8rj/7700.ts
+#EXTINF:-1,DE: Silverline
+http://bfcnew.ddns.net:8000/live/ilno/BnziDxx8rj/989.ts
+#EXTINF:-1,DE: Heimatkanal
+http://bfcnew.ddns.net:8000/live/ilno/BnziDxx8rj/996.ts
+#EXTINF:-1,------- DE Serien / Unterhaltung -------
+http://bfcnew.ddns.net:8000/live/ilno/BnziDxx8rj/250.ts
+#EXTINF:-1,DE: Sky Atlantic HD
+http://bfcnew.ddns.net:8000/live/ilno/BnziDxx8rj/1002.ts
+#EXTINF:-1,DE: TNT Serie HD
+http://bfcnew.ddns.net:8000/live/ilno/BnziDxx8rj/1030.ts
+#EXTINF:-1,DE: TNT Comedy HD
+http://bfcnew.ddns.net:8000/live/ilno/BnziDxx8rj/1016.ts
+#EXTINF:-1,DE: Sky 1 HD
+http://bfcnew.ddns.net:8000/live/ilno/BnziDxx8rj/1028.ts
+#EXTINF:-1,DE: Sky Krimi
+http://bfcnew.ddns.net:8000/live/ilno/BnziDxx8rj/1019.ts
+#EXTINF:-1,DE: Fox HD
+http://bfcnew.ddns.net:8000/live/ilno/BnziDxx8rj/1018.ts
+#EXTINF:-1,DE: Romance TV HD
+http://bfcnew.ddns.net:8000/live/ilno/BnziDxx8rj/1010.ts
+#EXTINF:-1,DE: RTL Crime HD
+http://bfcnew.ddns.net:8000/live/ilno/BnziDxx8rj/1029.ts
+#EXTINF:-1,DE: RTL Passion HD
+http://bfcnew.ddns.net:8000/live/ilno/BnziDxx8rj/1021.ts
+#EXTINF:-1,DE: RTL Nitro HD
+http://bfcnew.ddns.net:8000/live/ilno/BnziDxx8rj/1034.ts
+#EXTINF:-1,DE: RTL Living HD
+http://bfcnew.ddns.net:8000/live/ilno/BnziDxx8rj/1022.ts
+#EXTINF:-1,DE: E! Entertainment HD
+http://bfcnew.ddns.net:8000/live/ilno/BnziDxx8rj/1023.ts
+#EXTINF:-1,------- DE Kinder -------
+http://bfcnew.ddns.net:8000/live/ilno/BnziDxx8rj/885.ts
+#EXTINF:-1,DE: Boomerang HD
+http://bfcnew.ddns.net:8000/live/ilno/BnziDxx8rj/981.ts
+#EXTINF:-1,DE: Cartoon Network HD
+http://bfcnew.ddns.net:8000/live/ilno/BnziDxx8rj/975.ts
+#EXTINF:-1,DE: Disney Channel HD
+http://bfcnew.ddns.net:8000/live/ilno/BnziDxx8rj/982.ts
+#EXTINF:-1,DE: Disney Cinemagic HD
+http://bfcnew.ddns.net:8000/live/ilno/BnziDxx8rj/997.ts
+#EXTINF:-1,DE: Disney Jr. HD
+http://bfcnew.ddns.net:8000/live/ilno/BnziDxx8rj/988.ts
+#EXTINF:-1,DE: Disney XD HD
+http://bfcnew.ddns.net:8000/live/ilno/BnziDxx8rj/1060.ts
+#EXTINF:-1,DE: Fix&Foxi
+http://bfcnew.ddns.net:8000/live/ilno/BnziDxx8rj/955.ts
+#EXTINF:-1,DE: Kika HD
+http://bfcnew.ddns.net:8000/live/ilno/BnziDxx8rj/3710.ts
+#EXTINF:-1,DE: Nick Jr. HD
+http://bfcnew.ddns.net:8000/live/ilno/BnziDxx8rj/1057.ts
+#EXTINF:-1,DE: Nickelodeon HD
+http://bfcnew.ddns.net:8000/live/ilno/BnziDxx8rj/983.ts
+#EXTINF:-1,DE: TOGGO Plus
+http://bfcnew.ddns.net:8000/live/ilno/BnziDxx8rj/956.ts
+#EXTINF:-1,DE: Junior [6:00-20:00]
+http://bfcnew.ddns.net:8000/live/ilno/BnziDxx8rj/959.ts
+#EXTINF:-1,DE: VIVA/COMEDY CENTRAL HD
+http://bfcnew.ddns.net:8000/live/ilno/BnziDxx8rj/984.ts
+#EXTINF:-1,------- DE Doku -------
+http://bfcnew.ddns.net:8000/live/ilno/BnziDxx8rj/1075.ts
+#EXTINF:-1,DE: Arte HD
+http://bfcnew.ddns.net:8000/live/ilno/BnziDxx8rj/957.ts
+#EXTINF:-1,DE: Kabel 1 Doku
+http://bfcnew.ddns.net:8000/live/ilno/BnziDxx8rj/7724.ts
+#EXTINF:-1,DE: N24 Doku
+http://bfcnew.ddns.net:8000/live/ilno/BnziDxx8rj/7725.ts
+#EXTINF:-1,DE: A&E HD
+http://bfcnew.ddns.net:8000/live/ilno/BnziDxx8rj/999.ts
+#EXTINF:-1,DE: Sky Arts HD
+http://bfcnew.ddns.net:8000/live/ilno/BnziDxx8rj/3705.ts
+#EXTINF:-1,DE: Geo TV HD
+http://bfcnew.ddns.net:8000/live/ilno/BnziDxx8rj/4120.ts
+#EXTINF:-1,DE: Bon Gusto HD
+http://bfcnew.ddns.net:8000/live/ilno/BnziDxx8rj/2800.ts
+#EXTINF:-1,DE: Planet HD
+http://bfcnew.ddns.net:8000/live/ilno/BnziDxx8rj/1013.ts
+#EXTINF:-1,DE: Animal Planet HD
+http://bfcnew.ddns.net:8000/live/ilno/BnziDxx8rj/995.ts
+#EXTINF:-1,DE: HISTORY HD
+http://bfcnew.ddns.net:8000/live/ilno/BnziDxx8rj/1067.ts
+#EXTINF:-1,DE: NatGeo HD
+http://bfcnew.ddns.net:8000/live/ilno/BnziDxx8rj/1026.ts
+#EXTINF:-1,DE: NatGeo Wild HD
+http://bfcnew.ddns.net:8000/live/ilno/BnziDxx8rj/1032.ts
+#EXTINF:-1,DE: Discovery Channel HD
+http://bfcnew.ddns.net:8000/live/ilno/BnziDxx8rj/1058.ts
+#EXTINF:-1,DE: Spiegel TV Wissen HD
+http://bfcnew.ddns.net:8000/live/ilno/BnziDxx8rj/973.ts
+#EXTINF:-1,DE: Spiegel TV Geschichte
+http://bfcnew.ddns.net:8000/live/ilno/BnziDxx8rj/1017.ts
+#EXTINF:-1,------- DE Sport -------
+http://bfcnew.ddns.net:8000/live/ilno/BnziDxx8rj/1077.ts
+#EXTINF:-1,DE: Sky Sport News HD
+http://bfcnew.ddns.net:8000/live/ilno/BnziDxx8rj/1000.ts
+#EXTINF:-1,DE: Sky Bundesliga 1 HD [24/7]
+http://bfcnew.ddns.net:8000/live/ilno/BnziDxx8rj/1024.ts
+#EXTINF:-1,DE: Sky Bundesliga 2 HD
+http://bfcnew.ddns.net:8000/live/ilno/BnziDxx8rj/970.ts
+#EXTINF:-1,DE: Sky Bundesliga 3 HD
+http://bfcnew.ddns.net:8000/live/ilno/BnziDxx8rj/969.ts
+#EXTINF:-1,DE: Sky Bundesliga 4 HD
+http://bfcnew.ddns.net:8000/live/ilno/BnziDxx8rj/968.ts
+#EXTINF:-1,DE: Sky Bundesliga 5
+http://bfcnew.ddns.net:8000/live/ilno/BnziDxx8rj/967.ts
+#EXTINF:-1,DE: Sky Bundesliga 6
+http://bfcnew.ddns.net:8000/live/ilno/BnziDxx8rj/966.ts
+#EXTINF:-1,DE: Sky Bundesliga 7
+http://bfcnew.ddns.net:8000/live/ilno/BnziDxx8rj/965.ts
+#EXTINF:-1,DE: Sky Bundesliga 8
+http://bfcnew.ddns.net:8000/live/ilno/BnziDxx8rj/964.ts
+#EXTINF:-1,DE: Sky Bundesliga 9
+http://bfcnew.ddns.net:8000/live/ilno/BnziDxx8rj/2773.ts
+#EXTINF:-1,DE: Sky Bundesliga 10
+http://bfcnew.ddns.net:8000/live/ilno/BnziDxx8rj/2774.ts
+#EXTINF:-1,DE: Sky Sport 1 HD [24/7]
+http://bfcnew.ddns.net:8000/live/ilno/BnziDxx8rj/1025.ts
+#EXTINF:-1,DE: Sky Sport 2 HD [24/7]
+http://bfcnew.ddns.net:8000/live/ilno/BnziDxx8rj/1044.ts
+#EXTINF:-1,DE: Sky Sport 3 HD
+http://bfcnew.ddns.net:8000/live/ilno/BnziDxx8rj/963.ts
+#EXTINF:-1,DE: Sky Sport 4 HD
+http://bfcnew.ddns.net:8000/live/ilno/BnziDxx8rj/962.ts
+#EXTINF:-1,DE: Sky Sport 5 HD
+http://bfcnew.ddns.net:8000/live/ilno/BnziDxx8rj/961.ts
+#EXTINF:-1,DE: Sky Sport 6
+http://bfcnew.ddns.net:8000/live/ilno/BnziDxx8rj/2768.ts
+#EXTINF:-1,DE: Sky Sport 7
+http://bfcnew.ddns.net:8000/live/ilno/BnziDxx8rj/2769.ts
+#EXTINF:-1,DE: Sky Sport 8
+http://bfcnew.ddns.net:8000/live/ilno/BnziDxx8rj/2770.ts
+#EXTINF:-1,DE: Sky Sport 9
+http://bfcnew.ddns.net:8000/live/ilno/BnziDxx8rj/2771.ts
+#EXTINF:-1,DE: Sky Sport 10
+http://bfcnew.ddns.net:8000/live/ilno/BnziDxx8rj/2772.ts
+#EXTINF:-1,DE: Sky Sport Austria HD
+http://bfcnew.ddns.net:8000/live/ilno/BnziDxx8rj/1047.ts
+#EXTINF:-1,DE: Eurosport 1 HD
+http://bfcnew.ddns.net:8000/live/ilno/BnziDxx8rj/974.ts
+#EXTINF:-1,DE: Eurosport 2 HD
+http://bfcnew.ddns.net:8000/live/ilno/BnziDxx8rj/1916.ts
+#EXTINF:-1,DE: Eurosport 2 HD Xtra
+http://bfcnew.ddns.net:8000/live/ilno/BnziDxx8rj/5245.ts
+#EXTINF:-1,DE: Sportdigital HD
+http://bfcnew.ddns.net:8000/live/ilno/BnziDxx8rj/1012.ts
+#EXTINF:-1,DE: Sport1 HD
+http://bfcnew.ddns.net:8000/live/ilno/BnziDxx8rj/960.ts
+#EXTINF:-1,DE: Sport1+ HD
+http://bfcnew.ddns.net:8000/live/ilno/BnziDxx8rj/1048.ts
+#EXTINF:-1,DE: Sport1 US HD
+http://bfcnew.ddns.net:8000/live/ilno/BnziDxx8rj/1049.ts
+#EXTINF:-1,DE: ORF Sport Plus
+http://bfcnew.ddns.net:8000/live/ilno/BnziDxx8rj/3140.ts
+
 #EXTINF:-1,DE=Syfy-HD
 http://tvdreams.org:50100/live/fantom_zzp/39gSd6qirG/780.ts
 #EXTINF:-1,DE=RTL-2-HD
@@ -461,3 +956,666 @@ http://fserver.yellowiptv.com:80/live/hls/6557a72cf5/6089.ts
 http://fserver.yellowiptv.com:80/live/hls/6557a72cf5/13087.ts
 #EXTINF:-1,Vox
 http://fserver.yellowiptv.com:80/live/hls/6557a72cf5/13098.ts
+
+#EXTINF:-1,DE: ZDF HD
+http://163.172.61.93:25461/live/maxime/maxime/6820.ts
+#EXTINF:-1,DE: RTL
+http://163.172.61.93:25461/live/maxime/maxime/6819.ts
+#EXTINF:-1,DE: RTL 2
+http://163.172.61.93:25461/live/maxime/maxime/6818.ts
+#EXTINF:-1,DE: RTL PLUS
+http://163.172.61.93:25461/live/maxime/maxime/6817.ts
+#EXTINF:-1,DE: SUPER RTL
+http://163.172.61.93:25461/live/maxime/maxime/6816.ts
+#EXTINF:-1,DE: SAT.1
+http://163.172.61.93:25461/live/maxime/maxime/6815.ts
+#EXTINF:-1,DE: SAT.1 GOLD
+http://163.172.61.93:25461/live/maxime/maxime/6814.ts
+#EXTINF:-1,DE: VOX
+http://163.172.61.93:25461/live/maxime/maxime/6813.ts
+#EXTINF:-1,DE: KABEL 1
+http://163.172.61.93:25461/live/maxime/maxime/6812.ts
+#EXTINF:-1,DE: PROSIEBEN
+http://163.172.61.93:25461/live/maxime/maxime/6811.ts
+#EXTINF:-1,DE: SKY CINEMA HD
+http://163.172.61.93:25461/live/maxime/maxime/6810.ts
+#EXTINF:-1,DE: SKY CINEMA  1 HD
+http://163.172.61.93:25461/live/maxime/maxime/6809.ts
+#EXTINF:-1,DE: SKY CINEMA  24 HD
+http://163.172.61.93:25461/live/maxime/maxime/6808.ts
+#EXTINF:-1,DE: SKY CINEMA EMOTION
+http://163.172.61.93:25461/live/maxime/maxime/6807.ts
+#EXTINF:-1,DE: SKY CINEMA FAMILY HD
+http://163.172.61.93:25461/live/maxime/maxime/6806.ts
+#EXTINF:-1,DE: SKY CINEMA HITS HD
+http://163.172.61.93:25461/live/maxime/maxime/6805.ts
+#EXTINF:-1,DE: SKY CINEMA NOSTALGIE
+http://163.172.61.93:25461/live/maxime/maxime/6804.ts
+#EXTINF:-1,DE: SKY CINEMA COMEDY
+http://163.172.61.93:25461/live/maxime/maxime/6803.ts
+#EXTINF:-1,DE: SKY SELECT 1 HD
+http://163.172.61.93:25461/live/maxime/maxime/6802.ts
+#EXTINF:-1,DE: SKY SELECT 2 HD
+http://163.172.61.93:25461/live/maxime/maxime/6801.ts
+#EXTINF:-1,DE: SKY SELECT 3 HD
+http://163.172.61.93:25461/live/maxime/maxime/6800.ts
+#EXTINF:-1,DE: SKY SELECT 4 HD
+http://163.172.61.93:25461/live/maxime/maxime/6799.ts
+#EXTINF:-1,DE: SKY SELECT 5 HD
+http://163.172.61.93:25461/live/maxime/maxime/6798.ts
+#EXTINF:-1,DE: SKY SELECT 6 HD
+http://163.172.61.93:25461/live/maxime/maxime/6797.ts
+#EXTINF:-1,DE: SKY SELECT 7 HD
+http://163.172.61.93:25461/live/maxime/maxime/6796.ts
+#EXTINF:-1,DE: SKY SELECT 8 HD
+http://163.172.61.93:25461/live/maxime/maxime/6795.ts
+#EXTINF:-1,DE: SKY SELECT 9 HD
+http://163.172.61.93:25461/live/maxime/maxime/6794.ts
+#EXTINF:-1,DE: TNT COMEDY HD
+http://163.172.61.93:25461/live/maxime/maxime/6793.ts
+#EXTINF:-1,DE: TNT FILM HD
+http://163.172.61.93:25461/live/maxime/maxime/6792.ts
+#EXTINF:-1,DE: TNT SERIE HD
+http://163.172.61.93:25461/live/maxime/maxime/6791.ts
+#EXTINF:-1,DE: UNIVERSAL CHANNEL HD
+http://163.172.61.93:25461/live/maxime/maxime/6790.ts
+#EXTINF:-1,DE: 13TH STREET HD
+http://163.172.61.93:25461/live/maxime/maxime/6789.ts
+#EXTINF:-1,DE: SYFY HD
+http://163.172.61.93:25461/live/maxime/maxime/6788.ts
+#EXTINF:-1,DE: SKY 1 HD
+http://163.172.61.93:25461/live/maxime/maxime/6787.ts
+#EXTINF:-1,DE: SKY ARTS HD
+http://163.172.61.93:25461/live/maxime/maxime/6786.ts
+#EXTINF:-1,DE: FOX HD
+http://163.172.61.93:25461/live/maxime/maxime/6785.ts
+#EXTINF:-1,DE: SKY SPORT NEWS HD
+http://163.172.61.93:25461/live/maxime/maxime/6784.ts
+#EXTINF:-1,DE: SKY SPORT 1 HD
+http://163.172.61.93:25461/live/maxime/maxime/6782.ts
+#EXTINF:-1,DE: SKY SPORT 2 HD
+http://163.172.61.93:25461/live/maxime/maxime/6781.ts
+#EXTINF:-1,DE: SKY SPORT BUNDESLIGA 1 HD
+http://163.172.61.93:25461/live/maxime/maxime/6780.ts
+#EXTINF:-1,DE: SKY SPORT BUNDESLIGA 2 HD - Match Time
+http://163.172.61.93:25461/live/maxime/maxime/6779.ts
+#EXTINF:-1,DE: SKY SPORT BUNDESLIGA 3 HD - Match Time
+http://163.172.61.93:25461/live/maxime/maxime/6778.ts
+#EXTINF:-1,DE: SKY SPORT BUNDESLIGA 4 HD - Match Time
+http://163.172.61.93:25461/live/maxime/maxime/6777.ts
+#EXTINF:-1,DE: SKY SPORT BUNDESLIGA 5 HD - Match Time
+http://163.172.61.93:25461/live/maxime/maxime/6776.ts
+#EXTINF:-1,DE: SKY SPORT BUNDESLIGA 6 HD - Match Time
+http://163.172.61.93:25461/live/maxime/maxime/6775.ts
+#EXTINF:-1,DE: SKY SPORT BUNDESLIGA 7 HD - Match Time
+http://163.172.61.93:25461/live/maxime/maxime/6774.ts
+#EXTINF:-1,DE: SKY SPORT BUNDESLIGA 8 - Match Time
+http://163.172.61.93:25461/live/maxime/maxime/6773.ts
+#EXTINF:-1,DE: SKY SPORT BUNDESLIGA 9 - Match Time
+http://163.172.61.93:25461/live/maxime/maxime/6772.ts
+#EXTINF:-1,DE: SKY SPORT BUNDESLIGA 10 - Match Time
+http://163.172.61.93:25461/live/maxime/maxime/6771.ts
+#EXTINF:-1,DE: EUROSPORT 1
+http://163.172.61.93:25461/live/maxime/maxime/6769.ts
+#EXTINF:-1,DE: EUROSPORT 2
+http://163.172.61.93:25461/live/maxime/maxime/6768.ts
+#EXTINF:-1,DE: NATIONAL GEOGRAPHIC
+http://163.172.61.93:25461/live/maxime/maxime/6767.ts
+#EXTINF:-1,DE: NAT GEO WILD HD
+http://163.172.61.93:25461/live/maxime/maxime/6766.ts
+#EXTINF:-1,DE: DISCOVERY HD
+http://163.172.61.93:25461/live/maxime/maxime/6765.ts
+#EXTINF:-1,DE: PLANET HD
+http://163.172.61.93:25461/live/maxime/maxime/6764.ts
+#EXTINF:-1,DE: ANIMAL PLANET HD
+http://163.172.61.93:25461/live/maxime/maxime/6763.ts
+#EXTINF:-1,DE: A&E HD
+http://163.172.61.93:25461/live/maxime/maxime/6762.ts
+#EXTINF:-1,DE: PRO 7 MAXX
+http://163.172.61.93:25461/live/maxime/maxime/6761.ts
+#EXTINF:-1,DE: ARTE
+http://163.172.61.93:25461/live/maxime/maxime/6760.ts
+#EXTINF:-1,DE: DMAX
+http://163.172.61.93:25461/live/maxime/maxime/6759.ts
+#EXTINF:-1,DE: ANIXE
+http://163.172.61.93:25461/live/maxime/maxime/6758.ts
+#EXTINF:-1,DE: ZDF NEO HD
+http://163.172.61.93:25461/live/maxime/maxime/6757.ts
+#EXTINF:-1,DE: ZEE ONE HD
+http://163.172.61.93:25461/live/maxime/maxime/6756.ts
+#EXTINF:-1,DE: DISNEY CHANNEL
+http://163.172.61.93:25461/live/maxime/maxime/6755.ts
+#EXTINF:-1,DE: DISNEY CINEMAGIC HD
+http://163.172.61.93:25461/live/maxime/maxime/6754.ts
+#EXTINF:-1,DE: DISNEY XD
+http://163.172.61.93:25461/live/maxime/maxime/6753.ts
+#EXTINF:-1,DE: DISNEY JUNIOR
+http://163.172.61.93:25461/live/maxime/maxime/6752.ts
+#EXTINF:-1,DE: CARTOON NETWORK
+http://163.172.61.93:25461/live/maxime/maxime/6751.ts
+#EXTINF:-1,DE: NICKELODEON HD
+http://163.172.61.93:25461/live/maxime/maxime/6750.ts
+#EXTINF:-1,DE: BOOMERANG HD
+http://163.172.61.93:25461/live/maxime/maxime/6749.ts
+#EXTINF:-1,DE: COMEDY CENTRAL / VIVA
+http://163.172.61.93:25461/live/maxime/maxime/6748.ts
+#EXTINF:-1,DE: JUNIOR
+http://163.172.61.93:25461/live/maxime/maxime/6747.ts
+#EXTINF:-1,DE: KiKA HD
+http://163.172.61.93:25461/live/maxime/maxime/6746.ts
+#EXTINF:-1,DE: SPIEGEL TV WISSEN HD
+http://163.172.61.93:25461/live/maxime/maxime/6745.ts
+#EXTINF:-1,DE: PHOENIX HD
+http://163.172.61.93:25461/live/maxime/maxime/6744.ts
+#EXTINF:-1,DE: DELUXE MUSIC
+http://163.172.61.93:25461/live/maxime/maxime/6743.ts
+#EXTINF:-1,DE: EURONEWS
+http://163.172.61.93:25461/live/maxime/maxime/6742.ts
+#EXTINF:-1,DE: KABEL 1 DOKU
+http://163.172.61.93:25461/live/maxime/maxime/6741.ts
+#EXTINF:-1,DE: N24
+http://163.172.61.93:25461/live/maxime/maxime/6740.ts
+#EXTINF:-1,DE: N24 DOKU
+http://163.172.61.93:25461/live/maxime/maxime/6739.ts
+#EXTINF:-1,DE: ONE
+http://163.172.61.93:25461/live/maxime/maxime/6738.ts
+#EXTINF:-1,DE: TAGESSCHAU 24
+http://163.172.61.93:25461/live/maxime/maxime/6737.ts
+#EXTINF:-1,DE: TLC
+http://163.172.61.93:25461/live/maxime/maxime/6736.ts
+#EXTINF:-1,DE: TOGGO PLUS
+http://163.172.61.93:25461/live/maxime/maxime/6735.ts
+#EXTINF:-1,DE: WELT DER WUNDER
+http://163.172.61.93:25461/live/maxime/maxime/6734.ts
+
+#EXTINF:-1,DE | SKY SYFY HD
+http://62.210.248.96:11000/live/Rodriguez_paidch/A3kMhO4IoJ43treg/11584.ts
+#EXTINF:-1,DE | SKY SIXX HD
+http://62.210.248.96:11000/live/Rodriguez_paidch/A3kMhO4IoJ43treg/11592.ts
+#EXTINF:-1,DE | SKY RTL NITRO
+http://62.210.248.96:11000/live/Rodriguez_paidch/A3kMhO4IoJ43treg/11593.ts
+#EXTINF:-1,DE | SKY RTL CRIME
+http://62.210.248.96:11000/live/Rodriguez_paidch/A3kMhO4IoJ43treg/11594.ts
+#EXTINF:-1,DE | SKY NAT GEO WILD HD
+http://62.210.248.96:11000/live/Rodriguez_paidch/A3kMhO4IoJ43treg/11579.ts
+#EXTINF:-1,DE | SKY NAT GEO HD
+http://62.210.248.96:11000/live/Rodriguez_paidch/A3kMhO4IoJ43treg/11580.ts
+#EXTINF:-1,DE | SKY MGM HD
+http://62.210.248.96:11000/live/Rodriguez_paidch/A3kMhO4IoJ43treg/11595.ts
+#EXTINF:-1,DE | SKY KRIMI HD
+http://62.210.248.96:11000/live/Rodriguez_paidch/A3kMhO4IoJ43treg/11581.ts
+#EXTINF:-1,DE | SKY KIKA
+http://62.210.248.96:11000/live/Rodriguez_paidch/A3kMhO4IoJ43treg/11588.ts
+#EXTINF:-1,DE | SKY HITS HD
+http://62.210.248.96:11000/live/Rodriguez_paidch/A3kMhO4IoJ43treg/11591.ts
+#EXTINF:-1,DE | SKY FOX HD
+http://62.210.248.96:11000/live/Rodriguez_paidch/A3kMhO4IoJ43treg/11596.ts
+#EXTINF:-1,DE | SKY EMOTION HD
+http://62.210.248.96:11000/live/Rodriguez_paidch/A3kMhO4IoJ43treg/11582.ts
+#EXTINF:-1,DE | SKY DMAX HD
+http://62.210.248.96:11000/live/Rodriguez_paidch/A3kMhO4IoJ43treg/11583.ts
+#EXTINF:-1,DE | SKY DISNEY XD
+http://62.210.248.96:11000/live/Rodriguez_paidch/A3kMhO4IoJ43treg/11589.ts
+#EXTINF:-1,DE | ARD HD
+http://62.210.248.96:11000/live/Rodriguez_paidch/A3kMhO4IoJ43treg/11590.ts
+#EXTINF:-1,DE | Sixx HD
+http://62.210.248.96:11000/live/Rodriguez_paidch/A3kMhO4IoJ43treg/7086.ts
+#EXTINF:-1,DE | Cartoon Network HD
+http://62.210.248.96:11000/live/Rodriguez_paidch/A3kMhO4IoJ43treg/12795.ts
+#EXTINF:-1,DE | Disney Jr. HD
+http://62.210.248.96:11000/live/Rodriguez_paidch/A3kMhO4IoJ43treg/12803.ts
+#EXTINF:-1,DE | Disney XD HD
+http://62.210.248.96:11000/live/Rodriguez_paidch/A3kMhO4IoJ43treg/12804.ts
+#EXTINF:-1,DE | KABEL 1 HD
+http://62.210.248.96:11000/live/Rodriguez_paidch/A3kMhO4IoJ43treg/12787.ts
+#EXTINF:-1,DE | NATIONAL GEOGRAPHIC HD
+http://62.210.248.96:11000/live/Rodriguez_paidch/A3kMhO4IoJ43treg/12797.ts
+#EXTINF:-1,DE | ORF 1 HD
+http://62.210.248.96:11000/live/Rodriguez_paidch/A3kMhO4IoJ43treg/12792.ts
+#EXTINF:-1,DE | ORF 2 HD
+http://62.210.248.96:11000/live/Rodriguez_paidch/A3kMhO4IoJ43treg/12793.ts
+#EXTINF:-1,DE | RTL LIVING HD
+http://62.210.248.96:11000/live/Rodriguez_paidch/A3kMhO4IoJ43treg/12789.ts
+#EXTINF:-1,DE | Togo
+http://62.210.248.96:11000/live/Rodriguez_paidch/A3kMhO4IoJ43treg/12788.ts
+#EXTINF:-1,DE | Sky Cinema 1 HD
+http://62.210.248.96:11000/live/Rodriguez_paidch/A3kMhO4IoJ43treg/12801.ts
+#EXTINF:-1,DE | Sky Cinema HD
+http://62.210.248.96:11000/live/Rodriguez_paidch/A3kMhO4IoJ43treg/12798.ts
+#EXTINF:-1,DE | SKY Disney Channel HD
+http://62.210.248.96:11000/live/Rodriguez_paidch/A3kMhO4IoJ43treg/12799.ts
+#EXTINF:-1,DE | SKY Disney Cinemagic HD
+http://62.210.248.96:11000/live/Rodriguez_paidch/A3kMhO4IoJ43treg/12800.ts
+#EXTINF:-1,DE | TNT Comedy HD
+http://62.210.248.96:11000/live/Rodriguez_paidch/A3kMhO4IoJ43treg/12808.ts
+#EXTINF:-1,DE | Discovery HD
+http://62.210.248.96:11000/live/Rodriguez_paidch/A3kMhO4IoJ43treg/12794.ts
+#EXTINF:-1,DE | ZDF info HD
+http://62.210.248.96:11000/live/Rodriguez_paidch/A3kMhO4IoJ43treg/12790.ts
+#EXTINF:-1,DE | RTL HD
+http://62.210.248.96:11000/live/Rodriguez_paidch/A3kMhO4IoJ43treg/7087.ts
+#EXTINF:-1,DE | RTL Crime
+http://62.210.248.96:11000/live/Rodriguez_paidch/A3kMhO4IoJ43treg/7083.ts
+#EXTINF:-1,DE | Das Erste HD
+http://62.210.248.96:11000/live/Rodriguez_paidch/A3kMhO4IoJ43treg/11441.ts
+#EXTINF:-1,DE | Sky Sport News HD
+http://62.210.248.96:11000/live/Rodriguez_paidch/A3kMhO4IoJ43treg/9233.ts
+#EXTINF:-1,DE | Sky Sport Austria
+http://62.210.248.96:11000/live/Rodriguez_paidch/A3kMhO4IoJ43treg/9234.ts
+#EXTINF:-1,DE | RTL 2 HD
+http://62.210.248.96:11000/live/Rodriguez_paidch/A3kMhO4IoJ43treg/7088.ts
+#EXTINF:-1,DE | Nickelodeon HD
+http://62.210.248.96:11000/live/Rodriguez_paidch/A3kMhO4IoJ43treg/7085.ts
+#EXTINF:-1,DE | Syfy HD
+http://62.210.248.96:11000/live/Rodriguez_paidch/A3kMhO4IoJ43treg/7084.ts
+#EXTINF:-1,DE | Sky One HD
+http://62.210.248.96:11000/live/Rodriguez_paidch/A3kMhO4IoJ43treg/15548.ts
+#EXTINF:-1,DE | Sky Cinema
+http://62.210.248.96:11000/live/Rodriguez_paidch/A3kMhO4IoJ43treg/372.ts
+#EXTINF:-1,DE | Sky Hits
+http://62.210.248.96:11000/live/Rodriguez_paidch/A3kMhO4IoJ43treg/380.ts
+#EXTINF:-1,DE | Sky Action HD
+http://62.210.248.96:11000/live/Rodriguez_paidch/A3kMhO4IoJ43treg/375.ts
+#EXTINF:-1,DE | Sky Comedy
+http://62.210.248.96:11000/live/Rodriguez_paidch/A3kMhO4IoJ43treg/379.ts
+#EXTINF:-1,DE | Sky Emotion
+http://62.210.248.96:11000/live/Rodriguez_paidch/A3kMhO4IoJ43treg/364.ts
+#EXTINF:-1,DE | Sky Nostalgie
+http://62.210.248.96:11000/live/Rodriguez_paidch/A3kMhO4IoJ43treg/6909.ts
+#EXTINF:-1,DE | Sky Krimi
+http://62.210.248.96:11000/live/Rodriguez_paidch/A3kMhO4IoJ43treg/6910.ts
+#EXTINF:-1,DE | TNT Series HD
+http://62.210.248.96:11000/live/Rodriguez_paidch/A3kMhO4IoJ43treg/435.ts
+#EXTINF:-1,DE | TNT Serie HD
+http://62.210.248.96:11000/live/Rodriguez_paidch/A3kMhO4IoJ43treg/6766.ts
+#EXTINF:-1,DE | TNT Film HD
+http://62.210.248.96:11000/live/Rodriguez_paidch/A3kMhO4IoJ43treg/6767.ts
+#EXTINF:-1,DE | RTL Nitro
+http://62.210.248.96:11000/live/Rodriguez_paidch/A3kMhO4IoJ43treg/385.ts
+#EXTINF:-1,DE | Sky Atlantic HD
+http://62.210.248.96:11000/live/Rodriguez_paidch/A3kMhO4IoJ43treg/376.ts
+#EXTINF:-1,DE | Super RTL
+http://62.210.248.96:11000/live/Rodriguez_paidch/A3kMhO4IoJ43treg/373.ts
+#EXTINF:-1,DE | ZDF
+http://62.210.248.96:11000/live/Rodriguez_paidch/A3kMhO4IoJ43treg/384.ts
+#EXTINF:-1,DE | Sport1 HD
+http://62.210.248.96:11000/live/Rodriguez_paidch/A3kMhO4IoJ43treg/9003.ts
+#EXTINF:-1,DE | Sky Germany Sport 3 HD
+http://62.210.248.96:11000/live/Rodriguez_paidch/A3kMhO4IoJ43treg/8968.ts
+#EXTINF:-1,DE | Sky Germany Sport 4 HD
+http://62.210.248.96:11000/live/Rodriguez_paidch/A3kMhO4IoJ43treg/8969.ts
+#EXTINF:-1,DE | Sky Germany Sport 5 HD
+http://62.210.248.96:11000/live/Rodriguez_paidch/A3kMhO4IoJ43treg/8970.ts
+#EXTINF:-1,DE | Sky Germany Sport 6 HD
+http://62.210.248.96:11000/live/Rodriguez_paidch/A3kMhO4IoJ43treg/8971.ts
+#EXTINF:-1,DE | Sky Germany Sport 7 HD
+http://62.210.248.96:11000/live/Rodriguez_paidch/A3kMhO4IoJ43treg/8972.ts
+#EXTINF:-1,DE | Sky Germany Sport 8 HD
+http://62.210.248.96:11000/live/Rodriguez_paidch/A3kMhO4IoJ43treg/8973.ts
+#EXTINF:-1,DE | Sky Germany Sport 9 HD
+http://62.210.248.96:11000/live/Rodriguez_paidch/A3kMhO4IoJ43treg/8974.ts
+#EXTINF:-1,DE | Sky Germany Sport 11 HD
+http://62.210.248.96:11000/live/Rodriguez_paidch/A3kMhO4IoJ43treg/8976.ts
+#EXTINF:-1,DE | Sky Germany Sport 10 HD
+http://62.210.248.96:11000/live/Rodriguez_paidch/A3kMhO4IoJ43treg/8975.ts
+#EXTINF:-1,DE | Sky Germany BUNDESLIGA 2 HD
+http://62.210.248.96:11000/live/Rodriguez_paidch/A3kMhO4IoJ43treg/8977.ts
+#EXTINF:-1,DE | Sky Germany BUNDESLIGA 3 HD
+http://62.210.248.96:11000/live/Rodriguez_paidch/A3kMhO4IoJ43treg/8978.ts
+#EXTINF:-1,DE | Sky Germany BUNDESLIGA 4 HD
+http://62.210.248.96:11000/live/Rodriguez_paidch/A3kMhO4IoJ43treg/8979.ts
+#EXTINF:-1,DE | Sky Germany BUNDESLIGA 5 HD
+http://62.210.248.96:11000/live/Rodriguez_paidch/A3kMhO4IoJ43treg/8980.ts
+#EXTINF:-1,DE | Sky Germany BUNDESLIGA 6 HD
+http://62.210.248.96:11000/live/Rodriguez_paidch/A3kMhO4IoJ43treg/8981.ts
+#EXTINF:-1,DE | Sky Germany BUNDESLIGA 7 HD
+http://62.210.248.96:11000/live/Rodriguez_paidch/A3kMhO4IoJ43treg/8982.ts
+#EXTINF:-1,DE | Sky Germany BUNDESLIGA 8 HD
+http://62.210.248.96:11000/live/Rodriguez_paidch/A3kMhO4IoJ43treg/8983.ts
+#EXTINF:-1,DE | Sky Germany BUNDESLIGA 9 HD
+http://62.210.248.96:11000/live/Rodriguez_paidch/A3kMhO4IoJ43treg/8984.ts
+#EXTINF:-1,DE | Sky Germany BUNDESLIGA 10 HD
+http://62.210.248.96:11000/live/Rodriguez_paidch/A3kMhO4IoJ43treg/8985.ts
+#EXTINF:-1,DE | EUROSPORT 2 XTRA FHD
+http://62.210.248.96:11000/live/Rodriguez_paidch/A3kMhO4IoJ43treg/14385.ts
+#EXTINF:-1,DE | EUROSPORT 2 XTRA HD
+http://62.210.248.96:11000/live/Rodriguez_paidch/A3kMhO4IoJ43treg/14384.ts
+#EXTINF:-1,DE | EUROSPORT 2 XTRA SD
+http://62.210.248.96:11000/live/Rodriguez_paidch/A3kMhO4IoJ43treg/14383.ts
+#EXTINF:-1,DE | BAYERN FC TV FHD
+http://62.210.248.96:11000/live/Rodriguez_paidch/A3kMhO4IoJ43treg/13895.ts
+#EXTINF:-1,DE | Eurosport Player 3 HD
+http://62.210.248.96:11000/live/Rodriguez_paidch/A3kMhO4IoJ43treg/14138.ts
+#EXTINF:-1,DE | Eurosport Player 4 HD
+http://62.210.248.96:11000/live/Rodriguez_paidch/A3kMhO4IoJ43treg/14137.ts
+#EXTINF:-1,DE | Eurosport Player 5 HD
+http://62.210.248.96:11000/live/Rodriguez_paidch/A3kMhO4IoJ43treg/14136.ts
+#EXTINF:-1,DE | Eurosport Player 6 HD
+http://62.210.248.96:11000/live/Rodriguez_paidch/A3kMhO4IoJ43treg/14135.ts
+#EXTINF:-1,DE | Eurosport Player 7 HD
+http://62.210.248.96:11000/live/Rodriguez_paidch/A3kMhO4IoJ43treg/14134.ts
+#EXTINF:-1,DE | Sky Select 1 HD
+http://62.210.248.96:11000/live/Rodriguez_paidch/A3kMhO4IoJ43treg/7977.ts
+#EXTINF:-1,DE | Sky Select 2 HD
+http://62.210.248.96:11000/live/Rodriguez_paidch/A3kMhO4IoJ43treg/7978.ts
+#EXTINF:-1,DE | Sky Select 3 HD
+http://62.210.248.96:11000/live/Rodriguez_paidch/A3kMhO4IoJ43treg/7979.ts
+#EXTINF:-1,DE | Sky Select 4 HD
+http://62.210.248.96:11000/live/Rodriguez_paidch/A3kMhO4IoJ43treg/7980.ts
+#EXTINF:-1,DE | Sky Select 5 HD
+http://62.210.248.96:11000/live/Rodriguez_paidch/A3kMhO4IoJ43treg/7981.ts
+#EXTINF:-1,DE | Sky Select 6 HD
+http://62.210.248.96:11000/live/Rodriguez_paidch/A3kMhO4IoJ43treg/7982.ts
+#EXTINF:-1,DE | Sky Sport 1 HD
+http://62.210.248.96:11000/live/Rodriguez_paidch/A3kMhO4IoJ43treg/381.ts
+#EXTINF:-1,DE | Sky Sport 2
+http://62.210.248.96:11000/live/Rodriguez_paidch/A3kMhO4IoJ43treg/382.ts
+#EXTINF:-1,DE | Sky Sport News HD *
+http://62.210.248.96:11000/live/Rodriguez_paidch/A3kMhO4IoJ43treg/10585.ts
+#EXTINF:-1,DE | Sky Sport 2 HD *
+http://62.210.248.96:11000/live/Rodriguez_paidch/A3kMhO4IoJ43treg/10584.ts
+#EXTINF:-1,DE | Sky Sport 1 HD *
+http://62.210.248.96:11000/live/Rodriguez_paidch/A3kMhO4IoJ43treg/10583.ts
+#EXTINF:-1,DE | Sky Bundesliga 1 HD
+http://62.210.248.96:11000/live/Rodriguez_paidch/A3kMhO4IoJ43treg/377.ts
+#EXTINF:-1,DE | Kinowelt
+http://62.210.248.96:11000/live/Rodriguez_paidch/A3kMhO4IoJ43treg/8691.ts
+#EXTINF:-1,DE | VOX HD
+http://62.210.248.96:11000/live/Rodriguez_paidch/A3kMhO4IoJ43treg/5794.ts
+#EXTINF:-1,DE | Sat. 1 Gold Deutschland
+http://62.210.248.96:11000/live/Rodriguez_paidch/A3kMhO4IoJ43treg/5784.ts
+#EXTINF:-1,DE | Sat 1
+http://62.210.248.96:11000/live/Rodriguez_paidch/A3kMhO4IoJ43treg/3254.ts
+#EXTINF:-1,DE | RTL Passion
+http://62.210.248.96:11000/live/Rodriguez_paidch/A3kMhO4IoJ43treg/5795.ts
+#EXTINF:-1,DE | ORF Sport+
+http://62.210.248.96:11000/live/Rodriguez_paidch/A3kMhO4IoJ43treg/5785.ts
+#EXTINF:-1,DE | RTL 2
+http://62.210.248.96:11000/live/Rodriguez_paidch/A3kMhO4IoJ43treg/5786.ts
+#EXTINF:-1,DE | Pro 7 HD
+http://62.210.248.96:11000/live/Rodriguez_paidch/A3kMhO4IoJ43treg/3247.ts
+#EXTINF:-1,DE | RTL Living
+http://62.210.248.96:11000/live/Rodriguez_paidch/A3kMhO4IoJ43treg/3249.ts
+#EXTINF:-1,DE | Nat Geo
+http://62.210.248.96:11000/live/Rodriguez_paidch/A3kMhO4IoJ43treg/354.ts
+#EXTINF:-1,DE | KIKA - Der KinderKanal
+http://62.210.248.96:11000/live/Rodriguez_paidch/A3kMhO4IoJ43treg/5787.ts
+#EXTINF:-1,DE | Kika
+http://62.210.248.96:11000/live/Rodriguez_paidch/A3kMhO4IoJ43treg/3152.ts
+#EXTINF:-1,DE | Kabel 1
+http://62.210.248.96:11000/live/Rodriguez_paidch/A3kMhO4IoJ43treg/5788.ts
+#EXTINF:-1,DE | History Channel HD
+http://62.210.248.96:11000/live/Rodriguez_paidch/A3kMhO4IoJ43treg/6769.ts
+#EXTINF:-1,DE | Sky Cinema 24
+http://62.210.248.96:11000/live/Rodriguez_paidch/A3kMhO4IoJ43treg/3253.ts
+#EXTINF:-1,DE | Dmax HD
+http://62.210.248.96:11000/live/Rodriguez_paidch/A3kMhO4IoJ43treg/5789.ts
+#EXTINF:-1,DE | Fox Serie
+http://62.210.248.96:11000/live/Rodriguez_paidch/A3kMhO4IoJ43treg/5790.ts
+#EXTINF:-1,DE | Fox
+http://62.210.248.96:11000/live/Rodriguez_paidch/A3kMhO4IoJ43treg/3250.ts
+#EXTINF:-1,DE | Disney XD
+http://62.210.248.96:11000/live/Rodriguez_paidch/A3kMhO4IoJ43treg/5791.ts
+#EXTINF:-1,DE | Disney Junior
+http://62.210.248.96:11000/live/Rodriguez_paidch/A3kMhO4IoJ43treg/5792.ts
+#EXTINF:-1,DE | Disney Cinemagic
+http://62.210.248.96:11000/live/Rodriguez_paidch/A3kMhO4IoJ43treg/5796.ts
+#EXTINF:-1,DE | Disney
+http://62.210.248.96:11000/live/Rodriguez_paidch/A3kMhO4IoJ43treg/363.ts
+#EXTINF:-1,DE | Discovery Channel
+http://62.210.248.96:11000/live/Rodriguez_paidch/A3kMhO4IoJ43treg/5793.ts
+#EXTINF:-1,DE | Discovery
+http://62.210.248.96:11000/live/Rodriguez_paidch/A3kMhO4IoJ43treg/356.ts
+#EXTINF:-1,DE | Sport1+ HD
+http://62.210.248.96:11000/live/Rodriguez_paidch/A3kMhO4IoJ43treg/6770.ts
+#EXTINF:-1,DE | Sport 1+ HD
+http://62.210.248.96:11000/live/Rodriguez_paidch/A3kMhO4IoJ43treg/371.ts
+#EXTINF:-1,DE | 13 Street
+http://62.210.248.96:11000/live/Rodriguez_paidch/A3kMhO4IoJ43treg/3246.ts
+
+#EXTINF:-1,DE Sky Select 1HD
+http://fostefodido.ddns.net:8000/live/KEFc1B3s8J/3xGEUwyaoi/12671.ts
+#EXTINF:-1,DE Sky Select 2 HD
+http://fostefodido.ddns.net:8000/live/KEFc1B3s8J/3xGEUwyaoi/12672.ts
+#EXTINF:-1,DE Sky Select 3 HD
+http://fostefodido.ddns.net:8000/live/KEFc1B3s8J/3xGEUwyaoi/12673.ts
+#EXTINF:-1,DE Sky Select 4 HD
+http://fostefodido.ddns.net:8000/live/KEFc1B3s8J/3xGEUwyaoi/12674.ts
+#EXTINF:-1,DE Sky Select 5 HD
+http://fostefodido.ddns.net:8000/live/KEFc1B3s8J/3xGEUwyaoi/12675.ts
+#EXTINF:-1,DE Sky Select 6 HD
+http://fostefodido.ddns.net:8000/live/KEFc1B3s8J/3xGEUwyaoi/12676.ts
+#EXTINF:-1,DE Sky Select 7 HD
+http://fostefodido.ddns.net:8000/live/KEFc1B3s8J/3xGEUwyaoi/12677.ts
+#EXTINF:-1,DE SkySelect HD
+http://fostefodido.ddns.net:8000/live/KEFc1B3s8J/3xGEUwyaoi/12678.ts
+#EXTINF:-1,DE- 13Th Street HD
+http://fostefodido.ddns.net:8000/live/KEFc1B3s8J/3xGEUwyaoi/12679.ts
+#EXTINF:-1,DE- Disney Cinemagic HD
+http://fostefodido.ddns.net:8000/live/KEFc1B3s8J/3xGEUwyaoi/12680.ts
+#EXTINF:-1,DE- Disney Junior HD
+http://fostefodido.ddns.net:8000/live/KEFc1B3s8J/3xGEUwyaoi/12681.ts
+#EXTINF:-1,DE- Disney XD HD
+http://fostefodido.ddns.net:8000/live/KEFc1B3s8J/3xGEUwyaoi/12682.ts
+#EXTINF:-1,DE- Nat Geo HD
+http://fostefodido.ddns.net:8000/live/KEFc1B3s8J/3xGEUwyaoi/12683.ts
+#EXTINF:-1,DE- SKY ATLANTIC HD
+http://fostefodido.ddns.net:8000/live/KEFc1B3s8J/3xGEUwyaoi/12684.ts
+#EXTINF:-1,DE- Sky Cinema   24 HD
+http://fostefodido.ddns.net:8000/live/KEFc1B3s8J/3xGEUwyaoi/12685.ts
+#EXTINF:-1,DE- Sky Cinema  1 HD
+http://fostefodido.ddns.net:8000/live/KEFc1B3s8J/3xGEUwyaoi/12686.ts
+#EXTINF:-1,DE- Sky Cinema Action HD
+http://fostefodido.ddns.net:8000/live/KEFc1B3s8J/3xGEUwyaoi/12687.ts
+#EXTINF:-1,DE- Sky Cinema Family HD
+http://fostefodido.ddns.net:8000/live/KEFc1B3s8J/3xGEUwyaoi/12688.ts
+#EXTINF:-1,DE- Sport 1  HD
+http://fostefodido.ddns.net:8000/live/KEFc1B3s8J/3xGEUwyaoi/12689.ts
+#EXTINF:-1,DE- TNT Film (TCM) Local
+http://fostefodido.ddns.net:8000/live/KEFc1B3s8J/3xGEUwyaoi/12690.ts
+#EXTINF:-1,DE: 13th Street Local
+http://fostefodido.ddns.net:8000/live/KEFc1B3s8J/3xGEUwyaoi/12691.ts
+#EXTINF:-1,DE: AXN HD
+http://fostefodido.ddns.net:8000/live/KEFc1B3s8J/3xGEUwyaoi/12692.ts
+#EXTINF:-1,DE: Boomerang Local
+http://fostefodido.ddns.net:8000/live/KEFc1B3s8J/3xGEUwyaoi/12693.ts
+#EXTINF:-1,DE: Cartoon Network Local
+http://fostefodido.ddns.net:8000/live/KEFc1B3s8J/3xGEUwyaoi/12694.ts
+#EXTINF:-1,DE: Classica Local
+http://fostefodido.ddns.net:8000/live/KEFc1B3s8J/3xGEUwyaoi/12695.ts
+#EXTINF:-1,DE: Das Erste HD
+http://fostefodido.ddns.net:8000/live/KEFc1B3s8J/3xGEUwyaoi/12696.ts
+#EXTINF:-1,DE: Das Erste Local
+http://fostefodido.ddns.net:8000/live/KEFc1B3s8J/3xGEUwyaoi/12697.ts
+#EXTINF:-1,DE: Discovery Channel HD
+http://fostefodido.ddns.net:8000/live/KEFc1B3s8J/3xGEUwyaoi/12698.ts
+#EXTINF:-1,DE: Discovery Channel Local
+http://fostefodido.ddns.net:8000/live/KEFc1B3s8J/3xGEUwyaoi/12699.ts
+#EXTINF:-1,DE: Disney Channel HD
+http://fostefodido.ddns.net:8000/live/KEFc1B3s8J/3xGEUwyaoi/12700.ts
+#EXTINF:-1,DE: Disney Cinemagic Local
+http://fostefodido.ddns.net:8000/live/KEFc1B3s8J/3xGEUwyaoi/12701.ts
+#EXTINF:-1,DE: Disney Junior Local
+http://fostefodido.ddns.net:8000/live/KEFc1B3s8J/3xGEUwyaoi/12702.ts
+#EXTINF:-1,DE: Disney XD Local
+http://fostefodido.ddns.net:8000/live/KEFc1B3s8J/3xGEUwyaoi/12703.ts
+#EXTINF:-1,DE: DMAX
+http://fostefodido.ddns.net:8000/live/KEFc1B3s8J/3xGEUwyaoi/12704.ts
+#EXTINF:-1,DE: E! Entertainm. HD Local
+http://fostefodido.ddns.net:8000/live/KEFc1B3s8J/3xGEUwyaoi/12705.ts
+#EXTINF:-1,DE: Eurosport 1 HD Local
+http://fostefodido.ddns.net:8000/live/KEFc1B3s8J/3xGEUwyaoi/12706.ts
+#EXTINF:-1,DE: Eurosport 2 HD Xtra Local
+http://fostefodido.ddns.net:8000/live/KEFc1B3s8J/3xGEUwyaoi/12707.ts
+#EXTINF:-1,DE: Eurosport 2HD Lokal
+http://fostefodido.ddns.net:8000/live/KEFc1B3s8J/3xGEUwyaoi/12708.ts
+#EXTINF:-1,DE: Family TV HD Local
+http://fostefodido.ddns.net:8000/live/KEFc1B3s8J/3xGEUwyaoi/12709.ts
+#EXTINF:-1,DE: FC Bayern TV Full HD
+http://fostefodido.ddns.net:8000/live/KEFc1B3s8J/3xGEUwyaoi/12710.ts
+#EXTINF:-1,DE: FC Bayern TV HD
+http://fostefodido.ddns.net:8000/live/KEFc1B3s8J/3xGEUwyaoi/12711.ts
+#EXTINF:-1,DE: Fox HD
+http://fostefodido.ddns.net:8000/live/KEFc1B3s8J/3xGEUwyaoi/12712.ts
+#EXTINF:-1,DE: Fox Serie Local
+http://fostefodido.ddns.net:8000/live/KEFc1B3s8J/3xGEUwyaoi/12713.ts
+#EXTINF:-1,DE: Franken TV local
+http://fostefodido.ddns.net:8000/live/KEFc1B3s8J/3xGEUwyaoi/12714.ts
+#EXTINF:-1,DE: Goldstar TV Local
+http://fostefodido.ddns.net:8000/live/KEFc1B3s8J/3xGEUwyaoi/12715.ts
+#EXTINF:-1,DE: History HD
+http://fostefodido.ddns.net:8000/live/KEFc1B3s8J/3xGEUwyaoi/12716.ts
+#EXTINF:-1,DE: Jukebox Local
+http://fostefodido.ddns.net:8000/live/KEFc1B3s8J/3xGEUwyaoi/12717.ts
+#EXTINF:-1,DE: Junior Local
+http://fostefodido.ddns.net:8000/live/KEFc1B3s8J/3xGEUwyaoi/12718.ts
+#EXTINF:-1,DE: KABEL eins HD Local
+http://fostefodido.ddns.net:8000/live/KEFc1B3s8J/3xGEUwyaoi/12719.ts
+#EXTINF:-1,DE: Kabel eins Local
+http://fostefodido.ddns.net:8000/live/KEFc1B3s8J/3xGEUwyaoi/12720.ts
+#EXTINF:-1,DE: KIKA HD
+http://fostefodido.ddns.net:8000/live/KEFc1B3s8J/3xGEUwyaoi/12721.ts
+#EXTINF:-1,DE: Motorvision TV Local
+http://fostefodido.ddns.net:8000/live/KEFc1B3s8J/3xGEUwyaoi/12722.ts
+#EXTINF:-1,DE: N24 HD Local
+http://fostefodido.ddns.net:8000/live/KEFc1B3s8J/3xGEUwyaoi/12723.ts
+#EXTINF:-1,DE: NAT GEO WILD HD Local
+http://fostefodido.ddns.net:8000/live/KEFc1B3s8J/3xGEUwyaoi/12724.ts
+#EXTINF:-1,DE: NatGeo Wild Local
+http://fostefodido.ddns.net:8000/live/KEFc1B3s8J/3xGEUwyaoi/12725.ts
+#EXTINF:-1,DE: National Geographic Local
+http://fostefodido.ddns.net:8000/live/KEFc1B3s8J/3xGEUwyaoi/12726.ts
+#EXTINF:-1,DE: NDR HD
+http://fostefodido.ddns.net:8000/live/KEFc1B3s8J/3xGEUwyaoi/12727.ts
+#EXTINF:-1,DE: Nickelodeon HD Local
+http://fostefodido.ddns.net:8000/live/KEFc1B3s8J/3xGEUwyaoi/12728.ts
+#EXTINF:-1,DE: NRJ TV Local
+http://fostefodido.ddns.net:8000/live/KEFc1B3s8J/3xGEUwyaoi/12729.ts
+#EXTINF:-1,DE: Oldenburg eins TV Local
+http://fostefodido.ddns.net:8000/live/KEFc1B3s8J/3xGEUwyaoi/12730.ts
+#EXTINF:-1,DE: ONE HD Local
+http://fostefodido.ddns.net:8000/live/KEFc1B3s8J/3xGEUwyaoi/12731.ts
+#EXTINF:-1,DE: ORF 1 HD
+http://fostefodido.ddns.net:8000/live/KEFc1B3s8J/3xGEUwyaoi/12732.ts
+#EXTINF:-1,DE: ORF 2 HD
+http://fostefodido.ddns.net:8000/live/KEFc1B3s8J/3xGEUwyaoi/12733.ts
+#EXTINF:-1,DE: Planet HD
+http://fostefodido.ddns.net:8000/live/KEFc1B3s8J/3xGEUwyaoi/12734.ts
+#EXTINF:-1,DE: Pro7 Fun HD
+http://fostefodido.ddns.net:8000/live/KEFc1B3s8J/3xGEUwyaoi/12735.ts
+#EXTINF:-1,DE: Pro7 MAXX HD Local
+http://fostefodido.ddns.net:8000/live/KEFc1B3s8J/3xGEUwyaoi/12736.ts
+#EXTINF:-1,DE: Pro7 MAXX Local
+http://fostefodido.ddns.net:8000/live/KEFc1B3s8J/3xGEUwyaoi/12737.ts
+#EXTINF:-1,DE: ProSieben HD Local
+http://fostefodido.ddns.net:8000/live/KEFc1B3s8J/3xGEUwyaoi/12738.ts
+#EXTINF:-1,DE: ProSieben Local
+http://fostefodido.ddns.net:8000/live/KEFc1B3s8J/3xGEUwyaoi/12739.ts
+#EXTINF:-1,DE: RTL 2 HD Local
+http://fostefodido.ddns.net:8000/live/KEFc1B3s8J/3xGEUwyaoi/12740.ts
+#EXTINF:-1,DE: RTL Crime HD Local
+http://fostefodido.ddns.net:8000/live/KEFc1B3s8J/3xGEUwyaoi/12741.ts
+#EXTINF:-1,DE: RTL Crime Local
+http://fostefodido.ddns.net:8000/live/KEFc1B3s8J/3xGEUwyaoi/12742.ts
+#EXTINF:-1,DE: RTL HD Local
+http://fostefodido.ddns.net:8000/live/KEFc1B3s8J/3xGEUwyaoi/12743.ts
+#EXTINF:-1,DE: RTL Living HD
+http://fostefodido.ddns.net:8000/live/KEFc1B3s8J/3xGEUwyaoi/12744.ts
+#EXTINF:-1,DE: RTL Passion Local
+http://fostefodido.ddns.net:8000/live/KEFc1B3s8J/3xGEUwyaoi/12745.ts
+#EXTINF:-1,DE: RTL Television Local
+http://fostefodido.ddns.net:8000/live/KEFc1B3s8J/3xGEUwyaoi/12746.ts
+#EXTINF:-1,DE: RTL2 Local
+http://fostefodido.ddns.net:8000/live/KEFc1B3s8J/3xGEUwyaoi/12747.ts
+#EXTINF:-1,DE: RTLNITRO HD
+http://fostefodido.ddns.net:8000/live/KEFc1B3s8J/3xGEUwyaoi/12748.ts
+#EXTINF:-1,DE: RTLNITRO Local
+http://fostefodido.ddns.net:8000/live/KEFc1B3s8J/3xGEUwyaoi/12749.ts
+#EXTINF:-1,DE: RTLplus Local
+http://fostefodido.ddns.net:8000/live/KEFc1B3s8J/3xGEUwyaoi/12750.ts
+#EXTINF:-1,DE: Sat 1 Gold
+http://fostefodido.ddns.net:8000/live/KEFc1B3s8J/3xGEUwyaoi/12751.ts
+#EXTINF:-1,DE: SAT.1 emotions
+http://fostefodido.ddns.net:8000/live/KEFc1B3s8J/3xGEUwyaoi/12752.ts
+#EXTINF:-1,DE: SAT.1 Gold Local
+http://fostefodido.ddns.net:8000/live/KEFc1B3s8J/3xGEUwyaoi/12753.ts
+#EXTINF:-1,DE: SAT.1 Local
+http://fostefodido.ddns.net:8000/live/KEFc1B3s8J/3xGEUwyaoi/12754.ts
+#EXTINF:-1,DE: Sky 1 HD
+http://fostefodido.ddns.net:8000/live/KEFc1B3s8J/3xGEUwyaoi/12755.ts
+#EXTINF:-1,DE: Sky Atlantic  1 HD
+http://fostefodido.ddns.net:8000/live/KEFc1B3s8J/3xGEUwyaoi/12756.ts
+#EXTINF:-1,DE: Sky Cinema Action Local
+http://fostefodido.ddns.net:8000/live/KEFc1B3s8J/3xGEUwyaoi/12757.ts
+#EXTINF:-1,DE: Sky Cinema Comedy Local
+http://fostefodido.ddns.net:8000/live/KEFc1B3s8J/3xGEUwyaoi/12758.ts
+#EXTINF:-1,DE: Sky Cinema Emotion Local
+http://fostefodido.ddns.net:8000/live/KEFc1B3s8J/3xGEUwyaoi/12759.ts
+#EXTINF:-1,DE: Sky cinema Family Local
+http://fostefodido.ddns.net:8000/live/KEFc1B3s8J/3xGEUwyaoi/12760.ts
+#EXTINF:-1,DE: Sky Cinema HD Local
+http://fostefodido.ddns.net:8000/live/KEFc1B3s8J/3xGEUwyaoi/12761.ts
+#EXTINF:-1,DE: Sky Cinema Hits Local
+http://fostefodido.ddns.net:8000/live/KEFc1B3s8J/3xGEUwyaoi/12762.ts
+#EXTINF:-1,DE: Sky Cinema Local
+http://fostefodido.ddns.net:8000/live/KEFc1B3s8J/3xGEUwyaoi/12763.ts
+#EXTINF:-1,DE: Sky Cinema Nostalgie Local
+http://fostefodido.ddns.net:8000/live/KEFc1B3s8J/3xGEUwyaoi/12764.ts
+#EXTINF:-1,DE: Sky Sport 1 HD Local
+http://fostefodido.ddns.net:8000/live/KEFc1B3s8J/3xGEUwyaoi/12765.ts
+#EXTINF:-1,DE: Sky Sport 2 HD
+http://fostefodido.ddns.net:8000/live/KEFc1B3s8J/3xGEUwyaoi/12766.ts
+#EXTINF:-1,DE: Sky Sport 2 Local
+http://fostefodido.ddns.net:8000/live/KEFc1B3s8J/3xGEUwyaoi/12767.ts
+#EXTINF:-1,DE: Sky Sport 3 HD Local
+http://fostefodido.ddns.net:8000/live/KEFc1B3s8J/3xGEUwyaoi/12768.ts
+#EXTINF:-1,DE: Sky Sport 4 Local
+http://fostefodido.ddns.net:8000/live/KEFc1B3s8J/3xGEUwyaoi/12769.ts
+#EXTINF:-1,DE: Sky Sport Bundesliga 1 Local
+http://fostefodido.ddns.net:8000/live/KEFc1B3s8J/3xGEUwyaoi/12770.ts
+#EXTINF:-1,DE: Sky Sport Bundesliga 2 HD Local
+http://fostefodido.ddns.net:8000/live/KEFc1B3s8J/3xGEUwyaoi/12771.ts
+#EXTINF:-1,DE: Sky Sport Bundesliga 3 Local
+http://fostefodido.ddns.net:8000/live/KEFc1B3s8J/3xGEUwyaoi/12772.ts
+#EXTINF:-1,DE: Sky Sport Bundesliga 4 Local
+http://fostefodido.ddns.net:8000/live/KEFc1B3s8J/3xGEUwyaoi/12773.ts
+#EXTINF:-1,DE: Sportdigital HD
+http://fostefodido.ddns.net:8000/live/KEFc1B3s8J/3xGEUwyaoi/12774.ts
+#EXTINF:-1,DE: SR HD Local
+http://fostefodido.ddns.net:8000/live/KEFc1B3s8J/3xGEUwyaoi/12775.ts
+#EXTINF:-1,DE: SUPER RTL HD
+http://fostefodido.ddns.net:8000/live/KEFc1B3s8J/3xGEUwyaoi/12776.ts
+#EXTINF:-1,DE: SUPER RTL Local
+http://fostefodido.ddns.net:8000/live/KEFc1B3s8J/3xGEUwyaoi/12777.ts
+#EXTINF:-1,DE: SYFY HD
+http://fostefodido.ddns.net:8000/live/KEFc1B3s8J/3xGEUwyaoi/12778.ts
+#EXTINF:-1,DE: Syfy Local
+http://fostefodido.ddns.net:8000/live/KEFc1B3s8J/3xGEUwyaoi/12779.ts
+#EXTINF:-1,DE: Tele 5
+http://fostefodido.ddns.net:8000/live/KEFc1B3s8J/3xGEUwyaoi/12780.ts
+#EXTINF:-1,DE: Tele Regional Passau 1 Local
+http://fostefodido.ddns.net:8000/live/KEFc1B3s8J/3xGEUwyaoi/12781.ts
+#EXTINF:-1,DE: Tide TV Local
+http://fostefodido.ddns.net:8000/live/KEFc1B3s8J/3xGEUwyaoi/12782.ts
+#EXTINF:-1,DE: TLC
+http://fostefodido.ddns.net:8000/live/KEFc1B3s8J/3xGEUwyaoi/12783.ts
+#EXTINF:-1,DE: TNT Comedy HD Local
+http://fostefodido.ddns.net:8000/live/KEFc1B3s8J/3xGEUwyaoi/12784.ts
+#EXTINF:-1,DE: TNT Serie Local
+http://fostefodido.ddns.net:8000/live/KEFc1B3s8J/3xGEUwyaoi/12785.ts
+#EXTINF:-1,DE: TRP 1 Local
+http://fostefodido.ddns.net:8000/live/KEFc1B3s8J/3xGEUwyaoi/12786.ts
+#EXTINF:-1,DE: Universal HD Local
+http://fostefodido.ddns.net:8000/live/KEFc1B3s8J/3xGEUwyaoi/12787.ts
+#EXTINF:-1,DE: VOX HD Local
+http://fostefodido.ddns.net:8000/live/KEFc1B3s8J/3xGEUwyaoi/12788.ts
+#EXTINF:-1,DE: VOX Local
+http://fostefodido.ddns.net:8000/live/KEFc1B3s8J/3xGEUwyaoi/12789.ts
+#EXTINF:-1,DE: WDR
+http://fostefodido.ddns.net:8000/live/KEFc1B3s8J/3xGEUwyaoi/12790.ts
+#EXTINF:-1,DE: ZDF Local
+http://fostefodido.ddns.net:8000/live/KEFc1B3s8J/3xGEUwyaoi/12791.ts
+#EXTINF:-1,DE: zdf.info
+http://fostefodido.ddns.net:8000/live/KEFc1B3s8J/3xGEUwyaoi/12792.ts
+#EXTINF:-1,DE: zdf.neo
+http://fostefodido.ddns.net:8000/live/KEFc1B3s8J/3xGEUwyaoi/12793.ts
