@@ -1,704 +1,480 @@
 #EXTM3U
 #EXTINF:-1,IF Link Stops Working Check Later IT will be Updated
 http://live-bloomberg-us-east.global.ssl.fastly.net/btv/desktop/bbr_radio.m3u8
-#EXTINF:-1,Updated on 31 Jan 2018 Around 4 PM UK Time
+#EXTINF:-1,Updated on 5 Feb 2018 Around 4 PM UK Time
 http://www.lengua.com/anthems/Indonesia.mp3
 
-#EXTINF:-1,~ UK TV ~
-#EXTINF:-1,Arise News
-http://contributionstreams.ashttp9.visionip.tv/live/visiontv-contributionstreams-arise-tv-hsslive-25f-16x9-SD/chunklist.m3u8
-#EXTINF:-1,BBC Radio One
-http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/nonuk/sbr_vlow/ak/bbc_radio_one.m3u8
-#EXTINF:-1,BBC Radio Two
-http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/nonuk/sbr_vlow/ak/bbc_radio_two.m3u8
-#EXTINF:-1,BBC Radio Four
-http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/nonuk/sbr_vlow/ak/bbc_radio_fourfm.m3u8
-#EXTINF:-1,Sky News
-http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/04.m3u8
-#EXTINF:-1,Sky News*
-http://d59pscns5ugc8.cloudfront.net/cdhls/skynewsamericas/1013/live/06.m3u8
-#EXTINF:-1,RT UK
-https://secure-streams.akamaized.net/rt-uk/index.m3u8
-#EXTINF:-1,Capital TV
-http://ooyalahd2-f.akamaihd.net/i/globalradio01_delivery@156521/master.m3u8
-#EXTINF:-1,Chelsea TV
-http://ooyalahd2-f.akamaihd.net/i/chelsea02_delivery@145821/master.m3u8
-#EXTINF:-1,Heart
-http://ooyalahd2-f.akamaihd.net/i/globalradio02_delivery@156522/master.m3u8
-#EXTINF:-1,IdealWorld
-http://live.ccus.simplestreamcdn.com/live/isd_sdi3/bitrate1.isml/playlist.m3u8
-#EXTINF:-1,Insight
-http://ooyalahd2-f.akamaihd.net/i/intv02_delivery@346464/master.m3u8
-#EXTINF:-1,Jewellery Maker
-http://edge01.cdn.aws.subset.host/JewelleryMakerLive/JewelleryMakerLive/playlist.m3u8
-#EXTINF:-1,Kool London Radio
-http://w10.streamgb.com:1935/kool/kool/playlist.m3u8
-#EXTINF:-1,London Live
-http://bcoveliveios-i.akamaihd.net/hls/live/217434/3083279840001/master.m3u8
-#EXTINF:-1,QVC 1
-http://llnw.live.qvc.simplestream.com/hera/remote/qvcuk_primary_sdi8/3/prog_index.m3u8
-#EXTINF:-1,QVC 2
-http://llnw.live.qvc.simplestream.com/hera/remote/qvcuk_primary_sdi6/1/prog_index.m3u8
-#EXTINF:-1,QVC 3
-http://llnw.live.qvc.simplestream.com/hera/remote/qvcuk_primary_sdi5/1/prog_index.m3u8
-#EXTINF:-1,QVC 4
-http://llnw.live.qvc.simplestream.com/hera/remote/qvcuk_primary_sdi1/1/prog_index.m3u8
-#EXTINF:-1,BT Sport ESPN
-http://185.53.163.205:2507
-#EXTINF:-1,BT Sport 1
-http://185.53.163.205:2700
-#EXTINF:-1,BT Sport 2
-http://185.53.163.205:2506
-#EXTINF:-1,BT Sport 3
-http://185.53.163.205:2701
-#EXTINF:-1,BT Sport Extra 1
-http://185.53.163.205:2707
-#EXTINF:-1,BT Sport Extra 2
-http://185.53.163.205:2500
-#EXTINF:-1,BT Sport Extra 3
-http://185.53.163.205:2501
-#EXTINF:-1,BT Sport Extra 4
-http://185.53.163.205:2502
-#EXTINF:-1,BT Sport Extra 5
-http://185.53.163.205:2503
-#EXTINF:-1,BT Sport Extra 6
-http://185.53.163.205:2504
-#EXTINF:-1,~ Ireland TV ~
-http://www.lengua.com/anthems/Ireland.mp3
-#EXTINF:-1,TG4
-http://csm-e.cds1.yospace.com/csm/live/74246610.m3u8
-#EXTINF:-1,RTE News Now
-http://wmsrtsp1.rte.ie/live/android.sdp/playlist.m3u8
-#EXTINF:-1,RTE 1
-http://akamai.rasset.ie/hls-live/_definst_/rte1/rte1-720.m3u8
-#EXTINF:-1,RTE 2
-http://akamai.rasset.ie/hls-live/_definst_/rte2/rte2-720.m3u8
-#EXTINF:-1,RTE Jr.
-https://cdn.rasset.ie/hls-live/_definst_/rtejr/rtejr-576.m3u8
-
-
-
-#EXTINF:-1,UK | Food Network
-http://highroller.space:25461/live/zohaib/zohaib/635.ts
-#EXTINF:-1,UK | BBC News
-http://highroller.space:25461/live/zohaib/zohaib/735.ts
-#EXTINF:-1,UK | CNN HD
-http://highroller.space:25461/live/zohaib/zohaib/676.ts
-#EXTINF:-1,UK | EURONEWS
-http://highroller.space:25461/live/zohaib/zohaib/643.ts
-#EXTINF:-1,UK | FOX News
-http://highroller.space:25461/live/zohaib/zohaib/632.ts
-#EXTINF:-1,UK | Home
-http://highroller.space:25461/live/zohaib/zohaib/620.ts
-#EXTINF:-1,h&h(Back Up)
-http://highroller.space:25461/live/zohaib/zohaib/27544.ts
-#EXTINF:-1,UK | Discovery Channel
-http://highroller.space:25461/live/zohaib/zohaib/664.ts
-#EXTINF:-1,Discovery Channel (Back Up)
-http://highroller.space:25461/live/zohaib/zohaib/27536.ts
-#EXTINF:-1,UK | Discovery Turbo
-http://highroller.space:25461/live/zohaib/zohaib/660.ts
-#EXTINF:-1,Discovery-Turbo (Back Up)
-http://highroller.space:25461/live/zohaib/zohaib/27541.ts
+#EXTINF:-1,=======>   United Kingdom   <=======
+http://54.39.18.12:8000/live/g5/g5/16759.ts
+#EXTINF:-1,UK : Animal Planet
+http://54.39.18.12:8000/live/g5/g5/16583.ts
+#EXTINF:-1,UK : Chelsea TV
+http://54.39.18.12:8000/live/g5/g5/16584.ts
+#EXTINF:-1,UK : Comedy Central
+http://54.39.18.12:8000/live/g5/g5/16586.ts
+#EXTINF:-1,UK : Dave
+http://54.39.18.12:8000/live/g5/g5/16587.ts
+#EXTINF:-1,UK : Eden
+http://54.39.18.12:8000/live/g5/g5/16588.ts
+#EXTINF:-1,UK : FOX
+http://54.39.18.12:8000/live/g5/g5/16589.ts
+#EXTINF:-1,UK : Life time
+http://54.39.18.12:8000/live/g5/g5/16590.ts
+#EXTINF:-1,UK : Living UK
+http://54.39.18.12:8000/live/g5/g5/16591.ts
+#EXTINF:-1,UK : Manchester United TV
+http://54.39.18.12:8000/live/g5/g5/16592.ts
+#EXTINF:-1,UK : More 4
+http://54.39.18.12:8000/live/g5/g5/16593.ts
+#EXTINF:-1,UK : Mototrs TV
+http://54.39.18.12:8000/live/g5/g5/16594.ts
+#EXTINF:-1,UK : Nat Geo Graphic
+http://54.39.18.12:8000/live/g5/g5/16595.ts
+#EXTINF:-1,UK : Sky Arts
+http://54.39.18.12:8000/live/g5/g5/16596.ts
+#EXTINF:-1,UK : SKY Atlantic HD
+http://54.39.18.12:8000/live/g5/g5/16597.ts
+#EXTINF:-1,UK : Sky Movies Drama
+http://54.39.18.12:8000/live/g5/g5/16598.ts
+#EXTINF:-1,UK : SKY One
+http://54.39.18.12:8000/live/g5/g5/16599.ts
+#EXTINF:-1,UK : Sky Sport 1 SD
+http://54.39.18.12:8000/live/g5/g5/16600.ts
+#EXTINF:-1,UK : Sky Sport F1 HD
+http://54.39.18.12:8000/live/g5/g5/16601.ts
+#EXTINF:-1,UK : Yesterday
+http://54.39.18.12:8000/live/g5/g5/16602.ts
+#EXTINF:-1,UK | BBC World News
+http://54.39.18.12:8000/live/g5/g5/16534.ts
+#EXTINF:-1,UK | boomerang
+http://54.39.18.12:8000/live/g5/g5/16535.ts
+#EXTINF:-1,UK | Boxnation
+http://54.39.18.12:8000/live/g5/g5/16536.ts
+#EXTINF:-1,UK | BT Sport 1 HD
+http://54.39.18.12:8000/live/g5/g5/16537.ts
+#EXTINF:-1,UK | BT Sport 2 HD
+http://54.39.18.12:8000/live/g5/g5/16538.ts
+#EXTINF:-1,UK | BT Sport ESPN
+http://54.39.18.12:8000/live/g5/g5/16539.ts
+#EXTINF:-1,UK | BT Sport Europe HD
+http://54.39.18.12:8000/live/g5/g5/16540.ts
+#EXTINF:-1,UK | CBS Action
+http://54.39.18.12:8000/live/g5/g5/16541.ts
+#EXTINF:-1,UK | CBS Drama
+http://54.39.18.12:8000/live/g5/g5/16542.ts
+#EXTINF:-1,UK | CBS reality
+http://54.39.18.12:8000/live/g5/g5/16543.ts
+#EXTINF:-1,UK | DISCOVERY
+http://54.39.18.12:8000/live/g5/g5/16544.ts
 #EXTINF:-1,UK | Discovery History
-http://highroller.space:25461/live/zohaib/zohaib/663.ts
-#EXTINF:-1,Discovery History (back Up)
-http://highroller.space:25461/live/zohaib/zohaib/27537.ts
+http://54.39.18.12:8000/live/g5/g5/16545.ts
 #EXTINF:-1,UK | Discovery Science
-http://highroller.space:25461/live/zohaib/zohaib/662.ts
+http://54.39.18.12:8000/live/g5/g5/16546.ts
 #EXTINF:-1,UK | Discovery Shed
-http://highroller.space:25461/live/zohaib/zohaib/661.ts
-#EXTINF:-1,Discovery-Shed (Back Up)
-http://highroller.space:25461/live/zohaib/zohaib/27540.ts
-#EXTINF:-1,UK | National Geographic
-http://highroller.space:25461/live/zohaib/zohaib/562.ts
-#EXTINF:-1,National-Geographic (Back Up)
-http://highroller.space:25461/live/zohaib/zohaib/27545.ts
-#EXTINF:-1,UK | National Geographic Wild
-http://highroller.space:25461/live/zohaib/zohaib/561.ts
-#EXTINF:-1,IRE | RTE One HD
-http://highroller.space:25461/live/zohaib/zohaib/16471.ts
-#EXTINF:-1,National-Geographic-Wild (Back Up)
-http://highroller.space:25461/live/zohaib/zohaib/27546.ts
-#EXTINF:-1,IRE | RTE Two HD
-http://highroller.space:25461/live/zohaib/zohaib/3744.ts
-#EXTINF:-1,IRE | RTE Two SD
-http://highroller.space:25461/live/zohaib/zohaib/9342.ts
-#EXTINF:-1,UK | Crime & Investigation
-http://highroller.space:25461/live/zohaib/zohaib/671.ts
-#EXTINF:-1,UK | ID (Investigation Discovery)
-http://highroller.space:25461/live/zohaib/zohaib/13755.ts
-#EXTINF:-1,H2 (Back Up)
-http://highroller.space:25461/live/zohaib/zohaib/27543.ts
-#EXTINF:-1,DiscoveryDMAX
-http://highroller.space:25461/live/zohaib/zohaib/27542.ts
-#EXTINF:-1,UK | Animal Planet*
-http://highroller.space:25461/live/zohaib/zohaib/8004.ts
-#EXTINF:-1,UK | H2
-http://highroller.space:25461/live/zohaib/zohaib/624.ts
-#EXTINF:-1,IRE | RTE One
-http://highroller.space:25461/live/zohaib/zohaib/3743.ts
-#EXTINF:-1,IRE | RTE News NOW
-http://highroller.space:25461/live/zohaib/zohaib/3745.ts
-#EXTINF:-1,BBC One Northern Ireland'
-http://highroller.space:25461/live/zohaib/zohaib/33838.ts
-#EXTINF:-1,IRE | RTEjr
-http://highroller.space:25461/live/zohaib/zohaib/9341.ts
-#EXTINF:-1,IRE | 3e
-http://highroller.space:25461/live/zohaib/zohaib/751.ts
-#EXTINF:-1,IRE | TG4
-http://highroller.space:25461/live/zohaib/zohaib/7647.ts
-#EXTINF:-1,IRE | UTV
-http://highroller.space:25461/live/zohaib/zohaib/7645.ts
-#EXTINF:-1,IRE | UTV HD
-http://highroller.space:25461/live/zohaib/zohaib/7644.ts
-#EXTINF:-1,IRE | UTV IE
-http://highroller.space:25461/live/zohaib/zohaib/7643.ts
-#EXTINF:-1,IRE | TV3
-http://highroller.space:25461/live/zohaib/zohaib/7646.ts
-#EXTINF:-1,BBC1 HD
-http://highroller.space:25461/live/zohaib/zohaib/27618.ts
-#EXTINF:-1,BBC One HD'
-http://highroller.space:25461/live/zohaib/zohaib/33840.ts
-#EXTINF:-1,BBC One London''
-http://highroller.space:25461/live/zohaib/zohaib/33839.ts
-#EXTINF:-1,BBC One Scotland'
-http://highroller.space:25461/live/zohaib/zohaib/33837.ts
-#EXTINF:-1,BBC2 HD
-http://highroller.space:25461/live/zohaib/zohaib/27617.ts
-#EXTINF:-1,BBC Two HD'
-http://highroller.space:25461/live/zohaib/zohaib/33836.ts
-#EXTINF:-1,BBC Two Scotland'
-http://highroller.space:25461/live/zohaib/zohaib/33835.ts
-#EXTINF:-1,ITV HD
-http://highroller.space:25461/live/zohaib/zohaib/27616.ts
-#EXTINF:-1,ITV'
-http://highroller.space:25461/live/zohaib/zohaib/33829.ts
-#EXTINF:-1,ITV HD'
-http://highroller.space:25461/live/zohaib/zohaib/33830.ts
-#EXTINF:-1,Channel 4 HD
-http://highroller.space:25461/live/zohaib/zohaib/27615.ts
-#EXTINF:-1,Channel 4 HD'
-http://highroller.space:25461/live/zohaib/zohaib/33834.ts
-#EXTINF:-1,Channel 4 UK'
-http://highroller.space:25461/live/zohaib/zohaib/33833.ts
-#EXTINF:-1,Channel 5 HD'
-http://highroller.space:25461/live/zohaib/zohaib/33841.ts
-#EXTINF:-1,Channel 5 HD
-http://highroller.space:25461/live/zohaib/zohaib/27614.ts
-#EXTINF:-1,Sky 1'
-http://highroller.space:25461/live/zohaib/zohaib/33828.ts
-#EXTINF:-1,Sky1 HD
-http://highroller.space:25461/live/zohaib/zohaib/27613.ts
-#EXTINF:-1,Sky1
-http://highroller.space:25461/live/zohaib/zohaib/27612.ts
-#EXTINF:-1,Sky 2'
-http://highroller.space:25461/live/zohaib/zohaib/33827.ts
-#EXTINF:-1,Sky 2
-http://highroller.space:25461/live/zohaib/zohaib/27579.ts
-#EXTINF:-1,Sky Living
-http://highroller.space:25461/live/zohaib/zohaib/27609.ts
-#EXTINF:-1,Sky Living HD
-http://highroller.space:25461/live/zohaib/zohaib/27610.ts
-#EXTINF:-1,Sky Atlantic HD
-http://highroller.space:25461/live/zohaib/zohaib/27611.ts
-#EXTINF:-1,GOLD
-http://highroller.space:25461/live/zohaib/zohaib/27606.ts
-#EXTINF:-1,Gold'
-http://highroller.space:25461/live/zohaib/zohaib/33831.ts
-#EXTINF:-1,Dave HD
-http://highroller.space:25461/live/zohaib/zohaib/27605.ts
-#EXTINF:-1,Comedy Central
-http://highroller.space:25461/live/zohaib/zohaib/27603.ts
-#EXTINF:-1,Comedy Central HD
-http://highroller.space:25461/live/zohaib/zohaib/27604.ts
-#EXTINF:-1,Comedy Central Extra
-http://highroller.space:25461/live/zohaib/zohaib/27602.ts
-#EXTINF:-1,Universal
-http://highroller.space:25461/live/zohaib/zohaib/27600.ts
-#EXTINF:-1,Universal HD
-http://highroller.space:25461/live/zohaib/zohaib/27601.ts
-#EXTINF:-1,Syfy
-http://highroller.space:25461/live/zohaib/zohaib/27598.ts
-#EXTINF:-1,Syfy HD
-http://highroller.space:25461/live/zohaib/zohaib/27599.ts
-#EXTINF:-1,ITV2 HD
-http://highroller.space:25461/live/zohaib/zohaib/27596.ts
-#EXTINF:-1,ITV3 HD
-http://highroller.space:25461/live/zohaib/zohaib/27595.ts
-#EXTINF:-1,ITV4 HD
-http://highroller.space:25461/live/zohaib/zohaib/27594.ts
-#EXTINF:-1,ITV Encore
-http://highroller.space:25461/live/zohaib/zohaib/27593.ts
-#EXTINF:-1,3e HD
-http://highroller.space:25461/live/zohaib/zohaib/27585.ts
-#EXTINF:-1,ITVBe HD
-http://highroller.space:25461/live/zohaib/zohaib/27552.ts
-#EXTINF:-1,E4
-http://highroller.space:25461/live/zohaib/zohaib/27572.ts
-#EXTINF:-1,E4 HD
-http://highroller.space:25461/live/zohaib/zohaib/27573.ts
-#EXTINF:-1,4Seven HD
-http://highroller.space:25461/live/zohaib/zohaib/27569.ts
-#EXTINF:-1,More4
-http://highroller.space:25461/live/zohaib/zohaib/27570.ts
-#EXTINF:-1,More4 HD
-http://highroller.space:25461/live/zohaib/zohaib/27571.ts
-#EXTINF:-1,E!
-http://highroller.space:25461/live/zohaib/zohaib/27563.ts
-#EXTINF:-1,5 USA
-http://highroller.space:25461/live/zohaib/zohaib/27554.ts
-#EXTINF:-1,5STAR
-http://highroller.space:25461/live/zohaib/zohaib/27553.ts
-#EXTINF:-1,Alibi
-http://highroller.space:25461/live/zohaib/zohaib/27577.ts
-#EXTINF:-1,Alibi HD
-http://highroller.space:25461/live/zohaib/zohaib/27578.ts
-#EXTINF:-1,AMC
-http://highroller.space:25461/live/zohaib/zohaib/27597.ts
-#EXTINF:-1,be3
-http://highroller.space:25461/live/zohaib/zohaib/27587.ts
-#EXTINF:-1,CBS Action
-http://highroller.space:25461/live/zohaib/zohaib/27565.ts
-#EXTINF:-1,CBS Drama
-http://highroller.space:25461/live/zohaib/zohaib/27564.ts
-#EXTINF:-1,CBS Reality
-http://highroller.space:25461/live/zohaib/zohaib/27566.ts
-#EXTINF:-1,Challenge
-http://highroller.space:25461/live/zohaib/zohaib/27567.ts
-#EXTINF:-1,DMAX
-http://highroller.space:25461/live/zohaib/zohaib/27556.ts
-#EXTINF:-1,Drama
-http://highroller.space:25461/live/zohaib/zohaib/27558.ts
-#EXTINF:-1,Fox
-http://highroller.space:25461/live/zohaib/zohaib/27582.ts
-#EXTINF:-1,Fox HD
-http://highroller.space:25461/live/zohaib/zohaib/27583.ts
-#EXTINF:-1,Good Food
-http://highroller.space:25461/live/zohaib/zohaib/27575.ts
-#EXTINF:-1,Good Food HD
-http://highroller.space:25461/live/zohaib/zohaib/27576.ts
-#EXTINF:-1,Home
-http://highroller.space:25461/live/zohaib/zohaib/27547.ts
-#EXTINF:-1,Lifetime
-http://highroller.space:25461/live/zohaib/zohaib/27560.ts
-#EXTINF:-1,MTV
-http://highroller.space:25461/live/zohaib/zohaib/27580.ts
-#EXTINF:-1,Pick
-http://highroller.space:25461/live/zohaib/zohaib/27562.ts
-#EXTINF:-1,Quest
-http://highroller.space:25461/live/zohaib/zohaib/27568.ts
-#EXTINF:-1,Real Lives
-http://highroller.space:25461/live/zohaib/zohaib/27555.ts
-#EXTINF:-1,Really
-http://highroller.space:25461/live/zohaib/zohaib/27561.ts
-#EXTINF:-1,S4C
-http://highroller.space:25461/live/zohaib/zohaib/27574.ts
-#EXTINF:-1,Sky Arts HD
-http://highroller.space:25461/live/zohaib/zohaib/27584.ts
-#EXTINF:-1,Sony Channel
-http://highroller.space:25461/live/zohaib/zohaib/27559.ts
-#EXTINF:-1,Spike
-http://highroller.space:25461/live/zohaib/zohaib/27557.ts
-#EXTINF:-1,TG4 HD
-http://highroller.space:25461/live/zohaib/zohaib/27586.ts
-#EXTINF:-1,TLC
-http://highroller.space:25461/live/zohaib/zohaib/27581.ts
-#EXTINF:-1,True Crime
-http://highroller.space:25461/live/zohaib/zohaib/27550.ts
-#EXTINF:-1,True Entertainment
-http://highroller.space:25461/live/zohaib/zohaib/27551.ts
-#EXTINF:-1,True Movies
-http://highroller.space:25461/live/zohaib/zohaib/27548.ts
-#EXTINF:-1,TV3 HD
-http://highroller.space:25461/live/zohaib/zohaib/27588.ts
-#EXTINF:-1,Yesterday
-http://highroller.space:25461/live/zohaib/zohaib/27549.ts
-#EXTINF:-1,UK | Sky Cinema Box Office 1
-http://highroller.space:25461/live/zohaib/zohaib/27694.ts
-#EXTINF:-1,UK | Sky Cinema Box Office 2
-http://highroller.space:25461/live/zohaib/zohaib/27693.ts
-#EXTINF:-1,UK | Sky Cinema Box Office 3
-http://highroller.space:25461/live/zohaib/zohaib/27692.ts
-#EXTINF:-1,UK | Sky Cinema Box Office 4
-http://highroller.space:25461/live/zohaib/zohaib/27691.ts
-#EXTINF:-1,UK | SkyCinemaPremiere*
-http://highroller.space:25461/live/zohaib/zohaib/27688.ts
-#EXTINF:-1,UK | Sky Cinema Premiere HD
-http://highroller.space:25461/live/zohaib/zohaib/27689.ts
-#EXTINF:-1,UK | Sky Cinema Premiere
-http://highroller.space:25461/live/zohaib/zohaib/27690.ts
+http://54.39.18.12:8000/live/g5/g5/16547.ts
+#EXTINF:-1,UK | Discovery Turbo
+http://54.39.18.12:8000/live/g5/g5/16548.ts
+#EXTINF:-1,UK | Disney
+http://54.39.18.12:8000/live/g5/g5/16549.ts
+#EXTINF:-1,UK | Disney Junior
+http://54.39.18.12:8000/live/g5/g5/16550.ts
+#EXTINF:-1,UK | Disney XD
+http://54.39.18.12:8000/live/g5/g5/16551.ts
+#EXTINF:-1,UK | DMax
+http://54.39.18.12:8000/live/g5/g5/16552.ts
+#EXTINF:-1,UK | Drama
+http://54.39.18.12:8000/live/g5/g5/16553.ts
+#EXTINF:-1,UK | E!
+http://54.39.18.12:8000/live/g5/g5/16554.ts
+#EXTINF:-1,UK | E4
+http://54.39.18.12:8000/live/g5/g5/16555.ts
+#EXTINF:-1,UK | Film 4
+http://54.39.18.12:8000/live/g5/g5/16556.ts
+#EXTINF:-1,UK | gold
+http://54.39.18.12:8000/live/g5/g5/16557.ts
+#EXTINF:-1,UK | Good Food
+http://54.39.18.12:8000/live/g5/g5/16558.ts
+#EXTINF:-1,UK | Home & Health
+http://54.39.18.12:8000/live/g5/g5/16559.ts
+#EXTINF:-1,UK | Irish Tv
+http://54.39.18.12:8000/live/g5/g5/16560.ts
+#EXTINF:-1,UK | ITV be
+http://54.39.18.12:8000/live/g5/g5/16561.ts
+#EXTINF:-1,UK | London Live
+http://54.39.18.12:8000/live/g5/g5/16562.ts
+#EXTINF:-1,UK | Nick Jr
+http://54.39.18.12:8000/live/g5/g5/16563.ts
+#EXTINF:-1,UK | Nicktoons
+http://54.39.18.12:8000/live/g5/g5/16564.ts
+#EXTINF:-1,UK | Sky Movie Sci-Fi
+http://54.39.18.12:8000/live/g5/g5/16565.ts
 #EXTINF:-1,UK | Sky Movies Action
-http://highroller.space:25461/live/zohaib/zohaib/27680.ts
-#EXTINF:-1,UK |Sky Cinema Action & Adventure HD
-http://highroller.space:25461/live/zohaib/zohaib/27679.ts
-#EXTINF:-1,UK |Sky Cinema Action&Adventure
-http://highroller.space:25461/live/zohaib/zohaib/27678.ts
-#EXTINF:-1,UK |Sky Cinema Comedy
-http://highroller.space:25461/live/zohaib/zohaib/27675.ts
-#EXTINF:-1,UK |Sky Comedy HD
-http://highroller.space:25461/live/zohaib/zohaib/27676.ts
+http://54.39.18.12:8000/live/g5/g5/16566.ts
 #EXTINF:-1,UK | Sky Movies Comedy
-http://highroller.space:25461/live/zohaib/zohaib/27677.ts
-#EXTINF:-1,UK | Sky Cinema Disney
-http://highroller.space:25461/live/zohaib/zohaib/27686.ts
-#EXTINF:-1,UK | Sky Cinema Disney HD
-http://highroller.space:25461/live/zohaib/zohaib/27684.ts
-#EXTINF:-1,UK | Sky Cinema Disney*
-http://highroller.space:25461/live/zohaib/zohaib/27685.ts
+http://54.39.18.12:8000/live/g5/g5/16567.ts
+#EXTINF:-1,UK | Sky Movies Disney
+http://54.39.18.12:8000/live/g5/g5/16568.ts
 #EXTINF:-1,UK | Sky Movies Family
-http://highroller.space:25461/live/zohaib/zohaib/27681.ts
-#EXTINF:-1,UK | SkyCinemaFamily
-http://highroller.space:25461/live/zohaib/zohaib/27683.ts
-#EXTINF:-1,UK | SkyCinemaFamilyHD
-http://highroller.space:25461/live/zohaib/zohaib/27682.ts
-#EXTINF:-1,UK |Sky Cinema Crime & Thriller
-http://highroller.space:25461/live/zohaib/zohaib/27672.ts
-#EXTINF:-1,UK |Sky Cinema Crime & Thriller HD
-http://highroller.space:25461/live/zohaib/zohaib/27673.ts
+http://54.39.18.12:8000/live/g5/g5/16569.ts
+#EXTINF:-1,UK | Sky Movies Greats
+http://54.39.18.12:8000/live/g5/g5/16570.ts
+#EXTINF:-1,UK | Sky Movies Premiere
+http://54.39.18.12:8000/live/g5/g5/16571.ts
+#EXTINF:-1,UK | Sky Movies Showcase
+http://54.39.18.12:8000/live/g5/g5/16572.ts
 #EXTINF:-1,UK | Sky Movies Thriller
-http://highroller.space:25461/live/zohaib/zohaib/27674.ts
-#EXTINF:-1,UK |Sky Cinema Drama & Romance
-http://highroller.space:25461/live/zohaib/zohaib/27669.ts
-#EXTINF:-1,UK |Sky Cinema Drama & Romance HD
-http://highroller.space:25461/live/zohaib/zohaib/27670.ts
-#EXTINF:-1,UK | Sky Movies Drama
-http://highroller.space:25461/live/zohaib/zohaib/27671.ts
-#EXTINF:-1,UK | Sky Movies Scifi Horror
-http://highroller.space:25461/live/zohaib/zohaib/27668.ts
-#EXTINF:-1,UK |Sky Cinema Sci-Fi & Horror
-http://highroller.space:25461/live/zohaib/zohaib/27666.ts
-#EXTINF:-1,UK |Sky Cinema Sci-Fi & Horror HD
-http://highroller.space:25461/live/zohaib/zohaib/27667.ts
-#EXTINF:-1,UK |Sky Cinema Greats
-http://highroller.space:25461/live/zohaib/zohaib/27663.ts
-#EXTINF:-1,UK |Sky Cinema Greats HD
-http://highroller.space:25461/live/zohaib/zohaib/27664.ts
-#EXTINF:-1,UK | Sky Cinema Greats
-http://highroller.space:25461/live/zohaib/zohaib/27665.ts
-#EXTINF:-1,UK | Sky Movies Select
-http://highroller.space:25461/live/zohaib/zohaib/27662.ts
-#EXTINF:-1,UK |Sky Cinema Select HD
-http://highroller.space:25461/live/zohaib/zohaib/27661.ts
-#EXTINF:-1,UK |Sky Cinema Select
-http://highroller.space:25461/live/zohaib/zohaib/27660.ts
-#EXTINF:-1,Film4
-http://highroller.space:25461/live/zohaib/zohaib/27658.ts
-#EXTINF:-1,Film4 HD
-http://highroller.space:25461/live/zohaib/zohaib/27659.ts
-#EXTINF:-1,Movies 24
-http://highroller.space:25461/live/zohaib/zohaib/27653.ts
-#EXTINF:-1,Movies4Men
-http://highroller.space:25461/live/zohaib/zohaib/27654.ts
-#EXTINF:-1,Horror
-http://highroller.space:25461/live/zohaib/zohaib/27652.ts
-#EXTINF:-1,TCM
-http://highroller.space:25461/live/zohaib/zohaib/27656.ts
-#EXTINF:-1,TCM HD
-http://highroller.space:25461/live/zohaib/zohaib/27657.ts
-#EXTINF:-1,Sony Movie Channel
-http://highroller.space:25461/live/zohaib/zohaib/27655.ts
-#EXTINF:-1,UK | SkySportsNews
-http://highroller.space:25461/live/zohaib/zohaib/28296.ts
-#EXTINF:-1,UK | SkySportsNewsSD*
-http://highroller.space:25461/live/zohaib/zohaib/28293.ts
-#EXTINF:-1,UK| SkySportsNewsHD
-http://highroller.space:25461/live/zohaib/zohaib/28295.ts
-#EXTINF:-1,UK |SkySportsNewsSD
-http://highroller.space:25461/live/zohaib/zohaib/28294.ts
-#EXTINF:-1,UK | SkySportsMix
-http://highroller.space:25461/live/zohaib/zohaib/28291.ts
-#EXTINF:-1,UK | SkySportsMixHD
-http://highroller.space:25461/live/zohaib/zohaib/28292.ts
-#EXTINF:-1,UK | SkySportsMixFHD
-http://highroller.space:25461/live/zohaib/zohaib/28290.ts
-#EXTINF:-1,UK | SkySportsMainEvent
-http://highroller.space:25461/live/zohaib/zohaib/28289.ts
-#EXTINF:-1,UK | SkySportsMainEventHD
-http://highroller.space:25461/live/zohaib/zohaib/28288.ts
-#EXTINF:-1,UK | SkySportsMainEventHD*
-http://highroller.space:25461/live/zohaib/zohaib/28287.ts
-#EXTINF:-1,UK | SkySportsMainEventFHD
-http://highroller.space:25461/live/zohaib/zohaib/28286.ts
-#EXTINF:-1,UK | SkySportsArena
-http://highroller.space:25461/live/zohaib/zohaib/28283.ts
-#EXTINF:-1,UK | SkySportsArenaHD
-http://highroller.space:25461/live/zohaib/zohaib/28284.ts
-#EXTINF:-1,UK | SkySportsAreanaFHD
-http://highroller.space:25461/live/zohaib/zohaib/28285.ts
-#EXTINF:-1,UK | SkySportsFootball
-http://highroller.space:25461/live/zohaib/zohaib/28281.ts
-#EXTINF:-1,UK | SkySportsFootballHD
-http://highroller.space:25461/live/zohaib/zohaib/28282.ts
-#EXTINF:-1,UK | SkySportsFootballSD
-http://highroller.space:25461/live/zohaib/zohaib/28279.ts
-#EXTINF:-1,UK | SkySportsFootballFHD
-http://highroller.space:25461/live/zohaib/zohaib/34113.ts
-#EXTINF:-1,UK | SkySportsActionSD
-http://highroller.space:25461/live/zohaib/zohaib/28273.ts
-#EXTINF:-1,UK | SkySportsActionHD
-http://highroller.space:25461/live/zohaib/zohaib/28275.ts
-#EXTINF:-1,UK | SkySportsActionFHD
-http://highroller.space:25461/live/zohaib/zohaib/28272.ts
-#EXTINF:-1,UK | SkySportsAction
-http://highroller.space:25461/live/zohaib/zohaib/28274.ts
-#EXTINF:-1,UK | SkySportsTheOpenHD*
-http://highroller.space:25461/live/zohaib/zohaib/28270.ts
-#EXTINF:-1,UK | SkySportsTheOpenHD
-http://highroller.space:25461/live/zohaib/zohaib/28271.ts
-#EXTINF:-1,UK | SkySportsTheOpenSD
-http://highroller.space:25461/live/zohaib/zohaib/28269.ts
-#EXTINF:-1,UK | SkySportsCricket
-http://highroller.space:25461/live/zohaib/zohaib/28277.ts
-#EXTINF:-1,UK | SkySportsCricketSD
-http://highroller.space:25461/live/zohaib/zohaib/28276.ts
-#EXTINF:-1,UK | SkySportsCricketHD
-http://highroller.space:25461/live/zohaib/zohaib/28278.ts
-#EXTINF:-1,UK | SkySportsCricketFHD
-http://highroller.space:25461/live/zohaib/zohaib/34114.ts
-#EXTINF:-1,UK | SkySportsF1
-http://highroller.space:25461/live/zohaib/zohaib/28267.ts
-#EXTINF:-1,UK | SkySportsF1HD
-http://highroller.space:25461/live/zohaib/zohaib/28268.ts
-#EXTINF:-1,UK | SkySportsF1HD*
-http://highroller.space:25461/live/zohaib/zohaib/28266.ts
-#EXTINF:-1,UK | SkySportsF1FHD
-http://highroller.space:25461/live/zohaib/zohaib/34119.ts
-#EXTINF:-1,UK | SkySportsPremierLeagueHD*
-http://highroller.space:25461/live/zohaib/zohaib/28262.ts
-#EXTINF:-1,UK | SkySportsPremierLeagueSD
-http://highroller.space:25461/live/zohaib/zohaib/28263.ts
-#EXTINF:-1,UK | SkySportsPremierLeague
-http://highroller.space:25461/live/zohaib/zohaib/28264.ts
-#EXTINF:-1,UK | SkySportsPremierLeagueHD
-http://highroller.space:25461/live/zohaib/zohaib/28265.ts
-#EXTINF:-1,UK | SkySportsPremierLeagueFHD
-http://highroller.space:25461/live/zohaib/zohaib/34115.ts
-#EXTINF:-1,SKY SPORTS BOX OFFICE
-http://highroller.space:25461/live/zohaib/zohaib/7535.ts
-#EXTINF:-1,UK | BTSport1*
-http://highroller.space:25461/live/zohaib/zohaib/28260.ts
-#EXTINF:-1,UK | BTSport1HD*
-http://highroller.space:25461/live/zohaib/zohaib/28259.ts
-#EXTINF:-1,UK | BTSport1HD
-http://highroller.space:25461/live/zohaib/zohaib/28261.ts
-#EXTINF:-1,UK | BtSport1FHD
-http://highroller.space:25461/live/zohaib/zohaib/34116.ts
-#EXTINF:-1,UK | BTSport2
-http://highroller.space:25461/live/zohaib/zohaib/28257.ts
-#EXTINF:-1,UK | BTSport2HD
-http://highroller.space:25461/live/zohaib/zohaib/28258.ts
-#EXTINF:-1,UK | BTSport2HD*
-http://highroller.space:25461/live/zohaib/zohaib/28256.ts
-#EXTINF:-1,UK | BtSport2FHD
-http://highroller.space:25461/live/zohaib/zohaib/34117.ts
-#EXTINF:-1,UK | BtSport3FHD
-http://highroller.space:25461/live/zohaib/zohaib/34118.ts
-#EXTINF:-1,UK | BTSport3
-http://highroller.space:25461/live/zohaib/zohaib/28254.ts
-#EXTINF:-1,UK | BTSport3HD
-http://highroller.space:25461/live/zohaib/zohaib/28255.ts
-#EXTINF:-1,UK | BTSports3HD*
-http://highroller.space:25461/live/zohaib/zohaib/28253.ts
-#EXTINF:-1,UK | BTSportESPN
-http://highroller.space:25461/live/zohaib/zohaib/28251.ts
-#EXTINF:-1,UK | BTSportESPNHD
-http://highroller.space:25461/live/zohaib/zohaib/28252.ts
-#EXTINF:-1,UK | Eurosport 1 HD
-http://highroller.space:25461/live/zohaib/zohaib/28250.ts
-#EXTINF:-1,UK | Eurosport 1
-http://highroller.space:25461/live/zohaib/zohaib/28248.ts
-#EXTINF:-1,UK | Eurosport 1 HD*
-http://highroller.space:25461/live/zohaib/zohaib/28249.ts
-#EXTINF:-1,UK | Eurosport 2
-http://highroller.space:25461/live/zohaib/zohaib/28245.ts
-#EXTINF:-1,UK | Eurosport 2 HD
-http://highroller.space:25461/live/zohaib/zohaib/28247.ts
-#EXTINF:-1,UK | Eurosport 2 HD*
-http://highroller.space:25461/live/zohaib/zohaib/28246.ts
-#EXTINF:-1,UK | BoxNation
-http://highroller.space:25461/live/zohaib/zohaib/28243.ts
-#EXTINF:-1,UK | BoxNation HD
-http://highroller.space:25461/live/zohaib/zohaib/28244.ts
-#EXTINF:-1,UK | Eir Sport 1
-http://highroller.space:25461/live/zohaib/zohaib/28239.ts
-#EXTINF:-1,UK | Eir Sport 1 HD
-http://highroller.space:25461/live/zohaib/zohaib/28238.ts
-#EXTINF:-1,UK | Eir Sport 2
-http://highroller.space:25461/live/zohaib/zohaib/28236.ts
-#EXTINF:-1,UK | At The Races
-http://highroller.space:25461/live/zohaib/zohaib/28235.ts
-#EXTINF:-1,UK | Racing UK HD
-http://highroller.space:25461/live/zohaib/zohaib/28234.ts
-#EXTINF:-1,UK | Racing UK
-http://highroller.space:25461/live/zohaib/zohaib/28233.ts
-#EXTINF:-1,UK | MUTV HD
-http://highroller.space:25461/live/zohaib/zohaib/28242.ts
-#EXTINF:-1,UK | Chelsea TV HD
-http://highroller.space:25461/live/zohaib/zohaib/28240.ts
-#EXTINF:-1,UK | LFC TV HD
-http://highroller.space:25461/live/zohaib/zohaib/28241.ts
-#EXTINF:-1,CELTIC FC TV
-http://highroller.space:25461/live/zohaib/zohaib/28231.ts
-#EXTINF:-1,UK | Premiere Sports
-http://highroller.space:25461/live/zohaib/zohaib/28237.ts
-#EXTINF:-1,MTV BASE
-http://highroller.space:25461/live/zohaib/zohaib/28337.ts
-#EXTINF:-1,MTV MUSIC
-http://highroller.space:25461/live/zohaib/zohaib/28336.ts
-#EXTINF:-1,MTV ROCKS
-http://highroller.space:25461/live/zohaib/zohaib/28338.ts
-#EXTINF:-1,UK | MTV
-http://highroller.space:25461/live/zohaib/zohaib/28340.ts
-#EXTINF:-1,UK | MTV Dance
-http://highroller.space:25461/live/zohaib/zohaib/28339.ts
-#EXTINF:-1,Scuzz
-http://highroller.space:25461/live/zohaib/zohaib/28330.ts
-#EXTINF:-1,UK: ROK TV
-http://highroller.space:25461/live/zohaib/zohaib/28320.ts
-#EXTINF:-1,Box Hits
-http://highroller.space:25461/live/zohaib/zohaib/28325.ts
-#EXTINF:-1,Chart Show Hits
-http://highroller.space:25461/live/zohaib/zohaib/28329.ts
-#EXTINF:-1,UK: HITS HD
-http://highroller.space:25461/live/zohaib/zohaib/28319.ts
-#EXTINF:-1,4 MUSIC
-http://highroller.space:25461/live/zohaib/zohaib/28333.ts
-#EXTINF:-1,4Music
-http://highroller.space:25461/live/zohaib/zohaib/28322.ts
-#EXTINF:-1,The Vault
-http://highroller.space:25461/live/zohaib/zohaib/28331.ts
-#EXTINF:-1,Chart Show TV
-http://highroller.space:25461/live/zohaib/zohaib/28332.ts
-#EXTINF:-1,Kiss
-http://highroller.space:25461/live/zohaib/zohaib/28327.ts
-#EXTINF:-1,Magic
-http://highroller.space:25461/live/zohaib/zohaib/28323.ts
-#EXTINF:-1,Kerrang!
-http://highroller.space:25461/live/zohaib/zohaib/28326.ts
-#EXTINF:-1,Box Upfront
-http://highroller.space:25461/live/zohaib/zohaib/28324.ts
-#EXTINF:-1,VH1
-http://highroller.space:25461/live/zohaib/zohaib/28335.ts
-#EXTINF:-1,VIVA
-http://highroller.space:25461/live/zohaib/zohaib/28334.ts
-#EXTINF:-1,UK: NOW 80'S *
-http://highroller.space:25461/live/zohaib/zohaib/28321.ts
-#EXTINF:-1,Nick Junior
-http://highroller.space:25461/live/zohaib/zohaib/31608.ts
-#EXTINF:-1,Nick Junior Too
-http://highroller.space:25461/live/zohaib/zohaib/31607.ts
-#EXTINF:-1,Nickelodeon
-http://highroller.space:25461/live/zohaib/zohaib/31610.ts
-#EXTINF:-1,Nickelodeon HD
-http://highroller.space:25461/live/zohaib/zohaib/31611.ts
-#EXTINF:-1,Nicktoons
-http://highroller.space:25461/live/zohaib/zohaib/31609.ts
-#EXTINF:-1,CBBC HD
-http://highroller.space:25461/live/zohaib/zohaib/31605.ts
-#EXTINF:-1,CBeebies HD
-http://highroller.space:25461/live/zohaib/zohaib/31598.ts
-#EXTINF:-1,POP
-http://highroller.space:25461/live/zohaib/zohaib/31603.ts
-#EXTINF:-1,IRE | TV3 Plus1
-http://highroller.space:25461/live/zohaib/zohaib/34120.ts
-#EXTINF:-1,Pop Max
-http://highroller.space:25461/live/zohaib/zohaib/31599.ts
-#EXTINF:-1,Tiny Pop
-http://highroller.space:25461/live/zohaib/zohaib/31604.ts
-#EXTINF:-1,Cartoon Network HD
-http://highroller.space:25461/live/zohaib/zohaib/31601.ts
-#EXTINF:-1,Cartoonito
-http://highroller.space:25461/live/zohaib/zohaib/31600.ts
-#EXTINF:-1,Boomerang
-http://highroller.space:25461/live/zohaib/zohaib/31602.ts
-#EXTINF:-1,Disney Channel
-http://highroller.space:25461/live/zohaib/zohaib/31614.ts
-#EXTINF:-1,Disney Channel HD
-http://highroller.space:25461/live/zohaib/zohaib/31615.ts
-#EXTINF:-1,Disney Junior
-http://highroller.space:25461/live/zohaib/zohaib/31612.ts
-#EXTINF:-1,Disney XD
-http://highroller.space:25461/live/zohaib/zohaib/31613.ts
-#EXTINF:-1,BABY TV
-http://highroller.space:25461/live/zohaib/zohaib/31606.ts
-#EXTINF:-1,AFN News USA
-http://highroller.space:25461/live/zohaib/zohaib/33845.ts
-#EXTINF:-1,RTE News*
-http://highroller.space:25461/live/zohaib/zohaib/33844.ts
-#EXTINF:-1,PBS America
-http://highroller.space:25461/live/zohaib/zohaib/33843.ts
-#EXTINF:-1,Sky News
-http://highroller.space:25461/live/zohaib/zohaib/33842.ts
-#EXTINF:-1,QVC 1
-http://highroller.space:25461/live/zohaib/zohaib/34757.ts
-#EXTINF:-1,QVC 2
-http://highroller.space:25461/live/zohaib/zohaib/34756.ts
-#EXTINF:-1,QVC 3
-http://highroller.space:25461/live/zohaib/zohaib/34755.ts
-#EXTINF:-1,QVC 4
-http://highroller.space:25461/live/zohaib/zohaib/34754.ts
-#EXTINF:-1,MC R&B Soul
-http://highroller.space:25461/live/zohaib/zohaib/35590.ts
-#EXTINF:-1,MC;Musica Urbana
-http://highroller.space:25461/live/zohaib/zohaib/35581.ts
-#EXTINF:-1,MC:90s
-http://highroller.space:25461/live/zohaib/zohaib/35585.ts
-#EXTINF:-1,MC:Brits Hits
-http://highroller.space:25461/live/zohaib/zohaib/35599.ts
-#EXTINF:-1,MC:Dance/EDM
-http://highroller.space:25461/live/zohaib/zohaib/35598.ts
-#EXTINF:-1,MC:Hip Hop/R B
-http://highroller.space:25461/live/zohaib/zohaib/35597.ts
-#EXTINF:-1,MC:Hit List
-http://highroller.space:25461/live/zohaib/zohaib/35596.ts
-#EXTINF:-1,MC:Kids
-http://highroller.space:25461/live/zohaib/zohaib/35577.ts
-#EXTINF:-1,MC:Metal
-http://highroller.space:25461/live/zohaib/zohaib/35593.ts
-#EXTINF:-1,MC:Mexicana
-http://highroller.space:25461/live/zohaib/zohaib/35582.ts
-#EXTINF:-1,MC:Pop Country
-http://highroller.space:25461/live/zohaib/zohaib/35592.ts
-#EXTINF:-1,MC:Pop Hits
-http://highroller.space:25461/live/zohaib/zohaib/35591.ts
-#EXTINF:-1,MC:Pop Latino
-http://highroller.space:25461/live/zohaib/zohaib/35580.ts
-#EXTINF:-1,MC:Rap
-http://highroller.space:25461/live/zohaib/zohaib/35589.ts
-#EXTINF:-1,MC:Rap 2K
-http://highroller.space:25461/live/zohaib/zohaib/35588.ts
-#EXTINF:-1,MC:Rock
-http://highroller.space:25461/live/zohaib/zohaib/35587.ts
-#EXTINF:-1,MC:Teen Beats
-http://highroller.space:25461/live/zohaib/zohaib/35578.ts
-#EXTINF:-1,MC:Throwback Jamz
-http://highroller.space:25461/live/zohaib/zohaib/35584.ts
-#EXTINF:-1,MC:Today's Country
-http://highroller.space:25461/live/zohaib/zohaib/35586.ts
-#EXTINF:-1,MC:Toddler Tunes
-http://highroller.space:25461/live/zohaib/zohaib/35576.ts
-#EXTINF:-1,MC:Tropicales
-http://highroller.space:25461/live/zohaib/zohaib/35579.ts
-#EXTINF:-1,MC:Y2K
-http://highroller.space:25461/live/zohaib/zohaib/35583.ts
-#EXTINF:-1,Aberdeen TV
-http://highroller.space:25461/live/zohaib/zohaib/35677.ts
-#EXTINF:-1,Celtic TV 1
-http://highroller.space:25461/live/zohaib/zohaib/35674.ts
-#EXTINF:-1,Dundee TV
-http://highroller.space:25461/live/zohaib/zohaib/35675.ts
-#EXTINF:-1,Hearts TV
-http://highroller.space:25461/live/zohaib/zohaib/35679.ts
-#EXTINF:-1,Hibs TV
-http://highroller.space:25461/live/zohaib/zohaib/35678.ts
-#EXTINF:-1,Rangers TV 1
-http://highroller.space:25461/live/zohaib/zohaib/35676.ts
-#EXTINF:-1,Rangers TV 2
-http://highroller.space:25461/live/zohaib/zohaib/35673.ts
-#EXTINF:-1,Rangers TV 3
-http://highroller.space:25461/live/zohaib/zohaib/35672.ts
-#EXTINF:-1,History-Channel (Back Up)
-http://highroller.space:25461/live/zohaib/zohaib/35746.ts
-#EXTINF:-1,Eden UK
-http://highroller.space:25461/live/zohaib/zohaib/35747.ts
+http://54.39.18.12:8000/live/g5/g5/16573.ts
+#EXTINF:-1,UK | Sky Sport News
+http://54.39.18.12:8000/live/g5/g5/16578.ts
+#EXTINF:-1,UK | Syfy
+http://54.39.18.12:8000/live/g5/g5/16580.ts
+#EXTINF:-1,UK | Tiny POP
+http://54.39.18.12:8000/live/g5/g5/16581.ts
+#EXTINF:-1,UK | UTV
+http://54.39.18.12:8000/live/g5/g5/16582.ts
+#EXTINF:-1,UK Baby TV
+http://54.39.18.12:8000/live/g5/g5/16529.ts
+#EXTINF:-1,UK BBC ONE HD
+http://54.39.18.12:8000/live/g5/g5/16530.ts
+#EXTINF:-1,UK BBC Three HD
+http://54.39.18.12:8000/live/g5/g5/16531.ts
+#EXTINF:-1,UK CBBC
+http://54.39.18.12:8000/live/g5/g5/16532.ts
+#EXTINF:-1,UK Pick
+http://54.39.18.12:8000/live/g5/g5/16533.ts
+#EXTINF:-1,UK: 3e
+http://54.39.18.12:8000/live/g5/g5/16673.ts
+#EXTINF:-1,UK: 5Star
+http://54.39.18.12:8000/live/g5/g5/16674.ts
+#EXTINF:-1,UK: 5USA
+http://54.39.18.12:8000/live/g5/g5/16667.ts
+#EXTINF:-1,UK: Alibi
+http://54.39.18.12:8000/live/g5/g5/16675.ts
+#EXTINF:-1,UK: AMC FROM BT
+http://54.39.18.12:8000/live/g5/g5/16665.ts
+#EXTINF:-1,UK: Animal Planet   1
+http://54.39.18.12:8000/live/g5/g5/16676.ts
+#EXTINF:-1,UK: At The Races
+http://54.39.18.12:8000/live/g5/g5/16677.ts
+#EXTINF:-1,UK: BBC ALBA
+http://54.39.18.12:8000/live/g5/g5/16664.ts
+#EXTINF:-1,UK: BBC Parliament
+http://54.39.18.12:8000/live/g5/g5/16663.ts
+#EXTINF:-1,UK: BBC TWO HD
+http://54.39.18.12:8000/live/g5/g5/16678.ts
+#EXTINF:-1,UK: BBC World News
+http://54.39.18.12:8000/live/g5/g5/16753.ts
+#EXTINF:-1,UK: BBC4 HD
+http://54.39.18.12:8000/live/g5/g5/16679.ts
+#EXTINF:-1,UK: BET
+http://54.39.18.12:8000/live/g5/g5/16662.ts
+#EXTINF:-1,UK: BritishMuslim
+http://54.39.18.12:8000/live/g5/g5/16661.ts
+#EXTINF:-1,UK: BT Sport 3 HD
+http://54.39.18.12:8000/live/g5/g5/16671.ts
+#EXTINF:-1,UK: BT Sport 3 SD
+http://54.39.18.12:8000/live/g5/g5/16680.ts
+#EXTINF:-1,UK: BT Sport Extra 1
+http://54.39.18.12:8000/live/g5/g5/16681.ts
+#EXTINF:-1,UK: BT Sport Extra 2
+http://54.39.18.12:8000/live/g5/g5/16682.ts
+#EXTINF:-1,UK: BT Sport Extra 3
+http://54.39.18.12:8000/live/g5/g5/16683.ts
+#EXTINF:-1,UK: BT Sport Extra 4
+http://54.39.18.12:8000/live/g5/g5/16684.ts
+#EXTINF:-1,UK: BT Sport Extra 5
+http://54.39.18.12:8000/live/g5/g5/16685.ts
+#EXTINF:-1,UK: BT Sport Mosaic
+http://54.39.18.12:8000/live/g5/g5/16686.ts
+#EXTINF:-1,UK: BT Sport Mosaic 2
+http://54.39.18.12:8000/live/g5/g5/16687.ts
+#EXTINF:-1,UK: BT Sports 2 SD
+http://54.39.18.12:8000/live/g5/g5/16688.ts
+#EXTINF:-1,UK: Cartoon Network
+http://54.39.18.12:8000/live/g5/g5/16689.ts
+#EXTINF:-1,UK: Cartoonito
+http://54.39.18.12:8000/live/g5/g5/16622.ts
+#EXTINF:-1,UK: Cbeebies
+http://54.39.18.12:8000/live/g5/g5/16612.ts
+#EXTINF:-1,UK: Challenge   1
+http://54.39.18.12:8000/live/g5/g5/16690.ts
+#EXTINF:-1,UK: Channel 4
+http://54.39.18.12:8000/live/g5/g5/16660.ts
+#EXTINF:-1,UK: Channel 4 HD
+http://54.39.18.12:8000/live/g5/g5/16659.ts
+#EXTINF:-1,UK: CHANNEL 5
+http://54.39.18.12:8000/live/g5/g5/16658.ts
+#EXTINF:-1,UK: CHANNEL 5 FHD
+http://54.39.18.12:8000/live/g5/g5/16657.ts
+#EXTINF:-1,UK: Chelsea FC
+http://54.39.18.12:8000/live/g5/g5/16691.ts
+#EXTINF:-1,UK: CNBC Europe
+http://54.39.18.12:8000/live/g5/g5/16656.ts
+#EXTINF:-1,UK: Comedy Central Extra   1
+http://54.39.18.12:8000/live/g5/g5/16692.ts
+#EXTINF:-1,UK: Crime & Investigiation
+http://54.39.18.12:8000/live/g5/g5/16670.ts
+#EXTINF:-1,UK: Crime investigation  1
+http://54.39.18.12:8000/live/g5/g5/16693.ts
+#EXTINF:-1,UK: Discovery   1
+http://54.39.18.12:8000/live/g5/g5/16694.ts
+#EXTINF:-1,UK: Discovery History  1
+http://54.39.18.12:8000/live/g5/g5/16695.ts
+#EXTINF:-1,UK: Discovery Science  1
+http://54.39.18.12:8000/live/g5/g5/16696.ts
+#EXTINF:-1,UK: Disney Channel   1
+http://54.39.18.12:8000/live/g5/g5/16697.ts
+#EXTINF:-1,UK: Disney XD   1
+http://54.39.18.12:8000/live/g5/g5/16698.ts
+#EXTINF:-1,UK: E!
+http://54.39.18.12:8000/live/g5/g5/16699.ts
+#EXTINF:-1,UK: E!    1
+http://54.39.18.12:8000/live/g5/g5/16700.ts
+#EXTINF:-1,UK: Eir Sports1
+http://54.39.18.12:8000/live/g5/g5/16701.ts
+#EXTINF:-1,UK: Eir Sports2
+http://54.39.18.12:8000/live/g5/g5/16702.ts
+#EXTINF:-1,UK: Eurosport 1
+http://54.39.18.12:8000/live/g5/g5/16703.ts
+#EXTINF:-1,UK: Eurosport 2
+http://54.39.18.12:8000/live/g5/g5/16704.ts
+#EXTINF:-1,UK: Food Network
+http://54.39.18.12:8000/live/g5/g5/16705.ts
+#EXTINF:-1,UK: Food Network  1
+http://54.39.18.12:8000/live/g5/g5/16706.ts
+#EXTINF:-1,UK: FOX News
+http://54.39.18.12:8000/live/g5/g5/16655.ts
+#EXTINF:-1,UK: Golf Channel
+http://54.39.18.12:8000/live/g5/g5/16623.ts
+#EXTINF:-1,UK: Good Food
+http://54.39.18.12:8000/live/g5/g5/16707.ts
+#EXTINF:-1,UK: H2
+http://54.39.18.12:8000/live/g5/g5/16605.ts
+#EXTINF:-1,UK: HBO 1
+http://54.39.18.12:8000/live/g5/g5/16754.ts
+#EXTINF:-1,UK: HBO 2
+http://54.39.18.12:8000/live/g5/g5/16755.ts
+#EXTINF:-1,UK: History
+http://54.39.18.12:8000/live/g5/g5/16611.ts
+#EXTINF:-1,UK: History  1
+http://54.39.18.12:8000/live/g5/g5/16708.ts
+#EXTINF:-1,UK: Home&Health   1
+http://54.39.18.12:8000/live/g5/g5/16709.ts
+#EXTINF:-1,UK: Horror Channel
+http://54.39.18.12:8000/live/g5/g5/16528.ts
+#EXTINF:-1,UK: Horror Channel   1
+http://54.39.18.12:8000/live/g5/g5/16710.ts
+#EXTINF:-1,UK: ID
+http://54.39.18.12:8000/live/g5/g5/16672.ts
+#EXTINF:-1,UK: ID   1
+http://54.39.18.12:8000/live/g5/g5/16711.ts
+#EXTINF:-1,UK: Inspiration
+http://54.39.18.12:8000/live/g5/g5/16654.ts
+#EXTINF:-1,UK: Investigation Discovery
+http://54.39.18.12:8000/live/g5/g5/16653.ts
+#EXTINF:-1,UK: ITV ENCORE
+http://54.39.18.12:8000/live/g5/g5/16652.ts
+#EXTINF:-1,UK: ITV1
+http://54.39.18.12:8000/live/g5/g5/16712.ts
+#EXTINF:-1,UK: ITV2
+http://54.39.18.12:8000/live/g5/g5/16713.ts
+#EXTINF:-1,UK: ITV3
+http://54.39.18.12:8000/live/g5/g5/16714.ts
+#EXTINF:-1,UK: ITV4
+http://54.39.18.12:8000/live/g5/g5/16715.ts
+#EXTINF:-1,UK: KERRANG
+http://54.39.18.12:8000/live/g5/g5/16651.ts
+#EXTINF:-1,UK: KISS UK
+http://54.39.18.12:8000/live/g5/g5/16650.ts
+#EXTINF:-1,UK: LFC TV
+http://54.39.18.12:8000/live/g5/g5/16716.ts
+#EXTINF:-1,UK: Magic
+http://54.39.18.12:8000/live/g5/g5/16610.ts
+#EXTINF:-1,UK: Movies 4 Men
+http://54.39.18.12:8000/live/g5/g5/16649.ts
+#EXTINF:-1,UK: MTV
+http://54.39.18.12:8000/live/g5/g5/16609.ts
+#EXTINF:-1,UK: MTV   1
+http://54.39.18.12:8000/live/g5/g5/16717.ts
+#EXTINF:-1,UK: MUTV
+http://54.39.18.12:8000/live/g5/g5/16718.ts
+#EXTINF:-1,UK: Nat Geo Wild
+http://54.39.18.12:8000/live/g5/g5/16719.ts
+#EXTINF:-1,UK: NATGEO WILD
+http://54.39.18.12:8000/live/g5/g5/16604.ts
+#EXTINF:-1,UK: National Geographic
+http://54.39.18.12:8000/live/g5/g5/16606.ts
+#EXTINF:-1,UK: Nick Jr  1
+http://54.39.18.12:8000/live/g5/g5/16721.ts
+#EXTINF:-1,UK: Nick Jr Too
+http://54.39.18.12:8000/live/g5/g5/16720.ts
+#EXTINF:-1,UK: Nickelodeon
+http://54.39.18.12:8000/live/g5/g5/16722.ts
+#EXTINF:-1,UK: Nickelodeon   1
+http://54.39.18.12:8000/live/g5/g5/16723.ts
+#EXTINF:-1,UK: Premier Sports HD
+http://54.39.18.12:8000/live/g5/g5/16668.ts
+#EXTINF:-1,UK: PREMIERE SPORT HD
+http://54.39.18.12:8000/live/g5/g5/16724.ts
+#EXTINF:-1,UK: QUEST
+http://54.39.18.12:8000/live/g5/g5/16648.ts
+#EXTINF:-1,UK: Racing UK
+http://54.39.18.12:8000/live/g5/g5/16725.ts
+#EXTINF:-1,UK: Real Lives
+http://54.39.18.12:8000/live/g5/g5/16647.ts
+#EXTINF:-1,UK: RTE One
+http://54.39.18.12:8000/live/g5/g5/16726.ts
+#EXTINF:-1,UK: RTE Two
+http://54.39.18.12:8000/live/g5/g5/16727.ts
+#EXTINF:-1,UK: SATENTA SPORT
+http://54.39.18.12:8000/live/g5/g5/16728.ts
+#EXTINF:-1,UK: Scuzz
+http://54.39.18.12:8000/live/g5/g5/16608.ts
+#EXTINF:-1,UK: Setanta Sports 1
+http://54.39.18.12:8000/live/g5/g5/16729.ts
+#EXTINF:-1,UK: Sky Atlantic  1
+http://54.39.18.12:8000/live/g5/g5/16730.ts
+#EXTINF:-1,UK: Sky Cinema Action HD
+http://54.39.18.12:8000/live/g5/g5/16621.ts
+#EXTINF:-1,UK: Sky Cinema Comedy HD
+http://54.39.18.12:8000/live/g5/g5/16620.ts
+#EXTINF:-1,UK: Sky Cinema Crime & Thriller HD
+http://54.39.18.12:8000/live/g5/g5/16619.ts
+#EXTINF:-1,UK: Sky Cinema Disney HD
+http://54.39.18.12:8000/live/g5/g5/16618.ts
+#EXTINF:-1,UK: Sky Cinema Drama & Romance HD
+http://54.39.18.12:8000/live/g5/g5/16617.ts
+#EXTINF:-1,UK: Sky Cinema Family HD
+http://54.39.18.12:8000/live/g5/g5/16616.ts
+#EXTINF:-1,UK: Sky Cinema Premier HD
+http://54.39.18.12:8000/live/g5/g5/16615.ts
+#EXTINF:-1,UK: Sky Cinema Premiere  1
+http://54.39.18.12:8000/live/g5/g5/16731.ts
+#EXTINF:-1,UK: Sky Cinema Sci-Fi & Horror HD
+http://54.39.18.12:8000/live/g5/g5/16614.ts
+#EXTINF:-1,UK: Sky Cinema Select HD
+http://54.39.18.12:8000/live/g5/g5/16613.ts
+#EXTINF:-1,UK: Sky Living  1
+http://54.39.18.12:8000/live/g5/g5/16732.ts
+#EXTINF:-1,UK: Sky Movies Select HD
+http://54.39.18.12:8000/live/g5/g5/16733.ts
+#EXTINF:-1,UK: SKY NEWS
+http://54.39.18.12:8000/live/g5/g5/16646.ts
+#EXTINF:-1,UK: SKY NEWS HD
+http://54.39.18.12:8000/live/g5/g5/16640.ts
+#EXTINF:-1,UK: SKY SPORTS ACTION
+http://54.39.18.12:8000/live/g5/g5/16736.ts
+#EXTINF:-1,UK: SKY SPORTS ACTION HD
+http://54.39.18.12:8000/live/g5/g5/16575.ts
+#EXTINF:-1,UK: SKY SPORTS CRICKET
+http://54.39.18.12:8000/live/g5/g5/16735.ts
+#EXTINF:-1,UK: SKY SPORTS CRICKET HD
+http://54.39.18.12:8000/live/g5/g5/16574.ts
+#EXTINF:-1,UK: SKY SPORTS GOLF
+http://54.39.18.12:8000/live/g5/g5/16737.ts
+#EXTINF:-1,UK: SKY SPORTS GOLF HD
+http://54.39.18.12:8000/live/g5/g5/16576.ts
+#EXTINF:-1,UK: SKY SPORTS MAIN EVENT
+http://54.39.18.12:8000/live/g5/g5/16734.ts
+#EXTINF:-1,UK: SKY SPORTS MAIN EVENT HD
+http://54.39.18.12:8000/live/g5/g5/16579.ts
+#EXTINF:-1,UK: Sky Sports Mix
+http://54.39.18.12:8000/live/g5/g5/16669.ts
+#EXTINF:-1,UK: SKY SPORTS PREMIER LEAGUE
+http://54.39.18.12:8000/live/g5/g5/16738.ts
+#EXTINF:-1,UK: SKY SPORTS PREMIER LEAGUE HD
+http://54.39.18.12:8000/live/g5/g5/16577.ts
+#EXTINF:-1,UK: Sky Two
+http://54.39.18.12:8000/live/g5/g5/16739.ts
+#EXTINF:-1,UK: SkySpBoxOff (PPV Events Only)
+http://54.39.18.12:8000/live/g5/g5/16740.ts
+#EXTINF:-1,UK: SMASH HITS
+http://54.39.18.12:8000/live/g5/g5/16645.ts
+#EXTINF:-1,UK: Sony Channel
+http://54.39.18.12:8000/live/g5/g5/16643.ts
+#EXTINF:-1,UK: Sony Chnl   1
+http://54.39.18.12:8000/live/g5/g5/16741.ts
+#EXTINF:-1,UK: Sony Movie
+http://54.39.18.12:8000/live/g5/g5/16644.ts
+#EXTINF:-1,UK: Syfy   1
+http://54.39.18.12:8000/live/g5/g5/16742.ts
+#EXTINF:-1,UK: TCM
+http://54.39.18.12:8000/live/g5/g5/16607.ts
+#EXTINF:-1,UK: Tiny Pop   1
+http://54.39.18.12:8000/live/g5/g5/16743.ts
+#EXTINF:-1,UK: TLC
+http://54.39.18.12:8000/live/g5/g5/16744.ts
+#EXTINF:-1,UK: TLC   1
+http://54.39.18.12:8000/live/g5/g5/16745.ts
+#EXTINF:-1,UK: TLC   2
+http://54.39.18.12:8000/live/g5/g5/16746.ts
+#EXTINF:-1,UK: Travel Channel
+http://54.39.18.12:8000/live/g5/g5/16747.ts
+#EXTINF:-1,UK: True Movies 2
+http://54.39.18.12:8000/live/g5/g5/16748.ts
+#EXTINF:-1,UK: Universal   1
+http://54.39.18.12:8000/live/g5/g5/16749.ts
+#EXTINF:-1,UK: VH1
+http://54.39.18.12:8000/live/g5/g5/16750.ts
+#EXTINF:-1,UK: VICELAND
+http://54.39.18.12:8000/live/g5/g5/16642.ts
+#EXTINF:-1,UK: VIVA
+http://54.39.18.12:8000/live/g5/g5/16603.ts
+#EXTINF:-1,UK: W   1
+http://54.39.18.12:8000/live/g5/g5/16751.ts
+#EXTINF:-1,UK: Watch
+http://54.39.18.12:8000/live/g5/g5/16641.ts
+#EXTINF:-1,UK:4Seven
+http://54.39.18.12:8000/live/g5/g5/16752.ts
+#EXTINF:-1,UK:Sky Movies Modern
+http://54.39.18.12:8000/live/g5/g5/16756.ts
+#EXTINF:-1,UK:TLC - IRELAND
+http://54.39.18.12:8000/live/g5/g5/16757.ts
+#EXTINF:-1,UK:True Movies 1
+http://54.39.18.12:8000/live/g5/g5/16758.ts
+#EXTINF:-1,UK:VIP Cartoon network HD
+http://54.39.18.12:8000/live/g5/g5/16666.ts
+#EXTINF:-1,VIP UK: BBC 1 HD ( 1080P )
+http://54.39.18.12:8000/live/g5/g5/16628.ts
+#EXTINF:-1,VIP UK: BT Sport 2 HD 1080p
+http://54.39.18.12:8000/live/g5/g5/16637.ts
+#EXTINF:-1,VIP UK: BT Sport 3 HD 1080p
+http://54.39.18.12:8000/live/g5/g5/16636.ts
+#EXTINF:-1,VIP UK: HBO HD
+http://54.39.18.12:8000/live/g5/g5/16639.ts
+#EXTINF:-1,VIP UK: ITV1 FHD 1080
+http://54.39.18.12:8000/live/g5/g5/16627.ts
+#EXTINF:-1,VIP UK: ITV2 FHD 1080
+http://54.39.18.12:8000/live/g5/g5/16626.ts
+#EXTINF:-1,VIP UK: MTV LIVE HD
+http://54.39.18.12:8000/live/g5/g5/16638.ts
+#EXTINF:-1,VIP UK: Premier Sports FHD 1080
+http://54.39.18.12:8000/live/g5/g5/16625.ts
+#EXTINF:-1,VIP UK: SKY NEWS 1080P HD
+http://54.39.18.12:8000/live/g5/g5/16624.ts
+#EXTINF:-1,VIP UK: Sky Sports 1 HD 1080p
+http://54.39.18.12:8000/live/g5/g5/16635.ts
+#EXTINF:-1,VIP UK: Sky Sports 2 HD 1080p
+http://54.39.18.12:8000/live/g5/g5/16634.ts
+#EXTINF:-1,VIP UK: Sky Sports 3 HD 1080p
+http://54.39.18.12:8000/live/g5/g5/16633.ts
+#EXTINF:-1,VIP UK: Sky Sports 4 HD 1080p
+http://54.39.18.12:8000/live/g5/g5/16632.ts
+#EXTINF:-1,VIP UK: Sky Sports 5 HD 1080p
+http://54.39.18.12:8000/live/g5/g5/16631.ts
+#EXTINF:-1,VIP UK: Sky Sports F1 HD 1080p
+http://54.39.18.12:8000/live/g5/g5/16630.ts
+#EXTINF:-1,VIP UK: Sky Sports News HD 1080p
+http://54.39.18.12:8000/live/g5/g5/16629.ts
+#EXTINF:-1,VIp : SKYNET SPORTS 1 SD
+http://54.39.18.12:8000/live/g5/g5/16888.ts
+#EXTINF:-1,VIP : SKYNET SPORTS 2 SD
+http://54.39.18.12:8000/live/g5/g5/16889.ts
+#EXTINF:-1,VIP : SKYNET SPORTS 3 SD
+http://54.39.18.12:8000/live/g5/g5/16890.ts
+#EXTINF:-1,VIP : SKYNET SPORTS 4 SD
+http://54.39.18.12:8000/live/g5/g5/16891.ts
+#EXTINF:-1,VIP : SKYNET SPORTS 5 SD
+http://54.39.18.12:8000/live/g5/g5/16892.ts
+#EXTINF:-1,VIP : SKYNET SPORTS 6 SD
+http://54.39.18.12:8000/live/g5/g5/16893.ts
