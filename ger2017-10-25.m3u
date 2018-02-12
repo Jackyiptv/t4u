@@ -3,326 +3,1192 @@
 http://live-bloomberg-us-east.global.ssl.fastly.net/btv/desktop/bbr_radio.m3u8
 #EXTINF:-1,Channel Kick Out in 15-20Sec Visit http://bit.ly/fixkick
 http://s2.voscast.com:12294/;stream.mp3
-#EXTINF:-1,Updated on 9 Feb 2018 Around 5 PM German Time
+#EXTINF:-1,Updated on 12 Feb 2018 Around 5 PM German Time
 http://www.lengua.com/anthems/Indonesia.mp3
 
-#EXTINF:-1,DE | SKY SPORT1 HD
-http://serverp3.com:8080/live/ihsan1/ihsan1/8709.ts
-#EXTINF:-1,DE | SKY SPORT 2 HD
-http://serverp3.com:8080/live/ihsan1/ihsan1/8708.ts
-#EXTINF:-1,DE | Sky Sport Bundesliga 1
-http://serverp3.com:8080/live/ihsan1/ihsan1/9159.ts
-#EXTINF:-1,DE | Sky Sport Bundesliga1
-http://serverp3.com:8080/live/ihsan1/ihsan1/8687.ts
-#EXTINF:-1,DE | SKY SPORT NEWS HD
-http://serverp3.com:8080/live/ihsan1/ihsan1/8686.ts
-#EXTINF:-1,DE | 13Street
-http://serverp3.com:8080/live/ihsan1/ihsan1/8704.ts
-#EXTINF:-1,DE | ARD HD
-http://serverp3.com:8080/live/ihsan1/ihsan1/8702.ts
-#EXTINF:-1,DE | arte / ARD
-http://serverp3.com:8080/live/ihsan1/ihsan1/8669.ts
-#EXTINF:-1,DE | AXN
-http://serverp3.com:8080/live/ihsan1/ihsan1/8693.ts
-#EXTINF:-1,DE | D MAX HD
-http://serverp3.com:8080/live/ihsan1/ihsan1/8673.ts
-#EXTINF:-1,DE | DISCOVERY CHANNEL HD
-http://serverp3.com:8080/live/ihsan1/ihsan1/8660.ts
-#EXTINF:-1,DE | DISNEY CHANNEL
-http://serverp3.com:8080/live/ihsan1/ihsan1/8671.ts
-#EXTINF:-1,DE | Disney Cinemagic / SKY
-http://serverp3.com:8080/live/ihsan1/ihsan1/8661.ts
-#EXTINF:-1,DE | Disney Junior / SKY
-http://serverp3.com:8080/live/ihsan1/ihsan1/8668.ts
-#EXTINF:-1,DE | Disney XD
-http://serverp3.com:8080/live/ihsan1/ihsan1/8667.ts
-#EXTINF:-1,DE | EUROSPORT
-http://serverp3.com:8080/live/ihsan1/ihsan1/8707.ts
-#EXTINF:-1,DE | EUROSPORT2
-http://serverp3.com:8080/live/ihsan1/ihsan1/8706.ts
-#EXTINF:-1,DE | Fox hd
-http://serverp3.com:8080/live/ihsan1/ihsan1/8695.ts
-#EXTINF:-1,DE | Fox Serie
-http://serverp3.com:8080/live/ihsan1/ihsan1/8694.ts
-#EXTINF:-1,DE | HEIMAT KANAL
-http://serverp3.com:8080/live/ihsan1/ihsan1/8662.ts
-#EXTINF:-1,DE | HISTORY CHANNEL HD
-http://serverp3.com:8080/live/ihsan1/ihsan1/8672.ts
-#EXTINF:-1,DE | KIKA
-http://serverp3.com:8080/live/ihsan1/ihsan1/8739.ts
-#EXTINF:-1,DE | N 24
-http://serverp3.com:8080/live/ihsan1/ihsan1/8705.ts
-#EXTINF:-1,DE | NATIONAL GEOGRAPHIC
-http://serverp3.com:8080/live/ihsan1/ihsan1/8659.ts
-#EXTINF:-1,DE | NDR HD
-http://serverp3.com:8080/live/ihsan1/ihsan1/8696.ts
-#EXTINF:-1,DE | NICK JR
-http://serverp3.com:8080/live/ihsan1/ihsan1/8666.ts
-#EXTINF:-1,DE | ORF1
-http://serverp3.com:8080/live/ihsan1/ihsan1/8703.ts
-#EXTINF:-1,DE | ORF2
-http://serverp3.com:8080/live/ihsan1/ihsan1/8674.ts
-#EXTINF:-1,DE | Pro7
-http://serverp3.com:8080/live/ihsan1/ihsan1/8737.ts
-#EXTINF:-1,DE | Pro7 MAXX / ProSiebenSat.1
-http://serverp3.com:8080/live/ihsan1/ihsan1/8738.ts
-#EXTINF:-1,DE | ProSieben / ProSiebenSat.1
-http://serverp3.com:8080/live/ihsan1/ihsan1/8698.ts
-#EXTINF:-1,DE | ROMANCE
-http://serverp3.com:8080/live/ihsan1/ihsan1/8690.ts
-#EXTINF:-1,DE | RTL Crime / SKY
-http://serverp3.com:8080/live/ihsan1/ihsan1/8733.ts
-#EXTINF:-1,DE | RTL HD / CBC
-http://serverp3.com:8080/live/ihsan1/ihsan1/8732.ts
-#EXTINF:-1,DE | RTL LIVING
-http://serverp3.com:8080/live/ihsan1/ihsan1/8736.ts
-#EXTINF:-1,DE | RTL NITRO/CBC
-http://serverp3.com:8080/live/ihsan1/ihsan1/8730.ts
-#EXTINF:-1,DE | RTL Passion / SKY
-http://serverp3.com:8080/live/ihsan1/ihsan1/8728.ts
-#EXTINF:-1,DE | RTL Television
-http://serverp3.com:8080/live/ihsan1/ihsan1/8735.ts
-#EXTINF:-1,DE | RTL2/CBC
-http://serverp3.com:8080/live/ihsan1/ihsan1/8731.ts
-#EXTINF:-1,DE | RTLII HD
-http://serverp3.com:8080/live/ihsan1/ihsan1/8734.ts
-#EXTINF:-1,DE | RTLplus
-http://serverp3.com:8080/live/ihsan1/ihsan1/8729.ts
-#EXTINF:-1,DE | SAT.1 Gold
-http://serverp3.com:8080/live/ihsan1/ihsan1/8711.ts
-#EXTINF:-1,DE | SAT.1 NRW / ProSiebenSat.1
-http://serverp3.com:8080/live/ihsan1/ihsan1/8710.ts
-#EXTINF:-1,DE | Sat1 HD
-http://serverp3.com:8080/live/ihsan1/ihsan1/8692.ts
-#EXTINF:-1,DE | Servus TV
-http://serverp3.com:8080/live/ihsan1/ihsan1/8697.ts
-#EXTINF:-1,DE | SIXX
-http://serverp3.com:8080/live/ihsan1/ihsan1/8663.ts
-#EXTINF:-1,DE | Sky Atlantic
-http://serverp3.com:8080/live/ihsan1/ihsan1/8720.ts
-#EXTINF:-1,DE | SKY BUNDESLIGA 2 HD !!! weekend only !!!
-http://serverp3.com:8080/live/ihsan1/ihsan1/9158.ts
-#EXTINF:-1,DE | SKY BUNDESLIGA 3 HD !!! weekend only !!!
-http://serverp3.com:8080/live/ihsan1/ihsan1/9157.ts
-#EXTINF:-1,DE | SKY BUNDESLIGA 4 HD !!! weekend only !!!
-http://serverp3.com:8080/live/ihsan1/ihsan1/9156.ts
-#EXTINF:-1,DE | SKY BUNDESLIGA 5 HD !!! weekend only !!!
-http://serverp3.com:8080/live/ihsan1/ihsan1/9155.ts
-#EXTINF:-1,DE | Sky Cinema
-http://serverp3.com:8080/live/ihsan1/ihsan1/8722.ts
-#EXTINF:-1,DE | Sky Cinema 1
-http://serverp3.com:8080/live/ihsan1/ihsan1/8717.ts
-#EXTINF:-1,DE | Sky Cinema Action
-http://serverp3.com:8080/live/ihsan1/ihsan1/8715.ts
-#EXTINF:-1,DE | Sky Cinema Comedy
-http://serverp3.com:8080/live/ihsan1/ihsan1/8723.ts
-#EXTINF:-1,DE | Sky Cinema Emotion
-http://serverp3.com:8080/live/ihsan1/ihsan1/8716.ts
-#EXTINF:-1,DE | Sky Cinema Hits
-http://serverp3.com:8080/live/ihsan1/ihsan1/8725.ts
-#EXTINF:-1,DE | Sky Cinema Nostalgie / SKY
-http://serverp3.com:8080/live/ihsan1/ihsan1/8724.ts
-#EXTINF:-1,DE | Sky Krimi / SKY
-http://serverp3.com:8080/live/ihsan1/ihsan1/8726.ts
-#EXTINF:-1,DE | SKY NATGEO WILD HD
-http://serverp3.com:8080/live/ihsan1/ihsan1/8712.ts
-#EXTINF:-1,DE | SKY SELECT 1 HD
-http://serverp3.com:8080/live/ihsan1/ihsan1/8682.ts
-#EXTINF:-1,DE | SKY SELECT 2 HD
-http://serverp3.com:8080/live/ihsan1/ihsan1/8681.ts
-#EXTINF:-1,DE | Sky Select 3 HD
-http://serverp3.com:8080/live/ihsan1/ihsan1/8680.ts
-#EXTINF:-1,DE | Sky Select 4 HD
-http://serverp3.com:8080/live/ihsan1/ihsan1/8679.ts
-#EXTINF:-1,DE | Sky Select 5 HD
-http://serverp3.com:8080/live/ihsan1/ihsan1/8678.ts
-#EXTINF:-1,DE | Sky Select 6 HD
-http://serverp3.com:8080/live/ihsan1/ihsan1/8677.ts
-#EXTINF:-1,DE | Sky Select 7 HD
-http://serverp3.com:8080/live/ihsan1/ihsan1/8676.ts
-#EXTINF:-1,DE | Sky Select 8HD
-http://serverp3.com:8080/live/ihsan1/ihsan1/8675.ts
-#EXTINF:-1,DE | SKY TNT FILME HD
-http://serverp3.com:8080/live/ihsan1/ihsan1/8713.ts
-#EXTINF:-1,DE | SKY TNT SERIES HD
-http://serverp3.com:8080/live/ihsan1/ihsan1/8714.ts
-#EXTINF:-1,DE | SkyAction
-http://serverp3.com:8080/live/ihsan1/ihsan1/8721.ts
-#EXTINF:-1,DE | SkyCinema
-http://serverp3.com:8080/live/ihsan1/ihsan1/8718.ts
-#EXTINF:-1,DE | SkyCinema24
-http://serverp3.com:8080/live/ihsan1/ihsan1/8719.ts
-#EXTINF:-1,DE | SKYSPORT AUSTRIA
-http://serverp3.com:8080/live/ihsan1/ihsan1/8685.ts
-#EXTINF:-1,DE | SPORT  1 HD
-http://serverp3.com:8080/live/ihsan1/ihsan1/8683.ts
-#EXTINF:-1,DE | SPORT1 US HD
-http://serverp3.com:8080/live/ihsan1/ihsan1/8684.ts
-#EXTINF:-1,DE | Srf1
-http://serverp3.com:8080/live/ihsan1/ihsan1/8691.ts
-#EXTINF:-1,DE | SUPER RTL
-http://serverp3.com:8080/live/ihsan1/ihsan1/8727.ts
-#EXTINF:-1,DE | SYFY
-http://serverp3.com:8080/live/ihsan1/ihsan1/8665.ts
-#EXTINF:-1,DE | TLC
-http://serverp3.com:8080/live/ihsan1/ihsan1/8740.ts
-#EXTINF:-1,DE | TNT Serie HD
-http://serverp3.com:8080/live/ihsan1/ihsan1/8670.ts
-#EXTINF:-1,DE | VOX HD
-http://serverp3.com:8080/live/ihsan1/ihsan1/8701.ts
-#EXTINF:-1,DE | WDR
-http://serverp3.com:8080/live/ihsan1/ihsan1/8664.ts
-#EXTINF:-1,DE | WDRHD
-http://serverp3.com:8080/live/ihsan1/ihsan1/8688.ts
-#EXTINF:-1,DE | ZDF
-http://serverp3.com:8080/live/ihsan1/ihsan1/8700.ts
-#EXTINF:-1,DE | ZDF info
-http://serverp3.com:8080/live/ihsan1/ihsan1/8699.ts
-#EXTINF:-1,DE | zdf neo/ZDFvision
-http://serverp3.com:8080/live/ihsan1/ihsan1/8689.ts
-#EXTINF:-1,DE | 3 SAT HD
-http://serverp3.com:8080/live/ihsan1/ihsan1/9270.ts
-#EXTINF:-1,DE | ANIMAL PLANET HD
-http://serverp3.com:8080/live/ihsan1/ihsan1/9271.ts
-#EXTINF:-1,DE | DISCOVERY CHANNEL
-http://serverp3.com:8080/live/ihsan1/ihsan1/9272.ts
-#EXTINF:-1,DE | EUROSPORT 2 XTRA
-http://serverp3.com:8080/live/ihsan1/ihsan1/9273.ts
+#EXTINF:-1,de:_Sky Cinema +1 HD
+http://mona.dyndns.org:25461/live/tuba/tuba/1411.ts
+#EXTINF:-1,de:_Sky Cinema +24 HD
+http://mona.dyndns.org:25461/live/tuba/tuba/1412.ts
+#EXTINF:-1,de:_Sky Cinema Emotion
+http://mona.dyndns.org:25461/live/tuba/tuba/1413.ts
+#EXTINF:-1,de:_Sky Cinema Family
+http://mona.dyndns.org:25461/live/tuba/tuba/1414.ts
+#EXTINF:-1,de:_Sky Cinema Family HD
+http://mona.dyndns.org:25461/live/tuba/tuba/1415.ts
+#EXTINF:-1,de:_Sky Cinema Fast & Furious
+http://mona.dyndns.org:25461/live/tuba/tuba/1416.ts
+#EXTINF:-1,de:_Sky Cinema HD
+http://mona.dyndns.org:25461/live/tuba/tuba/1417.ts
+#EXTINF:-1,de:_Sky Cinema Nostalgie
+http://mona.dyndns.org:25461/live/tuba/tuba/1418.ts
+#EXTINF:-1,de:_ Sky Cinema
+http://mona.dyndns.org:25461/live/tuba/tuba/1479.ts
+#EXTINF:-1,de:_ Sky Cinema +1
+http://mona.dyndns.org:25461/live/tuba/tuba/1480.ts
+#EXTINF:-1,de:_ Sky Cinema +24
+http://mona.dyndns.org:25461/live/tuba/tuba/1481.ts
+#EXTINF:-1,de:_ Sky Cinema Action
+http://mona.dyndns.org:25461/live/tuba/tuba/1482.ts
+#EXTINF:-1,de:_ Sky Cinema Action HD
+http://mona.dyndns.org:25461/live/tuba/tuba/1465.ts
+#EXTINF:-1,de:_ Sky Cinema Comedy
+http://mona.dyndns.org:25461/live/tuba/tuba/1483.ts
+#EXTINF:-1,de:_ Sky Cinema Fast & Furious HD
+http://mona.dyndns.org:25461/live/tuba/tuba/1471.ts
+#EXTINF:-1,de:_ Sky Cinema Superhelden
+http://mona.dyndns.org:25461/live/tuba/tuba/1798.ts
+#EXTINF:-1,▂ ▃ ▅ ▇ █ ▓ ▒ ░ HD+ DE ░ ▒ ▓ █ ▇ ▅ ▃ ▂
+http://mona.dyndns.org:25461/live/tuba/tuba/1975.ts
+#EXTINF:-1,DE: Das Erste
+http://mona.dyndns.org:25461/live/tuba/tuba/1814.ts
+#EXTINF:-1,DE: SAT 1 GOLD HD
+http://mona.dyndns.org:25461/live/tuba/tuba/1841.ts
+#EXTINF:-1,DE: RTL Living HD
+http://mona.dyndns.org:25461/live/tuba/tuba/1837.ts
+#EXTINF:-1,de:_ Pro7 MAXX HD
+http://mona.dyndns.org:25461/live/tuba/tuba/1475.ts
+#EXTINF:-1,de:_ ProSieben HD
+http://mona.dyndns.org:25461/live/tuba/tuba/1474.ts
+#EXTINF:-1,de:_ RTL Crime HD
+http://mona.dyndns.org:25461/live/tuba/tuba/1504.ts
+#EXTINF:-1,de:_ RTL Television
+http://mona.dyndns.org:25461/live/tuba/tuba/1508.ts
+#EXTINF:-1,de:_ RTL2
+http://mona.dyndns.org:25461/live/tuba/tuba/1509.ts
+#EXTINF:-1,de:_ RTLplus
+http://mona.dyndns.org:25461/live/tuba/tuba/1510.ts
+#EXTINF:-1,de:_ SIXX HD
+http://mona.dyndns.org:25461/live/tuba/tuba/1473.ts
+#EXTINF:-1,de:_ SUPER RTL
+http://mona.dyndns.org:25461/live/tuba/tuba/1511.ts
+#EXTINF:-1,de:_ SYFY HD
+http://mona.dyndns.org:25461/live/tuba/tuba/1472.ts
+#EXTINF:-1,de:_DMAX HD
+http://mona.dyndns.org:25461/live/tuba/tuba/1960.ts
+#EXTINF:-1,de:_RTL Crime
+http://mona.dyndns.org:25461/live/tuba/tuba/1404.ts
+#EXTINF:-1,de:_RTL HD
+http://mona.dyndns.org:25461/live/tuba/tuba/1405.ts
+#EXTINF:-1,de:_RTL Passion
+http://mona.dyndns.org:25461/live/tuba/tuba/1406.ts
+#EXTINF:-1,de:_RTLII HD
+http://mona.dyndns.org:25461/live/tuba/tuba/1407.ts
+#EXTINF:-1,de:_SAT.1 Gold HD
+http://mona.dyndns.org:25461/live/tuba/tuba/1972.ts
+#EXTINF:-1,de:_SAT.1 HD
+http://mona.dyndns.org:25461/live/tuba/tuba/1456.ts
+#EXTINF:-1,de:_SYFY
+http://mona.dyndns.org:25461/live/tuba/tuba/1426.ts
+#EXTINF:-1,de:_TELE 5 HD
+http://mona.dyndns.org:25461/live/tuba/tuba/1961.ts
+#EXTINF:-1,de:_VOX HD
+http://mona.dyndns.org:25461/live/tuba/tuba/1431.ts
+#EXTINF:-1,DE: ARD HD
+http://mona.dyndns.org:25461/live/tuba/tuba/1827.ts
+#EXTINF:-1,DE: ZDF HD
+http://mona.dyndns.org:25461/live/tuba/tuba/1829.ts
+#EXTINF:-1,▂ ▃ ▅ ▇ █ ▓ ▒ ░ Pozostale DE ░ ▒ ▓ █ ▇ ▅ ▃ ▂
+http://mona.dyndns.org:25461/live/tuba/tuba/1976.ts
+#EXTINF:-1,DE: AXN HD
+http://mona.dyndns.org:25461/live/tuba/tuba/1839.ts
+#EXTINF:-1,DE: Ndr HD
+http://mona.dyndns.org:25461/live/tuba/tuba/1830.ts
+#EXTINF:-1,DE: One HD
+http://mona.dyndns.org:25461/live/tuba/tuba/1813.ts
+#EXTINF:-1,DE: Orf 1
+http://mona.dyndns.org:25461/live/tuba/tuba/1836.ts
+#EXTINF:-1,DE: ORF 1 HD
+http://mona.dyndns.org:25461/live/tuba/tuba/1831.ts
+#EXTINF:-1,DE: ORF 2 HD
+http://mona.dyndns.org:25461/live/tuba/tuba/1832.ts
+#EXTINF:-1,DE: Sky 1 HD
+http://mona.dyndns.org:25461/live/tuba/tuba/1815.ts
+#EXTINF:-1,DE: SWR HD
+http://mona.dyndns.org:25461/live/tuba/tuba/1805.ts
+#EXTINF:-1,DE: Zee One HD
+http://mona.dyndns.org:25461/live/tuba/tuba/1816.ts
+#EXTINF:-1,de:_ A&E
+http://mona.dyndns.org:25461/live/tuba/tuba/1379.ts
+#EXTINF:-1,de:_ kabel eins HD
+http://mona.dyndns.org:25461/live/tuba/tuba/1469.ts
+#EXTINF:-1,de:_ TNT Comedy HD
+http://mona.dyndns.org:25461/live/tuba/tuba/1464.ts
+#EXTINF:-1,de:_ TNT Serie HD
+http://mona.dyndns.org:25461/live/tuba/tuba/1468.ts
+#EXTINF:-1,de:_ VOX
+http://mona.dyndns.org:25461/live/tuba/tuba/1513.ts
+#EXTINF:-1,de:_E! Entertainm. HD
+http://mona.dyndns.org:25461/live/tuba/tuba/1392.ts
+#EXTINF:-1,de:_Fox Serie
+http://mona.dyndns.org:25461/live/tuba/tuba/1393.ts
+#EXTINF:-1,de:_Heimatkanal
+http://mona.dyndns.org:25461/live/tuba/tuba/1394.ts
+#EXTINF:-1,de:_Romance TV
+http://mona.dyndns.org:25461/live/tuba/tuba/1403.ts
+#EXTINF:-1,de:_Spiegel Geschichte
+http://mona.dyndns.org:25461/live/tuba/tuba/1425.ts
+#EXTINF:-1,de:_Sky Atlantic
+http://mona.dyndns.org:25461/live/tuba/tuba/1408.ts
+#EXTINF:-1,de:_Sky Atlantic HD
+http://mona.dyndns.org:25461/live/tuba/tuba/1409.ts
+#EXTINF:-1,de:_Sky Krimi
+http://mona.dyndns.org:25461/live/tuba/tuba/1419.ts
+#EXTINF:-1,de:_TNT Film (TCM)
+http://mona.dyndns.org:25461/live/tuba/tuba/1428.ts
+#EXTINF:-1,de:_TNT Serie
+http://mona.dyndns.org:25461/live/tuba/tuba/1429.ts
+#EXTINF:-1,de:_Universal HD
+http://mona.dyndns.org:25461/live/tuba/tuba/1430.ts
+#EXTINF:-1,de:_13th Street
+http://mona.dyndns.org:25461/live/tuba/tuba/1377.ts
+#EXTINF:-1,de:_13th Street HD
+http://mona.dyndns.org:25461/live/tuba/tuba/1378.ts
+#EXTINF:-1,de:_ NITRO
+http://mona.dyndns.org:25461/live/tuba/tuba/1507.ts
+#EXTINF:-1,de:_Kinowelt TV
+http://mona.dyndns.org:25461/live/tuba/tuba/1396.ts
+#EXTINF:-1,de:_Fashion
+http://mona.dyndns.org:25461/live/tuba/tuba/1970.ts
+#EXTINF:-1,de:_Beate-Uhse.TV
+http://mona.dyndns.org:25461/live/tuba/tuba/1380.ts
+#EXTINF:-1,▂ ▃ ▅ ▇ █ ▓ ▒ ░ Informacyjne DE ░ ▒ ▓ █ ▇ ▅ ▃ ▂
+http://mona.dyndns.org:25461/live/tuba/tuba/1978.ts
+#EXTINF:-1,DE: Tagesschau 24
+http://mona.dyndns.org:25461/live/tuba/tuba/1838.ts
+#EXTINF:-1,DE: WR HD
+http://mona.dyndns.org:25461/live/tuba/tuba/1833.ts
+#EXTINF:-1,DE: ZDF INFO HD
+http://mona.dyndns.org:25461/live/tuba/tuba/1834.ts
+#EXTINF:-1,DE: ZDF NEO HD
+http://mona.dyndns.org:25461/live/tuba/tuba/1835.ts
+#EXTINF:-1,de:_ n-tv
+http://mona.dyndns.org:25461/live/tuba/tuba/1514.ts
+#EXTINF:-1,de:_1-2-3.tv HD
+http://mona.dyndns.org:25461/live/tuba/tuba/1967.ts
+#EXTINF:-1,de:_HSE24 EXTRA HD
+http://mona.dyndns.org:25461/live/tuba/tuba/1968.ts
+#EXTINF:-1,de:_n-tv HD
+http://mona.dyndns.org:25461/live/tuba/tuba/1398.ts
+#EXTINF:-1,de:_QVC2 HD
+http://mona.dyndns.org:25461/live/tuba/tuba/1965.ts
+#EXTINF:-1,de:_sonnenklar.TV HD
+http://mona.dyndns.org:25461/live/tuba/tuba/1973.ts
+#EXTINF:-1,▂ ▃ ▅ ▇ █ ▓ ▒ ░ SPORT DE ░ ▒ ▓ █ ▇ ▅ ▃ ▂
+http://mona.dyndns.org:25461/live/tuba/tuba/1979.ts
+#EXTINF:-1,de:_ Sky Sport Bundesliga 1 HD
+http://mona.dyndns.org:25461/live/tuba/tuba/1466.ts
+#EXTINF:-1,de:_ Sky Sport Bundesliga 2
+http://mona.dyndns.org:25461/live/tuba/tuba/1462.ts
+#EXTINF:-1,de:_ Sky Sport Bundesliga 2 HD
+http://mona.dyndns.org:25461/live/tuba/tuba/1515.ts
+#EXTINF:-1,de:_ Sky Sport Bundesliga 3 HD
+http://mona.dyndns.org:25461/live/tuba/tuba/1463.ts
+#EXTINF:-1,de:_Sky Sport Bundesliga 1
+http://mona.dyndns.org:25461/live/tuba/tuba/1424.ts
+#EXTINF:-1,de:_Sky Sport Bundesliga 4 HD
+http://mona.dyndns.org:25461/live/tuba/tuba/1460.ts
+#EXTINF:-1,de:_Sky Sport Bundesliga 5
+http://mona.dyndns.org:25461/live/tuba/tuba/1432.ts
+#EXTINF:-1,de:_Sky Sport Bundesliga 5 HD
+http://mona.dyndns.org:25461/live/tuba/tuba/1461.ts
+#EXTINF:-1,de:_Sky Sport 1
+http://mona.dyndns.org:25461/live/tuba/tuba/1420.ts
+#EXTINF:-1,de:_Sky Sport 1 HD
+http://mona.dyndns.org:25461/live/tuba/tuba/1421.ts
+#EXTINF:-1,de:_Sky Sport 2 HD
+http://mona.dyndns.org:25461/live/tuba/tuba/1422.ts
+#EXTINF:-1,de:_ Sky Sport Austria HD
+http://mona.dyndns.org:25461/live/tuba/tuba/1506.ts
+#EXTINF:-1,de:_ Eurosport 1 HD
+http://mona.dyndns.org:25461/live/tuba/tuba/1477.ts
+#EXTINF:-1,de:_ Eurosport 2 HD
+http://mona.dyndns.org:25461/live/tuba/tuba/1503.ts
+#EXTINF:-1,de:_Eurosport 1 HD
+http://mona.dyndns.org:25461/live/tuba/tuba/1441.ts
+#EXTINF:-1,de:_Eurosport 2 HD Xtra
+http://mona.dyndns.org:25461/live/tuba/tuba/1971.ts
+#EXTINF:-1,de:_Sky Sport Austria
+http://mona.dyndns.org:25461/live/tuba/tuba/1423.ts
+#EXTINF:-1,de:_SPORT1 HD
+http://mona.dyndns.org:25461/live/tuba/tuba/1963.ts
+#EXTINF:-1,de:_ Sky Sport News HD
+http://mona.dyndns.org:25461/live/tuba/tuba/1470.ts
+#EXTINF:-1,de:_ Sport1+ HD
+http://mona.dyndns.org:25461/live/tuba/tuba/1467.ts
+#EXTINF:-1,DE: ORF Sport
+http://mona.dyndns.org:25461/live/tuba/tuba/1840.ts
+#EXTINF:-1,DE: SPORTDIGITAL HD
+http://mona.dyndns.org:25461/live/tuba/tuba/1823.ts
+#EXTINF:-1,de:_Motorvision TV
+http://mona.dyndns.org:25461/live/tuba/tuba/1397.ts
+#EXTINF:-1,▂ ▃ ▅ ▇ █ ▓ ▒ ░ KINDE DE ░ ▒ ▓ █ ▇ ▅ ▃ ▂
+http://mona.dyndns.org:25461/live/tuba/tuba/1980.ts
+#EXTINF:-1,de:_ Boomerang
+http://mona.dyndns.org:25461/live/tuba/tuba/1478.ts
+#EXTINF:-1,de:_ TOGGO plus
+http://mona.dyndns.org:25461/live/tuba/tuba/1512.ts
+#EXTINF:-1,DE: KIKA HD
+http://mona.dyndns.org:25461/live/tuba/tuba/1828.ts
+#EXTINF:-1,de:_Boomerang
+http://mona.dyndns.org:25461/live/tuba/tuba/1382.ts
+#EXTINF:-1,de:_Cartoon Network
+http://mona.dyndns.org:25461/live/tuba/tuba/1383.ts
+#EXTINF:-1,de:_Disney Channel HD
+http://mona.dyndns.org:25461/live/tuba/tuba/1969.ts
+#EXTINF:-1,de:_Disney Cinemagic
+http://mona.dyndns.org:25461/live/tuba/tuba/1387.ts
+#EXTINF:-1,de:_Disney Cinemagic HD
+http://mona.dyndns.org:25461/live/tuba/tuba/1388.ts
+#EXTINF:-1,de:_Disney Junior
+http://mona.dyndns.org:25461/live/tuba/tuba/1389.ts
+#EXTINF:-1,de:_Disney Junior HD
+http://mona.dyndns.org:25461/live/tuba/tuba/1390.ts
+#EXTINF:-1,de:_Disney XD
+http://mona.dyndns.org:25461/live/tuba/tuba/1391.ts
+#EXTINF:-1,de:_Junior
+http://mona.dyndns.org:25461/live/tuba/tuba/1395.ts
+#EXTINF:-1,▂ ▃ ▅ ▇ █ ▓ ▒ ░ MUSICK DE ░ ▒ ▓ █ ▇ ▅ ▃ ▂
+http://mona.dyndns.org:25461/live/tuba/tuba/1981.ts
+#EXTINF:-1,de:_Deluxe Music HD
+http://mona.dyndns.org:25461/live/tuba/tuba/1966.ts
+#EXTINF:-1,de:_Juwelo HD
+http://mona.dyndns.org:25461/live/tuba/tuba/1962.ts
+#EXTINF:-1,de:_Classica
+http://mona.dyndns.org:25461/live/tuba/tuba/1384.ts
+#EXTINF:-1,▂ ▃ ▅ ▇ █ ▓ ▒ ░ Dokumetalne+ Przyroda DE ░ ▒ ▓ █ ▇ ▅ ▃ ▂
+http://mona.dyndns.org:25461/live/tuba/tuba/1982.ts
+#EXTINF:-1,de:_Discovery Channel
+http://mona.dyndns.org:25461/live/tuba/tuba/1385.ts
+#EXTINF:-1,de:_Discovery HD
+http://mona.dyndns.org:25461/live/tuba/tuba/1386.ts
+#EXTINF:-1,de:_Nat Geo Wild HD
+http://mona.dyndns.org:25461/live/tuba/tuba/1399.ts
+#EXTINF:-1,de:_NatGeo HD
+http://mona.dyndns.org:25461/live/tuba/tuba/1400.ts
+#EXTINF:-1,de:_NatGeo Wild
+http://mona.dyndns.org:25461/live/tuba/tuba/1401.ts
+#EXTINF:-1,de:_National Geographic
+http://mona.dyndns.org:25461/live/tuba/tuba/1402.ts
+#EXTINF:-1,de:_ History HD
+http://mona.dyndns.org:25461/live/tuba/tuba/1502.ts
+#EXTINF:-1,▂ ▃ ▅ ▇ █ ▓ ▒ ░ Sky Select DE ░ ▒ ▓ █ ▇ ▅ ▃ ▂
+http://mona.dyndns.org:25461/live/tuba/tuba/1977.ts
+#EXTINF:-1,DE: Sky Select 1
+http://mona.dyndns.org:25461/live/tuba/tuba/1817.ts
+#EXTINF:-1,DE: Sky Select 2
+http://mona.dyndns.org:25461/live/tuba/tuba/1818.ts
+#EXTINF:-1,DE: Sky Select 3
+http://mona.dyndns.org:25461/live/tuba/tuba/1824.ts
+#EXTINF:-1,DE: Sky Select 4
+http://mona.dyndns.org:25461/live/tuba/tuba/1819.ts
+#EXTINF:-1,DE: Sky Select 5
+http://mona.dyndns.org:25461/live/tuba/tuba/1820.ts
+#EXTINF:-1,DE: Sky Select 6
+http://mona.dyndns.org:25461/live/tuba/tuba/1821.ts
+#EXTINF:-1,DE: Sky Select 7
+http://mona.dyndns.org:25461/live/tuba/tuba/1825.ts
+#EXTINF:-1,DE: Sky Select 8
+http://mona.dyndns.org:25461/live/tuba/tuba/1826.ts
+#EXTINF:-1,DE: Sky Select 9
+http://mona.dyndns.org:25461/live/tuba/tuba/1822.ts
+#EXTINF:-1,DE: FILM CLUB HD 1
+http://mona.dyndns.org:25461/live/tuba/tuba/1804.ts
+#EXTINF:-1,DE: FILM CLUB HD 2
+http://mona.dyndns.org:25461/live/tuba/tuba/1803.ts
+#EXTINF:-1,DE: FILM CLUB HD 3
+http://mona.dyndns.org:25461/live/tuba/tuba/1802.ts
+#EXTINF:-1,DE: FILM CLUB HD 4
+http://mona.dyndns.org:25461/live/tuba/tuba/1801.ts
+#EXTINF:-1,DE: FILM CLUB HD 5
+http://mona.dyndns.org:25461/live/tuba/tuba/1800.ts
+#EXTINF:-1,DE: POPCORN SELECT 1
+http://mona.dyndns.org:25461/live/tuba/tuba/1812.ts
+#EXTINF:-1,DE: POPCORN SELECT 6
+http://mona.dyndns.org:25461/live/tuba/tuba/1811.ts
+#EXTINF:-1,DE: SELECT POPCORN 2
+http://mona.dyndns.org:25461/live/tuba/tuba/1810.ts
+#EXTINF:-1,DE: SELECT POPCORN 3
+http://mona.dyndns.org:25461/live/tuba/tuba/1809.ts
+#EXTINF:-1,DE: SELECT POPCORN 4
+http://mona.dyndns.org:25461/live/tuba/tuba/1808.ts
+#EXTINF:-1,DE: SELECT POPCORN 5
+http://mona.dyndns.org:25461/live/tuba/tuba/1807.ts
 
-#EXTINF:-1,DE:WDR HD
-http://78.31.67.188:8000/live/DE54833/54833DE/56.ts
+#EXTINF:-1,DE: ZDF HD
+http://kingofiptv.mountservers.com:7020/live/shs.malta/CptWJlAKQ3faoF7A/171.ts
+#EXTINF:-1,DE:_WERNIGERODE_TV
+http://kingofiptv.mountservers.com:7020/live/shs.malta/CptWJlAKQ3faoF7A/172.ts
+#EXTINF:-1,DE:_WELT_DER_WUNDER
+http://kingofiptv.mountservers.com:7020/live/shs.malta/CptWJlAKQ3faoF7A/173.ts
+#EXTINF:-1,DE:_WDR_HD
+http://kingofiptv.mountservers.com:7020/live/shs.malta/CptWJlAKQ3faoF7A/174.ts
+#EXTINF:-1,DE:_VOX_HD
+http://kingofiptv.mountservers.com:7020/live/shs.malta/CptWJlAKQ3faoF7A/175.ts
+#EXTINF:-1,DE:_SUPER_RTL_HD
+http://kingofiptv.mountservers.com:7020/live/shs.malta/CptWJlAKQ3faoF7A/186.ts
+#EXTINF:-1,DE:_STENDAL_TV
+http://kingofiptv.mountservers.com:7020/live/shs.malta/CptWJlAKQ3faoF7A/187.ts
+#EXTINF:-1,DE:_SKY_TNT_SERIES_HD
+http://kingofiptv.mountservers.com:7020/live/shs.malta/CptWJlAKQ3faoF7A/189.ts
+#EXTINF:-1,DE:_SKY_TNT_FILME_HD
+http://kingofiptv.mountservers.com:7020/live/shs.malta/CptWJlAKQ3faoF7A/190.ts
+#EXTINF:-1,DE:_SKY_SYFY_HD
+http://kingofiptv.mountservers.com:7020/live/shs.malta/CptWJlAKQ3faoF7A/191.ts
+#EXTINF:-1,DE:_SKY_SPORT_NEWS_HD
+http://kingofiptv.mountservers.com:7020/live/shs.malta/CptWJlAKQ3faoF7A/192.ts
+#EXTINF:-1,DE:_SKY_SPORT_2_HD
+http://kingofiptv.mountservers.com:7020/live/shs.malta/CptWJlAKQ3faoF7A/194.ts
+#EXTINF:-1,DE:_SKY_SPORT_1_HD
+http://kingofiptv.mountservers.com:7020/live/shs.malta/CptWJlAKQ3faoF7A/193.ts
+#EXTINF:-1,DE:_SKY_SELECT_9_HD
+http://kingofiptv.mountservers.com:7020/live/shs.malta/CptWJlAKQ3faoF7A/203.ts
+#EXTINF:-1,DE:_SKY_SELECT_8_HD
+http://kingofiptv.mountservers.com:7020/live/shs.malta/CptWJlAKQ3faoF7A/202.ts
+#EXTINF:-1,DE:_SKY_SELECT_7_HD
+http://kingofiptv.mountservers.com:7020/live/shs.malta/CptWJlAKQ3faoF7A/201.ts
+#EXTINF:-1,DE:_SKY_SELECT_6_HD
+http://kingofiptv.mountservers.com:7020/live/shs.malta/CptWJlAKQ3faoF7A/200.ts
+#EXTINF:-1,DE:_SKY_SELECT_5_HD
+http://kingofiptv.mountservers.com:7020/live/shs.malta/CptWJlAKQ3faoF7A/199.ts
+#EXTINF:-1,DE:_SKY_SELECT_4_HD
+http://kingofiptv.mountservers.com:7020/live/shs.malta/CptWJlAKQ3faoF7A/198.ts
+#EXTINF:-1,DE:_SKY_SELECT_3_HD
+http://kingofiptv.mountservers.com:7020/live/shs.malta/CptWJlAKQ3faoF7A/197.ts
+#EXTINF:-1,DE:_SKY_SELECT_2_HD
+http://kingofiptv.mountservers.com:7020/live/shs.malta/CptWJlAKQ3faoF7A/196.ts
+#EXTINF:-1,DE:_SKY_SELECT_10_HD
+http://kingofiptv.mountservers.com:7020/live/shs.malta/CptWJlAKQ3faoF7A/204.ts
+#EXTINF:-1,DE:_SKY_SELECT_1_HD
+http://kingofiptv.mountservers.com:7020/live/shs.malta/CptWJlAKQ3faoF7A/195.ts
+#EXTINF:-1,DE: SKY NATIONAL GEOGRAPHIC HD
+http://kingofiptv.mountservers.com:7020/live/shs.malta/CptWJlAKQ3faoF7A/205.ts
+#EXTINF:-1,DE: SKY NATGEO WILD HD
+http://kingofiptv.mountservers.com:7020/live/shs.malta/CptWJlAKQ3faoF7A/206.ts
+#EXTINF:-1,DE: SKY MGM HD
+http://kingofiptv.mountservers.com:7020/live/shs.malta/CptWJlAKQ3faoF7A/207.ts
+#EXTINF:-1,DE: SKY KRIMI HD
+http://kingofiptv.mountservers.com:7020/live/shs.malta/CptWJlAKQ3faoF7A/208.ts
+#EXTINF:-1,DE: SKY HITS HD
+http://kingofiptv.mountservers.com:7020/live/shs.malta/CptWJlAKQ3faoF7A/209.ts
+#EXTINF:-1,DE: SKY HISTORY CHANNEL HD
+http://kingofiptv.mountservers.com:7020/live/shs.malta/CptWJlAKQ3faoF7A/210.ts
+#EXTINF:-1,DE: SKY FOX HD
+http://kingofiptv.mountservers.com:7020/live/shs.malta/CptWJlAKQ3faoF7A/211.ts
+#EXTINF:-1,DE: SKY DMAX HD
+http://kingofiptv.mountservers.com:7020/live/shs.malta/CptWJlAKQ3faoF7A/212.ts
+#EXTINF:-1,DE: SKY DISNEY CINEMAGIC
+http://kingofiptv.mountservers.com:7020/live/shs.malta/CptWJlAKQ3faoF7A/213.ts
+#EXTINF:-1,DE: SKY DISCOVERY CHANNEL HD
+http://kingofiptv.mountservers.com:7020/live/shs.malta/CptWJlAKQ3faoF7A/214.ts
+#EXTINF:-1,DE: SKY COMEDY HD
+http://kingofiptv.mountservers.com:7020/live/shs.malta/CptWJlAKQ3faoF7A/215.ts
+#EXTINF:-1,DE: SKY CINEMA HD
+http://kingofiptv.mountservers.com:7020/live/shs.malta/CptWJlAKQ3faoF7A/216.ts
+#EXTINF:-1,DE: SKY CINEMA 24 HD
+http://kingofiptv.mountservers.com:7020/live/shs.malta/CptWJlAKQ3faoF7A/217.ts
+#EXTINF:-1,DE: SKY CINEMA 1 HD
+http://kingofiptv.mountservers.com:7020/live/shs.malta/CptWJlAKQ3faoF7A/218.ts
+#EXTINF:-1,DE: SKY BUNDESLIGA 9 HD
+http://kingofiptv.mountservers.com:7020/live/shs.malta/CptWJlAKQ3faoF7A/226.ts
+#EXTINF:-1,DE: SKY BUNDESLIGA 8 HD
+http://kingofiptv.mountservers.com:7020/live/shs.malta/CptWJlAKQ3faoF7A/227.ts
+#EXTINF:-1,DE: SKY BUNDESLIGA 7 HD
+http://kingofiptv.mountservers.com:7020/live/shs.malta/CptWJlAKQ3faoF7A/224.ts
+#EXTINF:-1,DE: SKY BUNDESLIGA 6 HD
+http://kingofiptv.mountservers.com:7020/live/shs.malta/CptWJlAKQ3faoF7A/223.ts
+#EXTINF:-1,DE: SKY BUNDESLIGA 5 HD
+http://kingofiptv.mountservers.com:7020/live/shs.malta/CptWJlAKQ3faoF7A/225.ts
+#EXTINF:-1,DE: SKY BUNDESLIGA 4 HD
+http://kingofiptv.mountservers.com:7020/live/shs.malta/CptWJlAKQ3faoF7A/222.ts
+#EXTINF:-1,DE: SKY BUNDESLIGA 3 HD
+http://kingofiptv.mountservers.com:7020/live/shs.malta/CptWJlAKQ3faoF7A/221.ts
+#EXTINF:-1,DE: SKY BUNDESLIGA 2 HD
+http://kingofiptv.mountservers.com:7020/live/shs.malta/CptWJlAKQ3faoF7A/220.ts
+#EXTINF:-1,DE: SKY BUNDESLIGA 10 HD
+http://kingofiptv.mountservers.com:7020/live/shs.malta/CptWJlAKQ3faoF7A/228.ts
+#EXTINF:-1,DE: SKY BUNDESLIGA 1 HD
+http://kingofiptv.mountservers.com:7020/live/shs.malta/CptWJlAKQ3faoF7A/219.ts
+#EXTINF:-1,DE: SKY AXN ACTION HD
+http://kingofiptv.mountservers.com:7020/live/shs.malta/CptWJlAKQ3faoF7A/229.ts
+#EXTINF:-1,DE: SKY ATLANTIC HD
+http://kingofiptv.mountservers.com:7020/live/shs.malta/CptWJlAKQ3faoF7A/230.ts
+#EXTINF:-1,DE: SKY ACTION HD
+http://kingofiptv.mountservers.com:7020/live/shs.malta/CptWJlAKQ3faoF7A/231.ts
+#EXTINF:-1,DE: SKY 13 STREET HD
+http://kingofiptv.mountservers.com:7020/live/shs.malta/CptWJlAKQ3faoF7A/232.ts
+#EXTINF:-1,DE: SERVUS TV HD
+http://kingofiptv.mountservers.com:7020/live/shs.malta/CptWJlAKQ3faoF7A/233.ts
+#EXTINF:-1,DE: SAT 1 HD
+http://kingofiptv.mountservers.com:7020/live/shs.malta/CptWJlAKQ3faoF7A/234.ts
+#EXTINF:-1,DE: ViVA
+http://kingofiptv.mountservers.com:7020/live/shs.malta/CptWJlAKQ3faoF7A/235.ts
+#EXTINF:-1,DE: RTL PASSION
+http://kingofiptv.mountservers.com:7020/live/shs.malta/CptWJlAKQ3faoF7A/236.ts
+#EXTINF:-1,DE: RTL HD
+http://kingofiptv.mountservers.com:7020/live/shs.malta/CptWJlAKQ3faoF7A/237.ts
+#EXTINF:-1,DE: RTL 2 HD
+http://kingofiptv.mountservers.com:7020/live/shs.malta/CptWJlAKQ3faoF7A/238.ts
+#EXTINF:-1,DE: Romance TV HD
+http://kingofiptv.mountservers.com:7020/live/shs.malta/CptWJlAKQ3faoF7A/240.ts
+#EXTINF:-1,DE: PRO 7 HD
+http://kingofiptv.mountservers.com:7020/live/shs.malta/CptWJlAKQ3faoF7A/241.ts
+#EXTINF:-1,DE: NDR HD
+http://kingofiptv.mountservers.com:7020/live/shs.malta/CptWJlAKQ3faoF7A/242.ts
+#EXTINF:-1,DE: N24 HD
+http://kingofiptv.mountservers.com:7020/live/shs.malta/CptWJlAKQ3faoF7A/243.ts
+#EXTINF:-1,DE: KIKA HD
+http://kingofiptv.mountservers.com:7020/live/shs.malta/CptWJlAKQ3faoF7A/246.ts
+#EXTINF:-1,DE: KABEL 1 HD
+http://kingofiptv.mountservers.com:7020/live/shs.malta/CptWJlAKQ3faoF7A/248.ts
+#EXTINF:-1,DE: EURONEWS HD
+http://kingofiptv.mountservers.com:7020/live/shs.malta/CptWJlAKQ3faoF7A/250.ts
+#EXTINF:-1,DE: DAS ERSTE HD
+http://kingofiptv.mountservers.com:7020/live/shs.malta/CptWJlAKQ3faoF7A/251.ts
+#EXTINF:-1,DE: ARTE
+http://kingofiptv.mountservers.com:7020/live/shs.malta/CptWJlAKQ3faoF7A/253.ts
+#EXTINF:-1,DE: ARD HD
+http://kingofiptv.mountservers.com:7020/live/shs.malta/CptWJlAKQ3faoF7A/254.ts
+#EXTINF:-1,DE: ORF 1 HD
+http://kingofiptv.mountservers.com:7020/live/shs.malta/CptWJlAKQ3faoF7A/1326.ts
+#EXTINF:-1,DE: ORF 2 HD
+http://kingofiptv.mountservers.com:7020/live/shs.malta/CptWJlAKQ3faoF7A/1327.ts
+
+#EXTINF:-1,DE: 13th Street
+http://178.33.230.107:8000/live/suisse/suisse/8648.ts
+#EXTINF:-1,DE: ARD
+http://178.33.230.107:8000/live/suisse/suisse/8652.ts
+#EXTINF:-1,DE: AXN HD Germany
+http://178.33.230.107:8000/live/suisse/suisse/8653.ts
+#EXTINF:-1,DE: Boomerang
+http://178.33.230.107:8000/live/suisse/suisse/8654.ts
+#EXTINF:-1,DE: Bundesliga 1
+http://178.33.230.107:8000/live/suisse/suisse/8655.ts
+#EXTINF:-1,DE: Cartoon Network Germany
+http://178.33.230.107:8000/live/suisse/suisse/8656.ts
+#EXTINF:-1,DE: Classica
+http://178.33.230.107:8000/live/suisse/suisse/8657.ts
+#EXTINF:-1,DE: Das Erste
+http://178.33.230.107:8000/live/suisse/suisse/8658.ts
+#EXTINF:-1,DE: Deluxe Music HD
+http://178.33.230.107:8000/live/suisse/suisse/8626.ts
+#EXTINF:-1,DE: Discovery HD
+http://178.33.230.107:8000/live/suisse/suisse/8646.ts
+#EXTINF:-1,DE: Disney Channel
+http://178.33.230.107:8000/live/suisse/suisse/8644.ts
+#EXTINF:-1,DE: Disney Cinemagic HD
+http://178.33.230.107:8000/live/suisse/suisse/8662.ts
+#EXTINF:-1,DE: Disney Junior
+http://178.33.230.107:8000/live/suisse/suisse/8645.ts
+#EXTINF:-1,DE: Disney XD Deutschland
+http://178.33.230.107:8000/live/suisse/suisse/8643.ts
+#EXTINF:-1,DE: DMAX
+http://178.33.230.107:8000/live/suisse/suisse/8663.ts
+#EXTINF:-1,DE: Eurosport 1 HD
+http://178.33.230.107:8000/live/suisse/suisse/8666.ts
+#EXTINF:-1,DE: Eurosport 2 HD
+http://178.33.230.107:8000/live/suisse/suisse/8665.ts
+#EXTINF:-1,DE: Eurosport 2 xtra HD
+http://178.33.230.107:8000/live/suisse/suisse/8664.ts
+#EXTINF:-1,DE: Fox HD
+http://178.33.230.107:8000/live/suisse/suisse/8667.ts
+#EXTINF:-1,DE: Kabel 1
+http://178.33.230.107:8000/live/suisse/suisse/8641.ts
+#EXTINF:-1,DE: KABEL 1 CLASSIC
+http://178.33.230.107:8000/live/suisse/suisse/8668.ts
+#EXTINF:-1,DE: Kika
+http://178.33.230.107:8000/live/suisse/suisse/8640.ts
+#EXTINF:-1,DE: MGM HD
+http://178.33.230.107:8000/live/suisse/suisse/8647.ts
+#EXTINF:-1,DE: N-TV
+http://178.33.230.107:8000/live/suisse/suisse/8669.ts
+#EXTINF:-1,DE: N24
+http://178.33.230.107:8000/live/suisse/suisse/8649.ts
+#EXTINF:-1,DE: NatGeo Wild HD Germany
+http://178.33.230.107:8000/live/suisse/suisse/8651.ts
+#EXTINF:-1,DE: National Geographic HD Germany
+http://178.33.230.107:8000/live/suisse/suisse/8650.ts
+#EXTINF:-1,DE: Nickelodeon
+http://178.33.230.107:8000/live/suisse/suisse/8639.ts
+#EXTINF:-1,DE: Orf 1
+http://178.33.230.107:8000/live/suisse/suisse/8637.ts
+#EXTINF:-1,DE: Orf 2
+http://178.33.230.107:8000/live/suisse/suisse/8638.ts
+#EXTINF:-1,DE: Pro7
+http://178.33.230.107:8000/live/suisse/suisse/8636.ts
+#EXTINF:-1,DE: PRO7 MAXX
+http://178.33.230.107:8000/live/suisse/suisse/8670.ts
+#EXTINF:-1,DE: RTL
+http://178.33.230.107:8000/live/suisse/suisse/8630.ts
+#EXTINF:-1,DE: RTL Crime HD
+http://178.33.230.107:8000/live/suisse/suisse/8635.ts
+#EXTINF:-1,DE: RTL Living
+http://178.33.230.107:8000/live/suisse/suisse/8671.ts
+#EXTINF:-1,DE: RTL NITRO
+http://178.33.230.107:8000/live/suisse/suisse/8634.ts
+#EXTINF:-1,DE: RTL Passion
+http://178.33.230.107:8000/live/suisse/suisse/8633.ts
+#EXTINF:-1,DE: RTL2
+http://178.33.230.107:8000/live/suisse/suisse/8631.ts
+#EXTINF:-1,DE: Sat 1
+http://178.33.230.107:8000/live/suisse/suisse/8629.ts
+#EXTINF:-1,DE: sat 1 emotions
+http://178.33.230.107:8000/live/suisse/suisse/8676.ts
+#EXTINF:-1,DE: SIXX
+http://178.33.230.107:8000/live/suisse/suisse/8672.ts
+#EXTINF:-1,DE: Sky Action HD
+http://178.33.230.107:8000/live/suisse/suisse/8597.ts
+#EXTINF:-1,DE: SKY ATLANTIC HD
+http://178.33.230.107:8000/live/suisse/suisse/8596.ts
+#EXTINF:-1,DE: Sky Bundesliga 1 HD / MySports 1
+http://178.33.230.107:8000/live/suisse/suisse/8609.ts
+#EXTINF:-1,DE: Sky BUNDESLIGA 10 HD ( During Games only )
+http://178.33.230.107:8000/live/suisse/suisse/8600.ts
+#EXTINF:-1,DE: Sky Cinema  1 HD
+http://178.33.230.107:8000/live/suisse/suisse/8595.ts
+#EXTINF:-1,DE: SKY CINEMA  24
+http://178.33.230.107:8000/live/suisse/suisse/8594.ts
+#EXTINF:-1,DE: Sky Cinema HD
+http://178.33.230.107:8000/live/suisse/suisse/8610.ts
+#EXTINF:-1,DE: Sky Comedy HD
+http://178.33.230.107:8000/live/suisse/suisse/8593.ts
+#EXTINF:-1,DE: Sky Disney HD
+http://178.33.230.107:8000/live/suisse/suisse/8611.ts
+#EXTINF:-1,DE: Sky DMAX HD
+http://178.33.230.107:8000/live/suisse/suisse/8612.ts
+#EXTINF:-1,DE: Sky Emotion HD
+http://178.33.230.107:8000/live/suisse/suisse/8592.ts
+#EXTINF:-1,DE: Sky Hits HD
+http://178.33.230.107:8000/live/suisse/suisse/8613.ts
+#EXTINF:-1,DE: Sky Krimi
+http://178.33.230.107:8000/live/suisse/suisse/8591.ts
+#EXTINF:-1,DE: Sky Nostalgie
+http://178.33.230.107:8000/live/suisse/suisse/8598.ts
+#EXTINF:-1,DE: Sky Sport 1 HD
+http://178.33.230.107:8000/live/suisse/suisse/8623.ts
+#EXTINF:-1,DE: Sky Sport 10 HD ( During Games only )
+http://178.33.230.107:8000/live/suisse/suisse/8614.ts
+#EXTINF:-1,DE: Sky Sport 2 HD
+http://178.33.230.107:8000/live/suisse/suisse/8622.ts
+#EXTINF:-1,DE: Sky Sport 3 HD ( During Games only )
+http://178.33.230.107:8000/live/suisse/suisse/8621.ts
+#EXTINF:-1,DE: Sky Sport 4 HD ( During Games only )
+http://178.33.230.107:8000/live/suisse/suisse/8620.ts
+#EXTINF:-1,DE: Sky Sport 5 HD  ( During Games only )
+http://178.33.230.107:8000/live/suisse/suisse/8619.ts
+#EXTINF:-1,DE: Sky Sport 6 HD ( During Games only )
+http://178.33.230.107:8000/live/suisse/suisse/8618.ts
+#EXTINF:-1,DE: Sky Sport 7 HD ( During Games only )
+http://178.33.230.107:8000/live/suisse/suisse/8617.ts
+#EXTINF:-1,DE: Sky Sport 8 HD ( During Games only )
+http://178.33.230.107:8000/live/suisse/suisse/8616.ts
+#EXTINF:-1,DE: Sky Sport 9 HD ( During Games only )
+http://178.33.230.107:8000/live/suisse/suisse/8615.ts
+#EXTINF:-1,DE: sky sport austria
+http://178.33.230.107:8000/live/suisse/suisse/8625.ts
+#EXTINF:-1,DE: Sky Sport News HD
+http://178.33.230.107:8000/live/suisse/suisse/8624.ts
+#EXTINF:-1,DE: Sky Universal HD
+http://178.33.230.107:8000/live/suisse/suisse/8599.ts
+#EXTINF:-1,DE: Sport 1   HD
+http://178.33.230.107:8000/live/suisse/suisse/8642.ts
+#EXTINF:-1,DE: SUPER RTL HD
+http://178.33.230.107:8000/live/suisse/suisse/8632.ts
+#EXTINF:-1,DE: Syfy
+http://178.33.230.107:8000/live/suisse/suisse/8627.ts
+#EXTINF:-1,DE: TLC
+http://178.33.230.107:8000/live/suisse/suisse/8628.ts
+#EXTINF:-1,DE: TNT Comedy HD
+http://178.33.230.107:8000/live/suisse/suisse/8659.ts
+#EXTINF:-1,DE: TNT Film TCM
+http://178.33.230.107:8000/live/suisse/suisse/8660.ts
+#EXTINF:-1,DE: TNT Serie HD
+http://178.33.230.107:8000/live/suisse/suisse/8661.ts
+#EXTINF:-1,DE: VOX
+http://178.33.230.107:8000/live/suisse/suisse/8673.ts
+#EXTINF:-1,DE: ZDF
+http://178.33.230.107:8000/live/suisse/suisse/8675.ts
+#EXTINF:-1,DE: ZDF Info
+http://178.33.230.107:8000/live/suisse/suisse/8674.ts
+
 #EXTINF:-1,DE:Super RTL
-http://78.31.67.188:8000/live/DE54833/54833DE/65.ts
+http://78.31.67.188:8000/live/B4H6F3FG/B4H6F3FG/65.ts
 #EXTINF:-1,DE:SRF 2
-http://78.31.67.188:8000/live/DE54833/54833DE/63.ts
+http://78.31.67.188:8000/live/B4H6F3FG/B4H6F3FG/63.ts
 #EXTINF:-1,DE:SRF 1
-http://78.31.67.188:8000/live/DE54833/54833DE/64.ts
-#EXTINF:-1,DE:SKY Germany TNT Serie  HD
-http://78.31.67.188:8000/live/DE54833/54833DE/91.ts
-#EXTINF:-1,DE:Sky Germany TNT FILM HD
-http://78.31.67.188:8000/live/DE54833/54833DE/92.ts
-#EXTINF:-1,DE:SKY Germany TNT Comedy HD
-http://78.31.67.188:8000/live/DE54833/54833DE/90.ts
+http://78.31.67.188:8000/live/B4H6F3FG/B4H6F3FG/64.ts
 #EXTINF:-1,DE:SKY Germany TLC
-http://78.31.67.188:8000/live/DE54833/54833DE/80.ts
+http://78.31.67.188:8000/live/B4H6F3FG/B4H6F3FG/80.ts
 #EXTINF:-1,DE:SKY Germany SPIEGEL GESHICHTE
-http://78.31.67.188:8000/live/DE54833/54833DE/82.ts
-#EXTINF:-1,DE:Sky Germany Sony HD
-http://78.31.67.188:8000/live/DE54833/54833DE/41.ts
+http://78.31.67.188:8000/live/B4H6F3FG/B4H6F3FG/82.ts
 #EXTINF:-1,DE:Sky GERMANY Select 8
-http://78.31.67.188:8000/live/DE54833/54833DE/28.ts
+http://78.31.67.188:8000/live/B4H6F3FG/B4H6F3FG/28.ts
 #EXTINF:-1,DE:SKY Germany Select  7
-http://78.31.67.188:8000/live/DE54833/54833DE/29.ts
+http://78.31.67.188:8000/live/B4H6F3FG/B4H6F3FG/29.ts
 #EXTINF:-1,DE:SKY Germany Select  6
-http://78.31.67.188:8000/live/DE54833/54833DE/30.ts
-#EXTINF:-1,DE:SKY Germany Select  5
-http://78.31.67.188:8000/live/DE54833/54833DE/31.ts
+http://78.31.67.188:8000/live/B4H6F3FG/B4H6F3FG/30.ts
 #EXTINF:-1,DE:SKY Germany Select  4
-http://78.31.67.188:8000/live/DE54833/54833DE/32.ts
+http://78.31.67.188:8000/live/B4H6F3FG/B4H6F3FG/32.ts
 #EXTINF:-1,DE:SKY Germany Select  3
-http://78.31.67.188:8000/live/DE54833/54833DE/33.ts
+http://78.31.67.188:8000/live/B4H6F3FG/B4H6F3FG/33.ts
 #EXTINF:-1,DE:SKY Germany Select  2
-http://78.31.67.188:8000/live/DE54833/54833DE/34.ts
+http://78.31.67.188:8000/live/B4H6F3FG/B4H6F3FG/34.ts
 #EXTINF:-1,DE:SKY Germany Select  1
-http://78.31.67.188:8000/live/DE54833/54833DE/35.ts
+http://78.31.67.188:8000/live/B4H6F3FG/B4H6F3FG/35.ts
 #EXTINF:-1,DE:SKY Germany RTL PASSION
-http://78.31.67.188:8000/live/DE54833/54833DE/78.ts
-#EXTINF:-1,DE:SKY Germany RTL CRIME HD
-http://78.31.67.188:8000/live/DE54833/54833DE/77.ts
-#EXTINF:-1,DE:SKY Germany ROMANCE TV HD
-http://78.31.67.188:8000/live/DE54833/54833DE/79.ts
+http://78.31.67.188:8000/live/B4H6F3FG/B4H6F3FG/78.ts
 #EXTINF:-1,DE:SKY Germany Nostalgie
-http://78.31.67.188:8000/live/DE54833/54833DE/88.ts
+http://78.31.67.188:8000/live/B4H6F3FG/B4H6F3FG/88.ts
 #EXTINF:-1,DE:SKY Germany Nat Geo Wild HD
-http://78.31.67.188:8000/live/DE54833/54833DE/86.ts
+http://78.31.67.188:8000/live/B4H6F3FG/B4H6F3FG/86.ts
 #EXTINF:-1,DE:Sky Germany Nat Geo People HD
-http://78.31.67.188:8000/live/DE54833/54833DE/85.ts
+http://78.31.67.188:8000/live/B4H6F3FG/B4H6F3FG/85.ts
 #EXTINF:-1,DE:SKY Germany Nat Geo HD
-http://78.31.67.188:8000/live/DE54833/54833DE/87.ts
-#EXTINF:-1,DE:SKY Germany Krimi
-http://78.31.67.188:8000/live/DE54833/54833DE/89.ts
-#EXTINF:-1,DE:SKY Germany KINOWELT HD
-http://78.31.67.188:8000/live/DE54833/54833DE/93.ts
-#EXTINF:-1,DE:Sky Germany Hits HD
-http://78.31.67.188:8000/live/DE54833/54833DE/43.ts
+http://78.31.67.188:8000/live/B4H6F3FG/B4H6F3FG/87.ts
 #EXTINF:-1,DE:SKY Germany History HD
-http://78.31.67.188:8000/live/DE54833/54833DE/81.ts
+http://78.31.67.188:8000/live/B4H6F3FG/B4H6F3FG/81.ts
 #EXTINF:-1,DE:SKY Germany Disney XD
-http://78.31.67.188:8000/live/DE54833/54833DE/71.ts
+http://78.31.67.188:8000/live/B4H6F3FG/B4H6F3FG/71.ts
 #EXTINF:-1,DE:SKY Germany Disney Junior
-http://78.31.67.188:8000/live/DE54833/54833DE/73.ts
+http://78.31.67.188:8000/live/B4H6F3FG/B4H6F3FG/73.ts
 #EXTINF:-1,DE:SKY Germany Disney Cinemagic HD
-http://78.31.67.188:8000/live/DE54833/54833DE/68.ts
+http://78.31.67.188:8000/live/B4H6F3FG/B4H6F3FG/68.ts
 #EXTINF:-1,DE:SKY Germany Discovery HD
-http://78.31.67.188:8000/live/DE54833/54833DE/76.ts
+http://78.31.67.188:8000/live/B4H6F3FG/B4H6F3FG/76.ts
 #EXTINF:-1,DE:SKY Germany Discovery Channel
-http://78.31.67.188:8000/live/DE54833/54833DE/75.ts
+http://78.31.67.188:8000/live/B4H6F3FG/B4H6F3FG/75.ts
 #EXTINF:-1,DE:Sky Germany Comedy HD
-http://78.31.67.188:8000/live/DE54833/54833DE/42.ts
-#EXTINF:-1,DE:SKY Germany CLASSICA
-http://78.31.67.188:8000/live/DE54833/54833DE/74.ts
+http://78.31.67.188:8000/live/B4H6F3FG/B4H6F3FG/42.ts
 #EXTINF:-1,DE:SKY Germany Cinema HD
-http://78.31.67.188:8000/live/DE54833/54833DE/46.ts
+http://78.31.67.188:8000/live/B4H6F3FG/B4H6F3FG/46.ts
 #EXTINF:-1,DE:SKY Germany CINEMA  24 HD
-http://78.31.67.188:8000/live/DE54833/54833DE/44.ts
+http://78.31.67.188:8000/live/B4H6F3FG/B4H6F3FG/44.ts
 #EXTINF:-1,DE:SKY Germany Cinema  1 HD
-http://78.31.67.188:8000/live/DE54833/54833DE/45.ts
-#EXTINF:-1,DE:SKY Germany Boomerang HD
-http://78.31.67.188:8000/live/DE54833/54833DE/70.ts
-#EXTINF:-1,DE:SKY Germany AXN HD
-http://78.31.67.188:8000/live/DE54833/54833DE/94.ts
+http://78.31.67.188:8000/live/B4H6F3FG/B4H6F3FG/45.ts
 #EXTINF:-1,DE:Sky Germany Animal Planet HD
-http://78.31.67.188:8000/live/DE54833/54833DE/84.ts
+http://78.31.67.188:8000/live/B4H6F3FG/B4H6F3FG/84.ts
 #EXTINF:-1,DE:SKY Germany Action HD
-http://78.31.67.188:8000/live/DE54833/54833DE/47.ts
+http://78.31.67.188:8000/live/B4H6F3FG/B4H6F3FG/47.ts
 #EXTINF:-1,DE:Sky Germany A&E HD
-http://78.31.67.188:8000/live/DE54833/54833DE/83.ts
+http://78.31.67.188:8000/live/B4H6F3FG/B4H6F3FG/83.ts
 #EXTINF:-1,DE:SKY Cartoon Network HD
-http://78.31.67.188:8000/live/DE54833/54833DE/69.ts
+http://78.31.67.188:8000/live/B4H6F3FG/B4H6F3FG/69.ts
 #EXTINF:-1,DE:SIXX HD
-http://78.31.67.188:8000/live/DE54833/54833DE/53.ts
+http://78.31.67.188:8000/live/B4H6F3FG/B4H6F3FG/53.ts
 #EXTINF:-1,DE:Planet HD
-http://78.31.67.188:8000/live/DE54833/54833DE/54.ts
+http://78.31.67.188:8000/live/B4H6F3FG/B4H6F3FG/54.ts
 #EXTINF:-1,DE:Phoenix
-http://78.31.67.188:8000/live/DE54833/54833DE/52.ts
+http://78.31.67.188:8000/live/B4H6F3FG/B4H6F3FG/52.ts
 #EXTINF:-1,DE:ORF 2 HD
-http://78.31.67.188:8000/live/DE54833/54833DE/60.ts
+http://78.31.67.188:8000/live/B4H6F3FG/B4H6F3FG/60.ts
 #EXTINF:-1,DE:ORF 1 HD
-http://78.31.67.188:8000/live/DE54833/54833DE/61.ts
+http://78.31.67.188:8000/live/B4H6F3FG/B4H6F3FG/61.ts
 #EXTINF:-1,DE:Nickelodeon
-http://78.31.67.188:8000/live/DE54833/54833DE/67.ts
+http://78.31.67.188:8000/live/B4H6F3FG/B4H6F3FG/67.ts
 #EXTINF:-1,DE:N24 HD
-http://78.31.67.188:8000/live/DE54833/54833DE/57.ts
+http://78.31.67.188:8000/live/B4H6F3FG/B4H6F3FG/57.ts
 #EXTINF:-1,DE:N-TV HD
-http://78.31.67.188:8000/live/DE54833/54833DE/58.ts
+http://78.31.67.188:8000/live/B4H6F3FG/B4H6F3FG/58.ts
 #EXTINF:-1,DE:KIKA HD
-http://78.31.67.188:8000/live/DE54833/54833DE/66.ts
+http://78.31.67.188:8000/live/B4H6F3FG/B4H6F3FG/66.ts
 #EXTINF:-1,DE:Junior
-http://78.31.67.188:8000/live/DE54833/54833DE/72.ts
+http://78.31.67.188:8000/live/B4H6F3FG/B4H6F3FG/72.ts
 #EXTINF:-1,DE:FILM CLUB HD 5
-http://78.31.67.188:8000/live/DE54833/54833DE/36.ts
+http://78.31.67.188:8000/live/B4H6F3FG/B4H6F3FG/36.ts
 #EXTINF:-1,DE:FILM CLUB HD 4
-http://78.31.67.188:8000/live/DE54833/54833DE/37.ts
+http://78.31.67.188:8000/live/B4H6F3FG/B4H6F3FG/37.ts
 #EXTINF:-1,DE:FILM CLUB HD 3
-http://78.31.67.188:8000/live/DE54833/54833DE/38.ts
+http://78.31.67.188:8000/live/B4H6F3FG/B4H6F3FG/38.ts
 #EXTINF:-1,DE:FILM CLUB HD 2
-http://78.31.67.188:8000/live/DE54833/54833DE/39.ts
+http://78.31.67.188:8000/live/B4H6F3FG/B4H6F3FG/39.ts
 #EXTINF:-1,DE:FILM CLUB HD 1
-http://78.31.67.188:8000/live/DE54833/54833DE/40.ts
+http://78.31.67.188:8000/live/B4H6F3FG/B4H6F3FG/40.ts
 #EXTINF:-1,DE:Euro News
-http://78.31.67.188:8000/live/DE54833/54833DE/59.ts
-#EXTINF:-1,DE:E! Entertainm
-http://78.31.67.188:8000/live/DE54833/54833DE/48.ts
+http://78.31.67.188:8000/live/B4H6F3FG/B4H6F3FG/59.ts
 #EXTINF:-1,DE:DE:ZDF NEO
-http://78.31.67.188:8000/live/DE54833/54833DE/55.ts
+http://78.31.67.188:8000/live/B4H6F3FG/B4H6F3FG/55.ts
 #EXTINF:-1,DE:ATV HD
-http://78.31.67.188:8000/live/DE54833/54833DE/62.ts
+http://78.31.67.188:8000/live/B4H6F3FG/B4H6F3FG/62.ts
 #EXTINF:-1,DE:Arte HD
-http://78.31.67.188:8000/live/DE54833/54833DE/51.ts
+http://78.31.67.188:8000/live/B4H6F3FG/B4H6F3FG/51.ts
 #EXTINF:-1,DE:ANIXE HD
-http://78.31.67.188:8000/live/DE54833/54833DE/50.ts
+http://78.31.67.188:8000/live/B4H6F3FG/B4H6F3FG/50.ts
 #EXTINF:-1,DE:3sat HD
-http://78.31.67.188:8000/live/DE54833/54833DE/49.ts
+http://78.31.67.188:8000/live/B4H6F3FG/B4H6F3FG/49.ts
+
+#EXTINF:-1,DE: 13th Street
+http://s1.iptvforver.com:8000/live/gareth/gareth/8648.ts
+#EXTINF:-1,DE: ARD
+http://s1.iptvforver.com:8000/live/gareth/gareth/8652.ts
+#EXTINF:-1,DE: AXN HD Germany
+http://s1.iptvforver.com:8000/live/gareth/gareth/8653.ts
+#EXTINF:-1,DE: Boomerang
+http://s1.iptvforver.com:8000/live/gareth/gareth/8654.ts
+#EXTINF:-1,DE: Bundesliga 1
+http://s1.iptvforver.com:8000/live/gareth/gareth/8655.ts
+#EXTINF:-1,DE: Cartoon Network Germany
+http://s1.iptvforver.com:8000/live/gareth/gareth/8656.ts
+#EXTINF:-1,DE: Classica
+http://s1.iptvforver.com:8000/live/gareth/gareth/8657.ts
+#EXTINF:-1,DE: Das Erste
+http://s1.iptvforver.com:8000/live/gareth/gareth/8658.ts
+#EXTINF:-1,DE: Deluxe Music HD
+http://s1.iptvforver.com:8000/live/gareth/gareth/8626.ts
+#EXTINF:-1,DE: Discovery HD
+http://s1.iptvforver.com:8000/live/gareth/gareth/8646.ts
+#EXTINF:-1,DE: Disney Channel
+http://s1.iptvforver.com:8000/live/gareth/gareth/8644.ts
+#EXTINF:-1,DE: Disney Cinemagic HD
+http://s1.iptvforver.com:8000/live/gareth/gareth/8662.ts
+#EXTINF:-1,DE: Disney Junior
+http://s1.iptvforver.com:8000/live/gareth/gareth/8645.ts
+#EXTINF:-1,DE: Disney XD Deutschland
+http://s1.iptvforver.com:8000/live/gareth/gareth/8643.ts
+#EXTINF:-1,DE: DMAX
+http://s1.iptvforver.com:8000/live/gareth/gareth/8663.ts
+#EXTINF:-1,DE: Eurosport 1 HD
+http://s1.iptvforver.com:8000/live/gareth/gareth/8666.ts
+#EXTINF:-1,DE: Eurosport 2 HD
+http://s1.iptvforver.com:8000/live/gareth/gareth/8665.ts
+#EXTINF:-1,DE: Eurosport 2 xtra HD
+http://s1.iptvforver.com:8000/live/gareth/gareth/8664.ts
+#EXTINF:-1,DE: Fox HD
+http://s1.iptvforver.com:8000/live/gareth/gareth/8667.ts
+#EXTINF:-1,DE: Kabel 1
+http://s1.iptvforver.com:8000/live/gareth/gareth/8641.ts
+#EXTINF:-1,DE: KABEL 1 CLASSIC
+http://s1.iptvforver.com:8000/live/gareth/gareth/8668.ts
+#EXTINF:-1,DE: Kika
+http://s1.iptvforver.com:8000/live/gareth/gareth/8640.ts
+#EXTINF:-1,DE: MGM HD
+http://s1.iptvforver.com:8000/live/gareth/gareth/8647.ts
+#EXTINF:-1,DE: MySports 2/ BUNDESLIGA  Sky 2
+http://s1.iptvforver.com:8000/live/gareth/gareth/8608.ts
+#EXTINF:-1,DE: MySports 3/ BUNDESLIGA  Sky 3
+http://s1.iptvforver.com:8000/live/gareth/gareth/8607.ts
+#EXTINF:-1,DE: MySports 4/ BUNDESLIGA  Sky 4
+http://s1.iptvforver.com:8000/live/gareth/gareth/8606.ts
+#EXTINF:-1,DE: MySports 5/ BUNDESLIGA  Sky 5
+http://s1.iptvforver.com:8000/live/gareth/gareth/8605.ts
+#EXTINF:-1,DE: MySports 6/ BUNDESLIGA  Sky 6
+http://s1.iptvforver.com:8000/live/gareth/gareth/8604.ts
+#EXTINF:-1,DE: MySports 7/ BUNDESLIGA  Sky 7
+http://s1.iptvforver.com:8000/live/gareth/gareth/8603.ts
+#EXTINF:-1,DE: MySports 8/ BUNDESLIGA  Sky 8
+http://s1.iptvforver.com:8000/live/gareth/gareth/8602.ts
+#EXTINF:-1,DE: MySports 9/ BUNDESLIGA  Sky 9
+http://s1.iptvforver.com:8000/live/gareth/gareth/8601.ts
+#EXTINF:-1,DE: N-TV
+http://s1.iptvforver.com:8000/live/gareth/gareth/8669.ts
+#EXTINF:-1,DE: N24
+http://s1.iptvforver.com:8000/live/gareth/gareth/8649.ts
+#EXTINF:-1,DE: NatGeo Wild HD Germany
+http://s1.iptvforver.com:8000/live/gareth/gareth/8651.ts
+#EXTINF:-1,DE: National Geographic HD Germany
+http://s1.iptvforver.com:8000/live/gareth/gareth/8650.ts
+#EXTINF:-1,DE: Nickelodeon
+http://s1.iptvforver.com:8000/live/gareth/gareth/8639.ts
+#EXTINF:-1,DE: Orf 1
+http://s1.iptvforver.com:8000/live/gareth/gareth/8637.ts
+#EXTINF:-1,DE: Orf 2
+http://s1.iptvforver.com:8000/live/gareth/gareth/8638.ts
+#EXTINF:-1,DE: Pro7
+http://s1.iptvforver.com:8000/live/gareth/gareth/8636.ts
+#EXTINF:-1,DE: PRO7 MAXX
+http://s1.iptvforver.com:8000/live/gareth/gareth/8670.ts
+#EXTINF:-1,DE: RTL
+http://s1.iptvforver.com:8000/live/gareth/gareth/8630.ts
+#EXTINF:-1,DE: RTL Crime HD
+http://s1.iptvforver.com:8000/live/gareth/gareth/8635.ts
+#EXTINF:-1,DE: RTL Living
+http://s1.iptvforver.com:8000/live/gareth/gareth/8671.ts
+#EXTINF:-1,DE: RTL NITRO
+http://s1.iptvforver.com:8000/live/gareth/gareth/8634.ts
+#EXTINF:-1,DE: RTL Passion
+http://s1.iptvforver.com:8000/live/gareth/gareth/8633.ts
+#EXTINF:-1,DE: RTL2
+http://s1.iptvforver.com:8000/live/gareth/gareth/8631.ts
+#EXTINF:-1,DE: Sat 1
+http://s1.iptvforver.com:8000/live/gareth/gareth/8629.ts
+#EXTINF:-1,DE: sat 1 emotions
+http://s1.iptvforver.com:8000/live/gareth/gareth/8676.ts
+#EXTINF:-1,DE: SIXX
+http://s1.iptvforver.com:8000/live/gareth/gareth/8672.ts
+#EXTINF:-1,DE: Sky Action HD
+http://s1.iptvforver.com:8000/live/gareth/gareth/8597.ts
+#EXTINF:-1,DE: SKY ATLANTIC HD
+http://s1.iptvforver.com:8000/live/gareth/gareth/8596.ts
+#EXTINF:-1,DE: Sky Bundesliga 1 HD / MySports 1
+http://s1.iptvforver.com:8000/live/gareth/gareth/8609.ts
+#EXTINF:-1,DE: Sky BUNDESLIGA 10 HD ( During Games only )
+http://s1.iptvforver.com:8000/live/gareth/gareth/8600.ts
+#EXTINF:-1,DE: Sky Cinema  1 HD
+http://s1.iptvforver.com:8000/live/gareth/gareth/8595.ts
+#EXTINF:-1,DE: SKY CINEMA  24
+http://s1.iptvforver.com:8000/live/gareth/gareth/8594.ts
+#EXTINF:-1,DE: Sky Cinema HD
+http://s1.iptvforver.com:8000/live/gareth/gareth/8610.ts
+#EXTINF:-1,DE: Sky Comedy HD
+http://s1.iptvforver.com:8000/live/gareth/gareth/8593.ts
+#EXTINF:-1,DE: Sky Disney HD
+http://s1.iptvforver.com:8000/live/gareth/gareth/8611.ts
+#EXTINF:-1,DE: Sky DMAX HD
+http://s1.iptvforver.com:8000/live/gareth/gareth/8612.ts
+#EXTINF:-1,DE: Sky Emotion HD
+http://s1.iptvforver.com:8000/live/gareth/gareth/8592.ts
+#EXTINF:-1,DE: Sky Hits HD
+http://s1.iptvforver.com:8000/live/gareth/gareth/8613.ts
+#EXTINF:-1,DE: Sky Krimi
+http://s1.iptvforver.com:8000/live/gareth/gareth/8591.ts
+#EXTINF:-1,DE: Sky Nostalgie
+http://s1.iptvforver.com:8000/live/gareth/gareth/8598.ts
+#EXTINF:-1,DE: Sky Sport 1 HD
+http://s1.iptvforver.com:8000/live/gareth/gareth/8623.ts
+#EXTINF:-1,DE: Sky Sport 10 HD ( During Games only )
+http://s1.iptvforver.com:8000/live/gareth/gareth/8614.ts
+#EXTINF:-1,DE: Sky Sport 2 HD
+http://s1.iptvforver.com:8000/live/gareth/gareth/8622.ts
+#EXTINF:-1,DE: Sky Sport 3 HD ( During Games only )
+http://s1.iptvforver.com:8000/live/gareth/gareth/8621.ts
+#EXTINF:-1,DE: Sky Sport 4 HD ( During Games only )
+http://s1.iptvforver.com:8000/live/gareth/gareth/8620.ts
+#EXTINF:-1,DE: Sky Sport 5 HD  ( During Games only )
+http://s1.iptvforver.com:8000/live/gareth/gareth/8619.ts
+#EXTINF:-1,DE: Sky Sport 6 HD ( During Games only )
+http://s1.iptvforver.com:8000/live/gareth/gareth/8618.ts
+#EXTINF:-1,DE: Sky Sport 7 HD ( During Games only )
+http://s1.iptvforver.com:8000/live/gareth/gareth/8617.ts
+#EXTINF:-1,DE: Sky Sport 8 HD ( During Games only )
+http://s1.iptvforver.com:8000/live/gareth/gareth/8616.ts
+#EXTINF:-1,DE: Sky Sport 9 HD ( During Games only )
+http://s1.iptvforver.com:8000/live/gareth/gareth/8615.ts
+#EXTINF:-1,DE: sky sport austria
+http://s1.iptvforver.com:8000/live/gareth/gareth/8625.ts
+#EXTINF:-1,DE: Sky Sport News HD
+http://s1.iptvforver.com:8000/live/gareth/gareth/8624.ts
+#EXTINF:-1,DE: Sky Universal HD
+http://s1.iptvforver.com:8000/live/gareth/gareth/8599.ts
+#EXTINF:-1,DE: Sport 1   HD
+http://s1.iptvforver.com:8000/live/gareth/gareth/8642.ts
+#EXTINF:-1,DE: SUPER RTL HD
+http://s1.iptvforver.com:8000/live/gareth/gareth/8632.ts
+#EXTINF:-1,DE: Syfy
+http://s1.iptvforver.com:8000/live/gareth/gareth/8627.ts
+#EXTINF:-1,DE: TLC
+http://s1.iptvforver.com:8000/live/gareth/gareth/8628.ts
+#EXTINF:-1,DE: TNT Comedy HD
+http://s1.iptvforver.com:8000/live/gareth/gareth/8659.ts
+#EXTINF:-1,DE: TNT Film TCM
+http://s1.iptvforver.com:8000/live/gareth/gareth/8660.ts
+#EXTINF:-1,DE: TNT Serie HD
+http://s1.iptvforver.com:8000/live/gareth/gareth/8661.ts
+#EXTINF:-1,DE: VOX
+http://s1.iptvforver.com:8000/live/gareth/gareth/8673.ts
+#EXTINF:-1,DE: ZDF
+http://s1.iptvforver.com:8000/live/gareth/gareth/8675.ts
+#EXTINF:-1,DE: ZDF Info
+http://s1.iptvforver.com:8000/live/gareth/gareth/8674.ts
+
+#EXTINF:-1,de:_Sky Cinema
+http://mona.dyndns.org:25461/live/test1/test1/1410.ts
+#EXTINF:-1,de:_Sky Cinema +1 HD
+http://mona.dyndns.org:25461/live/test1/test1/1411.ts
+#EXTINF:-1,de:_Sky Cinema +24 HD
+http://mona.dyndns.org:25461/live/test1/test1/1412.ts
+#EXTINF:-1,de:_Sky Cinema Emotion
+http://mona.dyndns.org:25461/live/test1/test1/1413.ts
+#EXTINF:-1,de:_Sky Cinema Family
+http://mona.dyndns.org:25461/live/test1/test1/1414.ts
+#EXTINF:-1,de:_Sky Cinema Family HD
+http://mona.dyndns.org:25461/live/test1/test1/1415.ts
+#EXTINF:-1,de:_Sky Cinema Fast & Furious
+http://mona.dyndns.org:25461/live/test1/test1/1416.ts
+#EXTINF:-1,de:_Sky Cinema HD
+http://mona.dyndns.org:25461/live/test1/test1/1417.ts
+#EXTINF:-1,de:_Sky Cinema Nostalgie
+http://mona.dyndns.org:25461/live/test1/test1/1418.ts
+#EXTINF:-1,de:_ Sky Cinema
+http://mona.dyndns.org:25461/live/test1/test1/1479.ts
+#EXTINF:-1,de:_ Sky Cinema +1
+http://mona.dyndns.org:25461/live/test1/test1/1480.ts
+#EXTINF:-1,de:_ Sky Cinema +24
+http://mona.dyndns.org:25461/live/test1/test1/1481.ts
+#EXTINF:-1,de:_ Sky Cinema Action
+http://mona.dyndns.org:25461/live/test1/test1/1482.ts
+#EXTINF:-1,de:_ Sky Cinema Action HD
+http://mona.dyndns.org:25461/live/test1/test1/1465.ts
+#EXTINF:-1,de:_ Sky Cinema Comedy
+http://mona.dyndns.org:25461/live/test1/test1/1483.ts
+#EXTINF:-1,de:_ Sky Cinema Fast & Furious HD
+http://mona.dyndns.org:25461/live/test1/test1/1471.ts
+#EXTINF:-1,de:_ Sky Cinema Superhelden
+http://mona.dyndns.org:25461/live/test1/test1/1798.ts
+#EXTINF:-1,DE: Das Erste
+http://mona.dyndns.org:25461/live/test1/test1/1814.ts
+#EXTINF:-1,DE: SAT 1 GOLD HD
+http://mona.dyndns.org:25461/live/test1/test1/1841.ts
+#EXTINF:-1,DE: RTL Living HD
+http://mona.dyndns.org:25461/live/test1/test1/1837.ts
+#EXTINF:-1,de:_ Pro7 MAXX HD
+http://mona.dyndns.org:25461/live/test1/test1/1475.ts
+#EXTINF:-1,de:_ ProSieben HD
+http://mona.dyndns.org:25461/live/test1/test1/1474.ts
+#EXTINF:-1,de:_ RTL Crime HD
+http://mona.dyndns.org:25461/live/test1/test1/1504.ts
+#EXTINF:-1,de:_ RTL Television
+http://mona.dyndns.org:25461/live/test1/test1/1508.ts
+#EXTINF:-1,de:_ RTL2
+http://mona.dyndns.org:25461/live/test1/test1/1509.ts
+#EXTINF:-1,de:_ RTLplus
+http://mona.dyndns.org:25461/live/test1/test1/1510.ts
+#EXTINF:-1,de:_ SIXX HD
+http://mona.dyndns.org:25461/live/test1/test1/1473.ts
+#EXTINF:-1,de:_ SUPER RTL
+http://mona.dyndns.org:25461/live/test1/test1/1511.ts
+#EXTINF:-1,de:_ SYFY HD
+http://mona.dyndns.org:25461/live/test1/test1/1472.ts
+#EXTINF:-1,de:_DMAX HD
+http://mona.dyndns.org:25461/live/test1/test1/1960.ts
+#EXTINF:-1,de:_RTL Crime
+http://mona.dyndns.org:25461/live/test1/test1/1404.ts
+#EXTINF:-1,de:_RTL HD
+http://mona.dyndns.org:25461/live/test1/test1/1405.ts
+#EXTINF:-1,de:_RTL Passion
+http://mona.dyndns.org:25461/live/test1/test1/1406.ts
+#EXTINF:-1,de:_RTLII HD
+http://mona.dyndns.org:25461/live/test1/test1/1407.ts
+#EXTINF:-1,de:_SAT.1 Gold HD
+http://mona.dyndns.org:25461/live/test1/test1/1972.ts
+#EXTINF:-1,de:_SAT.1 HD
+http://mona.dyndns.org:25461/live/test1/test1/1456.ts
+#EXTINF:-1,de:_SYFY
+http://mona.dyndns.org:25461/live/test1/test1/1426.ts
+#EXTINF:-1,de:_TELE 5 HD
+http://mona.dyndns.org:25461/live/test1/test1/1961.ts
+#EXTINF:-1,de:_VOX HD
+http://mona.dyndns.org:25461/live/test1/test1/1431.ts
+#EXTINF:-1,DE: ARD HD
+http://mona.dyndns.org:25461/live/test1/test1/1827.ts
+#EXTINF:-1,DE: ZDF HD
+http://mona.dyndns.org:25461/live/test1/test1/1829.ts
+#EXTINF:-1,DE: AXN HD
+http://mona.dyndns.org:25461/live/test1/test1/1839.ts
+#EXTINF:-1,DE: Ndr HD
+http://mona.dyndns.org:25461/live/test1/test1/1830.ts
+#EXTINF:-1,DE: One HD
+http://mona.dyndns.org:25461/live/test1/test1/1813.ts
+#EXTINF:-1,DE: Orf 1
+http://mona.dyndns.org:25461/live/test1/test1/1836.ts
+#EXTINF:-1,DE: ORF 1 HD
+http://mona.dyndns.org:25461/live/test1/test1/1831.ts
+#EXTINF:-1,DE: ORF 2 HD
+http://mona.dyndns.org:25461/live/test1/test1/1832.ts
+#EXTINF:-1,DE: Sky 1 HD
+http://mona.dyndns.org:25461/live/test1/test1/1815.ts
+#EXTINF:-1,DE: SWR HD
+http://mona.dyndns.org:25461/live/test1/test1/1805.ts
+#EXTINF:-1,DE: Zee One HD
+http://mona.dyndns.org:25461/live/test1/test1/1816.ts
+#EXTINF:-1,de:_ A&E
+http://mona.dyndns.org:25461/live/test1/test1/1379.ts
+#EXTINF:-1,de:_ kabel eins HD
+http://mona.dyndns.org:25461/live/test1/test1/1469.ts
+#EXTINF:-1,de:_ TNT Comedy HD
+http://mona.dyndns.org:25461/live/test1/test1/1464.ts
+#EXTINF:-1,de:_ TNT Serie HD
+http://mona.dyndns.org:25461/live/test1/test1/1468.ts
+#EXTINF:-1,de:_ VOX
+http://mona.dyndns.org:25461/live/test1/test1/1513.ts
+#EXTINF:-1,de:_E! Entertainm. HD
+http://mona.dyndns.org:25461/live/test1/test1/1392.ts
+#EXTINF:-1,de:_Fox Serie
+http://mona.dyndns.org:25461/live/test1/test1/1393.ts
+#EXTINF:-1,de:_Heimatkanal
+http://mona.dyndns.org:25461/live/test1/test1/1394.ts
+#EXTINF:-1,de:_Romance TV
+http://mona.dyndns.org:25461/live/test1/test1/1403.ts
+#EXTINF:-1,de:_Spiegel Geschichte
+http://mona.dyndns.org:25461/live/test1/test1/1425.ts
+#EXTINF:-1,de:_Sky Atlantic
+http://mona.dyndns.org:25461/live/test1/test1/1408.ts
+#EXTINF:-1,de:_Sky Atlantic HD
+http://mona.dyndns.org:25461/live/test1/test1/1409.ts
+#EXTINF:-1,de:_Sky Krimi
+http://mona.dyndns.org:25461/live/test1/test1/1419.ts
+#EXTINF:-1,de:_TNT Film (TCM)
+http://mona.dyndns.org:25461/live/test1/test1/1428.ts
+#EXTINF:-1,de:_TNT Serie
+http://mona.dyndns.org:25461/live/test1/test1/1429.ts
+#EXTINF:-1,de:_Universal HD
+http://mona.dyndns.org:25461/live/test1/test1/1430.ts
+#EXTINF:-1,de:_13th Street
+http://mona.dyndns.org:25461/live/test1/test1/1377.ts
+#EXTINF:-1,de:_13th Street HD
+http://mona.dyndns.org:25461/live/test1/test1/1378.ts
+#EXTINF:-1,de:_ NITRO
+http://mona.dyndns.org:25461/live/test1/test1/1507.ts
+#EXTINF:-1,de:_Kinowelt TV
+http://mona.dyndns.org:25461/live/test1/test1/1396.ts
+#EXTINF:-1,de:_Fashion
+http://mona.dyndns.org:25461/live/test1/test1/1970.ts
+#EXTINF:-1,de:_Beate-Uhse.TV
+http://mona.dyndns.org:25461/live/test1/test1/1380.ts
+#EXTINF:-1,DE: Tagesschau 24
+http://mona.dyndns.org:25461/live/test1/test1/1838.ts
+#EXTINF:-1,DE: WR HD
+http://mona.dyndns.org:25461/live/test1/test1/1833.ts
+#EXTINF:-1,DE: ZDF INFO HD
+http://mona.dyndns.org:25461/live/test1/test1/1834.ts
+#EXTINF:-1,DE: ZDF NEO HD
+http://mona.dyndns.org:25461/live/test1/test1/1835.ts
+#EXTINF:-1,de:_ n-tv
+http://mona.dyndns.org:25461/live/test1/test1/1514.ts
+#EXTINF:-1,de:_1-2-3.tv HD
+http://mona.dyndns.org:25461/live/test1/test1/1967.ts
+#EXTINF:-1,de:_HSE24 EXTRA HD
+http://mona.dyndns.org:25461/live/test1/test1/1968.ts
+#EXTINF:-1,de:_n-tv HD
+http://mona.dyndns.org:25461/live/test1/test1/1398.ts
+#EXTINF:-1,de:_QVC2 HD
+http://mona.dyndns.org:25461/live/test1/test1/1965.ts
+#EXTINF:-1,de:_sonnenklar.TV HD
+http://mona.dyndns.org:25461/live/test1/test1/1973.ts
+#EXTINF:-1,de:_ Sky Sport Bundesliga 1 HD
+http://mona.dyndns.org:25461/live/test1/test1/1466.ts
+#EXTINF:-1,de:_ Sky Sport Bundesliga 2
+http://mona.dyndns.org:25461/live/test1/test1/1462.ts
+#EXTINF:-1,de:_ Sky Sport Bundesliga 2 HD
+http://mona.dyndns.org:25461/live/test1/test1/1515.ts
+#EXTINF:-1,de:_ Sky Sport Bundesliga 3 HD
+http://mona.dyndns.org:25461/live/test1/test1/1463.ts
+#EXTINF:-1,de:_Sky Sport Bundesliga 1
+http://mona.dyndns.org:25461/live/test1/test1/1424.ts
+#EXTINF:-1,de:_Sky Sport Bundesliga 4 HD
+http://mona.dyndns.org:25461/live/test1/test1/1460.ts
+#EXTINF:-1,de:_Sky Sport Bundesliga 5
+http://mona.dyndns.org:25461/live/test1/test1/1432.ts
+#EXTINF:-1,de:_Sky Sport Bundesliga 5 HD
+http://mona.dyndns.org:25461/live/test1/test1/1461.ts
+#EXTINF:-1,de:_Sky Sport 1
+http://mona.dyndns.org:25461/live/test1/test1/1420.ts
+#EXTINF:-1,de:_Sky Sport 1 HD
+http://mona.dyndns.org:25461/live/test1/test1/1421.ts
+#EXTINF:-1,de:_Sky Sport 2 HD
+http://mona.dyndns.org:25461/live/test1/test1/1422.ts
+#EXTINF:-1,de:_ Sky Sport Austria HD
+http://mona.dyndns.org:25461/live/test1/test1/1506.ts
+#EXTINF:-1,de:_ Eurosport 1 HD
+http://mona.dyndns.org:25461/live/test1/test1/1477.ts
+#EXTINF:-1,de:_ Eurosport 2 HD
+http://mona.dyndns.org:25461/live/test1/test1/1503.ts
+#EXTINF:-1,de:_Eurosport 1 HD
+http://mona.dyndns.org:25461/live/test1/test1/1441.ts
+#EXTINF:-1,de:_Eurosport 2 HD Xtra
+http://mona.dyndns.org:25461/live/test1/test1/1971.ts
+#EXTINF:-1,de:_Sky Sport Austria
+http://mona.dyndns.org:25461/live/test1/test1/1423.ts
+#EXTINF:-1,de:_SPORT1 HD
+http://mona.dyndns.org:25461/live/test1/test1/1963.ts
+#EXTINF:-1,de:_ Sky Sport News HD
+http://mona.dyndns.org:25461/live/test1/test1/1470.ts
+#EXTINF:-1,de:_ Sport1+ HD
+http://mona.dyndns.org:25461/live/test1/test1/1467.ts
+#EXTINF:-1,DE: ORF Sport
+http://mona.dyndns.org:25461/live/test1/test1/1840.ts
+#EXTINF:-1,DE: SPORTDIGITAL HD
+http://mona.dyndns.org:25461/live/test1/test1/1823.ts
+#EXTINF:-1,de:_Motorvision TV
+http://mona.dyndns.org:25461/live/test1/test1/1397.ts
+#EXTINF:-1,de:_ Boomerang
+http://mona.dyndns.org:25461/live/test1/test1/1478.ts
+#EXTINF:-1,de:_ TOGGO plus
+http://mona.dyndns.org:25461/live/test1/test1/1512.ts
+#EXTINF:-1,DE: KIKA HD
+http://mona.dyndns.org:25461/live/test1/test1/1828.ts
+#EXTINF:-1,de:_Boomerang
+http://mona.dyndns.org:25461/live/test1/test1/1382.ts
+#EXTINF:-1,de:_Cartoon Network
+http://mona.dyndns.org:25461/live/test1/test1/1383.ts
+#EXTINF:-1,de:_Disney Channel HD
+http://mona.dyndns.org:25461/live/test1/test1/1969.ts
+#EXTINF:-1,de:_Disney Cinemagic
+http://mona.dyndns.org:25461/live/test1/test1/1387.ts
+#EXTINF:-1,de:_Disney Cinemagic HD
+http://mona.dyndns.org:25461/live/test1/test1/1388.ts
+#EXTINF:-1,de:_Disney Junior
+http://mona.dyndns.org:25461/live/test1/test1/1389.ts
+#EXTINF:-1,de:_Disney Junior HD
+http://mona.dyndns.org:25461/live/test1/test1/1390.ts
+#EXTINF:-1,de:_Disney XD
+http://mona.dyndns.org:25461/live/test1/test1/1391.ts
+#EXTINF:-1,de:_Junior
+http://mona.dyndns.org:25461/live/test1/test1/1395.ts
+#EXTINF:-1,de:_Deluxe Music HD
+http://mona.dyndns.org:25461/live/test1/test1/1966.ts
+#EXTINF:-1,de:_Juwelo HD
+http://mona.dyndns.org:25461/live/test1/test1/1962.ts
+#EXTINF:-1,de:_Classica
+http://mona.dyndns.org:25461/live/test1/test1/1384.ts
+#EXTINF:-1,de:_Discovery Channel
+http://mona.dyndns.org:25461/live/test1/test1/1385.ts
+#EXTINF:-1,de:_Discovery HD
+http://mona.dyndns.org:25461/live/test1/test1/1386.ts
+#EXTINF:-1,de:_Nat Geo Wild HD
+http://mona.dyndns.org:25461/live/test1/test1/1399.ts
+#EXTINF:-1,de:_NatGeo HD
+http://mona.dyndns.org:25461/live/test1/test1/1400.ts
+#EXTINF:-1,de:_NatGeo Wild
+http://mona.dyndns.org:25461/live/test1/test1/1401.ts
+#EXTINF:-1,de:_National Geographic
+http://mona.dyndns.org:25461/live/test1/test1/1402.ts
+#EXTINF:-1,de:_ History HD
+http://mona.dyndns.org:25461/live/test1/test1/1502.ts
+#EXTINF:-1,DE: Sky Select 1
+http://mona.dyndns.org:25461/live/test1/test1/1817.ts
+#EXTINF:-1,DE: Sky Select 2
+http://mona.dyndns.org:25461/live/test1/test1/1818.ts
+#EXTINF:-1,DE: Sky Select 3
+http://mona.dyndns.org:25461/live/test1/test1/1824.ts
+#EXTINF:-1,DE: Sky Select 4
+http://mona.dyndns.org:25461/live/test1/test1/1819.ts
+#EXTINF:-1,DE: Sky Select 5
+http://mona.dyndns.org:25461/live/test1/test1/1820.ts
+#EXTINF:-1,DE: Sky Select 6
+http://mona.dyndns.org:25461/live/test1/test1/1821.ts
+#EXTINF:-1,DE: Sky Select 7
+http://mona.dyndns.org:25461/live/test1/test1/1825.ts
+#EXTINF:-1,DE: Sky Select 8
+http://mona.dyndns.org:25461/live/test1/test1/1826.ts
+#EXTINF:-1,DE: Sky Select 9
+http://mona.dyndns.org:25461/live/test1/test1/1822.ts
+#EXTINF:-1,DE: FILM CLUB HD 1
+http://mona.dyndns.org:25461/live/test1/test1/1804.ts
+#EXTINF:-1,DE: FILM CLUB HD 2
+http://mona.dyndns.org:25461/live/test1/test1/1803.ts
+#EXTINF:-1,DE: FILM CLUB HD 3
+http://mona.dyndns.org:25461/live/test1/test1/1802.ts
+#EXTINF:-1,DE: FILM CLUB HD 4
+http://mona.dyndns.org:25461/live/test1/test1/1801.ts
+#EXTINF:-1,DE: FILM CLUB HD 5
+http://mona.dyndns.org:25461/live/test1/test1/1800.ts
+#EXTINF:-1,DE: POPCORN SELECT 1
+http://mona.dyndns.org:25461/live/test1/test1/1812.ts
+#EXTINF:-1,DE: POPCORN SELECT 6
+http://mona.dyndns.org:25461/live/test1/test1/1811.ts
+#EXTINF:-1,DE: SELECT POPCORN 2
+http://mona.dyndns.org:25461/live/test1/test1/1810.ts
+#EXTINF:-1,DE: SELECT POPCORN 3
+http://mona.dyndns.org:25461/live/test1/test1/1809.ts
+#EXTINF:-1,DE: SELECT POPCORN 4
+http://mona.dyndns.org:25461/live/test1/test1/1808.ts
+#EXTINF:-1,DE: SELECT POPCORN 5
+http://mona.dyndns.org:25461/live/test1/test1/1807.ts
+#EXTINF:-1,MANGO 24
+http://mona.dyndns.org:25461/live/test1/test1/666.ts
+#EXTINF:-1,XXX: Hustler HD
+http://mona.dyndns.org:25461/live/test1/test1/1301.ts
+#EXTINF:-1,XXX: Redlight HD
+http://mona.dyndns.org:25461/live/test1/test1/1300.ts
 
 #EXTINF:-1,zdf_neo
 http://163.172.210.178:8000/live/59hkV7fNS2U/21g2yiAUkP4/810.ts
