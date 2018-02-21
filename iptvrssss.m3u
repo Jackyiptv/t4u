@@ -1,0 +1,882 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://yt3.ggpht.com/-jEVyYmA7My4/AAAAAAAAAAI/AAAAAAAAAAA/rVNF0_izisA/s900-c-k-no-mo-rj-c0xffffff/photo.jpg" group-title="LATVIA",Chau TV
+http://video.chaula.tv/hls/live/high/playlist_high.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn.firstonetv.eu/images/logos/lv/RETV.png" group-title="LATVIA",RETV
+http://edge-telia1.tiesraides.lv/live/retv.lv.1_1/playlist_b1825196.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/881801937892540417/war8WAEA_400x400.jpg" group-title="LATVIA",Riga TV24
+http://player.tvnet.lv/live/amlst:11/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.userlogos.org/files/logos/spaljeni/tvnet.png" group-title="LATVIA",TV Net
+http://player.tvnet.lv/stream/amlst:61659/chunklist_w1822312625_b528000_pd892000.m3u8
+#EXTINF:-1, Мир Сериала
+http://stb.tvoetv.in.ua:7071/play/a075?auth=MIKAILA250595:5VYXYyB
+#EXTINF:-1, Sport Tv 2 (Тест)
+http://stb.tvoetv.in.ua:7071/play/a0a6?auth=MIKAILA250595:5VYXYyB
+#EXTINF:-1, Euronews
+http://stb.tvoetv.in.ua:7071/play/a01m?auth=MIKAILA250595:5VYXYyB
+#EXTINF:-1, MiLady
+http://stb.tvoetv.in.ua:7071/play/a00n?auth=MIKAILA250595:5VYXYyB
+#EXTINF:-1, Матч! Наш Спорт
+http://stb.tvoetv.in.ua:7071/play/a065?auth=MIKAILA250595:5VYXYyB
+#EXTINF:-1, MGM HD
+http://stb.tvoetv.in.ua:7071/play/a00m?auth=MIKAILA250595:5VYXYyB
+#EXTINF:-1, Eurosport 1 HD
+http://stb.tvoetv.in.ua:7071/play/a00g?auth=MIKAILA250595:5VYXYyB
+#EXTINF:-1, Москва 24
+http://stb.tvoetv.in.ua:7071/play/a0as?auth=MIKAILA250595:5VYXYyB
+#EXTINF:-1, Наука
+http://stb.tvoetv.in.ua:7071/play/a03c?auth=MIKAILA250595:5VYXYyB
+#EXTINF:-1, Спорт 2
+http://stb.tvoetv.in.ua:7071/play/a06y?auth=MIKAILA250595:5VYXYyB
+#EXTINF:-1, Hromadske TV HD
+http://stb.tvoetv.in.ua:7071/play/a03f?auth=MIKAILA250595:5VYXYyB
+#EXTINF:-1, Футбол  Украина 1 HD
+http://stb.tvoetv.in.ua:7071/play/a02x?auth=MIKAILA250595:5VYXYyB
+#EXTINF:-1, Рен ТВ Балтия
+http://stb.tvoetv.in.ua:7071/play/a0ba?auth=MIKAILA250595:5VYXYyB
+#EXTINF:-1, NHL HD
+http://stb.tvoetv.in.ua:7071/play/a03e?auth=MIKAILA250595:5VYXYyB
+#EXTINF:-1, Da Vinchi Learning
+http://stb.tvoetv.in.ua:7071/play/a02y?auth=MIKAILA250595:5VYXYyB
+#EXTINF:-1, Nick Jr.
+http://stb.tvoetv.in.ua:7071/play/a08y?auth=MIKAILA250595:5VYXYyB
+#EXTINF:-1, Russian extreme
+http://stb.tvoetv.in.ua:7071/play/a02f?auth=MIKAILA250595:5VYXYyB
+#EXTINF:-1, Футбол Украина 2
+http://stb.tvoetv.in.ua:7071/play/a05h?auth=MIKAILA250595:5VYXYyB
+#EXTINF:-1, ТЕТ
+http://stb.tvoetv.in.ua:7071/play/a04e?auth=MIKAILA250595:5VYXYyB
+#EXTINF:-1, Культура
+http://stb.tvoetv.in.ua:7071/play/a040?auth=MIKAILA250595:5VYXYyB
+#EXTINF:-1, ТВ3
+http://stb.tvoetv.in.ua:7071/play/a0bf?auth=MIKAILA250595:5VYXYyB
+#EXTINF:-1, MCM Top
+http://stb.tvoetv.in.ua:7071/play/a01j?auth=MIKAILA250595:5VYXYyB
+#EXTINF:-1, Черноморськ 
+http://stb.tvoetv.in.ua:7071/play/a07q?auth=MIKAILA250595:5VYXYyB
+#EXTINF:-1, 8 канал
+http://stb.tvoetv.in.ua:7071/play/a0ai?auth=MIKAILA250595:5VYXYyB
+#EXTINF:-1, OCE
+http://stb.tvoetv.in.ua:7071/play/a00y?auth=MIKAILA250595:5VYXYyB
+#EXTINF:-1, СТБ
+http://stb.tvoetv.in.ua:7071/play/a030?auth=MIKAILA250595:5VYXYyB
+#EXTINF:-1, BT Sport ESPN
+http://stb.tvoetv.in.ua:7071/play/a0by?auth=MIKAILA250595:5VYXYyB
+#EXTINF:-1, Трофей HD
+http://stb.tvoetv.in.ua:7071/play/a05y?auth=MIKAILA250595:5VYXYyB
+#EXTINF:-1, English Club
+http://stb.tvoetv.in.ua:7071/play/a00f?auth=MIKAILA250595:5VYXYyB
+#EXTINF:-1, ТНТ HD
+http://stb.tvoetv.in.ua:7071/play/a0bc?auth=MIKAILA250595:5VYXYyB
+#EXTINF:-1, Мега
+http://stb.tvoetv.in.ua:7071/play/a002?auth=MIKAILA250595:5VYXYyB
+#EXTINF:-1, Game Show
+http://stb.tvoetv.in.ua:7071/play/a08h?auth=MIKAILA250595:5VYXYyB
+#EXTINF:-1, ZIK
+http://stb.tvoetv.in.ua:7071/play/a01k?auth=MIKAILA250595:5VYXYyB
+#EXTINF:-1, Дача HD
+http://stb.tvoetv.in.ua:7071/play/a03d?auth=MIKAILA250595:5VYXYyB
+#EXTINF:-1, TV 1000 Megahit HD
+http://stb.tvoetv.in.ua:7071/play/a01f?auth=MIKAILA250595:5VYXYyB
+#EXTINF:-1, Ю
+http://stb.tvoetv.in.ua:7071/play/a0bd?auth=MIKAILA250595:5VYXYyB
+#EXTINF:-1, Food Network
+http://stb.tvoetv.in.ua:7071/play/a081?auth=MIKAILA250595:5VYXYyB
+#EXTINF:-1, Enter Film
+http://stb.tvoetv.in.ua:7071/play/a09k?auth=MIKAILA250595:5VYXYyB
+#EXTINF:-1, Терра
+http://stb.tvoetv.in.ua:7071/play/a08q?auth=MIKAILA250595:5VYXYyB
+#EXTINF:-1, Discovery Showcase HD
+http://stb.tvoetv.in.ua:7071/play/a02d?auth=MIKAILA250595:5VYXYyB
+#EXTINF:-1, Кто есть кто
+http://stb.tvoetv.in.ua:7071/play/a0ap?auth=MIKAILA250595:5VYXYyB
+#EXTINF:-1, Музыка первого
+http://stb.tvoetv.in.ua:7071/play/a076?auth=MIKAILA250595:5VYXYyB
+#EXTINF:-1, Солнце ТВ 
+http://stb.tvoetv.in.ua:7071/play/a04j?auth=MIKAILA250595:5VYXYyB
+#EXTINF:-1, Сарафан
+http://stb.tvoetv.in.ua:7071/play/a0bx?auth=MIKAILA250595:5VYXYyB
+#EXTINF:-1, Еда HD
+http://stb.tvoetv.in.ua:7071/play/a03s?auth=MIKAILA250595:5VYXYyB
+#EXTINF:-1, VIVA
+http://stb.tvoetv.in.ua:7071/play/a08j?auth=MIKAILA250595:5VYXYyB
+#EXTINF:-1, Detektiv.TV
+http://stb.tvoetv.in.ua:7071/play/a090?auth=MIKAILA250595:5VYXYyB
+#EXTINF:-1, К2
+http://stb.tvoetv.in.ua:7071/play/a04g?auth=MIKAILA250595:5VYXYyB
+#EXTINF:-1, КХЛ
+http://stb.tvoetv.in.ua:7071/play/a073?auth=MIKAILA250595:5VYXYyB
+#EXTINF:-1, Тиса 1
+http://stb.tvoetv.in.ua:7071/play/a09q?auth=MIKAILA250595:5VYXYyB
+#EXTINF:-1, онт
+http://stb.tvoetv.in.ua:7071/play/ont?auth=MIKAILA250595:5VYXYyB
+#EXTINF:-1, Sony
+http://stb.tvoetv.in.ua:7071/play/a01w?auth=MIKAILA250595:5VYXYyB
+#EXTINF:-1, Морской
+http://stb.tvoetv.in.ua:7071/play/a0ab?auth=MIKAILA250595:5VYXYyB
+#EXTINF:-1, Ностальгия NTV
+http://stb.tvoetv.in.ua:7071/play/a0au?auth=MIKAILA250595:5VYXYyB
+#EXTINF:-1, 2+2
+http://stb.tvoetv.in.ua:7071/play/a03n?auth=MIKAILA250595:5VYXYyB
+#EXTINF:-1, Наше ТВ
+http://stb.tvoetv.in.ua:7071/play/a0at?auth=MIKAILA250595:5VYXYyB
+#EXTINF:-1, EU Music HD
+http://stb.tvoetv.in.ua:7071/play/a01l?auth=MIKAILA250595:5VYXYyB
+#EXTINF:-1, RU TV
+http://stb.tvoetv.in.ua:7071/play/a01y?auth=MIKAILA250595:5VYXYyB
+#EXTINF:-1, Просявщение
+http://stb.tvoetv.in.ua:7071/play/a0aw?auth=MIKAILA250595:5VYXYyB
+#EXTINF:-1, History
+http://stb.tvoetv.in.ua:7071/play/a083?auth=MIKAILA250595:5VYXYyB
+#EXTINF:-1, Футбол Украина 1
+http://stb.tvoetv.in.ua:7071/play/a05g?auth=MIKAILA250595:5VYXYyB
+#EXTINF:-1, Наш Детектив HD
+http://stb.tvoetv.in.ua:7071/play/a02a?auth=MIKAILA250595:5VYXYyB
+#EXTINF:-1, NBA  none
+http://stb.tvoetv.in.ua:7071/play/a0c4?auth=MIKAILA250595:5VYXYyB
+#EXTINF:-1, Чернивецкий проминь HD
+http://stb.tvoetv.in.ua:7071/play/a04v?auth=MIKAILA250595:5VYXYyB
+#EXTINF:-1, Конный Мир HD
+http://stb.tvoetv.in.ua:7071/play/a08b?auth=MIKAILA250595:5VYXYyB
+#EXTINF:-1, Discovery IDXtra
+http://stb.tvoetv.in.ua:7071/play/a05j?auth=MIKAILA250595:5VYXYyB
+#EXTINF:-1, Тонис HD
+http://stb.tvoetv.in.ua:7071/play/a095?auth=MIKAILA250595:5VYXYyB
+#EXTINF:-1, Premier HD
+http://stb.tvoetv.in.ua:7071/play/a08l?auth=MIKAILA250595:5VYXYyB
+#EXTINF:-1, Наше новое кино
+http://stb.tvoetv.in.ua:7071/play/a044?auth=MIKAILA250595:5VYXYyB
+#EXTINF:-1, Детский мир
+http://stb.tvoetv.in.ua:7071/play/a07y?auth=MIKAILA250595:5VYXYyB
+#EXTINF:-1, Canal+Sport HD
+http://stb.tvoetv.in.ua:7071/play/a07g?auth=MIKAILA250595:5VYXYyB
+#EXTINF:-1, BRIDGE HD
+http://stb.tvoetv.in.ua:7071/play/a056?auth=MIKAILA250595:5VYXYyB
+#EXTINF:-1, Mezzo
+http://stb.tvoetv.in.ua:7071/play/a00k?auth=MIKAILA250595:5VYXYyB
+#EXTINF:-1, Paramount Channel HD
+http://stb.tvoetv.in.ua:7071/play/a02s?auth=MIKAILA250595:5VYXYyB
+#EXTINF:-1, Spike SD
+http://stb.tvoetv.in.ua:7071/play/a08m?auth=MIKAILA250595:5VYXYyB
+#EXTINF:-1, 9 Израиль none
+http://stb.tvoetv.in.ua:7071/play/a0c2?auth=MIKAILA250595:5VYXYyB
+#EXTINF:-1, MTV SBS
+http://stb.tvoetv.in.ua:7071/play/a09m?auth=MIKAILA250595:5VYXYyB
+#EXTINF:-1, VH-1 Europen
+http://stb.tvoetv.in.ua:7071/play/a012?auth=MIKAILA250595:5VYXYyB
+#EXTINF:-1, Paramount Comedy HD
+http://stb.tvoetv.in.ua:7071/play/a02u?auth=MIKAILA250595:5VYXYyB
+#EXTINF:-1, 112 Украина
+http://stb.tvoetv.in.ua:7071/play/a03m?auth=MIKAILA250595:5VYXYyB
+#EXTINF:-1, Fuel TV HD
+http://stb.tvoetv.in.ua:7071/play/a053?auth=MIKAILA250595:5VYXYyB
+#EXTINF:-1, Русский Бестселлер
+http://stb.tvoetv.in.ua:7071/play/a06f?auth=MIKAILA250595:5VYXYyB
+#EXTINF:-1, Discovery CEE
+http://stb.tvoetv.in.ua:7071/play/disccee?auth=MIKAILA250595:5VYXYyB
+#EXTINF:-1, VOSTOK WORLD
+http://stb.tvoetv.in.ua:7071/play/a0ce?auth=MIKAILA250595:5VYXYyB
+#EXTINF:-1, MTV Hits
+http://stb.tvoetv.in.ua:7071/play/a00q?auth=MIKAILA250595:5VYXYyB
+#EXTINF:-1, Матч! Планета
+http://stb.tvoetv.in.ua:7071/play/a05a?auth=MIKAILA250595:5VYXYyB
+#EXTINF:-1, Россия 1
+http://stb.tvoetv.in.ua:7071/play/a0b2?auth=MIKAILA250595:5VYXYyB
+#EXTINF:-1, Мульт
+http://stb.tvoetv.in.ua:7071/play/a07z?auth=MIKAILA250595:5VYXYyB
+#EXTINF:-1, Домашние животные
+http://stb.tvoetv.in.ua:7071/play/a070?auth=MIKAILA250595:5VYXYyB
+#EXTINF:-1, Bollywood
+http://stb.tvoetv.in.ua:7071/play/a09r?auth=MIKAILA250595:5VYXYyB
+#EXTINF:-1, Киносвидание
+http://stb.tvoetv.in.ua:7071/play/a03x?auth=MIKAILA250595:5VYXYyB
+#EXTINF:-1, TV 21M
+http://stb.tvoetv.in.ua:7071/play/a06b?auth=MIKAILA250595:5VYXYyB
+#EXTINF:-1, Eurosport 2 HD
+http://stb.tvoetv.in.ua:7071/play/a060?auth=MIKAILA250595:5VYXYyB
+#EXTINF:-1, Думская ТВ HD
+http://stb.tvoetv.in.ua:7071/play/a09y?auth=MIKAILA250595:5VYXYyB
+#EXTINF:-1, АТР
+http://stb.tvoetv.in.ua:7071/play/a01n?auth=MIKAILA250595:5VYXYyB
+#EXTINF:-1, Бигуди
+http://stb.tvoetv.in.ua:7071/play/a04u?auth=MIKAILA250595:5VYXYyB
+#EXTINF:-1, Кинокомедия
+http://stb.tvoetv.in.ua:7071/play/a09j?auth=MIKAILA250595:5VYXYyB
+#EXTINF:-1, Кино ТВ
+http://stb.tvoetv.in.ua:7071/play/a067?auth=MIKAILA250595:5VYXYyB
+#EXTINF:-1, Спас
+http://stb.tvoetv.in.ua:7071/play/a0bu?auth=MIKAILA250595:5VYXYyB
+#EXTINF:-1, Ani
+http://stb.tvoetv.in.ua:7071/play/a00a?auth=MIKAILA250595:5VYXYyB
+#EXTINF:-1, Матч! Игра
+http://stb.tvoetv.in.ua:7071/play/a05b?auth=MIKAILA250595:5VYXYyB
+#EXTINF:-1, MTV Classic
+http://stb.tvoetv.in.ua:7071/play/a00o?auth=MIKAILA250595:5VYXYyB
+#EXTINF:-1, Дом Кино
+http://stb.tvoetv.in.ua:7071/play/a07e?auth=MIKAILA250595:5VYXYyB
+#EXTINF:-1, TV 1000 Comedy HD
+http://stb.tvoetv.in.ua:7071/play/a01i?auth=MIKAILA250595:5VYXYyB
+#EXTINF:-1, Наше любимое кино
+http://stb.tvoetv.in.ua:7071/play/a05u?auth=MIKAILA250595:5VYXYyB
+#EXTINF:-1, Наш Футбол
+http://stb.tvoetv.in.ua:7071/play/a059?auth=MIKAILA250595:5VYXYyB
+#EXTINF:-1, 112 Украина HD
+http://stb.tvoetv.in.ua:7071/play/a06q?auth=MIKAILA250595:5VYXYyB
+#EXTINF:-1, НТВ Мир none
+http://stb.tvoetv.in.ua:7071/play/a0av?auth=MIKAILA250595:5VYXYyB
+#EXTINF:-1, ТНТ +4 none
+http://stb.tvoetv.in.ua:7071/play/a0be?auth=MIKAILA250595:5VYXYyB
+#EXTINF:-1, Fox Life HD
+http://stb.tvoetv.in.ua:7071/play/a08t?auth=MIKAILA250595:5VYXYyB
+#EXTINF:-1, Телекафе
+http://stb.tvoetv.in.ua:7071/play/a07b?auth=MIKAILA250595:5VYXYyB
+#EXTINF:-1, тестhd1
+http://stb.tvoetv.in.ua:7071/play/122q?auth=MIKAILA250595:5VYXYyB
+#EXTINF:-1, FilmBox
+http://stb.tvoetv.in.ua:7071/play/a03h?auth=MIKAILA250595:5VYXYyB
+#EXTINF:-1, BT Sport 1
+http://stb.tvoetv.in.ua:7071/play/a001?auth=MIKAILA250595:5VYXYyB
+#EXTINF:-1, Bollywood HD
+http://stb.tvoetv.in.ua:7071/play/a061?auth=MIKAILA250595:5VYXYyB
+#EXTINF:-1, MTV Dance
+http://stb.tvoetv.in.ua:7071/play/a00p?auth=MIKAILA250595:5VYXYyB
+#EXTINF:-1, Матч! Игра HD
+http://stb.tvoetv.in.ua:7071/play/a05q?auth=MIKAILA250595:5VYXYyB
+#EXTINF:-1, Life News
+http://stb.tvoetv.in.ua:7071/play/a0ay?auth=MIKAILA250595:5VYXYyB
+#EXTINF:-1, Бобер
+http://stb.tvoetv.in.ua:7071/play/a05k?auth=MIKAILA250595:5VYXYyB
+#EXTINF:-1, Дача
+http://stb.tvoetv.in.ua:7071/play/a08p?auth=MIKAILA250595:5VYXYyB
+#EXTINF:-1, Наш Футбол HD
+http://stb.tvoetv.in.ua:7071/play/a043?auth=MIKAILA250595:5VYXYyB
+#EXTINF:-1, DTX
+http://stb.tvoetv.in.ua:7071/play/a021?auth=MIKAILA250595:5VYXYyB
+#EXTINF:-1, Baby TV none
+http://stb.tvoetv.in.ua:7071/play/a0c7?auth=MIKAILA250595:5VYXYyB
+#EXTINF:-1, Матч! ТВ
+http://stb.tvoetv.in.ua:7071/play/a062?auth=MIKAILA250595:5VYXYyB
+#EXTINF:-1, Duck TV
+http://stb.tvoetv.in.ua:7071/play/a00e?auth=MIKAILA250595:5VYXYyB
+#EXTINF:-1, Матч! Футбол 3 
+http://stb.tvoetv.in.ua:7071/play/a02m?auth=MIKAILA250595:5VYXYyB
+#EXTINF:-1, Матч! Футбол 2
+http://stb.tvoetv.in.ua:7071/play/a02n?auth=MIKAILA250595:5VYXYyB
+#EXTINF:-1, Матч! Футбол 1
+http://stb.tvoetv.in.ua:7071/play/a041?auth=MIKAILA250595:5VYXYyB
+#EXTINF:-1, Первый автомобильный
+http://stb.tvoetv.in.ua:7071/play/a09p?auth=MIKAILA250595:5VYXYyB
+#EXTINF:-1, Матч! Футбол 3 HD
+http://stb.tvoetv.in.ua:7071/play/a035?auth=MIKAILA250595:5VYXYyB
+#EXTINF:-1, Сов секретно
+http://stb.tvoetv.in.ua:7071/play/a0bv?auth=MIKAILA250595:5VYXYyB
+#EXTINF:-1, Остросюжетное HD
+http://stb.tvoetv.in.ua:7071/play/a02c?auth=MIKAILA250595:5VYXYyB
+#EXTINF:-1, Discovery Channel
+http://stb.tvoetv.in.ua:7071/play/a022?auth=MIKAILA250595:5VYXYyB
+#EXTINF:-1, Матч! Футбол 1 HD 
+http://stb.tvoetv.in.ua:7071/play/a033?auth=MIKAILA250595:5VYXYyB
+#EXTINF:-1, Eurosport Gold HD
+http://stb.tvoetv.in.ua:7071/play/a098?auth=MIKAILA250595:5VYXYyB
+#EXTINF:-1, Матч! Боец
+http://stb.tvoetv.in.ua:7071/play/a05c?auth=MIKAILA250595:5VYXYyB
+#EXTINF:-1, Кинопоказ 1 HD
+http://stb.tvoetv.in.ua:7071/play/a039?auth=MIKAILA250595:5VYXYyB
+#EXTINF:-1, CBS Reality
+http://stb.tvoetv.in.ua:7071/play/a07f?auth=MIKAILA250595:5VYXYyB
+#EXTINF:-1, Boomerang
+http://stb.tvoetv.in.ua:7071/play/a054?auth=MIKAILA250595:5VYXYyB
+#EXTINF:-1, Рада
+http://stb.tvoetv.in.ua:7071/play/a06r?auth=MIKAILA250595:5VYXYyB
+#EXTINF:-1, Матч! Арена HD
+http://stb.tvoetv.in.ua:7071/play/a05x?auth=MIKAILA250595:5VYXYyB
+#EXTINF:-1, Zoom
+http://stb.tvoetv.in.ua:7071/play/a013?auth=MIKAILA250595:5VYXYyB
+#EXTINF:-1, КВН 
+http://stb.tvoetv.in.ua:7071/play/a091?auth=MIKAILA250595:5VYXYyB
+#EXTINF:-1, Матч! Арена
+http://stb.tvoetv.in.ua:7071/play/a05d?auth=MIKAILA250595:5VYXYyB
+#EXTINF:-1, OTV
+http://stb.tvoetv.in.ua:7071/play/a08r?auth=MIKAILA250595:5VYXYyB
+#EXTINF:-1, Бокс ТВ
+http://stb.tvoetv.in.ua:7071/play/a055?auth=MIKAILA250595:5VYXYyB
+#EXTINF:-1, VH-1 Classic
+http://stb.tvoetv.in.ua:7071/play/a011?auth=MIKAILA250595:5VYXYyB
+#EXTINF:-1, Авто плюс
+http://stb.tvoetv.in.ua:7071/play/a06j?auth=MIKAILA250595:5VYXYyB
+#EXTINF:-1, Белорусь 3
+http://stb.tvoetv.in.ua:7071/play/bel3?auth=MIKAILA250595:5VYXYyB
+#EXTINF:-1, TLC
+http://stb.tvoetv.in.ua:7071/play/a010?auth=MIKAILA250595:5VYXYyB
+#EXTINF:-1, TLC HD
+http://stb.tvoetv.in.ua:7071/play/a05z?auth=MIKAILA250595:5VYXYyB
+#EXTINF:-1, ТНТ
+http://stb.tvoetv.in.ua:7071/play/a0bs?auth=MIKAILA250595:5VYXYyB
+#EXTINF:-1, ТНВ Планета
+http://stb.tvoetv.in.ua:7071/play/a0bp?auth=MIKAILA250595:5VYXYyB
+#EXTINF:-1, Travel & Adventure
+http://stb.tvoetv.in.ua:7071/play/a093?auth=MIKAILA250595:5VYXYyB
+#EXTINF:-1, Открытый HD
+http://stb.tvoetv.in.ua:7071/play/a0cf?auth=MIKAILA250595:5VYXYyB
+#EXTINF:-1, Fox
+http://stb.tvoetv.in.ua:7071/play/a01a?auth=MIKAILA250595:5VYXYyB
+#EXTINF:-1, ТДК
+http://stb.tvoetv.in.ua:7071/play/a0bt?auth=MIKAILA250595:5VYXYyB
+#EXTINF:-1, Карусель
+http://stb.tvoetv.in.ua:7071/play/a072?auth=MIKAILA250595:5VYXYyB
+#EXTINF:-1, UATV
+http://stb.tvoetv.in.ua:7071/play/a09u?auth=MIKAILA250595:5VYXYyB
+#EXTINF:-1, Россия К
+http://stb.tvoetv.in.ua:7071/play/a0b4?auth=MIKAILA250595:5VYXYyB
+#EXTINF:-1, Пятница
+http://stb.tvoetv.in.ua:7071/play/a0ao?auth=MIKAILA250595:5VYXYyB
+#EXTINF:-1, М1
+http://stb.tvoetv.in.ua:7071/play/a006?auth=MIKAILA250595:5VYXYyB
+#EXTINF:-1, M-Studio
+http://stb.tvoetv.in.ua:7071/play/mstudio?auth=MIKAILA250595:5VYXYyB
+#EXTINF:-1, РБК
+http://stb.tvoetv.in.ua:7071/play/a0b0?auth=MIKAILA250595:5VYXYyB
+#EXTINF:-1, Русская Комедия
+http://stb.tvoetv.in.ua:7071/play/a02l?auth=MIKAILA250595:5VYXYyB
+#EXTINF:-1, XSport
+http://stb.tvoetv.in.ua:7071/play/a09d?auth=MIKAILA250595:5VYXYyB
+#EXTINF:-1, Cartoon Network
+http://stb.tvoetv.in.ua:7071/play/a0c8?auth=MIKAILA250595:5VYXYyB
+#EXTINF:-1, НТВ Стиль
+http://stb.tvoetv.in.ua:7071/play/a029?auth=MIKAILA250595:5VYXYyB
+#EXTINF:-1, НТВ Право
+http://stb.tvoetv.in.ua:7071/play/a027?auth=MIKAILA250595:5VYXYyB
+#EXTINF:-1, Мир
+http://stb.tvoetv.in.ua:7071/play/a0aq?auth=MIKAILA250595:5VYXYyB
+#EXTINF:-1, Animal Planet
+http://stb.tvoetv.in.ua:7071/play/a02k?auth=MIKAILA250595:5VYXYyB
+#EXTINF:-1, Russian extreme HD
+http://stb.tvoetv.in.ua:7071/play/a0a0?auth=MIKAILA250595:5VYXYyB
+#EXTINF:-1, MAXXI TV
+http://stb.tvoetv.in.ua:7071/play/a07o?auth=MIKAILA250595:5VYXYyB
+#EXTINF:-1, outdoorhd
+http://stb.tvoetv.in.ua:7071/play/a096?auth=MIKAILA250595:5VYXYyB
+#EXTINF:-1, Южная Волна HD
+http://stb.tvoetv.in.ua:7071/play/a08c?auth=MIKAILA250595:5VYXYyB
+#EXTINF:-1, MONTECARLO MUSIC
+http://stb.tvoetv.in.ua:7071/play/a0cd?auth=MIKAILA250595:5VYXYyB
+#EXTINF:-1, FilmBox Arthouse
+http://stb.tvoetv.in.ua:7071/play/a03g?auth=MIKAILA250595:5VYXYyB
+#EXTINF:-1, Звезда
+http://stb.tvoetv.in.ua:7071/play/a0al?auth=MIKAILA250595:5VYXYyB
+#EXTINF:-1, 1+1
+http://stb.tvoetv.in.ua:7071/play/a015?auth=MIKAILA250595:5VYXYyB
+#EXTINF:-1, BBC World News
+http://stb.tvoetv.in.ua:7071/play/a01d?auth=MIKAILA250595:5VYXYyB
+#EXTINF:-1, Домашний
+http://stb.tvoetv.in.ua:7071/play/a0aj?auth=MIKAILA250595:5VYXYyB
+#EXTINF:-1, Egoist
+http://stb.tvoetv.in.ua:7071/play/a086?auth=MIKAILA250595:5VYXYyB
+#EXTINF:-1, Матч! ТВ HD
+http://stb.tvoetv.in.ua:7071/play/a066?auth=MIKAILA250595:5VYXYyB
+#EXTINF:-1, CTC Love
+http://stb.tvoetv.in.ua:7071/play/a0bn?auth=MIKAILA250595:5VYXYyB
+#EXTINF:-1, Канал Disney +7 none
+http://stb.tvoetv.in.ua:7071/play/Dis7?auth=MIKAILA250595:5VYXYyB
+#EXTINF:-1, Trace Urban HD
+http://stb.tvoetv.in.ua:7071/play/a07h?auth=MIKAILA250595:5VYXYyB
+#EXTINF:-1, 365
+http://stb.tvoetv.in.ua:7071/play/a0ag?auth=MIKAILA250595:5VYXYyB
+#EXTINF:-1, Русский Роман
+http://stb.tvoetv.in.ua:7071/play/a04n?auth=MIKAILA250595:5VYXYyB
+#EXTINF:-1, test4sd
+http://stb.tvoetv.in.ua:7071/play/124q?auth=MIKAILA250595:5VYXYyB
+#EXTINF:-1, Мама 
+http://stb.tvoetv.in.ua:7071/play/a05p?auth=MIKAILA250595:5VYXYyB
+#EXTINF:-1, ТНТ Music
+http://stb.tvoetv.in.ua:7071/play/a08z?auth=MIKAILA250595:5VYXYyB
+#EXTINF:-1, JimJam
+http://stb.tvoetv.in.ua:7071/play/a06u?auth=MIKAILA250595:5VYXYyB
+#EXTINF:-1, Жара ТВ
+http://stb.tvoetv.in.ua:7071/play/a06k?auth=MIKAILA250595:5VYXYyB
+#EXTINF:-1, К1
+http://stb.tvoetv.in.ua:7071/play/a04f?auth=MIKAILA250595:5VYXYyB
+
+#EXTINF:-1, MTV Live HD
+http://stb.tvoetv.in.ua:7071/play/a00r?auth=MIKAILA250595:5VYXYyB
+#EXTINF:-1, Eurosport 1
+http://stb.tvoetv.in.ua:7071/play/a06p?auth=MIKAILA250595:5VYXYyB
+#EXTINF:-1, Живая Природа HD
+http://stb.tvoetv.in.ua:7071/play/a08o?auth=MIKAILA250595:5VYXYyB
+#EXTINF:-1, MTV
+http://stb.tvoetv.in.ua:7071/play/a05l?auth=MIKAILA250595:5VYXYyB
+#EXTINF:-1, НТВ HD
+http://stb.tvoetv.in.ua:7071/play/a0b9?auth=MIKAILA250595:5VYXYyB
+#EXTINF:-1, Nu Art none
+http://stb.tvoetv.in.ua:7071/play/a07i?auth=MIKAILA250595:5VYXYyB
+#EXTINF:-1, Ginger HD
+http://stb.tvoetv.in.ua:7071/play/a06n?auth=MIKAILA250595:5VYXYyB
+#EXTINF:-1, GametoonHD none
+http://stb.tvoetv.in.ua:7071/play/a04b?auth=MIKAILA250595:5VYXYyB
+#EXTINF:-1, Русский Иллюзион
+http://stb.tvoetv.in.ua:7071/play/a058?auth=MIKAILA250595:5VYXYyB
+#EXTINF:-1, Рен ТВ
+http://stb.tvoetv.in.ua:7071/play/a0b1?auth=MIKAILA250595:5VYXYyB
+#EXTINF:-1, AMC
+http://stb.tvoetv.in.ua:7071/play/a020?auth=MIKAILA250595:5VYXYyB
+#EXTINF:-1, Планета HD
+http://stb.tvoetv.in.ua:7071/play/a088?auth=MIKAILA250595:5VYXYyB
+#EXTINF:-1, Viasat History
+http://stb.tvoetv.in.ua:7071/play/a06a?auth=MIKAILA250595:5VYXYyB
+#EXTINF:-1, Music Box UA
+http://stb.tvoetv.in.ua:7071/play/a07n?auth=MIKAILA250595:5VYXYyB
+#EXTINF:-1, Travel Channel
+http://stb.tvoetv.in.ua:7071/play/a06v?auth=MIKAILA250595:5VYXYyB
+#EXTINF:-1, Bridge TV Русский хит
+http://stb.tvoetv.in.ua:7071/play/a07x?auth=MIKAILA250595:5VYXYyB
+
+#EXTINF:-1, 24 DOK
+http://stb.tvoetv.in.ua:7071/play/a03o?auth=MIKAILA250595:5VYXYyB
+#EXTINF:-1, Крик ТВ
+http://stb.tvoetv.in.ua:7071/play/a0an?auth=MIKAILA250595:5VYXYyB
+#EXTINF:-1, Amedia Hit
+http://stb.tvoetv.in.ua:7071/play/a008?auth=MIKAILA250595:5VYXYyB
+#EXTINF:-1, Tumar (Тест)
+http://stb.tvoetv.in.ua:7071/play/a0a3?auth=MIKAILA250595:5VYXYyB
+#EXTINF:-1, Украина
+http://stb.tvoetv.in.ua:7071/play/a04i?auth=MIKAILA250595:5VYXYyB
+#EXTINF:-1, Amedia Premium HD
+http://stb.tvoetv.in.ua:7071/play/a038?auth=MIKAILA250595:5VYXYyB
+#EXTINF:-1, Fast&FunBox HD
+http://stb.tvoetv.in.ua:7071/play/a06m?auth=MIKAILA250595:5VYXYyB
+#EXTINF:-1, Рен ТВ HD
+http://stb.tvoetv.in.ua:7071/play/a0bb?auth=MIKAILA250595:5VYXYyB
+#EXTINF:-1, Amedia
+http://stb.tvoetv.in.ua:7071/play/a01c?auth=MIKAILA250595:5VYXYyB
+
+#EXTINF:-1, Travel Channel HD
+http://stb.tvoetv.in.ua:7071/play/a01e?auth=MIKAILA250595:5VYXYyB
+#EXTINF:-1, Cartoon Network HD
+http://stb.tvoetv.in.ua:7071/play/a02q?auth=MIKAILA250595:5VYXYyB
+#EXTINF:-1, TV 1000 Comedy
+http://stb.tvoetv.in.ua:7071/play/a08e?auth=MIKAILA250595:5VYXYyB
+#EXTINF:-1, Белорусь 24
+http://stb.tvoetv.in.ua:7071/play/bel24?auth=MIKAILA250595:5VYXYyB
+#EXTINF:-1, Q!
+http://stb.tvoetv.in.ua:7071/play/a052?auth=MIKAILA250595:5VYXYyB
+#EXTINF:-1, Viasat Sport HD
+http://stb.tvoetv.in.ua:7071/play/a05r?auth=MIKAILA250595:5VYXYyB
+#EXTINF:-1, DTX HD
+http://stb.tvoetv.in.ua:7071/play/a08u?auth=MIKAILA250595:5VYXYyB
+#EXTINF:-1, History HD
+http://stb.tvoetv.in.ua:7071/play/a05f?auth=MIKAILA250595:5VYXYyB
+#EXTINF:-1, Первый канал (+4)
+http://stb.tvoetv.in.ua:7071/play/a0ck?auth=MIKAILA250595:5VYXYyB
+#EXTINF:-1, Amedia 2
+http://stb.tvoetv.in.ua:7071/play/a009?auth=MIKAILA250595:5VYXYyB
+#EXTINF:-1, Мир 24 
+http://stb.tvoetv.in.ua:7071/play/a0ar?auth=MIKAILA250595:5VYXYyB
+#EXTINF:-1, Кухня ТВ
+http://stb.tvoetv.in.ua:7071/play/a080?auth=MIKAILA250595:5VYXYyB
+#EXTINF:-1, История
+http://stb.tvoetv.in.ua:7071/play/a0am?auth=MIKAILA250595:5VYXYyB
+#EXTINF:-1, Интер
+http://stb.tvoetv.in.ua:7071/play/a005?auth=MIKAILA250595:5VYXYyB
+#EXTINF:-1, Дорама
+http://stb.tvoetv.in.ua:7071/play/a04w?auth=MIKAILA250595:5VYXYyB
+#EXTINF:-1, Квартал ТВ
+http://stb.tvoetv.in.ua:7071/play/a04q?auth=MIKAILA250595:5VYXYyB
+#EXTINF:-1, Мультимания
+http://stb.tvoetv.in.ua:7071/play/a09h?auth=MIKAILA250595:5VYXYyB
+#EXTINF:-1, BOLT
+http://stb.tvoetv.in.ua:7071/play/BOLT?auth=MIKAILA250595:5VYXYyB
+#EXTINF:-1, СТС
+http://stb.tvoetv.in.ua:7071/play/a0bl?auth=MIKAILA250595:5VYXYyB
+#EXTINF:-1, Film Box Baltic
+http://stb.tvoetv.in.ua:7071/play/a0c5?auth=MIKAILA250595:5VYXYyB
+#EXTINF:-1, Детский
+http://stb.tvoetv.in.ua:7071/play/a087?auth=MIKAILA250595:5VYXYyB
+#EXTINF:-1, Надежда
+http://stb.tvoetv.in.ua:7071/play/a09s?auth=MIKAILA250595:5VYXYyB
+#EXTINF:-1, FightBox HD
+http://stb.tvoetv.in.ua:7071/play/a00h?auth=MIKAILA250595:5VYXYyB
+#EXTINF:-1, В гостях у сказки
+http://stb.tvoetv.in.ua:7071/play/a04o?auth=MIKAILA250595:5VYXYyB
+#EXTINF:-1, National Geographic HD
+http://stb.tvoetv.in.ua:7071/play/a04k?auth=MIKAILA250595:5VYXYyB
+#EXTINF:-1, Star Cinema HD
+http://stb.tvoetv.in.ua:7071/play/a09c?auth=MIKAILA250595:5VYXYyB
+#EXTINF:-1, Paramount Comedy
+http://stb.tvoetv.in.ua:7071/play/a01t?auth=MIKAILA250595:5VYXYyB
+#EXTINF:-1, Sony Sci Fi
+http://stb.tvoetv.in.ua:7071/play/a019?auth=MIKAILA250595:5VYXYyB
+#EXTINF:-1, Ретро
+http://stb.tvoetv.in.ua:7071/play/a04d?auth=MIKAILA250595:5VYXYyB
+#EXTINF:-1, Europa Plus
+http://stb.tvoetv.in.ua:7071/play/a01s?auth=MIKAILA250595:5VYXYyB
+#EXTINF:-1, Первый канал HD
+http://stb.tvoetv.in.ua:7071/play/a0bj?auth=MIKAILA250595:5VYXYyB
+#EXTINF:-1, TV 1000 Action
+http://stb.tvoetv.in.ua:7071/play/a018?auth=MIKAILA250595:5VYXYyB
+#EXTINF:-1, Киев ТВ
+http://stb.tvoetv.in.ua:7071/play/a09o?auth=MIKAILA250595:5VYXYyB
+#EXTINF:-1, RTG TV
+http://stb.tvoetv.in.ua:7071/play/a0b5?auth=MIKAILA250595:5VYXYyB
+#EXTINF:-1, Моя Планета
+http://stb.tvoetv.in.ua:7071/play/a068?auth=MIKAILA250595:5VYXYyB
+#EXTINF:-1, Трофей
+http://stb.tvoetv.in.ua:7071/play/a031?auth=MIKAILA250595:5VYXYyB
+#EXTINF:-1, Food Network HD
+http://stb.tvoetv.in.ua:7071/play/a0c1?auth=MIKAILA250595:5VYXYyB
+#EXTINF:-1, М2
+http://stb.tvoetv.in.ua:7071/play/a036?auth=MIKAILA250595:5VYXYyB
+#EXTINF:-1, Eurosport 2
+http://stb.tvoetv.in.ua:7071/play/a092?auth=MIKAILA250595:5VYXYyB
+#EXTINF:-1, iConcerts HD none
+http://stb.tvoetv.in.ua:7071/play/a0c9?auth=MIKAILA250595:5VYXYyB
+#EXTINF:-1, Discovery Science
+http://stb.tvoetv.in.ua:7071/play/a02j?auth=MIKAILA250595:5VYXYyB
+#EXTINF:-1, Теленовелла
+http://stb.tvoetv.in.ua:7071/play/a071?auth=MIKAILA250595:5VYXYyB
+#EXTINF:-1, Lale
+http://stb.tvoetv.in.ua:7071/play/a0a1?auth=MIKAILA250595:5VYXYyB
+#EXTINF:-1, Мужское кино
+http://stb.tvoetv.in.ua:7071/play/a042?auth=MIKAILA250595:5VYXYyB
+#EXTINF:-1, Viasat Explorer
+http://stb.tvoetv.in.ua:7071/play/a05i?auth=MIKAILA250595:5VYXYyB
+#EXTINF:-1, НСТ
+http://stb.tvoetv.in.ua:7071/play/a045?auth=MIKAILA250595:5VYXYyB
+#EXTINF:-1, Первый Западный
+http://stb.tvoetv.in.ua:7071/play/a06t?auth=MIKAILA250595:5VYXYyB
+#EXTINF:-1, Discovery Science HD
+http://stb.tvoetv.in.ua:7071/play/a02e?auth=MIKAILA250595:5VYXYyB
+#EXTINF:-1, ТВЦ
+http://stb.tvoetv.in.ua:7071/play/a0bo?auth=MIKAILA250595:5VYXYyB
+#EXTINF:-1, Тлум HD
+http://stb.tvoetv.in.ua:7071/play/a02o?auth=MIKAILA250595:5VYXYyB
+#EXTINF:-1, SuperTennis HD
+http://stb.tvoetv.in.ua:7071/play/a00z?auth=MIKAILA250595:5VYXYyB
+#EXTINF:-1, Кинохит
+http://stb.tvoetv.in.ua:7071/play/a03z?auth=MIKAILA250595:5VYXYyB
+#EXTINF:-1, Канал Disney
+http://stb.tvoetv.in.ua:7071/play/a032?auth=MIKAILA250595:5VYXYyB
+#EXTINF:-1, Индийское кино
+http://stb.tvoetv.in.ua:7071/play/a03u?auth=MIKAILA250595:5VYXYyB
+#EXTINF:-1, Espresso 
+http://stb.tvoetv.in.ua:7071/play/a09x?auth=MIKAILA250595:5VYXYyB
+#EXTINF:-1, Nat Geo Wild
+http://stb.tvoetv.in.ua:7071/play/a078?auth=MIKAILA250595:5VYXYyB
+#EXTINF:-1, NewsNetwork
+http://stb.tvoetv.in.ua:7071/play/a07v?auth=MIKAILA250595:5VYXYyB
+#EXTINF:-1, Fox Life
+http://stb.tvoetv.in.ua:7071/play/a01b?auth=MIKAILA250595:5VYXYyB
+#EXTINF:-1, 360 Tune Box HD
+http://stb.tvoetv.in.ua:7071/play/a0ch?auth=MIKAILA250595:5VYXYyB
+#EXTINF:-1, Киносемья
+http://stb.tvoetv.in.ua:7071/play/a03y?auth=MIKAILA250595:5VYXYyB
+#EXTINF:-1, France 24
+http://stb.tvoetv.in.ua:7071/play/a09t?auth=MIKAILA250595:5VYXYyB
+#EXTINF:-1, Родное кино
+http://stb.tvoetv.in.ua:7071/play/a048?auth=MIKAILA250595:5VYXYyB
+#EXTINF:-1, Uzhgorod 21
+http://stb.tvoetv.in.ua:7071/play/Uzhgorod21?auth=MIKAILA250595:5VYXYyB
+#EXTINF:-1, TV 1000
+http://stb.tvoetv.in.ua:7071/play/a017?auth=MIKAILA250595:5VYXYyB
+#EXTINF:-1, Прямой
+http://stb.tvoetv.in.ua:7071/play/a094?auth=MIKAILA250595:5VYXYyB
+#EXTINF:-1, BT Sport 2
+http://stb.tvoetv.in.ua:7071/play/a01r?auth=MIKAILA250595:5VYXYyB
+#EXTINF:-1, Zoopark
+http://stb.tvoetv.in.ua:7071/play/a01v?auth=MIKAILA250595:5VYXYyB
+#EXTINF:-1, 2х2
+http://stb.tvoetv.in.ua:7071/play/a004?auth=MIKAILA250595:5VYXYyB
+#EXTINF:-1, 5 канал Украина
+http://stb.tvoetv.in.ua:7071/play/a03q?auth=MIKAILA250595:5VYXYyB
+#EXTINF:-1, Tiji
+http://stb.tvoetv.in.ua:7071/play/a01u?auth=MIKAILA250595:5VYXYyB
+#EXTINF:-1, Sony HD
+http://stb.tvoetv.in.ua:7071/play/a06w?auth=MIKAILA250595:5VYXYyB
+#EXTINF:-1, МаляткоTV
+http://stb.tvoetv.in.ua:7071/play/a06l?auth=MIKAILA250595:5VYXYyB
+#EXTINF:-1, test3sd
+http://stb.tvoetv.in.ua:7071/play/123q?auth=MIKAILA250595:5VYXYyB
+#EXTINF:-1, Bloomberg
+http://stb.tvoetv.in.ua:7071/play/a09e?auth=MIKAILA250595:5VYXYyB
+#EXTINF:-1, DocuBox HD
+http://stb.tvoetv.in.ua:7071/play/a00d?auth=MIKAILA250595:5VYXYyB
+#EXTINF:-1, News 24
+http://stb.tvoetv.in.ua:7071/play/a00v?auth=MIKAILA250595:5VYXYyB
+#EXTINF:-1, 1+1 International
+http://stb.tvoetv.in.ua:7071/play/a04s?auth=MIKAILA250595:5VYXYyB
+#EXTINF:-1, Nickelodeon HD
+http://stb.tvoetv.in.ua:7071/play/a00t?auth=MIKAILA250595:5VYXYyB
+#EXTINF:-1, 34 канал
+http://stb.tvoetv.in.ua:7071/play/a07t?auth=MIKAILA250595:5VYXYyB
+#EXTINF:-1, UA: Крим
+http://stb.tvoetv.in.ua:7071/play/a07p?auth=MIKAILA250595:5VYXYyB
+#EXTINF:-1, Travel & Adventure HD
+http://stb.tvoetv.in.ua:7071/play/a08d?auth=MIKAILA250595:5VYXYyB
+#EXTINF:-1, Першый: UA
+http://stb.tvoetv.in.ua:7071/play/a046?auth=MIKAILA250595:5VYXYyB
+#EXTINF:-1, Paramount Channel
+http://stb.tvoetv.in.ua:7071/play/a00s?auth=MIKAILA250595:5VYXYyB
+#EXTINF:-1, Авто 24
+http://stb.tvoetv.in.ua:7071/play/a03r?auth=MIKAILA250595:5VYXYyB
+#EXTINF:-1, Наше любимое HD
+http://stb.tvoetv.in.ua:7071/play/a04y?auth=MIKAILA250595:5VYXYyB
+#EXTINF:-1, Nat Geo Wild HD
+http://stb.tvoetv.in.ua:7071/play/a04l?auth=MIKAILA250595:5VYXYyB
+#EXTINF:-1, Fine Living
+http://stb.tvoetv.in.ua:7071/play/a07d?auth=MIKAILA250595:5VYXYyB
+#EXTINF:-1, Метео
+http://stb.tvoetv.in.ua:7071/play/a0b8?auth=MIKAILA250595:5VYXYyB
+#EXTINF:-1, Кино Премиум HD
+http://stb.tvoetv.in.ua:7071/play/a03b?auth=MIKAILA250595:5VYXYyB
+#EXTINF:-1, Правда ТУТ
+http://stb.tvoetv.in.ua:7071/play/a016?auth=MIKAILA250595:5VYXYyB
+#EXTINF:-1, Fox HD
+http://stb.tvoetv.in.ua:7071/play/a08s?auth=MIKAILA250595:5VYXYyB
+#EXTINF:-1, Nickelodeon
+http://stb.tvoetv.in.ua:7071/play/a06c?auth=MIKAILA250595:5VYXYyB
+#EXTINF:-1, HD Life
+http://stb.tvoetv.in.ua:7071/play/a08x?auth=MIKAILA250595:5VYXYyB
+#EXTINF:-1, Страшное HD
+http://stb.tvoetv.in.ua:7071/play/a02p?auth=MIKAILA250595:5VYXYyB
+#EXTINF:-1, Russian Music Box none
+http://stb.tvoetv.in.ua:7071/play/a0ca?auth=MIKAILA250595:5VYXYyB
+#EXTINF:-1, Zee
+http://stb.tvoetv.in.ua:7071/play/a063?auth=MIKAILA250595:5VYXYyB
+#EXTINF:-1, RAI
+http://stb.tvoetv.in.ua:7071/play/a00x?auth=MIKAILA250595:5VYXYyB
+#EXTINF:-1, National Geographic
+http://stb.tvoetv.in.ua:7071/play/a079?auth=MIKAILA250595:5VYXYyB
+#EXTINF:-1, Nat Geo Russia
+http://stb.tvoetv.in.ua:7071/play/a04x?auth=MIKAILA250595:5VYXYyB
+#EXTINF:-1, НТВ Сериал
+http://stb.tvoetv.in.ua:7071/play/a028?auth=MIKAILA250595:5VYXYyB
+#EXTINF:-1, Viasat Nature
+http://stb.tvoetv.in.ua:7071/play/a07c?auth=MIKAILA250595:5VYXYyB
+#EXTINF:-1, Россия 24
+http://stb.tvoetv.in.ua:7071/play/a0b3?auth=MIKAILA250595:5VYXYyB
+#EXTINF:-1, Discovery Channel HD
+http://stb.tvoetv.in.ua:7071/play/a014?auth=MIKAILA250595:5VYXYyB
+#EXTINF:-1, Viasat Nature / History HD
+http://stb.tvoetv.in.ua:7071/play/a04m?auth=MIKAILA250595:5VYXYyB
+#EXTINF:-1, Fashion Box HD
+http://stb.tvoetv.in.ua:7071/play/a08n?auth=MIKAILA250595:5VYXYyB
+#EXTINF:-1, Animal Planet HD
+http://stb.tvoetv.in.ua:7071/play/a037?auth=MIKAILA250595:5VYXYyB
+#EXTINF:-1, Animal Family HD
+http://stb.tvoetv.in.ua:7071/play/a00b?auth=MIKAILA250595:5VYXYyB
+#EXTINF:-1, Русский Роман HD
+http://stb.tvoetv.in.ua:7071/play/a03l?auth=MIKAILA250595:5VYXYyB
+
+#EXTINF:-1, Киномикс
+http://stb.tvoetv.in.ua:7071/play/a03v?auth=MIKAILA250595:5VYXYyB
+#EXTINF:-1, RTI
+http://stb.tvoetv.in.ua:7071/play/a07u?auth=MIKAILA250595:5VYXYyB
+#EXTINF:-1, Наш Кинороман HD
+http://stb.tvoetv.in.ua:7071/play/a02b?auth=MIKAILA250595:5VYXYyB
+#EXTINF:-1, Спорт 1
+http://stb.tvoetv.in.ua:7071/play/a06x?auth=MIKAILA250595:5VYXYyB
+#EXTINF:-1, Trick HD
+http://stb.tvoetv.in.ua:7071/play/a03k?auth=MIKAILA250595:5VYXYyB
+#EXTINF:-1, English Club HD
+http://stb.tvoetv.in.ua:7071/play/a08k?auth=MIKAILA250595:5VYXYyB
+#EXTINF:-1, Eureka HD
+http://stb.tvoetv.in.ua:7071/play/a05v?auth=MIKAILA250595:5VYXYyB
+#EXTINF:-1, Bridge Classic
+http://stb.tvoetv.in.ua:7071/play/a05m?auth=MIKAILA250595:5VYXYyB
+#EXTINF:-1, Ocean TV
+http://stb.tvoetv.in.ua:7071/play/a09i?auth=MIKAILA250595:5VYXYyB
+#EXTINF:-1, Trace Urban HD
+http://stb.tvoetv.in.ua:7071/play/a02v?auth=MIKAILA250595:5VYXYyB
+#EXTINF:-1, IDX HD
+http://stb.tvoetv.in.ua:7071/play/a0cm?auth=MIKAILA250595:5VYXYyB
+#EXTINF:-1, Кинопоказ
+http://stb.tvoetv.in.ua:7071/play/a0c0?auth=MIKAILA250595:5VYXYyB
+#EXTINF:-1, Россия 1 +4
+http://stb.tvoetv.in.ua:7071/play/a0bi?auth=MIKAILA250595:5VYXYyB
+#EXTINF:-1, ТНТ 4
+http://stb.tvoetv.in.ua:7071/play/a0bq?auth=MIKAILA250595:5VYXYyB
+#EXTINF:-1, News One
+http://stb.tvoetv.in.ua:7071/play/a00u?auth=MIKAILA250595:5VYXYyB
+#EXTINF:-1, Setanta Sport HD
+http://stb.tvoetv.in.ua:7071/play/a049?auth=MIKAILA250595:5VYXYyB
+#EXTINF:-1, EU Music
+http://stb.tvoetv.in.ua:7071/play/a01p?auth=MIKAILA250595:5VYXYyB
+#EXTINF:-1, Охотник и рыболов
+http://stb.tvoetv.in.ua:7071/play/a089?auth=MIKAILA250595:5VYXYyB
+#EXTINF:-1, Анекдот ТВ
+http://stb.tvoetv.in.ua:7071/play/a06o?auth=MIKAILA250595:5VYXYyB
+#EXTINF:-1, Белорусь 2
+http://stb.tvoetv.in.ua:7071/play/bel2?auth=MIKAILA250595:5VYXYyB
+#EXTINF:-1, Футбол Украина 2 HD
+http://stb.tvoetv.in.ua:7071/play/a02w?auth=MIKAILA250595:5VYXYyB
+#EXTINF:-1, Amedia Hit HD
+http://stb.tvoetv.in.ua:7071/play/a08f?auth=MIKAILA250595:5VYXYyB
+#EXTINF:-1, MTV2
+http://stb.tvoetv.in.ua:7071/play/a0af?auth=MIKAILA250595:5VYXYyB
+#EXTINF:-1, Еврокино
+http://stb.tvoetv.in.ua:7071/play/a06i?auth=MIKAILA250595:5VYXYyB
+#EXTINF:-1, Русский Бестселлер Европа
+http://stb.tvoetv.in.ua:7071/play/a02h?auth=MIKAILA250595:5VYXYyB
+#EXTINF:-1, MTV Tres
+http://stb.tvoetv.in.ua:7071/play/a09n?auth=MIKAILA250595:5VYXYyB
+#EXTINF:-1, Кинопоказ 2 HD
+http://stb.tvoetv.in.ua:7071/play/a03a?auth=MIKAILA250595:5VYXYyB
+#EXTINF:-1, Viasat Fotball SK
+http://stb.tvoetv.in.ua:7071/play/a0c3?auth=MIKAILA250595:5VYXYyB
+#EXTINF:-1, Русский Детектив
+http://stb.tvoetv.in.ua:7071/play/a05t?auth=MIKAILA250595:5VYXYyB
+#EXTINF:-1, Дом кино Премиум HD
+http://stb.tvoetv.in.ua:7071/play/a02i?auth=MIKAILA250595:5VYXYyB
+#EXTINF:-1, Донбасс
+http://stb.tvoetv.in.ua:7071/play/a04p?auth=MIKAILA250595:5VYXYyB
+#EXTINF:-1, Перший Кабельний
+http://stb.tvoetv.in.ua:7071/play/onecabel?auth=MIKAILA250595:5VYXYyB
+#EXTINF:-1, Шансон ТВ
+http://stb.tvoetv.in.ua:7071/play/a0bw?auth=MIKAILA250595:5VYXYyB
+#EXTINF:-1, Viasat Golf
+http://stb.tvoetv.in.ua:7071/play/a069?auth=MIKAILA250595:5VYXYyB
+#EXTINF:-1, Teletravel HD
+http://stb.tvoetv.in.ua:7071/play/a0a8?auth=MIKAILA250595:5VYXYyB
+#EXTINF:-1, Viasat Sport
+http://stb.tvoetv.in.ua:7071/play/a05s?auth=MIKAILA250595:5VYXYyB
+#EXTINF:-1, Indigo TV
+http://stb.tvoetv.in.ua:7071/play/a07r?auth=MIKAILA250595:5VYXYyB
+#EXTINF:-1, Рыжий
+http://stb.tvoetv.in.ua:7071/play/a0a9?auth=MIKAILA250595:5VYXYyB
+#EXTINF:-1, Cinema none
+http://stb.tvoetv.in.ua:7071/play/a0cc?auth=MIKAILA250595:5VYXYyB
+#EXTINF:-1, 360 Tune Box None
+http://stb.tvoetv.in.ua:7071/play/a03p?auth=MIKAILA250595:5VYXYyB
+
+#EXTINF:-1, Gulli Girl
+http://stb.tvoetv.in.ua:7071/play/a082?auth=MIKAILA250595:5VYXYyB
+#EXTINF:-1, Еко ТВ
+http://stb.tvoetv.in.ua:7071/play/a03t?auth=MIKAILA250595:5VYXYyB
+#EXTINF:-1, Психология 21
+http://stb.tvoetv.in.ua:7071/play/a06g?auth=MIKAILA250595:5VYXYyB
+#EXTINF:-1, ICTV
+http://stb.tvoetv.in.ua:7071/play/a00j?auth=MIKAILA250595:5VYXYyB
+#EXTINF:-1, Матч! Футбол 2 HD 
+http://stb.tvoetv.in.ua:7071/play/a034?auth=MIKAILA250595:5VYXYyB
+#EXTINF:-1, Наука 2.0
+http://stb.tvoetv.in.ua:7071/play/a06h?auth=MIKAILA250595:5VYXYyB
+#EXTINF:-1, Страна FM ТВ HD
+http://stb.tvoetv.in.ua:7071/play/a0cg?auth=MIKAILA250595:5VYXYyB
+
+#EXTINF:-1, Охота и рыбалка
+http://stb.tvoetv.in.ua:7071/play/a06d?auth=MIKAILA250595:5VYXYyB
+#EXTINF:-1, Fine Living HD
+http://stb.tvoetv.in.ua:7071/play/a0cb?auth=MIKAILA250595:5VYXYyB
+#EXTINF:-1, Горизонт ТВ
+http://stb.tvoetv.in.ua:7071/play/a07s?auth=MIKAILA250595:5VYXYyB
+#EXTINF:-1, Espresso HD
+http://stb.tvoetv.in.ua:7071/play/a097?auth=MIKAILA250595:5VYXYyB
+#EXTINF:-1, Zoo TV
+http://stb.tvoetv.in.ua:7071/play/a0ae?auth=MIKAILA250595:5VYXYyB
+#EXTINF:-1, РТР Планета
+http://stb.tvoetv.in.ua:7071/play/a0bg?auth=MIKAILA250595:5VYXYyB
+#EXTINF:-1, Кинопремьера HD
+http://stb.tvoetv.in.ua:7071/play/a03w?auth=MIKAILA250595:5VYXYyB
+#EXTINF:-1, Tumar (Тест)
+http://stb.tvoetv.in.ua:7071/play/a0a34?auth=MIKAILA250595:5VYXYyB
+#EXTINF:-1, Время: далекое и близкое
+http://stb.tvoetv.in.ua:7071/play/a07w?auth=MIKAILA250595:5VYXYyB
+#EXTINF:-1, Новый канал
+http://stb.tvoetv.in.ua:7071/play/a01o?auth=MIKAILA250595:5VYXYyB
+#EXTINF:-1, Polsat Sport
+http://stb.tvoetv.in.ua:7071/play/a0a4?auth=MIKAILA250595:5VYXYyB
+#EXTINF:-1, Киносерия
+http://stb.tvoetv.in.ua:7071/play/a01x?auth=MIKAILA250595:5VYXYyB
+#EXTINF:-1, Mezzo Live HD
+http://stb.tvoetv.in.ua:7071/play/a00l?auth=MIKAILA250595:5VYXYyB
+#EXTINF:-1, НТН
+http://stb.tvoetv.in.ua:7071/play/a04h?auth=MIKAILA250595:5VYXYyB
+#EXTINF:-1, Viasat Hockey
+http://stb.tvoetv.in.ua:7071/play/a08i?auth=MIKAILA250595:5VYXYyB
+#EXTINF:-1, Viasat Golf HD
+http://stb.tvoetv.in.ua:7071/play/a09b?auth=MIKAILA250595:5VYXYyB
+#EXTINF:-1, Муз ТВ
+http://stb.tvoetv.in.ua:7071/play/a077?auth=MIKAILA250595:5VYXYyB
+#EXTINF:-1, Мужское кино HD
+http://stb.tvoetv.in.ua:7071/play/a007?auth=MIKAILA250595:5VYXYyB
+#EXTINF:-1, RTVI
+http://stb.tvoetv.in.ua:7071/play/a06e?auth=MIKAILA250595:5VYXYyB
+#EXTINF:-1, Пиксель ТВ
+http://stb.tvoetv.in.ua:7071/play/a047?auth=MIKAILA250595:5VYXYyB
+#EXTINF:-1, Sony Turbo
+http://stb.tvoetv.in.ua:7071/play/a01z?auth=MIKAILA250595:5VYXYyB
+#EXTINF:-1, ПРО ВСЕ
+http://stb.tvoetv.in.ua:7071/play/a09w?auth=MIKAILA250595:5VYXYyB
+#EXTINF:-1, Дождь HD
+http://stb.tvoetv.in.ua:7071/play/a0a7?auth=MIKAILA250595:5VYXYyB
+#EXTINF:-1, Кино ТВ HD
+http://stb.tvoetv.in.ua:7071/play/a05w?auth=MIKAILA250595:5VYXYyB
+#EXTINF:-1, H2 HD
+http://stb.tvoetv.in.ua:7071/play/a02r?auth=MIKAILA250595:5VYXYyB
+#EXTINF:-1, Glas
+http://stb.tvoetv.in.ua:7071/play/a00i?auth=MIKAILA250595:5VYXYyB
+#EXTINF:-1, ТНТ Европа
+http://stb.tvoetv.in.ua:7071/play/a0br?auth=MIKAILA250595:5VYXYyB
+#EXTINF:-1, Первый канал
+http://stb.tvoetv.in.ua:7071/play/a0ax?auth=MIKAILA250595:5VYXYyB
+#EXTINF:-1, TV 1000 Premium HD
+http://stb.tvoetv.in.ua:7071/play/a01g?auth=MIKAILA250595:5VYXYyB
+#EXTINF:-1, Плюс плюс
+http://stb.tvoetv.in.ua:7071/play/a02z?auth=MIKAILA250595:5VYXYyB
+#EXTINF:-1, ЧП.INFO
+http://stb.tvoetv.in.ua:7071/play/a06s?auth=MIKAILA250595:5VYXYyB
+#EXTINF:-1, TV 1000 World Kino
+http://stb.tvoetv.in.ua:7071/play/a01h?auth=MIKAILA250595:5VYXYyB
+#EXTINF:-1, Outdoor Channel
+http://stb.tvoetv.in.ua:7071/play/a064?auth=MIKAILA250595:5VYXYyB
+#EXTINF:-1, Охотник и рыболов HD
+http://stb.tvoetv.in.ua:7071/play/a08a?auth=MIKAILA250595:5VYXYyB
+#EXTINF:-1, СТС интл
+http://stb.tvoetv.in.ua:7071/play/a0bm?auth=MIKAILA250595:5VYXYyB
+#EXTINF:-1, Amedia Premium
+http://stb.tvoetv.in.ua:7071/play/a08v?auth=MIKAILA250595:5VYXYyB
+#EXTINF:-1, Eurochannel
+http://stb.tvoetv.in.ua:7071/play/a099?auth=MIKAILA250595:5VYXYyB
+#EXTINF:-1, Дождь none
+http://stb.tvoetv.in.ua:7071/play/a084?auth=MIKAILA250595:5VYXYyB
+#EXTINF:-1, 5 канал (рос)
+http://stb.tvoetv.in.ua:7071/play/a0ah?auth=MIKAILA250595:5VYXYyB
+#EXTINF:-1, Bridge TV
+http://stb.tvoetv.in.ua:7071/play/a06z?auth=MIKAILA250595:5VYXYyB
+#EXTINF:-1, Белорусь 1
+http://stb.tvoetv.in.ua:7071/play/bel1?auth=MIKAILA250595:5VYXYyB
+#EXTINF:-1, КХЛ HD
+http://stb.tvoetv.in.ua:7071/play/a074?auth=MIKAILA250595:5VYXYyB
+#EXTINF:-1, Первый деловой
+http://stb.tvoetv.in.ua:7071/play/a09v?auth=MIKAILA250595:5VYXYyB
+#EXTINF:-1, НТВ
+http://stb.tvoetv.in.ua:7071/play/a0b7?auth=MIKAILA250595:5VYXYyB
+#EXTINF:-1, Extreme Sports
+http://stb.tvoetv.in.ua:7071/play/a05e?auth=MIKAILA250595:5VYXYyB
+#EXTINF:-1, Фауна
+http://stb.tvoetv.in.ua:7071/play/a0a2?auth=MIKAILA250595:5VYXYyB
+#EXTINF:-1, 24 Техно
+http://stb.tvoetv.in.ua:7071/play/a08w?auth=MIKAILA250595:5VYXYyB
+#EXTINF:-1, Интер +
+http://stb.tvoetv.in.ua:7071/play/a0a5?auth=MIKAILA250595:5VYXYyB
+#EXTINF:-1, Setanta Eurasia HD
+http://stb.tvoetv.in.ua:7071/play/a02g?auth=MIKAILA250595:5VYXYyB
+#EXTINF:-1, Shopping TV
+http://stb.tvoetv.in.ua:7071/play/a04a?auth=MIKAILA250595:5VYXYyB
+
+#EXTINF:-1, НЛО ТВ
+http://stb.tvoetv.in.ua:7071/play/a04t?auth=MIKAILA250595:5VYXYyB
+#EXTINF:-1, Canal+Sport 2 HD
+http://stb.tvoetv.in.ua:7071/play/a003?auth=MIKAILA250595:5VYXYyB
+#EXTINF:-1, Viasat Explore HD
+http://stb.tvoetv.in.ua:7071/play/a04z?auth=MIKAILA250595:5VYXYyB
+#EXTINF:-1, Униан
+http://stb.tvoetv.in.ua:7071/play/a04r?auth=MIKAILA250595:5VYXYyB
+#EXTINF:-1, MTV Base
+http://stb.tvoetv.in.ua:7071/play/a08g?auth=MIKAILA250595:5VYXYyB
+#EXTINF:-1, Bridge Dange
+http://stb.tvoetv.in.ua:7071/play/a057?auth=MIKAILA250595:5VYXYyB
+#EXTINF:-1, Viasat Sport Baltic
+http://stb.tvoetv.in.ua:7071/play/a0cl?auth=MIKAILA250595:5VYXYyB
+#EXTINF:-1, MTV Rocks
+http://stb.tvoetv.in.ua:7071/play/a00w?auth=MIKAILA250595:5VYXYyB
+#EXTINF:-1, TMB
+http://stb.tvoetv.in.ua:7071/play/a0b6?auth=MIKAILA250595:5VYXYyB
