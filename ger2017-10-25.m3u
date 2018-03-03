@@ -3,283 +3,249 @@
 http://live-bloomberg-us-east.global.ssl.fastly.net/btv/desktop/bbr_radio.m3u8
 #EXTINF:-1,Channel Kick Out in 15-20Sec Visit http://bit.ly/fixkick
 http://s2.voscast.com:12294/;stream.mp3
-#EXTINF:-1,Updated on 26 Feb 2018 Around 5 PM German Time
+#EXTINF:-1,Updated on 3 March 2018 Around 5 PM German Time
 http://www.lengua.com/anthems/Indonesia.mp3
 
-#EXTINF:-1,RTL 2 HD
-http://p4.giffy.be:8080/live/test12345/test12345/30047.ts
-#EXTINF:-1,RTL CRIME
-http://p4.giffy.be:8080/live/test12345/test12345/30048.ts
-#EXTINF:-1,RTL HD
-http://p4.giffy.be:8080/live/test12345/test12345/30049.ts
-#EXTINF:-1,RTL NITRO HD
-http://p4.giffy.be:8080/live/test12345/test12345/30050.ts
-#EXTINF:-1,RTL PASSION
-http://p4.giffy.be:8080/live/test12345/test12345/30051.ts
-#EXTINF:-1,SAT. 1 HD
-http://p4.giffy.be:8080/live/test12345/test12345/30052.ts
-#EXTINF:-1,SIXX HD
-http://p4.giffy.be:8080/live/test12345/test12345/30053.ts
-#EXTINF:-1,SKY ACTION HD
-http://p4.giffy.be:8080/live/test12345/test12345/30054.ts
-#EXTINF:-1,SKY BUNDESLIGA 1 HD
-http://p4.giffy.be:8080/live/test12345/test12345/30055.ts
-#EXTINF:-1,SKY CINEMA HD
-http://p4.giffy.be:8080/live/test12345/test12345/30056.ts
-#EXTINF:-1,SKY COMEDY HD
-http://p4.giffy.be:8080/live/test12345/test12345/30057.ts
-#EXTINF:-1,SKY EMOTION
-http://p4.giffy.be:8080/live/test12345/test12345/30058.ts
-#EXTINF:-1,SKY GERMANY
-http://p4.giffy.be:8080/live/test12345/test12345/30074.ts
-#EXTINF:-1,SKY HITS HD
-http://p4.giffy.be:8080/live/test12345/test12345/30059.ts
-#EXTINF:-1,SKY SELECT 1 HD
-http://p4.giffy.be:8080/live/test12345/test12345/30060.ts
-#EXTINF:-1,SKY SELECT 2 HD
-http://p4.giffy.be:8080/live/test12345/test12345/30061.ts
-#EXTINF:-1,SKY SELECT 3 HD
-http://p4.giffy.be:8080/live/test12345/test12345/30062.ts
-#EXTINF:-1,SKY SELECT 4 HD
-http://p4.giffy.be:8080/live/test12345/test12345/30063.ts
-#EXTINF:-1,SKY SELECT HD
-http://p4.giffy.be:8080/live/test12345/test12345/30064.ts
-#EXTINF:-1,EUROSPORT HD
-http://p4.giffy.be:8080/live/test12345/test12345/30040.ts
-#EXTINF:-1,HISTORY HD
-http://p4.giffy.be:8080/live/test12345/test12345/30041.ts
-#EXTINF:-1,KABEL EINS HD
-http://p4.giffy.be:8080/live/test12345/test12345/30042.ts
-#EXTINF:-1,N-TV HD
-http://p4.giffy.be:8080/live/test12345/test12345/30043.ts
-#EXTINF:-1,NAT GEO HD
-http://p4.giffy.be:8080/live/test12345/test12345/30044.ts
-#EXTINF:-1,NDR HD
-http://p4.giffy.be:8080/live/test12345/test12345/30045.ts
-#EXTINF:-1,PROSIEBEN MAXX HD
-http://p4.giffy.be:8080/live/test12345/test12345/30046.ts
-#EXTINF:-1,SKYBUNDESLIGA 1 HD
-http://p4.giffy.be:8080/live/test12345/test12345/30035.ts
-#EXTINF:-1,SPORT 1 HD
-http://p4.giffy.be:8080/live/test12345/test12345/30067.ts
-#EXTINF:-1,SUPER RTL
-http://p4.giffy.be:8080/live/test12345/test12345/30068.ts
-#EXTINF:-1,TNT FILM
-http://p4.giffy.be:8080/live/test12345/test12345/30069.ts
-#EXTINF:-1,TNT SERIE
-http://p4.giffy.be:8080/live/test12345/test12345/30070.ts
-#EXTINF:-1,VOX HD
-http://p4.giffy.be:8080/live/test12345/test12345/30071.ts
-#EXTINF:-1,WDR HD
-http://p4.giffy.be:8080/live/test12345/test12345/30072.ts
-#EXTINF:-1,ZDF HD
-http://p4.giffy.be:8080/live/test12345/test12345/30073.ts
+#EXTINF:-1,DE: 13th Street HD
+http://beinshoot.net:8000/live/zeinsport3/afsfsf00202s0f20sfs20/640.ts
+#EXTINF:-1,DE: Cartoon Network Germany
+http://beinshoot.net:8000/live/zeinsport3/afsfsf00202s0f20sfs20/642.ts
+#EXTINF:-1,DE: Das Erste HD
+http://beinshoot.net:8000/live/zeinsport3/afsfsf00202s0f20sfs20/643.ts
+#EXTINF:-1,DE: Discovery HD Deutschland
+http://beinshoot.net:8000/live/zeinsport3/afsfsf00202s0f20sfs20/644.ts
+#EXTINF:-1,DE: Disney Channel HD Germany
+http://beinshoot.net:8000/live/zeinsport3/afsfsf00202s0f20sfs20/645.ts
+#EXTINF:-1,DE: Disney Cinemagic HD Germany
+http://beinshoot.net:8000/live/zeinsport3/afsfsf00202s0f20sfs20/646.ts
+#EXTINF:-1,DE: Disney Junior HD Germany
+http://beinshoot.net:8000/live/zeinsport3/afsfsf00202s0f20sfs20/647.ts
+#EXTINF:-1,DE: Disney XD Deutschland
+http://beinshoot.net:8000/live/zeinsport3/afsfsf00202s0f20sfs20/648.ts
+#EXTINF:-1,DE: DMAX HD
+http://beinshoot.net:8000/live/zeinsport3/afsfsf00202s0f20sfs20/649.ts
+#EXTINF:-1,DE: Eurosport 1 HD
+http://beinshoot.net:8000/live/zeinsport3/afsfsf00202s0f20sfs20/699.ts
+#EXTINF:-1,DE: Eurosport 2 HD Germany
+http://beinshoot.net:8000/live/zeinsport3/afsfsf00202s0f20sfs20/698.ts
+#EXTINF:-1,DE: Fox HD Germany
+http://beinshoot.net:8000/live/zeinsport3/afsfsf00202s0f20sfs20/650.ts
+#EXTINF:-1,DE: Goldstar TV
+http://beinshoot.net:8000/live/zeinsport3/afsfsf00202s0f20sfs20/651.ts
+#EXTINF:-1,DE: Heimatkanal
+http://beinshoot.net:8000/live/zeinsport3/afsfsf00202s0f20sfs20/652.ts
+#EXTINF:-1,DE: History Channel HD Germany
+http://beinshoot.net:8000/live/zeinsport3/afsfsf00202s0f20sfs20/653.ts
+#EXTINF:-1,DE: Kabel 1 HD
+http://beinshoot.net:8000/live/zeinsport3/afsfsf00202s0f20sfs20/654.ts
+#EXTINF:-1,DE: Kinowelt TV
+http://beinshoot.net:8000/live/zeinsport3/afsfsf00202s0f20sfs20/655.ts
+#EXTINF:-1,DE: MGM HD Germany
+http://beinshoot.net:8000/live/zeinsport3/afsfsf00202s0f20sfs20/656.ts
+#EXTINF:-1,DE: NatGeo Wild HD Germany
+http://beinshoot.net:8000/live/zeinsport3/afsfsf00202s0f20sfs20/657.ts
+#EXTINF:-1,DE: National Geographic HD Germany
+http://beinshoot.net:8000/live/zeinsport3/afsfsf00202s0f20sfs20/658.ts
+#EXTINF:-1,DE: ProSieben MAXX HD
+http://beinshoot.net:8000/live/zeinsport3/afsfsf00202s0f20sfs20/659.ts
+#EXTINF:-1,DE: Romance TV
+http://beinshoot.net:8000/live/zeinsport3/afsfsf00202s0f20sfs20/660.ts
+#EXTINF:-1,DE: RTL 2 HD
+http://beinshoot.net:8000/live/zeinsport3/afsfsf00202s0f20sfs20/661.ts
+#EXTINF:-1,DE: RTL Crime HD
+http://beinshoot.net:8000/live/zeinsport3/afsfsf00202s0f20sfs20/662.ts
+#EXTINF:-1,DE: RTL HD
+http://beinshoot.net:8000/live/zeinsport3/afsfsf00202s0f20sfs20/663.ts
+#EXTINF:-1,DE: RTL Living
+http://beinshoot.net:8000/live/zeinsport3/afsfsf00202s0f20sfs20/664.ts
+#EXTINF:-1,DE: RTL Nitro HD
+http://beinshoot.net:8000/live/zeinsport3/afsfsf00202s0f20sfs20/665.ts
+#EXTINF:-1,DE: RTL Passion Germany
+http://beinshoot.net:8000/live/zeinsport3/afsfsf00202s0f20sfs20/666.ts
+#EXTINF:-1,DE: Sat 1 Gold HD
+http://beinshoot.net:8000/live/zeinsport3/afsfsf00202s0f20sfs20/667.ts
+#EXTINF:-1,DE: Sat 1 HD
+http://beinshoot.net:8000/live/zeinsport3/afsfsf00202s0f20sfs20/668.ts
+#EXTINF:-1,DE: Sixx HD
+http://beinshoot.net:8000/live/zeinsport3/afsfsf00202s0f20sfs20/669.ts
+#EXTINF:-1,DE: Sky Action HD Germany
+http://beinshoot.net:8000/live/zeinsport3/afsfsf00202s0f20sfs20/670.ts
+#EXTINF:-1,DE: Sky Atlantic HD Germany
+http://beinshoot.net:8000/live/zeinsport3/afsfsf00202s0f20sfs20/671.ts
+#EXTINF:-1,DE: Sky Bundesliga HD 1
+http://beinshoot.net:8000/live/zeinsport3/afsfsf00202s0f20sfs20/672.ts
+#EXTINF:-1,DE: Sky Cinema  1 HD Germany
+http://beinshoot.net:8000/live/zeinsport3/afsfsf00202s0f20sfs20/673.ts
+#EXTINF:-1,DE: Sky Cinema HD Germany
+http://beinshoot.net:8000/live/zeinsport3/afsfsf00202s0f20sfs20/674.ts
+#EXTINF:-1,DE: Sky Comedy Germany
+http://beinshoot.net:8000/live/zeinsport3/afsfsf00202s0f20sfs20/675.ts
+#EXTINF:-1,DE: Sky Emotion Germany
+http://beinshoot.net:8000/live/zeinsport3/afsfsf00202s0f20sfs20/676.ts
+#EXTINF:-1,DE: Sky Hits HD Germany
+http://beinshoot.net:8000/live/zeinsport3/afsfsf00202s0f20sfs20/677.ts
+#EXTINF:-1,DE: Sky Krimi
+http://beinshoot.net:8000/live/zeinsport3/afsfsf00202s0f20sfs20/678.ts
+#EXTINF:-1,DE: Sky Nostalgie Germany
+http://beinshoot.net:8000/live/zeinsport3/afsfsf00202s0f20sfs20/679.ts
+#EXTINF:-1,DE: SKY SELECT 6
+http://beinshoot.net:8000/live/zeinsport3/afsfsf00202s0f20sfs20/691.ts
+#EXTINF:-1,DE: SKY SELECT-1
+http://beinshoot.net:8000/live/zeinsport3/afsfsf00202s0f20sfs20/696.ts
+#EXTINF:-1,DE: SKY SELECT-2
+http://beinshoot.net:8000/live/zeinsport3/afsfsf00202s0f20sfs20/695.ts
+#EXTINF:-1,DE: SKY SELECT-3
+http://beinshoot.net:8000/live/zeinsport3/afsfsf00202s0f20sfs20/694.ts
+#EXTINF:-1,DE: SKY SELECT-4
+http://beinshoot.net:8000/live/zeinsport3/afsfsf00202s0f20sfs20/693.ts
+#EXTINF:-1,DE: SKY SELECT-5
+http://beinshoot.net:8000/live/zeinsport3/afsfsf00202s0f20sfs20/692.ts
+#EXTINF:-1,DE: Sky Sport News HD
+http://beinshoot.net:8000/live/zeinsport3/afsfsf00202s0f20sfs20/697.ts
+#EXTINF:-1,DE: Spiegel Geschichte HD
+http://beinshoot.net:8000/live/zeinsport3/afsfsf00202s0f20sfs20/680.ts
+#EXTINF:-1,DE: Sport1 HD (Germany)
+http://beinshoot.net:8000/live/zeinsport3/afsfsf00202s0f20sfs20/681.ts
+#EXTINF:-1,DE: Super RTL HD
+http://beinshoot.net:8000/live/zeinsport3/afsfsf00202s0f20sfs20/682.ts
+#EXTINF:-1,DE: SyFy HD Deutschland
+http://beinshoot.net:8000/live/zeinsport3/afsfsf00202s0f20sfs20/683.ts
+#EXTINF:-1,DE: Tele 5 HD
+http://beinshoot.net:8000/live/zeinsport3/afsfsf00202s0f20sfs20/684.ts
+#EXTINF:-1,DE: TLC HD
+http://beinshoot.net:8000/live/zeinsport3/afsfsf00202s0f20sfs20/685.ts
+#EXTINF:-1,DE: TNT Film TCM
+http://beinshoot.net:8000/live/zeinsport3/afsfsf00202s0f20sfs20/686.ts
+#EXTINF:-1,DE: TNT Serie HD
+http://beinshoot.net:8000/live/zeinsport3/afsfsf00202s0f20sfs20/687.ts
+#EXTINF:-1,DE: Universal HD Germany
+http://beinshoot.net:8000/live/zeinsport3/afsfsf00202s0f20sfs20/688.ts
+#EXTINF:-1,DE: VOX HD
+http://beinshoot.net:8000/live/zeinsport3/afsfsf00202s0f20sfs20/689.ts
+#EXTINF:-1,DE: ZDF HD
+http://beinshoot.net:8000/live/zeinsport3/afsfsf00202s0f20sfs20/690.ts
 
-#EXTINF:-1,$DE$Box-Office-9
-http://ipc.proipciptv.com:8000/live/wydad/wydad/3685.ts
-#EXTINF:-1,$DE$Box-Office-8
-http://ipc.proipciptv.com:8000/live/wydad/wydad/3684.ts
-#EXTINF:-1,$DE$Box-Office-7
-http://ipc.proipciptv.com:8000/live/wydad/wydad/3683.ts
-#EXTINF:-1,$DE$Box-Office-6
-http://ipc.proipciptv.com:8000/live/wydad/wydad/3682.ts
-#EXTINF:-1,$DE$Box-Office-5
-http://ipc.proipciptv.com:8000/live/wydad/wydad/3681.ts
-#EXTINF:-1,$DE$Box-Office-4
-http://ipc.proipciptv.com:8000/live/wydad/wydad/3680.ts
-#EXTINF:-1,$DE$Box-Office-3
-http://ipc.proipciptv.com:8000/live/wydad/wydad/3679.ts
-#EXTINF:-1,$DE$Box-Office-2
-http://ipc.proipciptv.com:8000/live/wydad/wydad/3678.ts
-#EXTINF:-1,$DE$_SKY_SELECT_10
-http://ipc.proipciptv.com:8000/live/wydad/wydad/3686.ts
-
-#EXTINF:-1,DE:WDR HD
-http://78.31.67.188:8000/live/345EFD/345EFD/56.ts
-#EXTINF:-1,DE:Super RTL
-http://78.31.67.188:8000/live/345EFD/345EFD/65.ts
-#EXTINF:-1,DE:SRF 2
-http://78.31.67.188:8000/live/345EFD/345EFD/63.ts
-#EXTINF:-1,DE:SRF 1
-http://78.31.67.188:8000/live/345EFD/345EFD/64.ts
-#EXTINF:-1,DE:SKY Germany TLC
-http://78.31.67.188:8000/live/345EFD/345EFD/80.ts
-#EXTINF:-1,DE:SKY Germany SPIEGEL GESHICHTE
-http://78.31.67.188:8000/live/345EFD/345EFD/82.ts
-#EXTINF:-1,DE:Sky GERMANY Select 8
-http://78.31.67.188:8000/live/345EFD/345EFD/28.ts
-#EXTINF:-1,DE:SKY Germany Select  7
-http://78.31.67.188:8000/live/345EFD/345EFD/29.ts
-#EXTINF:-1,DE:SKY Germany Select  6
-http://78.31.67.188:8000/live/345EFD/345EFD/30.ts
-#EXTINF:-1,DE:SKY Germany Select  4
-http://78.31.67.188:8000/live/345EFD/345EFD/32.ts
-#EXTINF:-1,DE:SKY Germany Select  3
-http://78.31.67.188:8000/live/345EFD/345EFD/33.ts
-#EXTINF:-1,DE:SKY Germany Select  2
-http://78.31.67.188:8000/live/345EFD/345EFD/34.ts
-#EXTINF:-1,DE:SKY Germany Select  1
-http://78.31.67.188:8000/live/345EFD/345EFD/35.ts
-#EXTINF:-1,DE:SKY Germany RTL PASSION
-http://78.31.67.188:8000/live/345EFD/345EFD/78.ts
-#EXTINF:-1,DE:SKY Germany Nostalgie
-http://78.31.67.188:8000/live/345EFD/345EFD/88.ts
-#EXTINF:-1,DE:SKY Germany Nat Geo Wild HD
-http://78.31.67.188:8000/live/345EFD/345EFD/86.ts
-#EXTINF:-1,DE:Sky Germany Nat Geo People HD
-http://78.31.67.188:8000/live/345EFD/345EFD/85.ts
-#EXTINF:-1,DE:SKY Germany Nat Geo HD
-http://78.31.67.188:8000/live/345EFD/345EFD/87.ts
-#EXTINF:-1,DE:SKY Germany Disney XD
-http://78.31.67.188:8000/live/345EFD/345EFD/71.ts
-#EXTINF:-1,DE:SKY Germany Disney Junior
-http://78.31.67.188:8000/live/345EFD/345EFD/73.ts
-#EXTINF:-1,DE:SKY Germany Disney Cinemagic HD
-http://78.31.67.188:8000/live/345EFD/345EFD/68.ts
-#EXTINF:-1,DE:SKY Germany Discovery HD
-http://78.31.67.188:8000/live/345EFD/345EFD/76.ts
-#EXTINF:-1,DE:SKY Germany Discovery Channel
-http://78.31.67.188:8000/live/345EFD/345EFD/75.ts
-#EXTINF:-1,DE:Sky Germany Comedy HD
-http://78.31.67.188:8000/live/345EFD/345EFD/42.ts
-#EXTINF:-1,DE:SKY Germany Cinema HD
-http://78.31.67.188:8000/live/345EFD/345EFD/46.ts
-#EXTINF:-1,DE:SKY Germany CINEMA  24 HD
-http://78.31.67.188:8000/live/345EFD/345EFD/44.ts
-#EXTINF:-1,DE:SKY Germany Cinema  1 HD
-http://78.31.67.188:8000/live/345EFD/345EFD/45.ts
-#EXTINF:-1,DE:Sky Germany Animal Planet HD
-http://78.31.67.188:8000/live/345EFD/345EFD/84.ts
-#EXTINF:-1,DE:Sky Germany A&E HD
-http://78.31.67.188:8000/live/345EFD/345EFD/83.ts
-#EXTINF:-1,DE:SKY Cartoon Network HD
-http://78.31.67.188:8000/live/345EFD/345EFD/69.ts
-#EXTINF:-1,DE:SIXX HD
-http://78.31.67.188:8000/live/345EFD/345EFD/53.ts
-#EXTINF:-1,DE:Planet HD
-http://78.31.67.188:8000/live/345EFD/345EFD/54.ts
-#EXTINF:-1,DE:Phoenix
-http://78.31.67.188:8000/live/345EFD/345EFD/52.ts
-#EXTINF:-1,DE:ORF 2 HD
-http://78.31.67.188:8000/live/345EFD/345EFD/60.ts
-#EXTINF:-1,DE:ORF 1 HD
-http://78.31.67.188:8000/live/345EFD/345EFD/61.ts
-#EXTINF:-1,DE:Nickelodeon
-http://78.31.67.188:8000/live/345EFD/345EFD/67.ts
-#EXTINF:-1,DE:N24 HD
-http://78.31.67.188:8000/live/345EFD/345EFD/57.ts
-#EXTINF:-1,DE:N-TV HD
-http://78.31.67.188:8000/live/345EFD/345EFD/58.ts
-#EXTINF:-1,DE:KIKA HD
-http://78.31.67.188:8000/live/345EFD/345EFD/66.ts
-#EXTINF:-1,DE:Junior
-http://78.31.67.188:8000/live/345EFD/345EFD/72.ts
-#EXTINF:-1,DE:FILM CLUB HD 5
-http://78.31.67.188:8000/live/345EFD/345EFD/36.ts
-#EXTINF:-1,DE:FILM CLUB HD 4
-http://78.31.67.188:8000/live/345EFD/345EFD/37.ts
-#EXTINF:-1,DE:FILM CLUB HD 3
-http://78.31.67.188:8000/live/345EFD/345EFD/38.ts
-#EXTINF:-1,DE:FILM CLUB HD 2
-http://78.31.67.188:8000/live/345EFD/345EFD/39.ts
-#EXTINF:-1,DE:FILM CLUB HD 1
-http://78.31.67.188:8000/live/345EFD/345EFD/40.ts
-#EXTINF:-1,DE:Euro News
-http://78.31.67.188:8000/live/345EFD/345EFD/59.ts
-#EXTINF:-1,DE:DE:ZDF NEO
-http://78.31.67.188:8000/live/345EFD/345EFD/55.ts
-#EXTINF:-1,DE:ATV HD
-http://78.31.67.188:8000/live/345EFD/345EFD/62.ts
-#EXTINF:-1,DE:Arte HD
-http://78.31.67.188:8000/live/345EFD/345EFD/51.ts
-#EXTINF:-1,DE:ANIXE HD
-http://78.31.67.188:8000/live/345EFD/345EFD/50.ts
-#EXTINF:-1,DE:3sat HD
-http://78.31.67.188:8000/live/345EFD/345EFD/49.ts
-
-#EXTINF:-1,|DE|  Sky Cinama
-http://167.114.157.33:2086/live/Etronics_t3MNkh/WWkGwNFP/147.ts
-#EXTINF:-1,|DE| 13th Street
-http://167.114.157.33:2086/live/Etronics_t3MNkh/WWkGwNFP/124.ts
-#EXTINF:-1,|DE| 3 sat
-http://167.114.157.33:2086/live/Etronics_t3MNkh/WWkGwNFP/125.ts
-#EXTINF:-1,|DE| Das Erste
-http://167.114.157.33:2086/live/Etronics_t3MNkh/WWkGwNFP/126.ts
-#EXTINF:-1,|DE| Discovery
-http://167.114.157.33:2086/live/Etronics_t3MNkh/WWkGwNFP/127.ts
-#EXTINF:-1,|DE| Disney Cinemagic
-http://167.114.157.33:2086/live/Etronics_t3MNkh/WWkGwNFP/128.ts
-#EXTINF:-1,|DE| Disney Junior
-http://167.114.157.33:2086/live/Etronics_t3MNkh/WWkGwNFP/129.ts
-#EXTINF:-1,|DE| Disney XD
-http://167.114.157.33:2086/live/Etronics_t3MNkh/WWkGwNFP/130.ts
-#EXTINF:-1,|DE| Fox Serie
-http://167.114.157.33:2086/live/Etronics_t3MNkh/WWkGwNFP/131.ts
-#EXTINF:-1,|DE| Goldstar TV
-http://167.114.157.33:2086/live/Etronics_t3MNkh/WWkGwNFP/132.ts
-#EXTINF:-1,|DE| Heimatkanal
-http://167.114.157.33:2086/live/Etronics_t3MNkh/WWkGwNFP/133.ts
-#EXTINF:-1,|DE| Junior
-http://167.114.157.33:2086/live/Etronics_t3MNkh/WWkGwNFP/134.ts
-#EXTINF:-1,|DE| KiKA
-http://167.114.157.33:2086/live/Etronics_t3MNkh/WWkGwNFP/135.ts
-#EXTINF:-1,|DE| Nat Geo Wild
-http://167.114.157.33:2086/live/Etronics_t3MNkh/WWkGwNFP/137.ts
-#EXTINF:-1,|DE| National Geo
-http://167.114.157.33:2086/live/Etronics_t3MNkh/WWkGwNFP/138.ts
-#EXTINF:-1,|DE| NTV
-http://167.114.157.33:2086/live/Etronics_t3MNkh/WWkGwNFP/136.ts
-#EXTINF:-1,|DE| PRO 7
-http://167.114.157.33:2086/live/Etronics_t3MNkh/WWkGwNFP/139.ts
-#EXTINF:-1,|DE| RTL
-http://167.114.157.33:2086/live/Etronics_t3MNkh/WWkGwNFP/140.ts
-#EXTINF:-1,|DE| RTL 2
-http://167.114.157.33:2086/live/Etronics_t3MNkh/WWkGwNFP/143.ts
-#EXTINF:-1,|DE| RTL Crime
-http://167.114.157.33:2086/live/Etronics_t3MNkh/WWkGwNFP/141.ts
-#EXTINF:-1,|DE| RTL NITRO
-http://167.114.157.33:2086/live/Etronics_t3MNkh/WWkGwNFP/144.ts
-#EXTINF:-1,|DE| RTL Passion
-http://167.114.157.33:2086/live/Etronics_t3MNkh/WWkGwNFP/142.ts
-#EXTINF:-1,|DE| Sky Action
-http://167.114.157.33:2086/live/Etronics_t3MNkh/WWkGwNFP/145.ts
-#EXTINF:-1,|DE| Sky Atlantic
-http://167.114.157.33:2086/live/Etronics_t3MNkh/WWkGwNFP/146.ts
-#EXTINF:-1,|DE| Sky Cinema 1
-http://167.114.157.33:2086/live/Etronics_t3MNkh/WWkGwNFP/148.ts
-#EXTINF:-1,|DE| Sky Cinema 24
-http://167.114.157.33:2086/live/Etronics_t3MNkh/WWkGwNFP/149.ts
-#EXTINF:-1,|DE| Sky Cinema Family
-http://167.114.157.33:2086/live/Etronics_t3MNkh/WWkGwNFP/150.ts
-#EXTINF:-1,|DE| Sky Cinema Hits
-http://167.114.157.33:2086/live/Etronics_t3MNkh/WWkGwNFP/151.ts
-#EXTINF:-1,|DE| Sky Cinema Nostalgie
-http://167.114.157.33:2086/live/Etronics_t3MNkh/WWkGwNFP/152.ts
-#EXTINF:-1,|DE| Sky Comedy
-http://167.114.157.33:2086/live/Etronics_t3MNkh/WWkGwNFP/153.ts
-#EXTINF:-1,|DE| Sky Emotion
-http://167.114.157.33:2086/live/Etronics_t3MNkh/WWkGwNFP/154.ts
-#EXTINF:-1,|DE| Sky Krimi
-http://167.114.157.33:2086/live/Etronics_t3MNkh/WWkGwNFP/155.ts
-#EXTINF:-1,|DE| Sky SPort 1
-http://167.114.157.33:2086/live/Etronics_t3MNkh/WWkGwNFP/157.ts
-#EXTINF:-1,|DE| Sky Sport 2
-http://167.114.157.33:2086/live/Etronics_t3MNkh/WWkGwNFP/156.ts
-#EXTINF:-1,|DE| Spiegel Geschichte
-http://167.114.157.33:2086/live/Etronics_t3MNkh/WWkGwNFP/158.ts
-#EXTINF:-1,|DE| SUPER RTL
-http://167.114.157.33:2086/live/Etronics_t3MNkh/WWkGwNFP/159.ts
-#EXTINF:-1,|DE| SyFy
-http://167.114.157.33:2086/live/Etronics_t3MNkh/WWkGwNFP/160.ts
-#EXTINF:-1,|DE| TNT Serie
-http://167.114.157.33:2086/live/Etronics_t3MNkh/WWkGwNFP/161.ts
-#EXTINF:-1,|DE| TOGGO plus
-http://167.114.157.33:2086/live/Etronics_t3MNkh/WWkGwNFP/162.ts
-#EXTINF:-1,|DE| VOX
-http://167.114.157.33:2086/live/Etronics_t3MNkh/WWkGwNFP/163.ts
-#EXTINF:-1,|DE| ZDF
-http://167.114.157.33:2086/live/Etronics_t3MNkh/WWkGwNFP/164.ts
-#EXTINF:-1,|DE| ZDF Infokanal
-http://167.114.157.33:2086/live/Etronics_t3MNkh/WWkGwNFP/165.ts
-#EXTINF:-1,|DE| ZDF Neo
-http://167.114.157.33:2086/live/Etronics_t3MNkh/WWkGwNFP/166.ts
+#EXTINF:-1,DE: Sky Sport HD 2 Germany
+http://24.thgss.com:8000/live/20211520028500/20211520028500/483.ts
+#EXTINF:-1,DE: Sky Sport HD 1 Germany
+http://24.thgss.com:8000/live/20211520028500/20211520028500/484.ts
+#EXTINF:-1,DE: 13th Street HD
+http://24.thgss.com:8000/live/20211520028500/20211520028500/640.ts
+#EXTINF:-1,DE: Boomerang Germany
+http://24.thgss.com:8000/live/20211520028500/20211520028500/641.ts
+#EXTINF:-1,DE: Cartoon Network Germany
+http://24.thgss.com:8000/live/20211520028500/20211520028500/642.ts
+#EXTINF:-1,DE: Das Erste HD
+http://24.thgss.com:8000/live/20211520028500/20211520028500/643.ts
+#EXTINF:-1,DE: Discovery HD Deutschland
+http://24.thgss.com:8000/live/20211520028500/20211520028500/644.ts
+#EXTINF:-1,DE: Disney Channel HD Germany
+http://24.thgss.com:8000/live/20211520028500/20211520028500/645.ts
+#EXTINF:-1,DE: Disney Cinemagic HD Germany
+http://24.thgss.com:8000/live/20211520028500/20211520028500/646.ts
+#EXTINF:-1,DE: Disney Junior HD Germany
+http://24.thgss.com:8000/live/20211520028500/20211520028500/647.ts
+#EXTINF:-1,DE: Disney XD Deutschland
+http://24.thgss.com:8000/live/20211520028500/20211520028500/648.ts
+#EXTINF:-1,DE: DMAX HD
+http://24.thgss.com:8000/live/20211520028500/20211520028500/649.ts
+#EXTINF:-1,DE: Eurosport 1 HD
+http://24.thgss.com:8000/live/20211520028500/20211520028500/699.ts
+#EXTINF:-1,DE: Eurosport 2 HD Germany
+http://24.thgss.com:8000/live/20211520028500/20211520028500/698.ts
+#EXTINF:-1,DE: Fox HD Germany
+http://24.thgss.com:8000/live/20211520028500/20211520028500/650.ts
+#EXTINF:-1,DE: Goldstar TV
+http://24.thgss.com:8000/live/20211520028500/20211520028500/651.ts
+#EXTINF:-1,DE: Heimatkanal
+http://24.thgss.com:8000/live/20211520028500/20211520028500/652.ts
+#EXTINF:-1,DE: History Channel HD Germany
+http://24.thgss.com:8000/live/20211520028500/20211520028500/653.ts
+#EXTINF:-1,DE: Kabel 1 HD
+http://24.thgss.com:8000/live/20211520028500/20211520028500/654.ts
+#EXTINF:-1,DE: Kinowelt TV
+http://24.thgss.com:8000/live/20211520028500/20211520028500/655.ts
+#EXTINF:-1,DE: MGM HD Germany
+http://24.thgss.com:8000/live/20211520028500/20211520028500/656.ts
+#EXTINF:-1,DE: NatGeo Wild HD Germany
+http://24.thgss.com:8000/live/20211520028500/20211520028500/657.ts
+#EXTINF:-1,DE: National Geographic HD Germany
+http://24.thgss.com:8000/live/20211520028500/20211520028500/658.ts
+#EXTINF:-1,DE: ProSieben MAXX HD
+http://24.thgss.com:8000/live/20211520028500/20211520028500/659.ts
+#EXTINF:-1,DE: Romance TV
+http://24.thgss.com:8000/live/20211520028500/20211520028500/660.ts
+#EXTINF:-1,DE: RTL 2 HD
+http://24.thgss.com:8000/live/20211520028500/20211520028500/661.ts
+#EXTINF:-1,DE: RTL Crime HD
+http://24.thgss.com:8000/live/20211520028500/20211520028500/662.ts
+#EXTINF:-1,DE: RTL HD
+http://24.thgss.com:8000/live/20211520028500/20211520028500/663.ts
+#EXTINF:-1,DE: RTL Living
+http://24.thgss.com:8000/live/20211520028500/20211520028500/664.ts
+#EXTINF:-1,DE: RTL Nitro HD
+http://24.thgss.com:8000/live/20211520028500/20211520028500/665.ts
+#EXTINF:-1,DE: RTL Passion Germany
+http://24.thgss.com:8000/live/20211520028500/20211520028500/666.ts
+#EXTINF:-1,DE: Sat 1 Gold HD
+http://24.thgss.com:8000/live/20211520028500/20211520028500/667.ts
+#EXTINF:-1,DE: Sat 1 HD
+http://24.thgss.com:8000/live/20211520028500/20211520028500/668.ts
+#EXTINF:-1,DE: Sixx HD
+http://24.thgss.com:8000/live/20211520028500/20211520028500/669.ts
+#EXTINF:-1,DE: Sky Action HD Germany
+http://24.thgss.com:8000/live/20211520028500/20211520028500/670.ts
+#EXTINF:-1,DE: Sky Atlantic HD Germany
+http://24.thgss.com:8000/live/20211520028500/20211520028500/671.ts
+#EXTINF:-1,DE: Sky Bundesliga HD 1
+http://24.thgss.com:8000/live/20211520028500/20211520028500/672.ts
+#EXTINF:-1,DE: Sky Cinema  1 HD Germany
+http://24.thgss.com:8000/live/20211520028500/20211520028500/673.ts
+#EXTINF:-1,DE: Sky Cinema HD Germany
+http://24.thgss.com:8000/live/20211520028500/20211520028500/674.ts
+#EXTINF:-1,DE: Sky Comedy Germany
+http://24.thgss.com:8000/live/20211520028500/20211520028500/675.ts
+#EXTINF:-1,DE: Sky Emotion Germany
+http://24.thgss.com:8000/live/20211520028500/20211520028500/676.ts
+#EXTINF:-1,DE: Sky Hits HD Germany
+http://24.thgss.com:8000/live/20211520028500/20211520028500/677.ts
+#EXTINF:-1,DE: Sky Krimi
+http://24.thgss.com:8000/live/20211520028500/20211520028500/678.ts
+#EXTINF:-1,DE: Sky Nostalgie Germany
+http://24.thgss.com:8000/live/20211520028500/20211520028500/679.ts
+#EXTINF:-1,DE: SKY SELECT 6
+http://24.thgss.com:8000/live/20211520028500/20211520028500/691.ts
+#EXTINF:-1,DE: SKY SELECT-1
+http://24.thgss.com:8000/live/20211520028500/20211520028500/696.ts
+#EXTINF:-1,DE: SKY SELECT-2
+http://24.thgss.com:8000/live/20211520028500/20211520028500/695.ts
+#EXTINF:-1,DE: SKY SELECT-3
+http://24.thgss.com:8000/live/20211520028500/20211520028500/694.ts
+#EXTINF:-1,DE: SKY SELECT-4
+http://24.thgss.com:8000/live/20211520028500/20211520028500/693.ts
+#EXTINF:-1,DE: SKY SELECT-5
+http://24.thgss.com:8000/live/20211520028500/20211520028500/692.ts
+#EXTINF:-1,DE: Sky Sport News HD
+http://24.thgss.com:8000/live/20211520028500/20211520028500/697.ts
+#EXTINF:-1,DE: Spiegel Geschichte HD
+http://24.thgss.com:8000/live/20211520028500/20211520028500/680.ts
+#EXTINF:-1,DE: Sport1 HD (Germany)
+http://24.thgss.com:8000/live/20211520028500/20211520028500/681.ts
+#EXTINF:-1,DE: Super RTL HD
+http://24.thgss.com:8000/live/20211520028500/20211520028500/682.ts
+#EXTINF:-1,DE: SyFy HD Deutschland
+http://24.thgss.com:8000/live/20211520028500/20211520028500/683.ts
+#EXTINF:-1,DE: Tele 5 HD
+http://24.thgss.com:8000/live/20211520028500/20211520028500/684.ts
+#EXTINF:-1,DE: TLC HD
+http://24.thgss.com:8000/live/20211520028500/20211520028500/685.ts
+#EXTINF:-1,DE: TNT Film TCM
+http://24.thgss.com:8000/live/20211520028500/20211520028500/686.ts
+#EXTINF:-1,DE: TNT Serie HD
+http://24.thgss.com:8000/live/20211520028500/20211520028500/687.ts
+#EXTINF:-1,DE: Universal HD Germany
+http://24.thgss.com:8000/live/20211520028500/20211520028500/688.ts
+#EXTINF:-1,DE: VOX HD
+http://24.thgss.com:8000/live/20211520028500/20211520028500/689.ts
+#EXTINF:-1,DE: ZDF HD
+http://24.thgss.com:8000/live/20211520028500/20211520028500/690.ts
