@@ -1,4 +1,24 @@
 #EXTM3U
+
+#EXTINF:-1,---ADULTI XXX--- 
+http://www.pandasat.info/iptv/PLAYLIST.avi 
+#EXTINF:-1, BrazzersTVEurope
+http://stb.tvoetv.in.ua:7071/play/a0ad?auth=MIKAILA250595:5VYXYyB
+#EXTINF:-1, +18 Русская ночь
+http://stb.tvoetv.in.ua:7071/play/a07l?auth=MIKAILA250595:5VYXYyB
+#EXTINF:-1, +18 Playboy TV
+http://stb.tvoetv.in.ua:7071/play/a07j?auth=MIKAILA250595:5VYXYyB
+#EXTINF:-1, +18 EROX HD
+http://stb.tvoetv.in.ua:7071/play/a07m?auth=MIKAILA250595:5VYXYyB
+#EXTINF:-1, +18 Penthouse 1 HD
+http://stb.tvoetv.in.ua:7071/play/a051?auth=MIKAILA250595:5VYXYyB
+#EXTINF:-1, +18 Redlight HD
+http://stb.tvoetv.in.ua:7071/play/a05n?auth=MIKAILA250595:5VYXYyB
+#EXTINF:-1, +18 Ночной клуб
+http://stb.tvoetv.in.ua:7071/play/a07k?auth=MIKAILA250595:5VYXYyB
+#EXTINF:-1, +18 Penthouse 2 HD
+http://stb.tvoetv.in.ua:7071/play/a050?auth=MIKAILA250595:5VYXYyB
+
 #EXTINF:-1 tvg-name="Ger1" tvg-logo="" group-title="{BOUQUET_NAME}",IF Link Stops Working Check Later IT will be Updated
 http://www.lengua.com/anthems/Indonesia.mp3
 #EXTINF:-1 tvg-name="Ger1" tvg-logo="" group-title="{BOUQUET_NAME}",Channel Kick Out in 15-20Sec Visit http://bit.ly/fixkick
