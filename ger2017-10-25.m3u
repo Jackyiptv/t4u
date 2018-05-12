@@ -3,271 +3,779 @@
 http://live-bloomberg-us-east.global.ssl.fastly.net/btv/desktop/bbr_radio.m3u8
 #EXTINF:-1,Updated on 25 April 2018 Around 5 PM German Time
 http://www.lengua.com/anthems/Indonesia.mp3
+#EXTINF:-1,DE: KABEL 1
+http://217.182.173.184:8000/live/micha/micha/428.ts
+#EXTINF:-1,DE: KABEL EINS CLASSIC HD
+http://217.182.173.184:8000/live/micha/micha/380.ts
+#EXTINF:-1,DE: KIKA HD
+http://217.182.173.184:8000/live/micha/micha/376.ts
+#EXTINF:-1,DE: KIKA
+http://217.182.173.184:8000/live/micha/micha/426.ts
+#EXTINF:-1,DE: DAS ERSTE HD
+http://217.182.173.184:8000/live/micha/micha/404.ts
+#EXTINF:-1,DE: FOX HD
+http://217.182.173.184:8000/live/micha/micha/382.ts
+#EXTINF:-1,DE: KABEL EINS HD
+http://217.182.173.184:8000/live/micha/micha/381.ts
+#EXTINF:-1,DE: N24 HD
+http://217.182.173.184:8000/live/micha/micha/374.ts
+#EXTINF:-1,DE: N24
+http://217.182.173.184:8000/live/micha/micha/425.ts
+#EXTINF:-1,DE: NTV HD
+http://217.182.173.184:8000/live/micha/micha/368.ts
+#EXTINF:-1,DE: PROSIEBEN HD
+http://217.182.173.184:8000/live/micha/micha/379.ts
+#EXTINF:-1,DE: PRO 7
+http://217.182.173.184:8000/live/micha/micha/421.ts
+#EXTINF:-1,DE: PROSIEBEN MAXX HD
+http://217.182.173.184:8000/live/micha/micha/378.ts
+#EXTINF:-1,DE: PRO 7 MAXX
+http://217.182.173.184:8000/live/micha/micha/424.ts
+#EXTINF:-1,DE: PROSIEBEN Fun HD
+http://217.182.173.184:8000/live/micha/micha/377.ts
+#EXTINF:-1,DE: SUPER RTL HD
+http://217.182.173.184:8000/live/micha/micha/389.ts
+#EXTINF:-1,DE: SuperRTL
+http://217.182.173.184:8000/live/micha/micha/410.ts
+#EXTINF:-1,DE: RTL HD
+http://217.182.173.184:8000/live/micha/micha/396.ts
+#EXTINF:-1,DE: RTL
+http://217.182.173.184:8000/live/micha/micha/429.ts
+#EXTINF:-1,DE: RTL2 HD
+http://217.182.173.184:8000/live/micha/micha/395.ts
+#EXTINF:-1,DE: RTL2
+http://217.182.173.184:8000/live/micha/micha/430.ts
+#EXTINF:-1,DE: RTL Crime HD
+http://217.182.173.184:8000/live/micha/micha/394.ts
+#EXTINF:-1,DE: RTL Living HD
+http://217.182.173.184:8000/live/micha/micha/393.ts
+#EXTINF:-1,DE: RTL ll You HD
+http://217.182.173.184:8000/live/micha/micha/392.ts
+#EXTINF:-1,DE: RTL Nitro HD
+http://217.182.173.184:8000/live/micha/micha/391.ts
+#EXTINF:-1,DE: RTL Passion HD
+http://217.182.173.184:8000/live/micha/micha/390.ts
+#EXTINF:-1,DE: SAT.1 HD
+http://217.182.173.184:8000/live/micha/micha/387.ts
+#EXTINF:-1,DE: SAT1
+http://217.182.173.184:8000/live/micha/micha/431.ts
+#EXTINF:-1,DE: SAT.1 Gold HD
+http://217.182.173.184:8000/live/micha/micha/386.ts
+#EXTINF:-1,DE: SAT1 GOLD
+http://217.182.173.184:8000/live/micha/micha/432.ts
+#EXTINF:-1,DE: SAT.1 Emotions HD
+http://217.182.173.184:8000/live/micha/micha/385.ts
+#EXTINF:-1,DE: 3SAT HD
+http://217.182.173.184:8000/live/micha/micha/399.ts
+#EXTINF:-1,DE: 3Sat
+http://217.182.173.184:8000/live/micha/micha/420.ts
+#EXTINF:-1,DE: SERVUS TV HD
+http://217.182.173.184:8000/live/micha/micha/384.ts
+#EXTINF:-1,DE: SIXX HD
+http://217.182.173.184:8000/live/micha/micha/383.ts
+#EXTINF:-1,DE: SRF HD 1
+http://217.182.173.184:8000/live/micha/micha/403.ts
+#EXTINF:-1,DE: SRF HD 2
+http://217.182.173.184:8000/live/micha/micha/402.ts
+#EXTINF:-1,DE: SYFY HD
+http://217.182.173.184:8000/live/micha/micha/329.ts
+#EXTINF:-1,DE: TELE 5 HD
+http://217.182.173.184:8000/live/micha/micha/360.ts
+#EXTINF:-1,DE: VOX HD
+http://217.182.173.184:8000/live/micha/micha/397.ts
+#EXTINF:-1,DE: VOX
+http://217.182.173.184:8000/live/micha/micha/411.ts
+#EXTINF:-1,DE: ZDF HD
+http://217.182.173.184:8000/live/micha/micha/401.ts
+#EXTINF:-1,DE: ZDF
+http://217.182.173.184:8000/live/micha/micha/416.ts
+#EXTINF:-1,DE: ZDF NEO HD
+http://217.182.173.184:8000/live/micha/micha/400.ts
+#EXTINF:-1,DE: ZDF NEO
+http://217.182.173.184:8000/live/micha/micha/417.ts
+#EXTINF:-1,DE: ZEE ONE HD
+http://217.182.173.184:8000/live/micha/micha/348.ts
+#EXTINF:-1,DE: VIVA
+http://217.182.173.184:8000/live/micha/micha/423.ts
+#EXTINF:-1,DE: 13th Street HD
+http://217.182.173.184:8000/live/micha/micha/366.ts
+#EXTINF:-1,DE: ARTE HD
+http://217.182.173.184:8000/live/micha/micha/372.ts
+#EXTINF:-1,DE: AXN HD
+http://217.182.173.184:8000/live/micha/micha/371.ts
+#EXTINF:-1,DE: E! Entertainment
+http://217.182.173.184:8000/live/micha/micha/357.ts
+#EXTINF:-1,DE: EURONEWS
+http://217.182.173.184:8000/live/micha/micha/347.ts
+#EXTINF:-1,DE: HEIMATKANAL
+http://217.182.173.184:8000/live/micha/micha/361.ts
+#EXTINF:-1,DE: KINOWELT HD
+http://217.182.173.184:8000/live/micha/micha/375.ts
+#EXTINF:-1,DE: ONE HD
+http://217.182.173.184:8000/live/micha/micha/373.ts
+#EXTINF:-1,DE: PHOENIX HD
+http://217.182.173.184:8000/live/micha/micha/370.ts
+#EXTINF:-1,DE: BOOMERANG HD
+http://217.182.173.184:8000/live/micha/micha/367.ts
+#EXTINF:-1,DE: TLC HD
+http://217.182.173.184:8000/live/micha/micha/325.ts
+#EXTINF:-1,DE: TNT Comedy HD
+http://217.182.173.184:8000/live/micha/micha/326.ts
+#EXTINF:-1,DE: TNT Film HD
+http://217.182.173.184:8000/live/micha/micha/327.ts
+#EXTINF:-1,DE: TNT Serie HD
+http://217.182.173.184:8000/live/micha/micha/328.ts
+#EXTINF:-1,DE: UNIVERSAL HD
+http://217.182.173.184:8000/live/micha/micha/359.ts
+#EXTINF:-1,DE: VIVA/COMEDY CENTRAL HD
+http://217.182.173.184:8000/live/micha/micha/358.ts
+#EXTINF:-1,DE: SONY Entertainment TV HD
+http://217.182.173.184:8000/live/micha/micha/330.ts
+#EXTINF:-1,DE: SPIEGEL TV Geschichte
+http://217.182.173.184:8000/live/micha/micha/363.ts
+#EXTINF:-1,DE: SPIEGEL TV Wissen HD
+http://217.182.173.184:8000/live/micha/micha/362.ts
+#EXTINF:-1,DE: Romance TV HD
+http://217.182.173.184:8000/live/micha/micha/364.ts
+#EXTINF:-1,DE: DISNEY Channel HD
+http://217.182.173.184:8000/live/micha/micha/355.ts
+#EXTINF:-1,DE: DISNEY Cinemagic HD
+http://217.182.173.184:8000/live/micha/micha/354.ts
+#EXTINF:-1,DE: DISNEY Jr. HD
+http://217.182.173.184:8000/live/micha/micha/353.ts
+#EXTINF:-1,DE: DISNEY XD HD
+http://217.182.173.184:8000/live/micha/micha/352.ts
+#EXTINF:-1,DE: NICKELODEON HD
+http://217.182.173.184:8000/live/micha/micha/350.ts
+#EXTINF:-1,DE: Nickelodeon
+http://217.182.173.184:8000/live/micha/micha/427.ts
+#EXTINF:-1,DE: NICK Jr. HD
+http://217.182.173.184:8000/live/micha/micha/351.ts
+#EXTINF:-1,DE: JUNIOR [6:00-20:00]
+http://217.182.173.184:8000/live/micha/micha/349.ts
+#EXTINF:-1,DE: TOGGO Plus
+http://217.182.173.184:8000/live/micha/micha/388.ts
+#EXTINF:-1,DE: CARTOON NETWORK HD
+http://217.182.173.184:8000/live/micha/micha/356.ts
+#EXTINF:-1,DE: DMAX HD
+http://217.182.173.184:8000/live/micha/micha/398.ts
+#EXTINF:-1,DE: DMAX
+http://217.182.173.184:8000/live/micha/micha/419.ts
+#EXTINF:-1,DE: PLANET HD
+http://217.182.173.184:8000/live/micha/micha/369.ts
+#EXTINF:-1,DE: ANIMAL Planet HD
+http://217.182.173.184:8000/live/micha/micha/295.ts
+#EXTINF:-1,DE: HISTORY Channel HD
+http://217.182.173.184:8000/live/micha/micha/293.ts
+#EXTINF:-1,DE: NAT GEO HD
+http://217.182.173.184:8000/live/micha/micha/298.ts
+#EXTINF:-1,DE: NAT GEO People HD
+http://217.182.173.184:8000/live/micha/micha/297.ts
+#EXTINF:-1,DE: NAT GEO Wild HD
+http://217.182.173.184:8000/live/micha/micha/296.ts
+#EXTINF:-1,DE: DISCOVERY Channel HD
+http://217.182.173.184:8000/live/micha/micha/294.ts
+#EXTINF:-1,DE: SKY 1 HD
+http://217.182.173.184:8000/live/micha/micha/343.ts
+#EXTINF:-1,DE: SKY CINEMA  1 HD
+http://217.182.173.184:8000/live/micha/micha/341.ts
+#EXTINF:-1,DE: SKY CINEMA  24 HD
+http://217.182.173.184:8000/live/micha/micha/340.ts
+#EXTINF:-1,DE: SKY CINEMA FAMILY HD
+http://217.182.173.184:8000/live/micha/micha/339.ts
+#EXTINF:-1,DE: SKY CINEMA HD
+http://217.182.173.184:8000/live/micha/micha/342.ts
+#EXTINF:-1,DE: SKY COMEDY
+http://217.182.173.184:8000/live/micha/micha/337.ts
+#EXTINF:-1,DE: SKY EMOTION
+http://217.182.173.184:8000/live/micha/micha/336.ts
+#EXTINF:-1,DE: SKY HITS HD
+http://217.182.173.184:8000/live/micha/micha/335.ts
+#EXTINF:-1,DE: SKY KRIMI
+http://217.182.173.184:8000/live/micha/micha/332.ts
+#EXTINF:-1,DE: SKY NOSTALGIE
+http://217.182.173.184:8000/live/micha/micha/334.ts
+#EXTINF:-1,DE: SKY ACTION HD
+http://217.182.173.184:8000/live/micha/micha/338.ts
+#EXTINF:-1,DE: SKY ATLANTIC HD
+http://217.182.173.184:8000/live/micha/micha/333.ts
+#EXTINF:-1,DE: SKY STORE 1
+http://217.182.173.184:8000/live/micha/micha/2829.ts
+#EXTINF:-1,DE: SKY STORE 2
+http://217.182.173.184:8000/live/micha/micha/2828.ts
+#EXTINF:-1,DE: SKY STORE 3
+http://217.182.173.184:8000/live/micha/micha/2827.ts
+#EXTINF:-1,DE: SKY STORE 4
+http://217.182.173.184:8000/live/micha/micha/2826.ts
+#EXTINF:-1,DE: SKY STORE 5
+http://217.182.173.184:8000/live/micha/micha/2825.ts
+#EXTINF:-1,DE: SKY STORE 6
+http://217.182.173.184:8000/live/micha/micha/2824.ts
+#EXTINF:-1,DE: SKY STORE 7
+http://217.182.173.184:8000/live/micha/micha/2823.ts
+#EXTINF:-1,DE: SKY STORE 8
+http://217.182.173.184:8000/live/micha/micha/2822.ts
+#EXTINF:-1,DE: SKY STORE 9
+http://217.182.173.184:8000/live/micha/micha/2821.ts
+#EXTINF:-1,DE: SKY STORE 10
+http://217.182.173.184:8000/live/micha/micha/2820.ts
+#EXTINF:-1,DE: SKY Bundesliga 1 HD [24/7]
+http://217.182.173.184:8000/live/micha/micha/312.ts
+#EXTINF:-1,DE: SKY Bundesliga 2 HD
+http://217.182.173.184:8000/live/micha/micha/311.ts
+#EXTINF:-1,DE: SKY Bundesliga 3 HD
+http://217.182.173.184:8000/live/micha/micha/310.ts
+#EXTINF:-1,DE: SKY Bundesliga 4 HD
+http://217.182.173.184:8000/live/micha/micha/309.ts
+#EXTINF:-1,DE: SKY Bundesliga 5
+http://217.182.173.184:8000/live/micha/micha/308.ts
+#EXTINF:-1,DE: SKY Bundesliga 6
+http://217.182.173.184:8000/live/micha/micha/307.ts
+#EXTINF:-1,DE: SKY Bundesliga 7
+http://217.182.173.184:8000/live/micha/micha/306.ts
+#EXTINF:-1,DE: SKY Bundesliga 8
+http://217.182.173.184:8000/live/micha/micha/305.ts
+#EXTINF:-1,DE: SKY Bundesliga 9
+http://217.182.173.184:8000/live/micha/micha/304.ts
+#EXTINF:-1,DE: SKY Bundesliga 10
+http://217.182.173.184:8000/live/micha/micha/303.ts
+#EXTINF:-1,DE: SKY Sport 1 HD [24/7]
+http://217.182.173.184:8000/live/micha/micha/323.ts
+#EXTINF:-1,DE: SKY Sport 2 HD [24/7]
+http://217.182.173.184:8000/live/micha/micha/322.ts
+#EXTINF:-1,DE: SKY Sport 3 HD
+http://217.182.173.184:8000/live/micha/micha/321.ts
+#EXTINF:-1,DE: SKY Sport 4 HD
+http://217.182.173.184:8000/live/micha/micha/320.ts
+#EXTINF:-1,DE: SKY Sport 5 HD
+http://217.182.173.184:8000/live/micha/micha/319.ts
+#EXTINF:-1,DE: SKY Sport 6
+http://217.182.173.184:8000/live/micha/micha/318.ts
+#EXTINF:-1,DE: SKY Sport 7
+http://217.182.173.184:8000/live/micha/micha/317.ts
+#EXTINF:-1,DE: SKY Sport 8
+http://217.182.173.184:8000/live/micha/micha/316.ts
+#EXTINF:-1,DE: SKY Sport 9
+http://217.182.173.184:8000/live/micha/micha/315.ts
+#EXTINF:-1,DE: SKY Sport 10
+http://217.182.173.184:8000/live/micha/micha/314.ts
+#EXTINF:-1,DE: SKY Sport Austria HD
+http://217.182.173.184:8000/live/micha/micha/313.ts
+#EXTINF:-1,DE: SKY Sports News HD
+http://217.182.173.184:8000/live/micha/micha/324.ts
+#EXTINF:-1,DE: SPORT 1
+http://217.182.173.184:8000/live/micha/micha/301.ts
+#EXTINF:-1,DE: SPORT 1  HD
+http://217.182.173.184:8000/live/micha/micha/302.ts
+#EXTINF:-1,DE: SPORT 1 US HD
+http://217.182.173.184:8000/live/micha/micha/300.ts
+#EXTINF:-1,DE: SPORT DIGITAL HD
+http://217.182.173.184:8000/live/micha/micha/299.ts
+#EXTINF:-1,DE: EUROSPORT 1 HD
+http://217.182.173.184:8000/live/micha/micha/346.ts
+#EXTINF:-1,DE: Eurosport
+http://217.182.173.184:8000/live/micha/micha/422.ts
+#EXTINF:-1,DE: EUROSPORT 2
+http://217.182.173.184:8000/live/micha/micha/345.ts
+#EXTINF:-1,DE: EUROSPORT 2 XTRA
+http://217.182.173.184:8000/live/micha/micha/344.ts
+#EXTINF:-1,DE: Auto Motor Sport Channel HD
+http://217.182.173.184:8000/live/micha/micha/365.ts
 
-#EXTINF:-1,[GER] 3Sat
-http://www.e900x.com:8000/live/kris/kris/857.ts
-#EXTINF:-1,[GER] 3sat HD
-http://www.e900x.com:8000/live/kris/kris/645.ts
-#EXTINF:-1,[GER] Anixe HD
-http://www.e900x.com:8000/live/kris/kris/643.ts
-#EXTINF:-1,[GER] Ard HD
-http://www.e900x.com:8000/live/kris/kris/642.ts
-#EXTINF:-1,[GER] Das Erste HD
-http://www.e900x.com:8000/live/kris/kris/511.ts
-#EXTINF:-1,[GER] Discovery Channel
-http://www.e900x.com:8000/live/kris/kris/854.ts
-#EXTINF:-1,[GER] Disney HD
-http://www.e900x.com:8000/live/kris/kris/644.ts
-#EXTINF:-1,[GER] FOX
-http://www.e900x.com:8000/live/kris/kris/860.ts
-#EXTINF:-1,[GER] Hale HD
-http://www.e900x.com:8000/live/kris/kris/646.ts
-#EXTINF:-1,[GER] Kabel Eins HD
-http://www.e900x.com:8000/live/kris/kris/858.ts
-#EXTINF:-1,[GER] Kika HD
-http://www.e900x.com:8000/live/kris/kris/648.ts
-#EXTINF:-1,[GER] N-TV
-http://www.e900x.com:8000/live/kris/kris/655.ts
-#EXTINF:-1,[GER] NDR HD
-http://www.e900x.com:8000/live/kris/kris/654.ts
-#EXTINF:-1,[GER] ORF 2 HD
-http://www.e900x.com:8000/live/kris/kris/656.ts
-#EXTINF:-1,[GER] ORF Eins
-http://www.e900x.com:8000/live/kris/kris/865.ts
-#EXTINF:-1,[GER] Prosieben HD
-http://www.e900x.com:8000/live/kris/kris/861.ts
-#EXTINF:-1,[GER] Prosieben Maxx HD
-http://www.e900x.com:8000/live/kris/kris/657.ts
-#EXTINF:-1,[GER] RTL 2 HD
-http://www.e900x.com:8000/live/kris/kris/863.ts
-#EXTINF:-1,[GER] RTL Crime
-http://www.e900x.com:8000/live/kris/kris/649.ts
-#EXTINF:-1,[GER] RTL HD
-http://www.e900x.com:8000/live/kris/kris/862.ts
-#EXTINF:-1,[GER] RTL Passion
-http://www.e900x.com:8000/live/kris/kris/866.ts
-#EXTINF:-1,[GER] SAT 1 HD
-http://www.e900x.com:8000/live/kris/kris/856.ts
-#EXTINF:-1,[GER] Sixx HD
-http://www.e900x.com:8000/live/kris/kris/859.ts
-#EXTINF:-1,[GER] Sky 13th Street
-http://www.e900x.com:8000/live/kris/kris/650.ts
-#EXTINF:-1,[GER] Sky Action HD
-http://www.e900x.com:8000/live/kris/kris/651.ts
-#EXTINF:-1,[GER] Sky Bundesliga HD
-http://www.e900x.com:8000/live/kris/kris/869.ts
-#EXTINF:-1,[GER] Sky Cinema
-http://www.e900x.com:8000/live/kris/kris/652.ts
-#EXTINF:-1,[GER] Sky Comedy HD
-http://www.e900x.com:8000/live/kris/kris/674.ts
-#EXTINF:-1,[GER] Super RTL
-http://www.e900x.com:8000/live/kris/kris/864.ts
-#EXTINF:-1,[GER] SyFy HD
-http://www.e900x.com:8000/live/kris/kris/868.ts
-#EXTINF:-1,[GER] VOX HD
-http://www.e900x.com:8000/live/kris/kris/514.ts
-#EXTINF:-1,[GER] Viva Comedy
-http://www.e900x.com:8000/live/kris/kris/855.ts
-#EXTINF:-1,[GER] ZDF HD
-http://www.e900x.com:8000/live/kris/kris/509.ts
-#EXTINF:-1,[GRE] ABC Channel
-http://www.e900x.com:8000/live/kris/kris/529.ts
-#EXTINF:-1,[GRE] ANT 1
-http://www.e900x.com:8000/live/kris/kris/673.ts
-#EXTINF:-1,[GRE] Action 24
-http://www.e900x.com:8000/live/kris/kris/530.ts
-#EXTINF:-1,[GRE] Alpha
-http://www.e900x.com:8000/live/kris/kris/668.ts
-#EXTINF:-1,[GRE] Attica
-http://www.e900x.com:8000/live/kris/kris/671.ts
-#EXTINF:-1,[GRE] Blue Sky
-http://www.e900x.com:8000/live/kris/kris/672.ts
-#EXTINF:-1,[GRE] Channel 9
-http://www.e900x.com:8000/live/kris/kris/670.ts
-#EXTINF:-1,[GRE] EPT 1
-http://www.e900x.com:8000/live/kris/kris/533.ts
-#EXTINF:-1,[GRE] EPT 2
-http://www.e900x.com:8000/live/kris/kris/534.ts
-#EXTINF:-1,[GRE] Extra
-http://www.e900x.com:8000/live/kris/kris/669.ts
-#EXTINF:-1,[GRE] Mega
-http://www.e900x.com:8000/live/kris/kris/532.ts
-#EXTINF:-1,[GRE] Skai
-http://www.e900x.com:8000/live/kris/kris/535.ts
-#EXTINF:-1,[GRE] Smile
-http://www.e900x.com:8000/live/kris/kris/537.ts
-#EXTINF:-1,[GRE] Stariand
-http://www.e900x.com:8000/live/kris/kris/536.ts
-#EXTINF:-1,[GRE] Sunny
-http://www.e900x.com:8000/live/kris/kris/538.ts
+#EXTINF:-1,DE | ZDF
+http://301port.com:8000/live/TribuniPTV/81U6WsUlOW/441.ts
+#EXTINF:-1,DE | PRO7 MAXX
+http://301port.com:8000/live/TribuniPTV/81U6WsUlOW/357.ts
+#EXTINF:-1,DE | VOX HD
+http://301port.com:8000/live/TribuniPTV/81U6WsUlOW/334.ts
+#EXTINF:-1,DE | TNT FILM HD
+http://301port.com:8000/live/TribuniPTV/81U6WsUlOW/351.ts
+#EXTINF:-1,DE | Syfy HD
+http://301port.com:8000/live/TribuniPTV/81U6WsUlOW/344.ts
+#EXTINF:-1,DE | RTL HD
+http://301port.com:8000/live/TribuniPTV/81U6WsUlOW/353.ts
+#EXTINF:-1,DE | RTL 2
+http://301port.com:8000/live/TribuniPTV/81U6WsUlOW/354.ts
+#EXTINF:-1,DE | RTL PASSION HD
+http://301port.com:8000/live/TribuniPTV/81U6WsUlOW/1103.ts
+#EXTINF:-1,DE | NatGeoWild-HD
+http://301port.com:8000/live/TribuniPTV/81U6WsUlOW/355.ts
+#EXTINF:-1,DE | KABEL 1 HD
+http://301port.com:8000/live/TribuniPTV/81U6WsUlOW/356.ts
+#EXTINF:-1,DE | FOX HD
+http://301port.com:8000/live/TribuniPTV/81U6WsUlOW/335.ts
+#EXTINF:-1,DE | RTL CRIME
+http://301port.com:8000/live/TribuniPTV/81U6WsUlOW/1147.ts
+#EXTINF:-1,DE | WDR HD
+http://301port.com:8000/live/TribuniPTV/81U6WsUlOW/1092.ts
+#EXTINF:-1,DE | Sky Nostalgie
+http://301port.com:8000/live/TribuniPTV/81U6WsUlOW/1100.ts
+#EXTINF:-1,DE | SKY KRIMI
+http://301port.com:8000/live/TribuniPTV/81U6WsUlOW/1093.ts
+#EXTINF:-1,DE | SIXX
+http://301port.com:8000/live/TribuniPTV/81U6WsUlOW/1094.ts
+#EXTINF:-1,DE | RTL NITRO HD
+http://301port.com:8000/live/TribuniPTV/81U6WsUlOW/1095.ts
+#EXTINF:-1,DE | ORF 2 HD
+http://301port.com:8000/live/TribuniPTV/81U6WsUlOW/1097.ts
+#EXTINF:-1,DE | ORF 1 HD
+http://301port.com:8000/live/TribuniPTV/81U6WsUlOW/1096.ts
+#EXTINF:-1,DE | Sky Hits HD
+http://301port.com:8000/live/TribuniPTV/81U6WsUlOW/1102.ts
+#EXTINF:-1,DE | DMAX HD
+http://301port.com:8000/live/TribuniPTV/81U6WsUlOW/1063.ts
+#EXTINF:-1,DE | UNIVERSAL HD
+http://301port.com:8000/live/TribuniPTV/81U6WsUlOW/1064.ts
+#EXTINF:-1,DE | 13 STREET HD
+http://301port.com:8000/live/TribuniPTV/81U6WsUlOW/343.ts
+#EXTINF:-1,DE |  Disney Junior HD
+http://301port.com:8000/live/TribuniPTV/81U6WsUlOW/347.ts
+#EXTINF:-1,DE | SKY SELECT 5 HD
+http://301port.com:8000/live/TribuniPTV/81U6WsUlOW/329.ts
+#EXTINF:-1,DE | SKY SELECT 4 HD
+http://301port.com:8000/live/TribuniPTV/81U6WsUlOW/328.ts
+#EXTINF:-1,DE | SKY SELECT 3 HD
+http://301port.com:8000/live/TribuniPTV/81U6WsUlOW/327.ts
+#EXTINF:-1,DE | SKY SELECT 2 HD
+http://301port.com:8000/live/TribuniPTV/81U6WsUlOW/326.ts
+#EXTINF:-1,DE | SKY SELECT 1 HD
+http://301port.com:8000/live/TribuniPTV/81U6WsUlOW/325.ts
+#EXTINF:-1,DE | SKY COMEDY HD
+http://301port.com:8000/live/TribuniPTV/81U6WsUlOW/333.ts
+#EXTINF:-1,DE | SKY CINEMA HD
+http://301port.com:8000/live/TribuniPTV/81U6WsUlOW/336.ts
+#EXTINF:-1,DE | SKY ATLANTIC HD
+http://301port.com:8000/live/TribuniPTV/81U6WsUlOW/337.ts
+#EXTINF:-1,DE | DISNEYXD HD
+http://301port.com:8000/live/TribuniPTV/81U6WsUlOW/1152.ts
+#EXTINF:-1,DE | KIKA HD
+http://301port.com:8000/live/TribuniPTV/81U6WsUlOW/1151.ts
+#EXTINF:-1,DE | RTL LIVING HD
+http://301port.com:8000/live/TribuniPTV/81U6WsUlOW/1149.ts
+#EXTINF:-1,DE | SKY ACTION HD
+http://301port.com:8000/live/TribuniPTV/81U6WsUlOW/1165.ts
+#EXTINF:-1,DE | TNT SERIE
+http://301port.com:8000/live/TribuniPTV/81U6WsUlOW/1174.ts
+#EXTINF:-1,DE | ANIMAL PLANET HD
+http://301port.com:8000/live/TribuniPTV/81U6WsUlOW/1150.ts
+#EXTINF:-1,DE | SKY ARD HD
+http://301port.com:8000/live/TribuniPTV/81U6WsUlOW/338.ts
+#EXTINF:-1,DE | SAT 1 HD
+http://301port.com:8000/live/TribuniPTV/81U6WsUlOW/339.ts
+#EXTINF:-1,DE | PRO 7 HD
+http://301port.com:8000/live/TribuniPTV/81U6WsUlOW/340.ts
+#EXTINF:-1,DE | Sky Emotion
+http://301port.com:8000/live/TribuniPTV/81U6WsUlOW/345.ts
+#EXTINF:-1,DE | Sky Cinema  24
+http://301port.com:8000/live/TribuniPTV/81U6WsUlOW/332.ts
+#EXTINF:-1,DE | National Geographic HD
+http://301port.com:8000/live/TribuniPTV/81U6WsUlOW/346.ts
+#EXTINF:-1,DE | SKY Sport News HD
+http://301port.com:8000/live/TribuniPTV/81U6WsUlOW/350.ts
+#EXTINF:-1,DE | SKY Sport HD2
+http://301port.com:8000/live/TribuniPTV/81U6WsUlOW/324.ts
+#EXTINF:-1,DE | SKY Sport HD1
+http://301port.com:8000/live/TribuniPTV/81U6WsUlOW/323.ts
+#EXTINF:-1,DE | SKY Bundesliga HD2
+http://301port.com:8000/live/TribuniPTV/81U6WsUlOW/320.ts
+#EXTINF:-1,DE | SKY Bundesliga HD1
+http://301port.com:8000/live/TribuniPTV/81U6WsUlOW/319.ts
+#EXTINF:-1,DE | SKY BUNDESLIGA 4 HD
+http://301port.com:8000/live/TribuniPTV/81U6WsUlOW/1107.ts
+#EXTINF:-1,DE | SKY BUNDESLIGA 3 HD
+http://301port.com:8000/live/TribuniPTV/81U6WsUlOW/1106.ts
+#EXTINF:-1,DE | EUROSPORT 1
+http://301port.com:8000/live/TribuniPTV/81U6WsUlOW/1256.ts
 
-#EXTINF:-1,[DE] sky 1 germany
-http://g.ddns.net:31000/live/Alex/alex1/1370.ts
-#EXTINF:-1,[DE] Animal Planet HD
-http://g.ddns.net:31000/live/Alex/alex1/1368.ts
-#EXTINF:-1,[DE] PRO 7 fun
-http://g.ddns.net:31000/live/Alex/alex1/3632.ts
-#EXTINF:-1,[DE] TOGGO PLUS
-http://g.ddns.net:31000/live/Alex/alex1/3633.ts
-#EXTINF:-1,[DE] Tagesschau 24
-http://g.ddns.net:31000/live/Alex/alex1/3634.ts
-#EXTINF:-1,[DE] ZDF NEO HD
-http://g.ddns.net:31000/live/Alex/alex1/838.ts
-#EXTINF:-1,[DE] ZDF info HD
-http://g.ddns.net:31000/live/Alex/alex1/837.ts
-#EXTINF:-1,[DE] ZDF HD
-http://g.ddns.net:31000/live/Alex/alex1/836.ts
-#EXTINF:-1,[DE] TNT COMEDY
-http://g.ddns.net:31000/live/Alex/alex1/841.ts
-#EXTINF:-1,[DE] VOX HD
-http://g.ddns.net:31000/live/Alex/alex1/858.ts
-#EXTINF:-1,[DE] Universal Channel HD
-http://g.ddns.net:31000/live/Alex/alex1/887.ts
-#EXTINF:-1,[DE] TNT SERIE
-http://g.ddns.net:31000/live/Alex/alex1/880.ts
-#EXTINF:-1,[DE] TNT FILM
-http://g.ddns.net:31000/live/Alex/alex1/881.ts
-#EXTINF:-1,[DE] TLC HD
-http://g.ddns.net:31000/live/Alex/alex1/885.ts
-#EXTINF:-1,[DE] SYFY HD
-http://g.ddns.net:31000/live/Alex/alex1/871.ts
-#EXTINF:-1,[DE] SUPER RTL
-http://g.ddns.net:31000/live/Alex/alex1/849.ts
-#EXTINF:-1,[DE] SRF 2
-http://g.ddns.net:31000/live/Alex/alex1/905.ts
-#EXTINF:-1,[DE] SRF 1
-http://g.ddns.net:31000/live/Alex/alex1/904.ts
-#EXTINF:-1,[DE] SPORT 1 HD
-http://g.ddns.net:31000/live/Alex/alex1/906.ts
-#EXTINF:-1,[DE] Spiegel Geschichte HD
-http://g.ddns.net:31000/live/Alex/alex1/891.ts
-#EXTINF:-1,[DE] SONY HD
-http://g.ddns.net:31000/live/Alex/alex1/854.ts
-#EXTINF:-1,[DE] Sky Sports News HD
-http://g.ddns.net:31000/live/Alex/alex1/911.ts
-#EXTINF:-1,[DE] Sky Sports 2 HD
-http://g.ddns.net:31000/live/Alex/alex1/897.ts
-#EXTINF:-1,[DE] Sky Sports 1 HD
-http://g.ddns.net:31000/live/Alex/alex1/896.ts
-#EXTINF:-1,[DE] SKY SPORT Austria
-http://g.ddns.net:31000/live/Alex/alex1/898.ts
-#EXTINF:-1,[DE] Sky Nostalgie
-http://g.ddns.net:31000/live/Alex/alex1/869.ts
-#EXTINF:-1,[DE] SKY KRIMI
-http://g.ddns.net:31000/live/Alex/alex1/870.ts
-#EXTINF:-1,[DE] SKY Cinema Hits
-http://g.ddns.net:31000/live/Alex/alex1/868.ts
-#EXTINF:-1,[DE] Sky Comedy
-http://g.ddns.net:31000/live/Alex/alex1/866.ts
-#EXTINF:-1,[DE] Sky Germany Atlantic
-http://g.ddns.net:31000/live/Alex/alex1/865.ts
-#EXTINF:-1,[DE] Sky Germany 13th Street HD
-http://g.ddns.net:31000/live/Alex/alex1/884.ts
-#EXTINF:-1,[DE] Sky Cinema Emotion
-http://g.ddns.net:31000/live/Alex/alex1/867.ts
-#EXTINF:-1,[DE] Boomerang
-http://g.ddns.net:31000/live/Alex/alex1/877.ts
-#EXTINF:-1,[DE] Sky Cinema Family
-http://g.ddns.net:31000/live/Alex/alex1/863.ts
-#EXTINF:-1,[DE] SKy CINEMA +1 HD
-http://g.ddns.net:31000/live/Alex/alex1/862.ts
-#EXTINF:-1,[DE] Sky Cinema 1
-http://g.ddns.net:31000/live/Alex/alex1/908.ts
-#EXTINF:-1,[DE] Sky Cinema
-http://g.ddns.net:31000/live/Alex/alex1/861.ts
-#EXTINF:-1,[DE] AXN HD
-http://g.ddns.net:31000/live/Alex/alex1/910.ts
-#EXTINF:-1,[DE] Sky Action
-http://g.ddns.net:31000/live/Alex/alex1/864.ts
-#EXTINF:-1,[DE] SIXX HD
-http://g.ddns.net:31000/live/Alex/alex1/852.ts
-#EXTINF:-1,[DE] SAT 3 HD
-http://g.ddns.net:31000/live/Alex/alex1/853.ts
-#EXTINF:-1,[DE] SAT 1 HD
-http://g.ddns.net:31000/live/Alex/alex1/843.ts
-#EXTINF:-1,[DE] Sat 1 Gold
-http://g.ddns.net:31000/live/Alex/alex1/844.ts
-#EXTINF:-1,[DE] RTL PASSION
-http://g.ddns.net:31000/live/Alex/alex1/851.ts
-#EXTINF:-1,[DE] Rtl Nitro
-http://g.ddns.net:31000/live/Alex/alex1/847.ts
-#EXTINF:-1,[DE] RTL LIVING HD
-http://g.ddns.net:31000/live/Alex/alex1/850.ts
-#EXTINF:-1,[DE] RTL HD
-http://g.ddns.net:31000/live/Alex/alex1/845.ts
-#EXTINF:-1,[DE] RTL Crime
-http://g.ddns.net:31000/live/Alex/alex1/848.ts
-#EXTINF:-1,[DE] RTL 2 HD
-http://g.ddns.net:31000/live/Alex/alex1/846.ts
-#EXTINF:-1,[DE] ROMANCE TV
-http://g.ddns.net:31000/live/Alex/alex1/886.ts
-#EXTINF:-1,[DE] PRO 7 MAXX
-http://g.ddns.net:31000/live/Alex/alex1/857.ts
-#EXTINF:-1,[DE] PRO 7 HD
-http://g.ddns.net:31000/live/Alex/alex1/856.ts
-#EXTINF:-1,[DE] E Entertainm
-http://g.ddns.net:31000/live/Alex/alex1/903.ts
-#EXTINF:-1,[DE] ORF 2 HD
-http://g.ddns.net:31000/live/Alex/alex1/902.ts
-#EXTINF:-1,[DE] ORF 1 HD
-http://g.ddns.net:31000/live/Alex/alex1/901.ts
-#EXTINF:-1,[DE] Junior HD
-http://g.ddns.net:31000/live/Alex/alex1/875.ts
-#EXTINF:-1,[DE] NICKLODEON HD
-http://g.ddns.net:31000/live/Alex/alex1/874.ts
-#EXTINF:-1,[DE] NDR HD
-http://g.ddns.net:31000/live/Alex/alex1/840.ts
-#EXTINF:-1,[DE] NATIONAL GEOGRAPHICS PEOPLE HD
-http://g.ddns.net:31000/live/Alex/alex1/894.ts
-#EXTINF:-1,[DE] National Geograph HD
-http://g.ddns.net:31000/live/Alex/alex1/892.ts
-#EXTINF:-1,[DE] NAT GEO WILD HD
-http://g.ddns.net:31000/live/Alex/alex1/893.ts
-#EXTINF:-1,[DE] N24 HD
-http://g.ddns.net:31000/live/Alex/alex1/859.ts
-#EXTINF:-1,[DE] motor
-http://g.ddns.net:31000/live/Alex/alex1/860.ts
-#EXTINF:-1,[DE] Spiegel TV Wissen
-http://g.ddns.net:31000/live/Alex/alex1/907.ts
-#EXTINF:-1,[DE] KIKA HD
-http://g.ddns.net:31000/live/Alex/alex1/879.ts
-#EXTINF:-1,[DE] KABEL 1 HD
-http://g.ddns.net:31000/live/Alex/alex1/855.ts
-#EXTINF:-1,[DE] HISTORY CHANNEL HD
-http://g.ddns.net:31000/live/Alex/alex1/895.ts
-#EXTINF:-1,[DE] FOX HD
-http://g.ddns.net:31000/live/Alex/alex1/882.ts
-#EXTINF:-1,[DE] EUROSPORT 2 HD
-http://g.ddns.net:31000/live/Alex/alex1/900.ts
-#EXTINF:-1,[DE] EUROSPORT 1 HD
-http://g.ddns.net:31000/live/Alex/alex1/899.ts
-#EXTINF:-1,[DE] DMAX HD
-http://g.ddns.net:31000/live/Alex/alex1/888.ts
-#EXTINF:-1,[DE] DISNEY XD HD
-http://g.ddns.net:31000/live/Alex/alex1/873.ts
-#EXTINF:-1,[DE] DISNEY JUNIOR HD
-http://g.ddns.net:31000/live/Alex/alex1/872.ts
-#EXTINF:-1,[DE] DISNEY CINEMAGIC HD
-http://g.ddns.net:31000/live/Alex/alex1/909.ts
-#EXTINF:-1,[DE] Disney
-http://g.ddns.net:31000/live/Alex/alex1/876.ts
-#EXTINF:-1,[DE] Discovery CHANNEL HD
-http://g.ddns.net:31000/live/Alex/alex1/890.ts
-#EXTINF:-1,[DE] DAS ERSTE
-http://g.ddns.net:31000/live/Alex/alex1/835.ts
-#EXTINF:-1,[DE] Classica HD
-http://g.ddns.net:31000/live/Alex/alex1/883.ts
-#EXTINF:-1,[DE] Cartoon Network HD
-http://g.ddns.net:31000/live/Alex/alex1/878.ts
-#EXTINF:-1,[DE] ARTE
-http://g.ddns.net:31000/live/Alex/alex1/842.ts
-#EXTINF:-1,[DE] ANIXE
-http://g.ddns.net:31000/live/Alex/alex1/839.ts
-#EXTINF:-1,[DE] A&E TV HD
-http://g.ddns.net:31000/live/Alex/alex1/889.ts
-#EXTINF:-1,[DE] TELECLUB PRIME
-http://g.ddns.net:31000/live/Alex/alex1/1687.ts
-#EXTINF:-1,[DE] TELECLUB CINEMA
-http://g.ddns.net:31000/live/Alex/alex1/1688.ts
-#EXTINF:-1,[DE] XITE
-http://g.ddns.net:31000/live/Alex/alex1/1689.ts
+#EXTINF:-1,DE: 13th Street HD
+http://turkisch.club:8000/live/tribunlive/ijwTSebMfG/1228.ts
+#EXTINF:-1,DE: 3 SAT
+http://turkisch.club:8000/live/tribunlive/ijwTSebMfG/390.ts
+#EXTINF:-1,DE: 3SAT HD
+http://turkisch.club:8000/live/tribunlive/ijwTSebMfG/1229.ts
+#EXTINF:-1,DE: ANIMAL Planet HD
+http://turkisch.club:8000/live/tribunlive/ijwTSebMfG/1339.ts
+#EXTINF:-1,DE: ARTE HD
+http://turkisch.club:8000/live/tribunlive/ijwTSebMfG/1230.ts
+#EXTINF:-1,DE: Auto Motor Sport Channel HD
+http://turkisch.club:8000/live/tribunlive/ijwTSebMfG/1231.ts
+#EXTINF:-1,DE: AXN HD
+http://turkisch.club:8000/live/tribunlive/ijwTSebMfG/1232.ts
+#EXTINF:-1,DE: BOOMERANG HD
+http://turkisch.club:8000/live/tribunlive/ijwTSebMfG/1235.ts
+#EXTINF:-1,DE: CARTOON NETWORK HD
+http://turkisch.club:8000/live/tribunlive/ijwTSebMfG/1236.ts
+#EXTINF:-1,DE: DAS ERSTE HD
+http://turkisch.club:8000/live/tribunlive/ijwTSebMfG/1237.ts
+#EXTINF:-1,DE: DISCOVERY Channel HD
+http://turkisch.club:8000/live/tribunlive/ijwTSebMfG/1333.ts
+#EXTINF:-1,DE: DISNEY Channel HD
+http://turkisch.club:8000/live/tribunlive/ijwTSebMfG/1238.ts
+#EXTINF:-1,DE: DISNEY Cinemagic HD
+http://turkisch.club:8000/live/tribunlive/ijwTSebMfG/1239.ts
+#EXTINF:-1,DE: DISNEY Jr. HD
+http://turkisch.club:8000/live/tribunlive/ijwTSebMfG/1240.ts
+#EXTINF:-1,DE: DISNEY XD HD
+http://turkisch.club:8000/live/tribunlive/ijwTSebMfG/1241.ts
+#EXTINF:-1,DE: DMAX HD
+http://turkisch.club:8000/live/tribunlive/ijwTSebMfG/1242.ts
+#EXTINF:-1,DE: DMAXX
+http://turkisch.club:8000/live/tribunlive/ijwTSebMfG/142.ts
+#EXTINF:-1,DE: EURONEWS
+http://turkisch.club:8000/live/tribunlive/ijwTSebMfG/1244.ts
+#EXTINF:-1,DE: EUROSPORT
+http://turkisch.club:8000/live/tribunlive/ijwTSebMfG/144.ts
+#EXTINF:-1,DE: EUROSPORT 1 HD
+http://turkisch.club:8000/live/tribunlive/ijwTSebMfG/1245.ts
+#EXTINF:-1,DE: EUROSPORT 2
+http://turkisch.club:8000/live/tribunlive/ijwTSebMfG/1246.ts
+#EXTINF:-1,DE: EUROSPORT 2 XTRA
+http://turkisch.club:8000/live/tribunlive/ijwTSebMfG/3963.ts
+#EXTINF:-1,DE: FOX HD
+http://turkisch.club:8000/live/tribunlive/ijwTSebMfG/1249.ts
+#EXTINF:-1,DE: HEIMATKANAL
+http://turkisch.club:8000/live/tribunlive/ijwTSebMfG/1250.ts
+#EXTINF:-1,DE: HISTORY Channel HD
+http://turkisch.club:8000/live/tribunlive/ijwTSebMfG/1334.ts
+#EXTINF:-1,DE: JUNIOR [6:00-20:00]
+http://turkisch.club:8000/live/tribunlive/ijwTSebMfG/1252.ts
+#EXTINF:-1,DE: KABEL EINS
+http://turkisch.club:8000/live/tribunlive/ijwTSebMfG/141.ts
+#EXTINF:-1,DE: KABEL EINS CLASSIC HD
+http://turkisch.club:8000/live/tribunlive/ijwTSebMfG/1296.ts
+#EXTINF:-1,DE: KABEL EINS HD
+http://turkisch.club:8000/live/tribunlive/ijwTSebMfG/1297.ts
+#EXTINF:-1,DE: KiKA
+http://turkisch.club:8000/live/tribunlive/ijwTSebMfG/150.ts
+#EXTINF:-1,DE: KIKA HD
+http://turkisch.club:8000/live/tribunlive/ijwTSebMfG/1298.ts
+#EXTINF:-1,DE: KINOWELT HD
+http://turkisch.club:8000/live/tribunlive/ijwTSebMfG/1299.ts
+#EXTINF:-1,DE: N24 HD
+http://turkisch.club:8000/live/tribunlive/ijwTSebMfG/1302.ts
+#EXTINF:-1,DE: NAT GEO HD
+http://turkisch.club:8000/live/tribunlive/ijwTSebMfG/1337.ts
+#EXTINF:-1,DE: NAT GEO Wild HD
+http://turkisch.club:8000/live/tribunlive/ijwTSebMfG/1336.ts
+#EXTINF:-1,DE: NDR
+http://turkisch.club:8000/live/tribunlive/ijwTSebMfG/1253.ts
+#EXTINF:-1,DE: NICK Jr. HD
+http://turkisch.club:8000/live/tribunlive/ijwTSebMfG/1254.ts
+#EXTINF:-1,DE: NICKELODEON
+http://turkisch.club:8000/live/tribunlive/ijwTSebMfG/393.ts
+#EXTINF:-1,DE: NICKELODEON HD
+http://turkisch.club:8000/live/tribunlive/ijwTSebMfG/1255.ts
+#EXTINF:-1,DE: NTV HD
+http://turkisch.club:8000/live/tribunlive/ijwTSebMfG/1256.ts
+#EXTINF:-1,DE: ONE HD
+http://turkisch.club:8000/live/tribunlive/ijwTSebMfG/1257.ts
+#EXTINF:-1,DE: PHOENIX HD
+http://turkisch.club:8000/live/tribunlive/ijwTSebMfG/1260.ts
+#EXTINF:-1,DE: PLANET HD
+http://turkisch.club:8000/live/tribunlive/ijwTSebMfG/1261.ts
+#EXTINF:-1,DE: PRO 7
+http://turkisch.club:8000/live/tribunlive/ijwTSebMfG/143.ts
+#EXTINF:-1,DE: PRO 7 MAXX
+http://turkisch.club:8000/live/tribunlive/ijwTSebMfG/391.ts
+#EXTINF:-1,DE: PROSIEBEN Fun HD
+http://turkisch.club:8000/live/tribunlive/ijwTSebMfG/1262.ts
+#EXTINF:-1,DE: PROSIEBEN HD
+http://turkisch.club:8000/live/tribunlive/ijwTSebMfG/1263.ts
+#EXTINF:-1,DE: PROSIEBEN MAXX HD
+http://turkisch.club:8000/live/tribunlive/ijwTSebMfG/1264.ts
+#EXTINF:-1,DE: Romance TV HD
+http://turkisch.club:8000/live/tribunlive/ijwTSebMfG/1266.ts
+#EXTINF:-1,DE: RTL
+http://turkisch.club:8000/live/tribunlive/ijwTSebMfG/148.ts
+#EXTINF:-1,DE: RTL 2
+http://turkisch.club:8000/live/tribunlive/ijwTSebMfG/149.ts
+#EXTINF:-1,DE: RTL Crime HD
+http://turkisch.club:8000/live/tribunlive/ijwTSebMfG/1267.ts
+#EXTINF:-1,DE: RTL HD
+http://turkisch.club:8000/live/tribunlive/ijwTSebMfG/1268.ts
+#EXTINF:-1,DE: RTL Living HD
+http://turkisch.club:8000/live/tribunlive/ijwTSebMfG/1269.ts
+#EXTINF:-1,DE: RTL ll You HD
+http://turkisch.club:8000/live/tribunlive/ijwTSebMfG/1270.ts
+#EXTINF:-1,DE: RTL Nitro HD
+http://turkisch.club:8000/live/tribunlive/ijwTSebMfG/1271.ts
+#EXTINF:-1,DE: RTL Passion HD
+http://turkisch.club:8000/live/tribunlive/ijwTSebMfG/1272.ts
+#EXTINF:-1,DE: RTL2 HD
+http://turkisch.club:8000/live/tribunlive/ijwTSebMfG/1273.ts
+#EXTINF:-1,DE: SAT 1
+http://turkisch.club:8000/live/tribunlive/ijwTSebMfG/139.ts
+#EXTINF:-1,DE: SAT 1 GOLD
+http://turkisch.club:8000/live/tribunlive/ijwTSebMfG/392.ts
+#EXTINF:-1,DE: SAT.1 Emotions HD
+http://turkisch.club:8000/live/tribunlive/ijwTSebMfG/1274.ts
+#EXTINF:-1,DE: SAT.1 Gold HD
+http://turkisch.club:8000/live/tribunlive/ijwTSebMfG/1275.ts
+#EXTINF:-1,DE: SAT.1 HD
+http://turkisch.club:8000/live/tribunlive/ijwTSebMfG/1276.ts
+#EXTINF:-1,DE: SERVUS TV HD
+http://turkisch.club:8000/live/tribunlive/ijwTSebMfG/1277.ts
+#EXTINF:-1,DE: SIXX HD
+http://turkisch.club:8000/live/tribunlive/ijwTSebMfG/1279.ts
+#EXTINF:-1,DE: SKY 1 HD
+http://turkisch.club:8000/live/tribunlive/ijwTSebMfG/1341.ts
+#EXTINF:-1,DE: SKY ACTION HD
+http://turkisch.club:8000/live/tribunlive/ijwTSebMfG/1342.ts
+#EXTINF:-1,DE: SKY ATLANTIC HD
+http://turkisch.club:8000/live/tribunlive/ijwTSebMfG/1344.ts
+#EXTINF:-1,DE: SKY Bundesliga 1 HD [24/7]
+http://turkisch.club:8000/live/tribunlive/ijwTSebMfG/1307.ts
+#EXTINF:-1,DE: SKY Bundesliga 10
+http://turkisch.club:8000/live/tribunlive/ijwTSebMfG/1316.ts
+#EXTINF:-1,DE: SKY Bundesliga 2 HD
+http://turkisch.club:8000/live/tribunlive/ijwTSebMfG/1308.ts
+#EXTINF:-1,DE: SKY Bundesliga 3 HD
+http://turkisch.club:8000/live/tribunlive/ijwTSebMfG/1309.ts
+#EXTINF:-1,DE: SKY Bundesliga 4 HD
+http://turkisch.club:8000/live/tribunlive/ijwTSebMfG/1310.ts
+#EXTINF:-1,DE: SKY Bundesliga 5
+http://turkisch.club:8000/live/tribunlive/ijwTSebMfG/1311.ts
+#EXTINF:-1,DE: SKY Bundesliga 6
+http://turkisch.club:8000/live/tribunlive/ijwTSebMfG/1312.ts
+#EXTINF:-1,DE: SKY Bundesliga 7
+http://turkisch.club:8000/live/tribunlive/ijwTSebMfG/1313.ts
+#EXTINF:-1,DE: SKY Bundesliga 8
+http://turkisch.club:8000/live/tribunlive/ijwTSebMfG/1314.ts
+#EXTINF:-1,DE: SKY Bundesliga 9
+http://turkisch.club:8000/live/tribunlive/ijwTSebMfG/1315.ts
+#EXTINF:-1,DE: SKY CINEMA  1 HD
+http://turkisch.club:8000/live/tribunlive/ijwTSebMfG/1354.ts
+#EXTINF:-1,DE: SKY CINEMA  24 HD
+http://turkisch.club:8000/live/tribunlive/ijwTSebMfG/1355.ts
+#EXTINF:-1,DE: SKY CINEMA FAMILY HD
+http://turkisch.club:8000/live/tribunlive/ijwTSebMfG/1356.ts
+#EXTINF:-1,DE: SKY CINEMA HD
+http://turkisch.club:8000/live/tribunlive/ijwTSebMfG/1358.ts
+#EXTINF:-1,DE: SKY COMEDY
+http://turkisch.club:8000/live/tribunlive/ijwTSebMfG/1350.ts
+#EXTINF:-1,DE: SKY EMOTION
+http://turkisch.club:8000/live/tribunlive/ijwTSebMfG/1351.ts
+#EXTINF:-1,DE: SKY HITS HD
+http://turkisch.club:8000/live/tribunlive/ijwTSebMfG/1357.ts
+#EXTINF:-1,DE: SKY KRIMI
+http://turkisch.club:8000/live/tribunlive/ijwTSebMfG/1352.ts
+#EXTINF:-1,DE: SKY NOSTALGIE
+http://turkisch.club:8000/live/tribunlive/ijwTSebMfG/1353.ts
+#EXTINF:-1,DE: SKY Sport 1 HD [24/7]
+http://turkisch.club:8000/live/tribunlive/ijwTSebMfG/1317.ts
+#EXTINF:-1,DE: SKY Sport 10
+http://turkisch.club:8000/live/tribunlive/ijwTSebMfG/1326.ts
+#EXTINF:-1,DE: SKY Sport 2 HD [24/7]
+http://turkisch.club:8000/live/tribunlive/ijwTSebMfG/1318.ts
+#EXTINF:-1,DE: SKY Sport 3 HD
+http://turkisch.club:8000/live/tribunlive/ijwTSebMfG/1319.ts
+#EXTINF:-1,DE: SKY Sport 4 HD
+http://turkisch.club:8000/live/tribunlive/ijwTSebMfG/1320.ts
+#EXTINF:-1,DE: SKY Sport 5 HD
+http://turkisch.club:8000/live/tribunlive/ijwTSebMfG/1321.ts
+#EXTINF:-1,DE: SKY Sport 6
+http://turkisch.club:8000/live/tribunlive/ijwTSebMfG/1322.ts
+#EXTINF:-1,DE: SKY Sport 7
+http://turkisch.club:8000/live/tribunlive/ijwTSebMfG/1323.ts
+#EXTINF:-1,DE: SKY Sport 8
+http://turkisch.club:8000/live/tribunlive/ijwTSebMfG/1324.ts
+#EXTINF:-1,DE: SKY Sport 9
+http://turkisch.club:8000/live/tribunlive/ijwTSebMfG/1325.ts
+#EXTINF:-1,DE: SKY Sport Austria HD
+http://turkisch.club:8000/live/tribunlive/ijwTSebMfG/1327.ts
+#EXTINF:-1,DE: SKY Sports News HD
+http://turkisch.club:8000/live/tribunlive/ijwTSebMfG/1328.ts
+#EXTINF:-1,DE: SONY Entertainment TV HD
+http://turkisch.club:8000/live/tribunlive/ijwTSebMfG/1340.ts
+#EXTINF:-1,DE: SPIEGEL TV Geschichte
+http://turkisch.club:8000/live/tribunlive/ijwTSebMfG/1280.ts
+#EXTINF:-1,DE: SPIEGEL TV Wissen HD
+http://turkisch.club:8000/live/tribunlive/ijwTSebMfG/1281.ts
+#EXTINF:-1,DE: SPORT 1
+http://turkisch.club:8000/live/tribunlive/ijwTSebMfG/1329.ts
+#EXTINF:-1,DE: SPORT 1  HD
+http://turkisch.club:8000/live/tribunlive/ijwTSebMfG/1330.ts
+#EXTINF:-1,DE: SPORT 1 US HD
+http://turkisch.club:8000/live/tribunlive/ijwTSebMfG/1331.ts
+#EXTINF:-1,DE: SPORT DIGITAL HD
+http://turkisch.club:8000/live/tribunlive/ijwTSebMfG/1332.ts
+#EXTINF:-1,DE: SRF HD 1
+http://turkisch.club:8000/live/tribunlive/ijwTSebMfG/1282.ts
+#EXTINF:-1,DE: SRF HD 2
+http://turkisch.club:8000/live/tribunlive/ijwTSebMfG/1283.ts
+#EXTINF:-1,DE: SUPER RTL
+http://turkisch.club:8000/live/tribunlive/ijwTSebMfG/389.ts
+#EXTINF:-1,DE: SUPER RTL HD
+http://turkisch.club:8000/live/tribunlive/ijwTSebMfG/1285.ts
+#EXTINF:-1,DE: SYFY HD
+http://turkisch.club:8000/live/tribunlive/ijwTSebMfG/1345.ts
+#EXTINF:-1,DE: TELE 5 HD
+http://turkisch.club:8000/live/tribunlive/ijwTSebMfG/1286.ts
+#EXTINF:-1,DE: TELECLUB CINEMA
+http://turkisch.club:8000/live/tribunlive/ijwTSebMfG/1287.ts
+#EXTINF:-1,DE: TELECLUB PRIME
+http://turkisch.club:8000/live/tribunlive/ijwTSebMfG/1288.ts
+#EXTINF:-1,DE: TELECLUB SPORT 1
+http://turkisch.club:8000/live/tribunlive/ijwTSebMfG/1289.ts
+#EXTINF:-1,DE: TELECLUB STAR
+http://turkisch.club:8000/live/tribunlive/ijwTSebMfG/1291.ts
+#EXTINF:-1,DE: TLC HD
+http://turkisch.club:8000/live/tribunlive/ijwTSebMfG/1346.ts
+#EXTINF:-1,DE: TNT Comedy HD
+http://turkisch.club:8000/live/tribunlive/ijwTSebMfG/1347.ts
+#EXTINF:-1,DE: TNT Film HD
+http://turkisch.club:8000/live/tribunlive/ijwTSebMfG/1348.ts
+#EXTINF:-1,DE: TNT Serie HD
+http://turkisch.club:8000/live/tribunlive/ijwTSebMfG/1349.ts
+#EXTINF:-1,DE: TOGGO Plus
+http://turkisch.club:8000/live/tribunlive/ijwTSebMfG/1292.ts
+#EXTINF:-1,DE: UNIVERSAL HD
+http://turkisch.club:8000/live/tribunlive/ijwTSebMfG/1293.ts
+#EXTINF:-1,DE: ViVA
+http://turkisch.club:8000/live/tribunlive/ijwTSebMfG/140.ts
+#EXTINF:-1,DE: VIVA/COMEDY CENTRAL HD
+http://turkisch.club:8000/live/tribunlive/ijwTSebMfG/1294.ts
+#EXTINF:-1,DE: VOX
+http://turkisch.club:8000/live/tribunlive/ijwTSebMfG/146.ts
+#EXTINF:-1,DE: VOX HD
+http://turkisch.club:8000/live/tribunlive/ijwTSebMfG/1303.ts
+#EXTINF:-1,DE: ZDF
+http://turkisch.club:8000/live/tribunlive/ijwTSebMfG/152.ts
+#EXTINF:-1,DE: ZDF HD
+http://turkisch.club:8000/live/tribunlive/ijwTSebMfG/1306.ts
+#EXTINF:-1,DE: ZDF NEO HD
+http://turkisch.club:8000/live/tribunlive/ijwTSebMfG/1305.ts
+
+#EXTINF:-1,DE:SkyStore1
+http://sinematurk.eu:2016/live/PRO4HDTV/s9A39FgIcw/1865.ts
+#EXTINF:-1,DE:SkyStore 3
+http://sinematurk.eu:2016/live/PRO4HDTV/s9A39FgIcw/1863.ts
+#EXTINF:-1,DE:SkyStore2
+http://sinematurk.eu:2016/live/PRO4HDTV/s9A39FgIcw/1864.ts
+#EXTINF:-1,DE:SkyStore4
+http://sinematurk.eu:2016/live/PRO4HDTV/s9A39FgIcw/1862.ts
+#EXTINF:-1,DE:SkyStore5
+http://sinematurk.eu:2016/live/PRO4HDTV/s9A39FgIcw/1861.ts
+#EXTINF:-1,DE:SkyStore6
+http://sinematurk.eu:2016/live/PRO4HDTV/s9A39FgIcw/1860.ts
+#EXTINF:-1,DE:SkyStore7
+http://sinematurk.eu:2016/live/PRO4HDTV/s9A39FgIcw/1859.ts
+#EXTINF:-1,DE:SkyStore8
+http://sinematurk.eu:2016/live/PRO4HDTV/s9A39FgIcw/1858.ts
+#EXTINF:-1,DE:SkyStoret9
+http://sinematurk.eu:2016/live/PRO4HDTV/s9A39FgIcw/1857.ts
+#EXTINF:-1,DE:SkyStore10
+http://sinematurk.eu:2016/live/PRO4HDTV/s9A39FgIcw/1856.ts
+
+#EXTINF:-1,DE:Sky-Select-1
+http://178.33.239.88:9000/live/2018/2018/8108.ts
+#EXTINF:-1,DE:Sky-Select-2
+http://178.33.239.88:9000/live/2018/2018/8107.ts
+#EXTINF:-1,DE:Sky-Select-3
+http://178.33.239.88:9000/live/2018/2018/8805.ts
+#EXTINF:-1,DE:Sky-Select-4
+http://178.33.239.88:9000/live/2018/2018/4123.ts
+#EXTINF:-1,DE:Sky-Select-5
+http://178.33.239.88:9000/live/2018/2018/8104.ts
+#EXTINF:-1,DE:Sky-Select-6
+http://178.33.239.88:9000/live/2018/2018/8804.ts
+#EXTINF:-1,DE:Sky-Select-7
+http://178.33.239.88:9000/live/2018/2018/8102.ts
+#EXTINF:-1,DE:Sky-Select-8
+http://178.33.239.88:9000/live/2018/2018/8803.ts
+#EXTINF:-1,DE:Sky-Select-9
+http://178.33.239.88:9000/live/2018/2018/8094.ts
+#EXTINF:-1,DE:ZDF
+http://178.33.239.88:9000/live/2018/2018/8370.ts
+#EXTINF:-1,DE:AXN
+http://178.33.239.88:9000/live/2018/2018/3707.ts
+#EXTINF:-1,DE:SAT_1
+http://178.33.239.88:9000/live/2018/2018/8788.ts
+#EXTINF:-1,DE:Sky-Action
+http://178.33.239.88:9000/live/2018/2018/8793.ts
+#EXTINF:-1,DE:Sky-Atlantic
+http://178.33.239.88:9000/live/2018/2018/8789.ts
+#EXTINF:-1,DE:Sky-Cinema
+http://178.33.239.88:9000/live/2018/2018/5596.ts
+#EXTINF:-1,DE:SKY-CINEMA_24
+http://178.33.239.88:9000/live/2018/2018/9288.ts
+#EXTINF:-1,DE:Sky_Cinema_Emotion
+http://178.33.239.88:9000/live/2018/2018/8791.ts
+#EXTINF:-1,DE:Sky-Krimi
+http://178.33.239.88:9000/live/2018/2018/8787.ts
+#EXTINF:-1,DE:RTL-5
+http://178.33.239.88:9000/live/2018/2018/5472.ts
+#EXTINF:-1,DE:RTL-7-(NL)
+http://178.33.239.88:9000/live/2018/2018/5474.ts
+#EXTINF:-1,DE:RTL.Living
+http://178.33.239.88:9000/live/2018/2018/9750.ts
+#EXTINF:-1,DE:RTL.Passion
+http://178.33.239.88:9000/live/2018/2018/9749.ts
+#EXTINF:-1,DE:RTL2.HD
+http://178.33.239.88:9000/live/2018/2018/9748.ts
+#EXTINF:-1,DE:RTL_CRIME
+http://178.33.239.88:9000/live/2018/2018/9753.ts
+#EXTINF:-1,DE:RTL_HD
+http://178.33.239.88:9000/live/2018/2018/9754.ts
+#EXTINF:-1,DE:Sky_Sport_Digital
+http://178.33.239.88:9000/live/2018/2018/4623.ts
+#EXTINF:-1,DE:Disney_Channel
+http://178.33.239.88:9000/live/2018/2018/9751.ts
+#EXTINF:-1,DE:FOX
+http://178.33.239.88:9000/live/2018/2018/5483.ts
+#EXTINF:-1,DE:Sky_Atlantic
+http://178.33.239.88:9000/live/2018/2018/9291.ts
+#EXTINF:-1,DE:Disney_Cinemagic
+http://178.33.239.88:9000/live/2018/2018/4142.ts
+#EXTINF:-1,DE:Disney_Junior
+http://178.33.239.88:9000/live/2018/2018/9752.ts
+#EXTINF:-1,DE:HBO-1-(NL)
+http://178.33.239.88:9000/live/2018/2018/5497.ts
+#EXTINF:-1,DE:ARD_HD
+http://178.33.239.88:9000/live/2018/2018/8798.ts
+#EXTINF:-1,DE:History.HD
+http://178.33.239.88:9000/live/2018/2018/9755.ts
+#EXTINF:-1,DE:KIKA
+http://178.33.239.88:9000/live/2018/2018/8812.ts
+#EXTINF:-1,DE:7MAXX
+http://178.33.239.88:9000/live/2018/2018/8801.ts
+#EXTINF:-1,DE:NPO-1-(NL)
+http://178.33.239.88:9000/live/2018/2018/5468.ts
+#EXTINF:-1,DE:Syfy-HD
+http://178.33.239.88:9000/live/2018/2018/8802.ts
+#EXTINF:-1,DE:Sky-Hits
+http://178.33.239.88:9000/live/2018/2018/8790.ts
+#EXTINF:-1,DE:TLC
+http://178.33.239.88:9000/live/2018/2018/8811.ts
+#EXTINF:-1,DE:TNT
+http://178.33.239.88:9000/live/2018/2018/8359.ts
+#EXTINF:-1,DE:Sky_Sport_Austria
+http://178.33.239.88:9000/live/2018/2018/5477.ts
+#EXTINF:-1,DE:NICKELODEON
+http://178.33.239.88:9000/live/2018/2018/8810.ts
+#EXTINF:-1,De:Sky_Emotion
+http://178.33.239.88:9000/live/2018/2018/8799.ts
+#EXTINF:-1,DE:EUROSPORT_1
+http://178.33.239.88:9000/live/2018/2018/9296.ts
+#EXTINF:-1,DE:Phoenix
+http://178.33.239.88:9000/live/2018/2018/8800.ts
+#EXTINF:-1,DE:SKY_Sport1
+http://178.33.239.88:9000/live/2018/2018/8809.ts
+#EXTINF:-1,DE:Zee_One
+http://178.33.239.88:9000/live/2018/2018/5499.ts
+#EXTINF:-1,DE:SKY_SPORT_NEWS
+http://178.33.239.88:9000/live/2018/2018/8806.ts
+#EXTINF:-1,DE:VOX
+http://178.33.239.88:9000/live/2018/2018/8808.ts
+#EXTINF:-1,DE:SkySport_News
+http://178.33.239.88:9000/live/2018/2018/9294.ts
+#EXTINF:-1,DE:PRO-7-MAXX
+http://178.33.239.88:9000/live/2018/2018/8813.ts
+#EXTINF:-1,DE:Sky.Bundesliga-1
+http://178.33.239.88:9000/live/2018/2018/8143.ts
+#EXTINF:-1,DE:Sky.Bundesliga-2
+http://178.33.239.88:9000/live/2018/2018/12798.ts
+#EXTINF:-1,DE:Sky.Bundesliga-3
+http://178.33.239.88:9000/live/2018/2018/12799.ts
+#EXTINF:-1,DE:Sky-Bundesliga-4
+http://178.33.239.88:9000/live/2018/2018/8814.ts
