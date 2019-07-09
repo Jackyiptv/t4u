@@ -1,0 +1,1610 @@
+#EXTM3U
+#EXTINF:-1,RTP 1
+http://serv1.ip4you.kim:8080/live/ViGjR0e4A6/LS67Ew3LQM/1.m3u8
+#EXTINF:-1,RTP 2
+http://serv1.ip4you.kim:8080/live/ViGjR0e4A6/LS67Ew3LQM/2.m3u8
+#EXTINF:-1,SIC
+http://serv1.ip4you.kim:8080/live/ViGjR0e4A6/LS67Ew3LQM/3.m3u8
+#EXTINF:-1,TVI
+http://serv1.ip4you.kim:8080/live/ViGjR0e4A6/LS67Ew3LQM/4.m3u8
+#EXTINF:-1,RTP 1 FHD
+http://serv1.ip4you.kim:8080/live/ViGjR0e4A6/LS67Ew3LQM/1651.m3u8
+#EXTINF:-1,RTP 2 FHD
+http://serv1.ip4you.kim:8080/live/ViGjR0e4A6/LS67Ew3LQM/1650.m3u8
+#EXTINF:-1,SIC FHD
+http://serv1.ip4you.kim:8080/live/ViGjR0e4A6/LS67Ew3LQM/1649.m3u8
+#EXTINF:-1,TVI FHD
+http://serv1.ip4you.kim:8080/live/ViGjR0e4A6/LS67Ew3LQM/1648.m3u8
+#EXTINF:-1,SIC NOTICIAS HD
+http://serv1.ip4you.kim:8080/live/ViGjR0e4A6/LS67Ew3LQM/5.m3u8
+#EXTINF:-1,TVI 24
+http://serv1.ip4you.kim:8080/live/ViGjR0e4A6/LS67Ew3LQM/6.m3u8
+#EXTINF:-1,RTP 3
+http://serv1.ip4you.kim:8080/live/ViGjR0e4A6/LS67Ew3LQM/87.m3u8
+#EXTINF:-1,CMTV HD
+http://serv1.ip4you.kim:8080/live/ViGjR0e4A6/LS67Ew3LQM/10.m3u8
+#EXTINF:-1,PORTO CANAL HD
+http://serv1.ip4you.kim:8080/live/ViGjR0e4A6/LS67Ew3LQM/12.m3u8
+#EXTINF:-1,RTP INTERNACIONAL
+http://serv1.ip4you.kim:8080/live/ViGjR0e4A6/LS67Ew3LQM/1466.m3u8
+#EXTINF:-1,SIC INTERNACIONAL
+http://serv1.ip4you.kim:8080/live/ViGjR0e4A6/LS67Ew3LQM/11557.m3u8
+#EXTINF:-1,TVI INTERNACIONAL
+http://serv1.ip4you.kim:8080/live/ViGjR0e4A6/LS67Ew3LQM/11559.m3u8
+#EXTINF:-1,SIC RADICAL HD
+http://serv1.ip4you.kim:8080/live/ViGjR0e4A6/LS67Ew3LQM/9.m3u8
+#EXTINF:-1,SIC MULHER HD
+http://serv1.ip4you.kim:8080/live/ViGjR0e4A6/LS67Ew3LQM/7.m3u8
+#EXTINF:-1,SIC CARAS HD
+http://serv1.ip4you.kim:8080/live/ViGjR0e4A6/LS67Ew3LQM/8.m3u8
+#EXTINF:-1,TVI REALTY
+http://serv1.ip4you.kim:8080/live/ViGjR0e4A6/LS67Ew3LQM/397.m3u8
+#EXTINF:-1,TVI REALTY MOSAICO
+http://serv1.ip4you.kim:8080/live/ViGjR0e4A6/LS67Ew3LQM/1461.m3u8
+#EXTINF:-1,TVI REALTY CAMERA 1
+http://serv1.ip4you.kim:8080/live/ViGjR0e4A6/LS67Ew3LQM/1465.m3u8
+#EXTINF:-1,TVI REALTY CAMERA 2
+http://serv1.ip4you.kim:8080/live/ViGjR0e4A6/LS67Ew3LQM/1464.m3u8
+#EXTINF:-1,TVI REALTY CAMERA 3
+http://serv1.ip4you.kim:8080/live/ViGjR0e4A6/LS67Ew3LQM/1463.m3u8
+#EXTINF:-1,TVI REALTY CAMERA 4
+http://serv1.ip4you.kim:8080/live/ViGjR0e4A6/LS67Ew3LQM/1462.m3u8
+#EXTINF:-1,TVI FICCAO
+http://serv1.ip4you.kim:8080/live/ViGjR0e4A6/LS67Ew3LQM/88.m3u8
+#EXTINF:-1,RTP AFRICA
+http://serv1.ip4you.kim:8080/live/ViGjR0e4A6/LS67Ew3LQM/220.m3u8
+#EXTINF:-1,RTP MEMORIA
+http://serv1.ip4you.kim:8080/live/ViGjR0e4A6/LS67Ew3LQM/682.m3u8
+#EXTINF:-1,RTP Madeira
+http://serv1.ip4you.kim:8080/live/ViGjR0e4A6/LS67Ew3LQM/287.m3u8
+#EXTINF:-1,RTP AÃ§ores
+http://serv1.ip4you.kim:8080/live/ViGjR0e4A6/LS67Ew3LQM/289.m3u8
+#EXTINF:-1,GLOBO
+http://serv1.ip4you.kim:8080/live/ViGjR0e4A6/LS67Ew3LQM/216.m3u8
+#EXTINF:-1,GLOBO NOW
+http://serv1.ip4you.kim:8080/live/ViGjR0e4A6/LS67Ew3LQM/215.m3u8
+#EXTINF:-1,TV GLOBO INTERNACIONAL
+http://serv1.ip4you.kim:8080/live/ViGjR0e4A6/LS67Ew3LQM/11558.m3u8
+#EXTINF:-1,TV RECORD HD
+http://serv1.ip4you.kim:8080/live/ViGjR0e4A6/LS67Ew3LQM/13.m3u8
+#EXTINF:-1,RECORD NEWS
+http://serv1.ip4you.kim:8080/live/ViGjR0e4A6/LS67Ew3LQM/940.m3u8
+#EXTINF:-1,RECORD TV INTERNACIONAL
+http://serv1.ip4you.kim:8080/live/ViGjR0e4A6/LS67Ew3LQM/11556.m3u8
+#EXTINF:-1,CANAL Q
+http://serv1.ip4you.kim:8080/live/ViGjR0e4A6/LS67Ew3LQM/11.m3u8
+#EXTINF:-1,A BOLA TV
+http://serv1.ip4you.kim:8080/live/ViGjR0e4A6/LS67Ew3LQM/22.m3u8
+#EXTINF:-1,SPORTV 4K
+http://serv1.ip4you.kim:8080/live/ViGjR0e4A6/LS67Ew3LQM/4558.m3u8
+#EXTINF:-1,SPORTV + FULL HD
+http://serv1.ip4you.kim:8080/live/ViGjR0e4A6/LS67Ew3LQM/1570.m3u8
+#EXTINF:-1,SPORTV +
+http://serv1.ip4you.kim:8080/live/ViGjR0e4A6/LS67Ew3LQM/1109.m3u8
+#EXTINF:-1,SPORTV 1 FULL HD
+http://serv1.ip4you.kim:8080/live/ViGjR0e4A6/LS67Ew3LQM/1574.m3u8
+#EXTINF:-1,SPORTV 1 HD
+http://serv1.ip4you.kim:8080/live/ViGjR0e4A6/LS67Ew3LQM/14.m3u8
+#EXTINF:-1,SPORTV 1
+http://serv1.ip4you.kim:8080/live/ViGjR0e4A6/LS67Ew3LQM/390.m3u8
+#EXTINF:-1,SPORTV 2 FULL HD
+http://serv1.ip4you.kim:8080/live/ViGjR0e4A6/LS67Ew3LQM/1575.m3u8
+#EXTINF:-1,SPORTV 2 HD
+http://serv1.ip4you.kim:8080/live/ViGjR0e4A6/LS67Ew3LQM/15.m3u8
+#EXTINF:-1,SPORTV 2
+http://serv1.ip4you.kim:8080/live/ViGjR0e4A6/LS67Ew3LQM/392.m3u8
+#EXTINF:-1,SPORTV 3 FULL HD
+http://serv1.ip4you.kim:8080/live/ViGjR0e4A6/LS67Ew3LQM/1569.m3u8
+#EXTINF:-1,SPORTV 3 HD
+http://serv1.ip4you.kim:8080/live/ViGjR0e4A6/LS67Ew3LQM/16.m3u8
+#EXTINF:-1,SPORTV 3
+http://serv1.ip4you.kim:8080/live/ViGjR0e4A6/LS67Ew3LQM/396.m3u8
+#EXTINF:-1,SPORTV 4 FULL HD
+http://serv1.ip4you.kim:8080/live/ViGjR0e4A6/LS67Ew3LQM/1572.m3u8
+#EXTINF:-1,SPORTV 4 HD
+http://serv1.ip4you.kim:8080/live/ViGjR0e4A6/LS67Ew3LQM/17.m3u8
+#EXTINF:-1,SPORTV 4
+http://serv1.ip4you.kim:8080/live/ViGjR0e4A6/LS67Ew3LQM/395.m3u8
+#EXTINF:-1,SPORTV 5 FULL HD
+http://serv1.ip4you.kim:8080/live/ViGjR0e4A6/LS67Ew3LQM/1573.m3u8
+#EXTINF:-1,SPORTV 5 HD
+http://serv1.ip4you.kim:8080/live/ViGjR0e4A6/LS67Ew3LQM/18.m3u8
+#EXTINF:-1,SPORTV 5
+http://serv1.ip4you.kim:8080/live/ViGjR0e4A6/LS67Ew3LQM/394.m3u8
+#EXTINF:-1,BTV 1 FULL HD
+http://serv1.ip4you.kim:8080/live/ViGjR0e4A6/LS67Ew3LQM/1568.m3u8
+#EXTINF:-1,BTV 1 HD
+http://serv1.ip4you.kim:8080/live/ViGjR0e4A6/LS67Ew3LQM/19.m3u8
+#EXTINF:-1,BTV 1
+http://serv1.ip4you.kim:8080/live/ViGjR0e4A6/LS67Ew3LQM/391.m3u8
+#EXTINF:-1,ELEVEN SPORTS 1 HD
+http://serv1.ip4you.kim:8080/live/ViGjR0e4A6/LS67Ew3LQM/9521.m3u8
+#EXTINF:-1,ELEVEN SPORTS 1
+http://serv1.ip4you.kim:8080/live/ViGjR0e4A6/LS67Ew3LQM/12801.m3u8
+#EXTINF:-1,ELEVEN SPORTS 2 HD
+http://serv1.ip4you.kim:8080/live/ViGjR0e4A6/LS67Ew3LQM/9520.m3u8
+#EXTINF:-1,ELEVEN SPORTS 2
+http://serv1.ip4you.kim:8080/live/ViGjR0e4A6/LS67Ew3LQM/12802.m3u8
+#EXTINF:-1,ELEVEN SPORTS 3 HD
+http://serv1.ip4you.kim:8080/live/ViGjR0e4A6/LS67Ew3LQM/9519.m3u8
+#EXTINF:-1,ELEVEN SPORTS 3
+http://serv1.ip4you.kim:8080/live/ViGjR0e4A6/LS67Ew3LQM/12803.m3u8
+#EXTINF:-1,ELEVEN SPORTS 4 HD
+http://serv1.ip4you.kim:8080/live/ViGjR0e4A6/LS67Ew3LQM/9524.m3u8
+#EXTINF:-1,ELEVEN SPORTS 4
+http://serv1.ip4you.kim:8080/live/ViGjR0e4A6/LS67Ew3LQM/12804.m3u8
+#EXTINF:-1,ELEVEN SPORTS 5 HD
+http://serv1.ip4you.kim:8080/live/ViGjR0e4A6/LS67Ew3LQM/9523.m3u8
+#EXTINF:-1,ELEVEN SPORTS 5
+http://serv1.ip4you.kim:8080/live/ViGjR0e4A6/LS67Ew3LQM/12805.m3u8
+#EXTINF:-1,ELEVEN SPORTS 6 HD
+http://serv1.ip4you.kim:8080/live/ViGjR0e4A6/LS67Ew3LQM/9522.m3u8
+#EXTINF:-1,ELEVEN SPORTS 6
+http://serv1.ip4you.kim:8080/live/ViGjR0e4A6/LS67Ew3LQM/12806.m3u8
+#EXTINF:-1,SPORTV NBA
+http://serv1.ip4you.kim:8080/live/ViGjR0e4A6/LS67Ew3LQM/11257.m3u8
+#EXTINF:-1,SPORTING TV HD
+http://serv1.ip4you.kim:8080/live/ViGjR0e4A6/LS67Ew3LQM/21.m3u8
+#EXTINF:-1,EUROSPORT 1 HD
+http://serv1.ip4you.kim:8080/live/ViGjR0e4A6/LS67Ew3LQM/23.m3u8
+#EXTINF:-1,EUROSPORT 2 HD
+http://serv1.ip4you.kim:8080/live/ViGjR0e4A6/LS67Ew3LQM/24.m3u8
+#EXTINF:-1,PFC
+http://serv1.ip4you.kim:8080/live/ViGjR0e4A6/LS67Ew3LQM/25.m3u8
+#EXTINF:-1,REAL MADRID TV
+http://serv1.ip4you.kim:8080/live/ViGjR0e4A6/LS67Ew3LQM/944.m3u8
+#EXTINF:-1,OUTDOOR HD
+http://serv1.ip4you.kim:8080/live/ViGjR0e4A6/LS67Ew3LQM/770.m3u8
+#EXTINF:-1,FUEL TV HD
+http://serv1.ip4you.kim:8080/live/ViGjR0e4A6/LS67Ew3LQM/109.m3u8
+#EXTINF:-1,MOTORVISION HD
+http://serv1.ip4you.kim:8080/live/ViGjR0e4A6/LS67Ew3LQM/26.m3u8
+#EXTINF:-1,CAÃ‡A E PESCA
+http://serv1.ip4you.kim:8080/live/ViGjR0e4A6/LS67Ew3LQM/27.m3u8
+#EXTINF:-1,CACAVISION
+http://serv1.ip4you.kim:8080/live/ViGjR0e4A6/LS67Ew3LQM/91.m3u8
+#EXTINF:-1,FIGHT NETWORK HD
+http://serv1.ip4you.kim:8080/live/ViGjR0e4A6/LS67Ew3LQM/687.m3u8
+#EXTINF:-1,KOMBAT SPORT
+http://serv1.ip4you.kim:8080/live/ViGjR0e4A6/LS67Ew3LQM/985.m3u8
+#EXTINF:-1,TVCINE 1 HD
+http://serv1.ip4you.kim:8080/live/ViGjR0e4A6/LS67Ew3LQM/28.m3u8
+#EXTINF:-1,TVCINE 1
+http://serv1.ip4you.kim:8080/live/ViGjR0e4A6/LS67Ew3LQM/3031.m3u8
+#EXTINF:-1,TVCINE 2 HD
+http://serv1.ip4you.kim:8080/live/ViGjR0e4A6/LS67Ew3LQM/29.m3u8
+#EXTINF:-1,TVCINE 2
+http://serv1.ip4you.kim:8080/live/ViGjR0e4A6/LS67Ew3LQM/3030.m3u8
+#EXTINF:-1,TVCINE 3 HD
+http://serv1.ip4you.kim:8080/live/ViGjR0e4A6/LS67Ew3LQM/30.m3u8
+#EXTINF:-1,TVCINE 3
+http://serv1.ip4you.kim:8080/live/ViGjR0e4A6/LS67Ew3LQM/3029.m3u8
+#EXTINF:-1,TVCINE 4 HD
+http://serv1.ip4you.kim:8080/live/ViGjR0e4A6/LS67Ew3LQM/31.m3u8
+#EXTINF:-1,TVCINE 4
+http://serv1.ip4you.kim:8080/live/ViGjR0e4A6/LS67Ew3LQM/3028.m3u8
+#EXTINF:-1,TV SERIES HD
+http://serv1.ip4you.kim:8080/live/ViGjR0e4A6/LS67Ew3LQM/32.m3u8
+#EXTINF:-1,HOLLYWOOD HD
+http://serv1.ip4you.kim:8080/live/ViGjR0e4A6/LS67Ew3LQM/34.m3u8
+#EXTINF:-1,FOX HD
+http://serv1.ip4you.kim:8080/live/ViGjR0e4A6/LS67Ew3LQM/90.m3u8
+#EXTINF:-1,FOX LIFE HD
+http://serv1.ip4you.kim:8080/live/ViGjR0e4A6/LS67Ew3LQM/35.m3u8
+#EXTINF:-1,FOX CRIME HD
+http://serv1.ip4you.kim:8080/live/ViGjR0e4A6/LS67Ew3LQM/36.m3u8
+#EXTINF:-1,FOX MOVIES HD
+http://serv1.ip4you.kim:8080/live/ViGjR0e4A6/LS67Ew3LQM/217.m3u8
+#EXTINF:-1,FOX COMEDY HD
+http://serv1.ip4you.kim:8080/live/ViGjR0e4A6/LS67Ew3LQM/543.m3u8
+#EXTINF:-1,AXN HD
+http://serv1.ip4you.kim:8080/live/ViGjR0e4A6/LS67Ew3LQM/92.m3u8
+#EXTINF:-1,AXN WHITE HD
+http://serv1.ip4you.kim:8080/live/ViGjR0e4A6/LS67Ew3LQM/37.m3u8
+#EXTINF:-1,AXN BLACK HD
+http://serv1.ip4you.kim:8080/live/ViGjR0e4A6/LS67Ew3LQM/38.m3u8
+#EXTINF:-1,SYFY HD
+http://serv1.ip4you.kim:8080/live/ViGjR0e4A6/LS67Ew3LQM/33.m3u8
+#EXTINF:-1,CRIME + INVESTIGATION
+http://serv1.ip4you.kim:8080/live/ViGjR0e4A6/LS67Ew3LQM/1469.m3u8
+#EXTINF:-1,AMC HD
+http://serv1.ip4you.kim:8080/live/ViGjR0e4A6/LS67Ew3LQM/227.m3u8
+#EXTINF:-1,EUROCHANNEL
+http://serv1.ip4you.kim:8080/live/ViGjR0e4A6/LS67Ew3LQM/11094.m3u8
+#EXTINF:-1,CINEMUNDO
+http://serv1.ip4you.kim:8080/live/ViGjR0e4A6/LS67Ew3LQM/223.m3u8
+#EXTINF:-1,CINEMA_4K
+http://serv1.ip4you.kim:8080/live/ViGjR0e4A6/LS67Ew3LQM/8897.m3u8
+#EXTINF:-1,DISNEY CHANNEL
+http://serv1.ip4you.kim:8080/live/ViGjR0e4A6/LS67Ew3LQM/102.m3u8
+#EXTINF:-1,DISNEY JUNIOR
+http://serv1.ip4you.kim:8080/live/ViGjR0e4A6/LS67Ew3LQM/45.m3u8
+#EXTINF:-1,CARTOON NETWORK
+http://serv1.ip4you.kim:8080/live/ViGjR0e4A6/LS67Ew3LQM/225.m3u8
+#EXTINF:-1,CANAL PANDA
+http://serv1.ip4you.kim:8080/live/ViGjR0e4A6/LS67Ew3LQM/103.m3u8
+#EXTINF:-1,BOOMRANG
+http://serv1.ip4you.kim:8080/live/ViGjR0e4A6/LS67Ew3LQM/11109.m3u8
+#EXTINF:-1,PANDA BIGGS
+http://serv1.ip4you.kim:8080/live/ViGjR0e4A6/LS67Ew3LQM/99.m3u8
+#EXTINF:-1,NICKELODEON
+http://serv1.ip4you.kim:8080/live/ViGjR0e4A6/LS67Ew3LQM/46.m3u8
+#EXTINF:-1,NICKELODEAN JUNIOR
+http://serv1.ip4you.kim:8080/live/ViGjR0e4A6/LS67Ew3LQM/3333.m3u8
+#EXTINF:-1,JIM JAM
+http://serv1.ip4you.kim:8080/live/ViGjR0e4A6/LS67Ew3LQM/101.m3u8
+#EXTINF:-1,TIJI
+http://serv1.ip4you.kim:8080/live/ViGjR0e4A6/LS67Ew3LQM/3091.m3u8
+#EXTINF:-1,BABY TV
+http://serv1.ip4you.kim:8080/live/ViGjR0e4A6/LS67Ew3LQM/47.m3u8
+#EXTINF:-1,SIC K
+http://serv1.ip4you.kim:8080/live/ViGjR0e4A6/LS67Ew3LQM/44.m3u8
+#EXTINF:-1,NAT. GEOGRAPHIC
+http://serv1.ip4you.kim:8080/live/ViGjR0e4A6/LS67Ew3LQM/96.m3u8
+#EXTINF:-1,NAT GEO WILD
+http://serv1.ip4you.kim:8080/live/ViGjR0e4A6/LS67Ew3LQM/42.m3u8
+#EXTINF:-1,DISCOVERY CHANNEL HD
+http://serv1.ip4you.kim:8080/live/ViGjR0e4A6/LS67Ew3LQM/43.m3u8
+#EXTINF:-1,DISCOVERY SHOWCASE
+http://serv1.ip4you.kim:8080/live/ViGjR0e4A6/LS67Ew3LQM/218.m3u8
+#EXTINF:-1,ID INVESTIGATION DISCOVERY
+http://serv1.ip4you.kim:8080/live/ViGjR0e4A6/LS67Ew3LQM/11258.m3u8
+#EXTINF:-1,CANAL HISTORIA
+http://serv1.ip4you.kim:8080/live/ViGjR0e4A6/LS67Ew3LQM/226.m3u8
+#EXTINF:-1,ODISSEIA HD
+http://serv1.ip4you.kim:8080/live/ViGjR0e4A6/LS67Ew3LQM/100.m3u8
+#EXTINF:-1,TRAVEL CHANNEL HD
+http://serv1.ip4you.kim:8080/live/ViGjR0e4A6/LS67Ew3LQM/389.m3u8
+#EXTINF:-1,E! ENTERTAINMENT
+http://serv1.ip4you.kim:8080/live/ViGjR0e4A6/LS67Ew3LQM/39.m3u8
+#EXTINF:-1,BLAZE HD
+http://serv1.ip4you.kim:8080/live/ViGjR0e4A6/LS67Ew3LQM/104.m3u8
+#EXTINF:-1,TLC
+http://serv1.ip4you.kim:8080/live/ViGjR0e4A6/LS67Ew3LQM/40.m3u8
+#EXTINF:-1,S+ HD
+http://serv1.ip4you.kim:8080/live/ViGjR0e4A6/LS67Ew3LQM/11091.m3u8
+#EXTINF:-1,CBS REALITY
+http://serv1.ip4you.kim:8080/live/ViGjR0e4A6/LS67Ew3LQM/224.m3u8
+#EXTINF:-1,LUXE TV HD
+http://serv1.ip4you.kim:8080/live/ViGjR0e4A6/LS67Ew3LQM/769.m3u8
+#EXTINF:-1,FASHION TV
+http://serv1.ip4you.kim:8080/live/ViGjR0e4A6/LS67Ew3LQM/553.m3u8
+#EXTINF:-1,FOOD NETWORK HD
+http://serv1.ip4you.kim:8080/live/ViGjR0e4A6/LS67Ew3LQM/552.m3u8
+#EXTINF:-1,24 KITCHEN HD
+http://serv1.ip4you.kim:8080/live/ViGjR0e4A6/LS67Ew3LQM/41.m3u8
+#EXTINF:-1,TOROS TV
+http://serv1.ip4you.kim:8080/live/ViGjR0e4A6/LS67Ew3LQM/98.m3u8
+#EXTINF:-1,DOG TV HD
+http://serv1.ip4you.kim:8080/live/ViGjR0e4A6/LS67Ew3LQM/688.m3u8
+#EXTINF:-1,MY CUISINE
+http://serv1.ip4you.kim:8080/live/ViGjR0e4A6/LS67Ew3LQM/879.m3u8
+#EXTINF:-1,KURIAKOS TV
+http://serv1.ip4you.kim:8080/live/ViGjR0e4A6/LS67Ew3LQM/1652.m3u8
+#EXTINF:-1,CANÃ‡Ã‚O NOVA
+http://serv1.ip4you.kim:8080/live/ViGjR0e4A6/LS67Ew3LQM/544.m3u8
+#EXTINF:-1,SANTUARIO FATIMA
+http://serv1.ip4you.kim:8080/live/ViGjR0e4A6/LS67Ew3LQM/95.m3u8
+#EXTINF:-1,LOCALVISAO HD
+http://serv1.ip4you.kim:8080/live/ViGjR0e4A6/LS67Ew3LQM/945.m3u8
+#EXTINF:-1,REGIOES TV
+http://serv1.ip4you.kim:8080/live/ViGjR0e4A6/LS67Ew3LQM/983.m3u8
+#EXTINF:-1,ARTV
+http://serv1.ip4you.kim:8080/live/ViGjR0e4A6/LS67Ew3LQM/942.m3u8
+#EXTINF:-1,TPA INTERNACIONAL
+http://serv1.ip4you.kim:8080/live/ViGjR0e4A6/LS67Ew3LQM/564.m3u8
+#EXTINF:-1,CUBAVISION INTERNATIONAL
+http://serv1.ip4you.kim:8080/live/ViGjR0e4A6/LS67Ew3LQM/1468.m3u8
+#EXTINF:-1,TCV INTERNATIONAL
+http://serv1.ip4you.kim:8080/live/ViGjR0e4A6/LS67Ew3LQM/3092.m3u8
+#EXTINF:-1,TVE INTERNATIONAL
+http://serv1.ip4you.kim:8080/live/ViGjR0e4A6/LS67Ew3LQM/3090.m3u8
+#EXTINF:-1,ZAP VIVA HD
+http://serv1.ip4you.kim:8080/live/ViGjR0e4A6/LS67Ew3LQM/766.m3u8
+#EXTINF:-1,TV GALICIA
+http://serv1.ip4you.kim:8080/live/ViGjR0e4A6/LS67Ew3LQM/1108.m3u8
+#EXTINF:-1,M6
+http://serv1.ip4you.kim:8080/live/ViGjR0e4A6/LS67Ew3LQM/513.m3u8
+#EXTINF:-1,FRANCE 24
+http://serv1.ip4you.kim:8080/live/ViGjR0e4A6/LS67Ew3LQM/771.m3u8
+#EXTINF:-1,TV5 MONDE
+http://serv1.ip4you.kim:8080/live/ViGjR0e4A6/LS67Ew3LQM/954.m3u8
+#EXTINF:-1,EURONEWS
+http://serv1.ip4you.kim:8080/live/ViGjR0e4A6/LS67Ew3LQM/947.m3u8
+#EXTINF:-1,CNN
+http://serv1.ip4you.kim:8080/live/ViGjR0e4A6/LS67Ew3LQM/949.m3u8
+#EXTINF:-1,BBC WORLD NEWS
+http://serv1.ip4you.kim:8080/live/ViGjR0e4A6/LS67Ew3LQM/952.m3u8
+#EXTINF:-1,ZEE TV
+http://serv1.ip4you.kim:8080/live/ViGjR0e4A6/LS67Ew3LQM/955.m3u8
+#EXTINF:-1,TRACE URBAN HD
+http://serv1.ip4you.kim:8080/live/ViGjR0e4A6/LS67Ew3LQM/956.m3u8
+#EXTINF:-1,MAX
+http://serv1.ip4you.kim:8080/live/ViGjR0e4A6/LS67Ew3LQM/957.m3u8
+#EXTINF:-1,FINE LIVING HD
+http://serv1.ip4you.kim:8080/live/ViGjR0e4A6/LS67Ew3LQM/958.m3u8
+#EXTINF:-1,BLOOMBERG
+http://serv1.ip4you.kim:8080/live/ViGjR0e4A6/LS67Ew3LQM/951.m3u8
+#EXTINF:-1,KBS WORLD HD
+http://serv1.ip4you.kim:8080/live/ViGjR0e4A6/LS67Ew3LQM/11093.m3u8
+#EXTINF:-1,ANGELUS TV
+http://serv1.ip4you.kim:8080/live/ViGjR0e4A6/LS67Ew3LQM/11096.m3u8
+#EXTINF:-1,DEUTSCHE WELLE
+http://serv1.ip4you.kim:8080/live/ViGjR0e4A6/LS67Ew3LQM/948.m3u8
+#EXTINF:-1,MTV PORTUGAL
+http://serv1.ip4you.kim:8080/live/ViGjR0e4A6/LS67Ew3LQM/542.m3u8
+#EXTINF:-1,MTV ROCKS
+http://serv1.ip4you.kim:8080/live/ViGjR0e4A6/LS67Ew3LQM/1003.m3u8
+#EXTINF:-1,MTV MUSIC
+http://serv1.ip4you.kim:8080/live/ViGjR0e4A6/LS67Ew3LQM/1004.m3u8
+#EXTINF:-1,MTV DANCE
+http://serv1.ip4you.kim:8080/live/ViGjR0e4A6/LS67Ew3LQM/1005.m3u8
+#EXTINF:-1,MCM POP
+http://serv1.ip4you.kim:8080/live/ViGjR0e4A6/LS67Ew3LQM/774.m3u8
+#EXTINF:-1,VH1
+http://serv1.ip4you.kim:8080/live/ViGjR0e4A6/LS67Ew3LQM/97.m3u8
+#EXTINF:-1,VH1 CLASSIC
+http://serv1.ip4you.kim:8080/live/ViGjR0e4A6/LS67Ew3LQM/1107.m3u8
+#EXTINF:-1,iCONCERTS HD
+http://serv1.ip4you.kim:8080/live/ViGjR0e4A6/LS67Ew3LQM/686.m3u8
+#EXTINF:-1,AFRO TV
+http://serv1.ip4you.kim:8080/live/ViGjR0e4A6/LS67Ew3LQM/219.m3u8
+#EXTINF:-1,MEZZO
+http://serv1.ip4you.kim:8080/live/ViGjR0e4A6/LS67Ew3LQM/767.m3u8
+#EXTINF:-1,MEZZO LIVE HD
+http://serv1.ip4you.kim:8080/live/ViGjR0e4A6/LS67Ew3LQM/11092.m3u8
+#EXTINF:-1,BR: Globo
+http://serv1.ip4you.kim:8080/live/ViGjR0e4A6/LS67Ew3LQM/3737.m3u8
+#EXTINF:-1,BR: Record
+http://serv1.ip4you.kim:8080/live/ViGjR0e4A6/LS67Ew3LQM/3759.m3u8
+#EXTINF:-1,BR: SBT
+http://serv1.ip4you.kim:8080/live/ViGjR0e4A6/LS67Ew3LQM/3762.m3u8
+#EXTINF:-1,BR: Band
+http://serv1.ip4you.kim:8080/live/ViGjR0e4A6/LS67Ew3LQM/3712.m3u8
+#EXTINF:-1,BR: Rede TV
+http://serv1.ip4you.kim:8080/live/ViGjR0e4A6/LS67Ew3LQM/3761.m3u8
+#EXTINF:-1,BR: GNT
+http://serv1.ip4you.kim:8080/live/ViGjR0e4A6/LS67Ew3LQM/3741.m3u8
+#EXTINF:-1,BR: Multishow
+http://serv1.ip4you.kim:8080/live/ViGjR0e4A6/LS67Ew3LQM/3754.m3u8
+#EXTINF:-1,BR: Viva
+http://serv1.ip4you.kim:8080/live/ViGjR0e4A6/LS67Ew3LQM/3778.m3u8
+#EXTINF:-1,BR: Band News
+http://serv1.ip4you.kim:8080/live/ViGjR0e4A6/LS67Ew3LQM/3713.m3u8
+#EXTINF:-1,BR: Record News
+http://serv1.ip4you.kim:8080/live/ViGjR0e4A6/LS67Ew3LQM/3760.m3u8
+#EXTINF:-1,BR: Globo PT
+http://serv1.ip4you.kim:8080/live/ViGjR0e4A6/LS67Ew3LQM/3739.m3u8
+#EXTINF:-1,BR: Globo Premium
+http://serv1.ip4you.kim:8080/live/ViGjR0e4A6/LS67Ew3LQM/3738.m3u8
+#EXTINF:-1,BR: Combate
+http://serv1.ip4you.kim:8080/live/ViGjR0e4A6/LS67Ew3LQM/3718.m3u8
+#EXTINF:-1,BR: Band Sports
+http://serv1.ip4you.kim:8080/live/ViGjR0e4A6/LS67Ew3LQM/3714.m3u8
+#EXTINF:-1,BR: Sportv
+http://serv1.ip4you.kim:8080/live/ViGjR0e4A6/LS67Ew3LQM/3765.m3u8
+#EXTINF:-1,BR: SporTV 2
+http://serv1.ip4you.kim:8080/live/ViGjR0e4A6/LS67Ew3LQM/3763.m3u8
+#EXTINF:-1,BR: SporTV 3
+http://serv1.ip4you.kim:8080/live/ViGjR0e4A6/LS67Ew3LQM/3764.m3u8
+#EXTINF:-1,Br: Premiere Clubes
+http://serv1.ip4you.kim:8080/live/ViGjR0e4A6/LS67Ew3LQM/11023.m3u8
+#EXTINF:-1,Br: Premiere 2
+http://serv1.ip4you.kim:8080/live/ViGjR0e4A6/LS67Ew3LQM/11031.m3u8
+#EXTINF:-1,Br: Premiere 3
+http://serv1.ip4you.kim:8080/live/ViGjR0e4A6/LS67Ew3LQM/11030.m3u8
+#EXTINF:-1,Br: Premiere 4
+http://serv1.ip4you.kim:8080/live/ViGjR0e4A6/LS67Ew3LQM/11029.m3u8
+#EXTINF:-1,Br: Premiere 5
+http://serv1.ip4you.kim:8080/live/ViGjR0e4A6/LS67Ew3LQM/11028.m3u8
+#EXTINF:-1,Br: Premiere 6
+http://serv1.ip4you.kim:8080/live/ViGjR0e4A6/LS67Ew3LQM/11027.m3u8
+#EXTINF:-1,Br: Premiere 7
+http://serv1.ip4you.kim:8080/live/ViGjR0e4A6/LS67Ew3LQM/11026.m3u8
+#EXTINF:-1,Br: Premiere 8
+http://serv1.ip4you.kim:8080/live/ViGjR0e4A6/LS67Ew3LQM/11025.m3u8
+#EXTINF:-1,Br: Premiere 9
+http://serv1.ip4you.kim:8080/live/ViGjR0e4A6/LS67Ew3LQM/11024.m3u8
+#EXTINF:-1,BR: FOX Sports
+http://serv1.ip4you.kim:8080/live/ViGjR0e4A6/LS67Ew3LQM/3734.m3u8
+#EXTINF:-1,BR: FOX Sports 2
+http://serv1.ip4you.kim:8080/live/ViGjR0e4A6/LS67Ew3LQM/3735.m3u8
+#EXTINF:-1,BR: ESPN Brasil
+http://serv1.ip4you.kim:8080/live/ViGjR0e4A6/LS67Ew3LQM/3731.m3u8
+#EXTINF:-1,BR: ESPN
+http://serv1.ip4you.kim:8080/live/ViGjR0e4A6/LS67Ew3LQM/3730.m3u8
+#EXTINF:-1,BR: PFC
+http://serv1.ip4you.kim:8080/live/ViGjR0e4A6/LS67Ew3LQM/3758.m3u8
+#EXTINF:-1,BR: ESPN Extra
+http://serv1.ip4you.kim:8080/live/ViGjR0e4A6/LS67Ew3LQM/3729.m3u8
+#EXTINF:-1,BR: Cinemax
+http://serv1.ip4you.kim:8080/live/ViGjR0e4A6/LS67Ew3LQM/3717.m3u8
+#EXTINF:-1,BR: Telecine Premium
+http://serv1.ip4you.kim:8080/live/ViGjR0e4A6/LS67Ew3LQM/3771.m3u8
+#EXTINF:-1,BR: Telecine Action
+http://serv1.ip4you.kim:8080/live/ViGjR0e4A6/LS67Ew3LQM/3767.m3u8
+#EXTINF:-1,BR: Telecine Fun
+http://serv1.ip4you.kim:8080/live/ViGjR0e4A6/LS67Ew3LQM/3769.m3u8
+#EXTINF:-1,BR: Telecine Pipoca
+http://serv1.ip4you.kim:8080/live/ViGjR0e4A6/LS67Ew3LQM/3770.m3u8
+#EXTINF:-1,BR: Telecine Touch
+http://serv1.ip4you.kim:8080/live/ViGjR0e4A6/LS67Ew3LQM/3772.m3u8
+#EXTINF:-1,BR: Telecine Cult
+http://serv1.ip4you.kim:8080/live/ViGjR0e4A6/LS67Ew3LQM/3768.m3u8
+#EXTINF:-1,BR: AXN
+http://serv1.ip4you.kim:8080/live/ViGjR0e4A6/LS67Ew3LQM/3711.m3u8
+#EXTINF:-1,BR: FOX
+http://serv1.ip4you.kim:8080/live/ViGjR0e4A6/LS67Ew3LQM/3732.m3u8
+#EXTINF:-1,BR: FOX Life
+http://serv1.ip4you.kim:8080/live/ViGjR0e4A6/LS67Ew3LQM/3733.m3u8
+#EXTINF:-1,Br: Fox Premium 1
+http://serv1.ip4you.kim:8080/live/ViGjR0e4A6/LS67Ew3LQM/11022.m3u8
+#EXTINF:-1,Br: Fox Premium 2
+http://serv1.ip4you.kim:8080/live/ViGjR0e4A6/LS67Ew3LQM/11021.m3u8
+#EXTINF:-1,BR: FX
+http://serv1.ip4you.kim:8080/live/ViGjR0e4A6/LS67Ew3LQM/3736.m3u8
+#EXTINF:-1,BR: HBO
+http://serv1.ip4you.kim:8080/live/ViGjR0e4A6/LS67Ew3LQM/3742.m3u8
+#EXTINF:-1,BR: HBO 2
+http://serv1.ip4you.kim:8080/live/ViGjR0e4A6/LS67Ew3LQM/3743.m3u8
+#EXTINF:-1,BR: HBO Family
+http://serv1.ip4you.kim:8080/live/ViGjR0e4A6/LS67Ew3LQM/3744.m3u8
+#EXTINF:-1,BR: HBO Plus
+http://serv1.ip4you.kim:8080/live/ViGjR0e4A6/LS67Ew3LQM/3745.m3u8
+#EXTINF:-1,BR: HBO Signature
+http://serv1.ip4you.kim:8080/live/ViGjR0e4A6/LS67Ew3LQM/3746.m3u8
+#EXTINF:-1,BR: MAX
+http://serv1.ip4you.kim:8080/live/ViGjR0e4A6/LS67Ew3LQM/3750.m3u8
+#EXTINF:-1,BR: MAX Prime
+http://serv1.ip4you.kim:8080/live/ViGjR0e4A6/LS67Ew3LQM/3751.m3u8
+#EXTINF:-1,BR: MAX Up
+http://serv1.ip4you.kim:8080/live/ViGjR0e4A6/LS67Ew3LQM/3752.m3u8
+#EXTINF:-1,BR: Comedy Central
+http://serv1.ip4you.kim:8080/live/ViGjR0e4A6/LS67Ew3LQM/3799.m3u8
+#EXTINF:-1,BR: MEGAPIX
+http://serv1.ip4you.kim:8080/live/ViGjR0e4A6/LS67Ew3LQM/3753.m3u8
+#EXTINF:-1,BR: Paramount Channel
+http://serv1.ip4you.kim:8080/live/ViGjR0e4A6/LS67Ew3LQM/3757.m3u8
+#EXTINF:-1,BR: TNT
+http://serv1.ip4you.kim:8080/live/ViGjR0e4A6/LS67Ew3LQM/3774.m3u8
+#EXTINF:-1,BR: TNT Series
+http://serv1.ip4you.kim:8080/live/ViGjR0e4A6/LS67Ew3LQM/3716.m3u8
+#EXTINF:-1,BR: Universal Channel
+http://serv1.ip4you.kim:8080/live/ViGjR0e4A6/LS67Ew3LQM/3777.m3u8
+#EXTINF:-1,BR: Warner Channel
+http://serv1.ip4you.kim:8080/live/ViGjR0e4A6/LS67Ew3LQM/3779.m3u8
+#EXTINF:-1,BR: Canal Sony
+http://serv1.ip4you.kim:8080/live/ViGjR0e4A6/LS67Ew3LQM/3780.m3u8
+#EXTINF:-1,BR: TBS
+http://serv1.ip4you.kim:8080/live/ViGjR0e4A6/LS67Ew3LQM/3766.m3u8
+#EXTINF:-1,BR: Disney Channel
+http://serv1.ip4you.kim:8080/live/ViGjR0e4A6/LS67Ew3LQM/3724.m3u8
+#EXTINF:-1,BR: Disney Junior
+http://serv1.ip4you.kim:8080/live/ViGjR0e4A6/LS67Ew3LQM/3725.m3u8
+#EXTINF:-1,BR: Disney XD
+http://serv1.ip4you.kim:8080/live/ViGjR0e4A6/LS67Ew3LQM/3726.m3u8
+#EXTINF:-1,BR: Nick Jr.
+http://serv1.ip4you.kim:8080/live/ViGjR0e4A6/LS67Ew3LQM/3756.m3u8
+#EXTINF:-1,BR: Gloob
+http://serv1.ip4you.kim:8080/live/ViGjR0e4A6/LS67Ew3LQM/3740.m3u8
+#EXTINF:-1,BR: Discovery Kids
+http://serv1.ip4you.kim:8080/live/ViGjR0e4A6/LS67Ew3LQM/3721.m3u8
+#EXTINF:-1,BR: Discovery Channel
+http://serv1.ip4you.kim:8080/live/ViGjR0e4A6/LS67Ew3LQM/3719.m3u8
+#EXTINF:-1,BR: Discovery Home & Health
+http://serv1.ip4you.kim:8080/live/ViGjR0e4A6/LS67Ew3LQM/3720.m3u8
+#EXTINF:-1,BR: Discovery Theater
+http://serv1.ip4you.kim:8080/live/ViGjR0e4A6/LS67Ew3LQM/3722.m3u8
+#EXTINF:-1,BR: Discovery Turbo
+http://serv1.ip4you.kim:8080/live/ViGjR0e4A6/LS67Ew3LQM/3723.m3u8
+#EXTINF:-1,BR: Nat. Geographic
+http://serv1.ip4you.kim:8080/live/ViGjR0e4A6/LS67Ew3LQM/3755.m3u8
+#EXTINF:-1,BR: Nat Geo Wild
+http://serv1.ip4you.kim:8080/live/ViGjR0e4A6/LS67Ew3LQM/3798.m3u8
+#EXTINF:-1,BR: OFF
+http://serv1.ip4you.kim:8080/live/ViGjR0e4A6/LS67Ew3LQM/3797.m3u8
+#EXTINF:-1,BR: Animal Planet
+http://serv1.ip4you.kim:8080/live/ViGjR0e4A6/LS67Ew3LQM/3710.m3u8
+#EXTINF:-1,BR: historia
+http://serv1.ip4you.kim:8080/live/ViGjR0e4A6/LS67Ew3LQM/3747.m3u8
+#EXTINF:-1,BR: History 2
+http://serv1.ip4you.kim:8080/live/ViGjR0e4A6/LS67Ew3LQM/3748.m3u8
+#EXTINF:-1,BR: InvestigaÃ§Ã£o Discovery
+http://serv1.ip4you.kim:8080/live/ViGjR0e4A6/LS67Ew3LQM/3749.m3u8
+#EXTINF:-1,BR: A&E
+http://serv1.ip4you.kim:8080/live/ViGjR0e4A6/LS67Ew3LQM/3709.m3u8
+#EXTINF:-1,BR: E!
+http://serv1.ip4you.kim:8080/live/ViGjR0e4A6/LS67Ew3LQM/3727.m3u8
+#EXTINF:-1,BR: TLC
+http://serv1.ip4you.kim:8080/live/ViGjR0e4A6/LS67Ew3LQM/3773.m3u8
+#EXTINF:-1,BR: TV BrasiL
+http://serv1.ip4you.kim:8080/live/ViGjR0e4A6/LS67Ew3LQM/3775.m3u8
+#EXTINF:-1,BR: TV Cultura
+http://serv1.ip4you.kim:8080/live/ViGjR0e4A6/LS67Ew3LQM/3776.m3u8
+#EXTINF:-1,Portugal | A Bola TV
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/20249.m3u8
+#EXTINF:-1,Portugal | A&E
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/20250.m3u8
+#EXTINF:-1,Portugal | Amc
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/20248.m3u8
+#EXTINF:-1,Portugal | Axn 4K
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/20246.m3u8
+#EXTINF:-1,Portugal | Axn Black HD
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/20247.m3u8
+#EXTINF:-1,Portugal | Axn White 4K
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/20245.m3u8
+#EXTINF:-1,Portugal | BabyTV
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/20164.m3u8
+#EXTINF:-1,Portugal | Benfica TV FHD
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/20204.m3u8
+#EXTINF:-1,Portugal | Benfica TV HD
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/20203.m3u8
+#EXTINF:-1,Portugal | Blaze FHD
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/20163.m3u8
+#EXTINF:-1,Portugal | Bloomberg
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/20162.m3u8
+#EXTINF:-1,Portugal | Box Nation HD
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/20161.m3u8
+#EXTINF:-1,Portugal | BTV 1 4K
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/20243.m3u8
+#EXTINF:-1,Portugal | Caca E Pesca
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/20160.m3u8
+#EXTINF:-1,Portugal | Cacavision
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/20159.m3u8
+#EXTINF:-1,Portugal | Canal Panda
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/20242.m3u8
+#EXTINF:-1,Portugal | Canal Q
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/20241.m3u8
+#EXTINF:-1,Portugal | Cartoon  Network
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/20240.m3u8
+#EXTINF:-1,Portugal | Cartoon Network
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/20158.m3u8
+#EXTINF:-1,Portugal | Cbs Reality
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/20239.m3u8
+#EXTINF:-1,Portugal | Cinemundo
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/20238.m3u8
+#EXTINF:-1,Portugal | Cm TV
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/20237.m3u8
+#EXTINF:-1,Portugal | CmTV
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/20157.m3u8
+#EXTINF:-1,Portugal | CmTV FHD
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/20156.m3u8
+#EXTINF:-1,Portugal | Crime   Investigation HD
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/20155.m3u8
+#EXTINF:-1,Portugal | Discovery Channel
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/20236.m3u8
+#EXTINF:-1,Portugal | Discovery Showcase
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/20235.m3u8
+#EXTINF:-1,Portugal | Discovery Showcase FHD
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/20154.m3u8
+#EXTINF:-1,Portugal | Disney Channel
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/20234.m3u8
+#EXTINF:-1,Portugal | Disney Junior
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/20233.m3u8
+#EXTINF:-1,Portugal | E! Entertainment
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/20232.m3u8
+#EXTINF:-1,Portugal | Eleven Sports 1
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/20193.m3u8
+#EXTINF:-1,Portugal | Eleven Sports 1 FHD
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/20153.m3u8
+#EXTINF:-1,Portugal | Eleven Sports 1 HD
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/20152.m3u8
+#EXTINF:-1,Portugal | Eleven Sports 2
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/20192.m3u8
+#EXTINF:-1,Portugal | Eleven Sports 2 FHD
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/20151.m3u8
+#EXTINF:-1,Portugal | Eleven Sports 3 ( Only Live Events )
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/20191.m3u8
+#EXTINF:-1,Portugal | Eleven Sports 3 HD [Event]
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/20150.m3u8
+#EXTINF:-1,Portugal | Eleven Sports 4 ( Only Live Events )
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/20190.m3u8
+#EXTINF:-1,Portugal | Eleven Sports 4 HD [Event]
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/20149.m3u8
+#EXTINF:-1,Portugal | Eleven Sports 5 ( Only Live Events )
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/20189.m3u8
+#EXTINF:-1,Portugal | Eleven Sports 5 HD [Event]
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/20148.m3u8
+#EXTINF:-1,Portugal | Eleven Sports 6 ( Only Live Events )
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/20188.m3u8
+#EXTINF:-1,Portugal | Eleven Sports 6 HD [Event]
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/20147.m3u8
+#EXTINF:-1,Portugal | Eurosport
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/20231.m3u8
+#EXTINF:-1,Portugal | Eurosport 1
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/20230.m3u8
+#EXTINF:-1,Portugal | Fight Network FHD
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/20146.m3u8
+#EXTINF:-1,Portugal | Food Network
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/20145.m3u8
+#EXTINF:-1,Portugal | Fox
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/20227.m3u8
+#EXTINF:-1,Portugal | Fox Comedy 4K
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/20229.m3u8
+#EXTINF:-1,Portugal | Fox Crime
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/20228.m3u8
+#EXTINF:-1,Portugal | Fox Life
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/20226.m3u8
+#EXTINF:-1,Portugal | Fox Life*
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/20225.m3u8
+#EXTINF:-1,Portugal | Fox Movies
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/20224.m3u8
+#EXTINF:-1,Portugal | Fox TV
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/20223.m3u8
+#EXTINF:-1,Portugal | Foxmix Latino HD
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/20144.m3u8
+#EXTINF:-1,Portugal | Fuel TV
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/20222.m3u8
+#EXTINF:-1,Portugal | HD   Baby TV
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/20244.m3u8
+#EXTINF:-1,Portugal | Historia
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/20252.m3u8
+#EXTINF:-1,Portugal | Hit TV HD
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/20143.m3u8
+#EXTINF:-1,Portugal | Hollywood
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/20221.m3u8
+#EXTINF:-1,Portugal | Hollywood FHD
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/20142.m3u8
+#EXTINF:-1,Portugal | Investigation Discovery FHD
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/20141.m3u8
+#EXTINF:-1,Portugal | Jimjam
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/20140.m3u8
+#EXTINF:-1,Portugal | Kombat Sport
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/20139.m3u8
+#EXTINF:-1,Portugal | Kuriakos Kids
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/20138.m3u8
+#EXTINF:-1,Portugal | Kuriakos Music FHD
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/20137.m3u8
+#EXTINF:-1,Portugal | Kuriakos TV FHD
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/20136.m3u8
+#EXTINF:-1,Portugal | Mezzo
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/20135.m3u8
+#EXTINF:-1,Portugal | Mezzo Live FHD
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/20134.m3u8
+#EXTINF:-1,Portugal | Motorvision TV
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/20220.m3u8
+#EXTINF:-1,Portugal | MTV Portugal
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/20219.m3u8
+#EXTINF:-1,Portugal | Nat Geo Wild
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/20218.m3u8
+#EXTINF:-1,Portugal | Natgeo Wild HD
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/20133.m3u8
+#EXTINF:-1,Portugal | National Geographic
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/20217.m3u8
+#EXTINF:-1,Portugal | National Geographic FHD
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/20132.m3u8
+#EXTINF:-1,Portugal | Nba HD
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/20131.m3u8
+#EXTINF:-1,Portugal | Nick Junior
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/20130.m3u8
+#EXTINF:-1,Portugal | Nickelodeon
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/20216.m3u8
+#EXTINF:-1,Portugal | Odisseia
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/20215.m3u8
+#EXTINF:-1,Portugal | Panda
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/20129.m3u8
+#EXTINF:-1,Portugal | Panda Biggs
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/20128.m3u8
+#EXTINF:-1,Portugal | Panda HD
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/20127.m3u8
+#EXTINF:-1,Portugal | Porto Canal
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/20205.m3u8
+#EXTINF:-1,Portugal | Rtp 1
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/20214.m3u8
+#EXTINF:-1,Portugal | Rtp 2
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/20213.m3u8
+#EXTINF:-1,Portugal | Rtp 3
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/20212.m3u8
+#EXTINF:-1,Portugal | Rtp Acores
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/20172.m3u8
+#EXTINF:-1,Portugal | Rtp Africa
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/20171.m3u8
+#EXTINF:-1,Portugal | Rtp Madeira
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/20211.m3u8
+#EXTINF:-1,Portugal | Rtp Memoria
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/20210.m3u8
+#EXTINF:-1,Portugal | Sic
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/20209.m3u8
+#EXTINF:-1,Portugal | Sic Caras HD
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/20126.m3u8
+#EXTINF:-1,Portugal | Sic Kids
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/20125.m3u8
+#EXTINF:-1,Portugal | Sic Mulher
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/20208.m3u8
+#EXTINF:-1,Portugal | Sic Noticias
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/20207.m3u8
+#EXTINF:-1,Portugal | Sic Radical
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/20206.m3u8
+#EXTINF:-1,Portugal | Sport TV 1
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/20198.m3u8
+#EXTINF:-1,Portugal | Sport TV 1*
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/20199.m3u8
+#EXTINF:-1,Portugal | Sport TV 2
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/20197.m3u8
+#EXTINF:-1,Portugal | Sport TV 3
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/20196.m3u8
+#EXTINF:-1,Portugal | Sport TV 4
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/20195.m3u8
+#EXTINF:-1,Portugal | Sport TV 5
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/20194.m3u8
+#EXTINF:-1,Portugal | Sport TV Mais
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/20124.m3u8
+#EXTINF:-1,Portugal | Sport TV Mais HD
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/20123.m3u8
+#EXTINF:-1,Portugal | Sport TV*
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/20200.m3u8
+#EXTINF:-1,Portugal | Sporting
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/20202.m3u8
+#EXTINF:-1,Portugal | Syfy
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/20187.m3u8
+#EXTINF:-1,Portugal | Tcv Cabo Verde
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/20170.m3u8
+#EXTINF:-1,Portugal | Tlc
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/20186.m3u8
+#EXTINF:-1,Portugal | Toros TV
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/20185.m3u8
+#EXTINF:-1,Portugal | Tpa Angola
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/20168.m3u8
+#EXTINF:-1,Portugal | Trace Urban
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/20122.m3u8
+#EXTINF:-1,Portugal | TV Cine 1
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/20184.m3u8
+#EXTINF:-1,Portugal | TV Cine 2
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/20183.m3u8
+#EXTINF:-1,Portugal | TV Cine 3
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/20182.m3u8
+#EXTINF:-1,Portugal | TV Cine 4
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/20181.m3u8
+#EXTINF:-1,Portugal | TV Globo
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/20180.m3u8
+#EXTINF:-1,Portugal | TV Globo HD
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/20121.m3u8
+#EXTINF:-1,Portugal | TV Globo Premium
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/20120.m3u8
+#EXTINF:-1,Portugal | TV Record
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/20179.m3u8
+#EXTINF:-1,Portugal | TV Record HD
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/20119.m3u8
+#EXTINF:-1,Portugal | TV Series
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/20178.m3u8
+#EXTINF:-1,Portugal | TVi
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/20177.m3u8
+#EXTINF:-1,Portugal | TVi 24
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/20176.m3u8
+#EXTINF:-1,Portugal | TVi Fic
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/20118.m3u8
+#EXTINF:-1,Portugal | TVi Ficcao
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/20169.m3u8
+#EXTINF:-1,Portugal | TVi Reality
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/20175.m3u8
+#EXTINF:-1,Portugal | TVm Mozambique
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/20167.m3u8
+#EXTINF:-1,Portugal | TVm1 Mozambique
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/20166.m3u8
+#EXTINF:-1,Portugal | Vh1
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/20174.m3u8
+#EXTINF:-1,Portugal | Vh1 Classic
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/20173.m3u8
+#EXTINF:-1,Portugal | Viasat Motor HD
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/20117.m3u8
+
+#EXTINF:-1,pt: Eleven Sports 1
+http://samuraihd.com.br:80/live/971/971/15539.m3u8
+#EXTINF:-1,pt: Eleven Sports 1 HD
+http://samuraihd.com.br:80/live/971/971/15538.m3u8
+#EXTINF:-1,pt: Eleven Sports 2 HD
+http://samuraihd.com.br:80/live/971/971/15537.m3u8
+#EXTINF:-1,pt: Eleven Sports 3
+http://samuraihd.com.br:80/live/971/971/15536.m3u8
+#EXTINF:-1,pt: Eleven Sports 4
+http://samuraihd.com.br:80/live/971/971/15535.m3u8
+#EXTINF:-1,pt: Eleven Sports 5
+http://samuraihd.com.br:80/live/971/971/15534.m3u8
+#EXTINF:-1,pt: Euronews:
+http://samuraihd.com.br:80/live/971/971/15533.m3u8
+#EXTINF:-1,pt: Eurosport 1 HD:
+http://samuraihd.com.br:80/live/971/971/15532.m3u8
+#EXTINF:-1,pt: Eurosport 2
+http://samuraihd.com.br:80/live/971/971/15531.m3u8
+#EXTINF:-1,pt: FOX Comedy:
+http://samuraihd.com.br:80/live/971/971/15530.m3u8
+#EXTINF:-1,pt: FOX HD
+http://samuraihd.com.br:80/live/971/971/15529.m3u8
+#EXTINF:-1,pt: FOX Life HD
+http://samuraihd.com.br:80/live/971/971/15528.m3u8
+#EXTINF:-1,pt: FTV
+http://samuraihd.com.br:80/live/971/971/15527.m3u8
+#EXTINF:-1,pt: Fuel TV
+http://samuraihd.com.br:80/live/971/971/15526.m3u8
+#EXTINF:-1,pt: Globo
+http://samuraihd.com.br:80/live/971/971/15525.m3u8
+#EXTINF:-1,pt: Globo Now
+http://samuraihd.com.br:80/live/971/971/15524.m3u8
+#EXTINF:-1,pt: Hollywood HD
+http://samuraihd.com.br:80/live/971/971/15523.m3u8
+#EXTINF:-1,pt: Jim Jam_
+http://samuraihd.com.br:80/live/971/971/15522.m3u8
+#EXTINF:-1,pt: Kombat Sport:
+http://samuraihd.com.br:80/live/971/971/15521.m3u8
+#EXTINF:-1,pt: Kuriakos TV:
+http://samuraihd.com.br:80/live/971/971/15520.m3u8
+#EXTINF:-1,pt: MCM POP
+http://samuraihd.com.br:80/live/971/971/15519.m3u8
+#EXTINF:-1,pt: Mezzo
+http://samuraihd.com.br:80/live/971/971/15518.m3u8
+#EXTINF:-1,pt: Motorvision
+http://samuraihd.com.br:80/live/971/971/15517.m3u8
+#EXTINF:-1,pt: MTV Portugal_
+http://samuraihd.com.br:80/live/971/971/15516.m3u8
+#EXTINF:-1,pt: National Geographic HD_
+http://samuraihd.com.br:80/live/971/971/15515.m3u8
+#EXTINF:-1,pt: NBA TV:
+http://samuraihd.com.br:80/live/971/971/15514.m3u8
+#EXTINF:-1,pt: Nick Jr.
+http://samuraihd.com.br:80/live/971/971/15513.m3u8
+#EXTINF:-1,pt: Nickelodeon
+http://samuraihd.com.br:80/live/971/971/15512.m3u8
+#EXTINF:-1,pt: Nova:
+http://samuraihd.com.br:80/live/971/971/15511.m3u8
+#EXTINF:-1,pt: Odisseia:
+http://samuraihd.com.br:80/live/971/971/15510.m3u8
+#EXTINF:-1,pt: PFC
+http://samuraihd.com.br:80/live/971/971/15509.m3u8
+#EXTINF:-1,pt: RTP 1 HD
+http://samuraihd.com.br:80/live/971/971/15508.m3u8
+#EXTINF:-1,pt: RTP 2:
+http://samuraihd.com.br:80/live/971/971/15507.m3u8
+#EXTINF:-1,pt: RTP africa:
+http://samuraihd.com.br:80/live/971/971/15506.m3u8
+#EXTINF:-1,pt: RTP Madeira
+http://samuraihd.com.br:80/live/971/971/15505.m3u8
+#EXTINF:-1,pt: RTP MemÃ°ria:
+http://samuraihd.com.br:80/live/971/971/15504.m3u8
+#EXTINF:-1,pt: SIC Caras
+http://samuraihd.com.br:80/live/971/971/15503.m3u8
+#EXTINF:-1,pt: SIC Caras HD
+http://samuraihd.com.br:80/live/971/971/15502.m3u8
+#EXTINF:-1,pt: SIC HD
+http://samuraihd.com.br:80/live/971/971/15501.m3u8
+#EXTINF:-1,pt: SIC K
+http://samuraihd.com.br:80/live/971/971/15500.m3u8
+#EXTINF:-1,pt: SIC K HD
+http://samuraihd.com.br:80/live/971/971/15499.m3u8
+#EXTINF:-1,pt: SIC Mulher HD
+http://samuraihd.com.br:80/live/971/971/15498.m3u8
+#EXTINF:-1,pt: SIC NotÅ¦cias:
+http://samuraihd.com.br:80/live/971/971/15497.m3u8
+#EXTINF:-1,pt: SIC Notícias HD
+http://samuraihd.com.br:80/live/971/971/15496.m3u8
+#EXTINF:-1,pt: SIC Radical
+http://samuraihd.com.br:80/live/971/971/15495.m3u8
+#EXTINF:-1,pt: SIC Radical HD
+http://samuraihd.com.br:80/live/971/971/15494.m3u8
+#EXTINF:-1,pt: SPORT TV   HD
+http://samuraihd.com.br:80/live/971/971/15493.m3u8
+#EXTINF:-1,pt: SPORT TV mais
+http://samuraihd.com.br:80/live/971/971/15492.m3u8
+#EXTINF:-1,pt: Sport TV NBA
+http://samuraihd.com.br:80/live/971/971/15491.m3u8
+#EXTINF:-1,pt: Syfy:
+http://samuraihd.com.br:80/live/971/971/15490.m3u8
+#EXTINF:-1,pt: TLC
+http://samuraihd.com.br:80/live/971/971/15489.m3u8
+#EXTINF:-1,pt: Toros TV
+http://samuraihd.com.br:80/live/971/971/15488.m3u8
+#EXTINF:-1,pt: Travel Channel HD
+http://samuraihd.com.br:80/live/971/971/15487.m3u8
+#EXTINF:-1,pt: TV Record
+http://samuraihd.com.br:80/live/971/971/15486.m3u8
+#EXTINF:-1,pt: TVCine 1 HD
+http://samuraihd.com.br:80/live/971/971/15485.m3u8
+#EXTINF:-1,pt: TVCine 2 HD
+http://samuraihd.com.br:80/live/971/971/15484.m3u8
+#EXTINF:-1,pt: TVCine 3 HD
+http://samuraihd.com.br:80/live/971/971/15483.m3u8
+#EXTINF:-1,pt: TVCine 4 HD
+http://samuraihd.com.br:80/live/971/971/15482.m3u8
+#EXTINF:-1,pt: TVI 24
+http://samuraihd.com.br:80/live/971/971/15481.m3u8
+#EXTINF:-1,PT: TVI FIC
+http://samuraihd.com.br:80/live/971/971/15684.m3u8
+#EXTINF:-1,pt: TVI FicÄ¿Âªo:
+http://samuraihd.com.br:80/live/971/971/15480.m3u8
+#EXTINF:-1,pt: TVI Reality
+http://samuraihd.com.br:80/live/971/971/15479.m3u8
+#EXTINF:-1,pt: TVseries HD
+http://samuraihd.com.br:80/live/971/971/15478.m3u8
+#EXTINF:-1,pt: VH1 Classic
+http://samuraihd.com.br:80/live/971/971/15477.m3u8
+#EXTINF:-1,PT:1 1
+http://samuraihd.com.br:80/live/971/971/15889.m3u8
+#EXTINF:-1,PT:1 Globo Premium HD
+http://samuraihd.com.br:80/live/971/971/15888.m3u8
+#EXTINF:-1,PT:24 KITCHEN HD
+http://samuraihd.com.br:80/live/971/971/15887.m3u8
+#EXTINF:-1,PT:24_Kitchen_Portugal
+http://samuraihd.com.br:80/live/971/971/15646.m3u8
+#EXTINF:-1,PT:A & E
+http://samuraihd.com.br:80/live/971/971/15886.m3u8
+#EXTINF:-1,PT:A BOLA TV
+http://samuraihd.com.br:80/live/971/971/15885.m3u8
+#EXTINF:-1,PT:A_E_Portugal
+http://samuraihd.com.br:80/live/971/971/15641.m3u8
+#EXTINF:-1,PT:AFRO MUSIC
+http://samuraihd.com.br:80/live/971/971/15884.m3u8
+#EXTINF:-1,PT:Al Jazeera
+http://samuraihd.com.br:80/live/971/971/15883.m3u8
+#EXTINF:-1,PT:ALJAZEERA
+http://samuraihd.com.br:80/live/971/971/15882.m3u8
+#EXTINF:-1,PT:AMC
+http://samuraihd.com.br:80/live/971/971/15881.m3u8
+#EXTINF:-1,PT:AMC HD
+http://samuraihd.com.br:80/live/971/971/15880.m3u8
+#EXTINF:-1,PT:AMC_Portugal_HD
+http://samuraihd.com.br:80/live/971/971/15645.m3u8
+#EXTINF:-1,PT:AR TV
+http://samuraihd.com.br:80/live/971/971/15879.m3u8
+#EXTINF:-1,PT:ARTE
+http://samuraihd.com.br:80/live/971/971/15878.m3u8
+#EXTINF:-1,PT:AXN
+http://samuraihd.com.br:80/live/971/971/15877.m3u8
+#EXTINF:-1,PT:AXN BLACK
+http://samuraihd.com.br:80/live/971/971/15876.m3u8
+#EXTINF:-1,PT:AXN Black HD
+http://samuraihd.com.br:80/live/971/971/15875.m3u8
+#EXTINF:-1,PT:AXN HD
+http://samuraihd.com.br:80/live/971/971/15874.m3u8
+#EXTINF:-1,PT:AXN WHITE
+http://samuraihd.com.br:80/live/971/971/15873.m3u8
+#EXTINF:-1,PT:AXN WHITE HD
+http://samuraihd.com.br:80/live/971/971/15872.m3u8
+#EXTINF:-1,PT:AXN_Black_Portugal
+http://samuraihd.com.br:80/live/971/971/15644.m3u8
+#EXTINF:-1,PT:AXN_Portugal
+http://samuraihd.com.br:80/live/971/971/15643.m3u8
+#EXTINF:-1,PT:AXN_White_Portugal
+http://samuraihd.com.br:80/live/971/971/15642.m3u8
+#EXTINF:-1,PT:BABY FIRST
+http://samuraihd.com.br:80/live/971/971/15871.m3u8
+#EXTINF:-1,PT:BABY TV
+http://samuraihd.com.br:80/live/971/971/15870.m3u8
+#EXTINF:-1,PT:BAR?A TV
+http://samuraihd.com.br:80/live/971/971/15869.m3u8
+#EXTINF:-1,PT:BBC ENTERTAINMENT
+http://samuraihd.com.br:80/live/971/971/15868.m3u8
+#EXTINF:-1,PT:BBC WORLD NEWS
+http://samuraihd.com.br:80/live/971/971/15867.m3u8
+#EXTINF:-1,PT:BBC_Entertainment_Europe
+http://samuraihd.com.br:80/live/971/971/15640.m3u8
+#EXTINF:-1,PT:Benfica_TV
+http://samuraihd.com.br:80/live/971/971/15639.m3u8
+#EXTINF:-1,PT:Biggs
+http://samuraihd.com.br:80/live/971/971/15638.m3u8
+#EXTINF:-1,PT:BLOOMBERG
+http://samuraihd.com.br:80/live/971/971/15866.m3u8
+#EXTINF:-1,PT:Bloomberg_TV_Europe
+http://samuraihd.com.br:80/live/971/971/15637.m3u8
+#EXTINF:-1,PT:BNT World
+http://samuraihd.com.br:80/live/971/971/15865.m3u8
+#EXTINF:-1,PT:BTV 1
+http://samuraihd.com.br:80/live/971/971/15864.m3u8
+#EXTINF:-1,PT:BTV 1 FULL HD
+http://samuraihd.com.br:80/live/971/971/15863.m3u8
+#EXTINF:-1,PT:BTV 1 HD
+http://samuraihd.com.br:80/live/971/971/15862.m3u8
+#EXTINF:-1,PT:BTV_1
+http://samuraihd.com.br:80/live/971/971/15636.m3u8
+#EXTINF:-1,PT:BVN
+http://samuraihd.com.br:80/live/971/971/15861.m3u8
+#EXTINF:-1,PT:C MUSIC
+http://samuraihd.com.br:80/live/971/971/15860.m3u8
+#EXTINF:-1,PT:CA?A E PESCA
+http://samuraihd.com.br:80/live/971/971/15859.m3u8
+#EXTINF:-1,PT:CA?AVISION
+http://samuraihd.com.br:80/live/971/971/15858.m3u8
+#EXTINF:-1,PT:CACA E PESCA HD
+http://samuraihd.com.br:80/live/971/971/15857.m3u8
+#EXTINF:-1,PT:CAN?AO NOVA
+http://samuraihd.com.br:80/live/971/971/15856.m3u8
+#EXTINF:-1,PT:CANAL 180
+http://samuraihd.com.br:80/live/971/971/15855.m3u8
+#EXTINF:-1,PT:CANAL ANGELUS TV
+http://samuraihd.com.br:80/live/971/971/15854.m3u8
+#EXTINF:-1,PT:CANAL HISTORIA
+http://samuraihd.com.br:80/live/971/971/15853.m3u8
+#EXTINF:-1,PT:CANAL PANDA
+http://samuraihd.com.br:80/live/971/971/15852.m3u8
+#EXTINF:-1,PT:CANAL Q
+http://samuraihd.com.br:80/live/971/971/15851.m3u8
+#EXTINF:-1,PT:CANAL UM  EUROPA
+http://samuraihd.com.br:80/live/971/971/15850.m3u8
+#EXTINF:-1,PT:Canal_Cine_Mundo
+http://samuraihd.com.br:80/live/971/971/15635.m3u8
+#EXTINF:-1,PT:Canal_Hollywood_Portugal
+http://samuraihd.com.br:80/live/971/971/15634.m3u8
+#EXTINF:-1,PT:Canal_Nos
+http://samuraihd.com.br:80/live/971/971/15633.m3u8
+#EXTINF:-1,PT:Canal_Panda_Portugal
+http://samuraihd.com.br:80/live/971/971/15632.m3u8
+#EXTINF:-1,PT:Canal_Q
+http://samuraihd.com.br:80/live/971/971/15631.m3u8
+#EXTINF:-1,PT:CAPELINHA DAS APARI??ES
+http://samuraihd.com.br:80/live/971/971/15849.m3u8
+#EXTINF:-1,PT:CARTOON NETWORK
+http://samuraihd.com.br:80/live/971/971/15848.m3u8
+#EXTINF:-1,PT:Cartoon_Network_Portugal
+http://samuraihd.com.br:80/live/971/971/15630.m3u8
+#EXTINF:-1,PT:CBS REALITY
+http://samuraihd.com.br:80/live/971/971/15847.m3u8
+#EXTINF:-1,PT:CCTV4
+http://samuraihd.com.br:80/live/971/971/15846.m3u8
+#EXTINF:-1,PT:CGTN
+http://samuraihd.com.br:80/live/971/971/15845.m3u8
+#EXTINF:-1,PT:CHELSEA TV
+http://samuraihd.com.br:80/live/971/971/15844.m3u8
+#EXTINF:-1,PT:CINEMUNDO
+http://samuraihd.com.br:80/live/971/971/15843.m3u8
+#EXTINF:-1,PT:CLUBBING TV
+http://samuraihd.com.br:80/live/971/971/15842.m3u8
+#EXTINF:-1,PT:CM_TV
+http://samuraihd.com.br:80/live/971/971/15629.m3u8
+#EXTINF:-1,PT:CMTV
+http://samuraihd.com.br:80/live/971/971/15841.m3u8
+#EXTINF:-1,PT:CMTV HD
+http://samuraihd.com.br:80/live/971/971/15840.m3u8
+#EXTINF:-1,PT:CNBC
+http://samuraihd.com.br:80/live/971/971/15839.m3u8
+#EXTINF:-1,PT:CNBC_Europe
+http://samuraihd.com.br:80/live/971/971/15628.m3u8
+#EXTINF:-1,PT:CNN
+http://samuraihd.com.br:80/live/971/971/15838.m3u8
+#EXTINF:-1,PT:CRIME INVESTIGATION
+http://samuraihd.com.br:80/live/971/971/15837.m3u8
+#EXTINF:-1,PT:Cubavision Internacional
+http://samuraihd.com.br:80/live/971/971/15836.m3u8
+#EXTINF:-1,PT:DEUTSCH WELLE
+http://samuraihd.com.br:80/live/971/971/15835.m3u8
+#EXTINF:-1,PT:DEUTSCHE WELLE
+http://samuraihd.com.br:80/live/971/971/15834.m3u8
+#EXTINF:-1,PT:DISCOVERY CHANNEL
+http://samuraihd.com.br:80/live/971/971/15833.m3u8
+#EXTINF:-1,PT:DISCOVERY HD SHOWCASE
+http://samuraihd.com.br:80/live/971/971/15832.m3u8
+#EXTINF:-1,PT:Discovery_Showcase_HD
+http://samuraihd.com.br:80/live/971/971/15627.m3u8
+#EXTINF:-1,PT:DISNEY CHANNEL
+http://samuraihd.com.br:80/live/971/971/15831.m3u8
+#EXTINF:-1,PT:DISNEY JUNIOR
+http://samuraihd.com.br:80/live/971/971/15830.m3u8
+#EXTINF:-1,PT:Disney_Channel
+http://samuraihd.com.br:80/live/971/971/15626.m3u8
+#EXTINF:-1,PT:Disney_Junior_Portugal
+http://samuraihd.com.br:80/live/971/971/15625.m3u8
+#EXTINF:-1,PT:DOG TV
+http://samuraihd.com.br:80/live/971/971/15829.m3u8
+#EXTINF:-1,PT:DW
+http://samuraihd.com.br:80/live/971/971/15828.m3u8
+#EXTINF:-1,PT:E_Europe
+http://samuraihd.com.br:80/live/971/971/15622.m3u8
+#EXTINF:-1,PT:E! ENTERTAINMENT
+http://samuraihd.com.br:80/live/971/971/15827.m3u8
+#EXTINF:-1,PT:E! ENTERTAINMENT HD
+http://samuraihd.com.br:80/live/971/971/15826.m3u8
+#EXTINF:-1,PT:EURONEWS
+http://samuraihd.com.br:80/live/971/971/15825.m3u8
+#EXTINF:-1,PT:EuroNews_Portugues
+http://samuraihd.com.br:80/live/971/971/15624.m3u8
+#EXTINF:-1,PT:EUROSPORT 1
+http://samuraihd.com.br:80/live/971/971/15824.m3u8
+#EXTINF:-1,PT:EUROSPORT 1 HD
+http://samuraihd.com.br:80/live/971/971/15823.m3u8
+#EXTINF:-1,PT:EUROSPORT 2
+http://samuraihd.com.br:80/live/971/971/15822.m3u8
+#EXTINF:-1,PT:Eurosport_2
+http://samuraihd.com.br:80/live/971/971/15623.m3u8
+#EXTINF:-1,PT:Fashion_TV_Europe
+http://samuraihd.com.br:80/live/971/971/15621.m3u8
+#EXTINF:-1,PT:FIGHT NETWORK  HD*
+http://samuraihd.com.br:80/live/971/971/15821.m3u8
+#EXTINF:-1,PT:FINE LIVING NETWORK HD
+http://samuraihd.com.br:80/live/971/971/15820.m3u8
+#EXTINF:-1,PT:FOOD NETWORK HD
+http://samuraihd.com.br:80/live/971/971/15819.m3u8
+#EXTINF:-1,PT:FOX
+http://samuraihd.com.br:80/live/971/971/15818.m3u8
+#EXTINF:-1,PT:FOX COMEDY
+http://samuraihd.com.br:80/live/971/971/15817.m3u8
+#EXTINF:-1,PT:FOX COMEDY HD
+http://samuraihd.com.br:80/live/971/971/15816.m3u8
+#EXTINF:-1,PT:FOX CRIME
+http://samuraihd.com.br:80/live/971/971/15815.m3u8
+#EXTINF:-1,PT:FOX CRIME HD
+http://samuraihd.com.br:80/live/971/971/15814.m3u8
+#EXTINF:-1,PT:FOX HD
+http://samuraihd.com.br:80/live/971/971/15813.m3u8
+#EXTINF:-1,PT:FOX LIFE
+http://samuraihd.com.br:80/live/971/971/15812.m3u8
+#EXTINF:-1,PT:FOX LIFE HD
+http://samuraihd.com.br:80/live/971/971/15811.m3u8
+#EXTINF:-1,PT:FOX MOVIES
+http://samuraihd.com.br:80/live/971/971/15810.m3u8
+#EXTINF:-1,PT:FOX MOVIES HD
+http://samuraihd.com.br:80/live/971/971/15809.m3u8
+#EXTINF:-1,PT:FOX NEWS
+http://samuraihd.com.br:80/live/971/971/15808.m3u8
+#EXTINF:-1,PT:Fox_Comedy_Portugal
+http://samuraihd.com.br:80/live/971/971/15620.m3u8
+#EXTINF:-1,PT:Fox_Crime_Portugal
+http://samuraihd.com.br:80/live/971/971/15619.m3u8
+#EXTINF:-1,PT:Fox_Life_Portugal
+http://samuraihd.com.br:80/live/971/971/15618.m3u8
+#EXTINF:-1,PT:Fox_Movies_Portugal
+http://samuraihd.com.br:80/live/971/971/15617.m3u8
+#EXTINF:-1,PT:Fox_Portugal
+http://samuraihd.com.br:80/live/971/971/15616.m3u8
+#EXTINF:-1,PT:FRANCE 24 ( INGLES )
+http://samuraihd.com.br:80/live/971/971/15807.m3u8
+#EXTINF:-1,PT:FTV
+http://samuraihd.com.br:80/live/971/971/15806.m3u8
+#EXTINF:-1,PT:FTV HD
+http://samuraihd.com.br:80/live/971/971/15805.m3u8
+#EXTINF:-1,PT:FUEL TV
+http://samuraihd.com.br:80/live/971/971/15804.m3u8
+#EXTINF:-1,PT:FUEL TV HD
+http://samuraihd.com.br:80/live/971/971/15803.m3u8
+#EXTINF:-1,PT:Fuel_TV_Europe
+http://samuraihd.com.br:80/live/971/971/15615.m3u8
+#EXTINF:-1,PT:Galicia_TV_Europa
+http://samuraihd.com.br:80/live/971/971/15614.m3u8
+#EXTINF:-1,PT:GLOBO PREMIUM HD
+http://samuraihd.com.br:80/live/971/971/15802.m3u8
+#EXTINF:-1,PT:Historia_Portugal
+http://samuraihd.com.br:80/live/971/971/15613.m3u8
+#EXTINF:-1,PT:HOLLYWOOD
+http://samuraihd.com.br:80/live/971/971/15801.m3u8
+#EXTINF:-1,PT:HOLLYWOOD HD
+http://samuraihd.com.br:80/live/971/971/15800.m3u8
+#EXTINF:-1,PT:I24 NEWS
+http://samuraihd.com.br:80/live/971/971/15799.m3u8
+#EXTINF:-1,PT:I24 NEWS ( FR )
+http://samuraihd.com.br:80/live/971/971/15798.m3u8
+#EXTINF:-1,PT:iConcerts HD
+http://samuraihd.com.br:80/live/971/971/15797.m3u8
+#EXTINF:-1,PT:INSGHT
+http://samuraihd.com.br:80/live/971/971/15796.m3u8
+#EXTINF:-1,PT:JIMJAM
+http://samuraihd.com.br:80/live/971/971/15795.m3u8
+#EXTINF:-1,PT:KOMBAT SPORT
+http://samuraihd.com.br:80/live/971/971/15794.m3u8
+#EXTINF:-1,PT:KURIAKOS TV
+http://samuraihd.com.br:80/live/971/971/15793.m3u8
+#EXTINF:-1,PT:LOCALVISAO TV HD
+http://samuraihd.com.br:80/live/971/971/15792.m3u8
+#EXTINF:-1,PT:LUXE TV HD
+http://samuraihd.com.br:80/live/971/971/15791.m3u8
+#EXTINF:-1,PT:LUXU TV
+http://samuraihd.com.br:80/live/971/971/15790.m3u8
+#EXTINF:-1,PT:M6
+http://samuraihd.com.br:80/live/971/971/15789.m3u8
+#EXTINF:-1,PT:MAS CHIC
+http://samuraihd.com.br:80/live/971/971/15788.m3u8
+#EXTINF:-1,PT:MCM POP
+http://samuraihd.com.br:80/live/971/971/15787.m3u8
+#EXTINF:-1,PT:MCM TOP
+http://samuraihd.com.br:80/live/971/971/15786.m3u8
+#EXTINF:-1,PT:MCM_Pop
+http://samuraihd.com.br:80/live/971/971/15612.m3u8
+#EXTINF:-1,PT:MCS EXTREME
+http://samuraihd.com.br:80/live/971/971/15785.m3u8
+#EXTINF:-1,PT:MCS LIFESTYLE
+http://samuraihd.com.br:80/live/971/971/15784.m3u8
+#EXTINF:-1,PT:MEZZO
+http://samuraihd.com.br:80/live/971/971/15783.m3u8
+#EXTINF:-1,PT:MEZZO LIVE HD
+http://samuraihd.com.br:80/live/971/971/15782.m3u8
+#EXTINF:-1,PT:MOTORS TV
+http://samuraihd.com.br:80/live/971/971/15781.m3u8
+#EXTINF:-1,PT:MOTORSPORT TV
+http://samuraihd.com.br:80/live/971/971/15780.m3u8
+#EXTINF:-1,PT:MOTORVISION HD
+http://samuraihd.com.br:80/live/971/971/15779.m3u8
+#EXTINF:-1,PT:Motorvision_TV
+http://samuraihd.com.br:80/live/971/971/15611.m3u8
+#EXTINF:-1,PT:MTV DANCE
+http://samuraihd.com.br:80/live/971/971/15778.m3u8
+#EXTINF:-1,PT:MTV Music
+http://samuraihd.com.br:80/live/971/971/15777.m3u8
+#EXTINF:-1,PT:MTV PORTUGAL
+http://samuraihd.com.br:80/live/971/971/15776.m3u8
+#EXTINF:-1,PT:MTV PORTUGAL HD
+http://samuraihd.com.br:80/live/971/971/15775.m3u8
+#EXTINF:-1,PT:MTV Rocks
+http://samuraihd.com.br:80/live/971/971/15774.m3u8
+#EXTINF:-1,PT:MTV_Portugal
+http://samuraihd.com.br:80/live/971/971/15610.m3u8
+#EXTINF:-1,PT:MVM
+http://samuraihd.com.br:80/live/971/971/15773.m3u8
+#EXTINF:-1,PT:MY CUISINE
+http://samuraihd.com.br:80/live/971/971/15662.m3u8
+#EXTINF:-1,PT:MyZen TV
+http://samuraihd.com.br:80/live/971/971/15772.m3u8
+#EXTINF:-1,PT:NAT GEO WILD
+http://samuraihd.com.br:80/live/971/971/15771.m3u8
+#EXTINF:-1,PT:NAT GEO WILD HD
+http://samuraihd.com.br:80/live/971/971/15770.m3u8
+#EXTINF:-1,PT:Nat_Geo_Wild
+http://samuraihd.com.br:80/live/971/971/15608.m3u8
+#EXTINF:-1,PT:NATIONAL GEOGRAPHIC
+http://samuraihd.com.br:80/live/971/971/15769.m3u8
+#EXTINF:-1,PT:NATIONAL GEOGRAPHIC HD
+http://samuraihd.com.br:80/live/971/971/15768.m3u8
+#EXTINF:-1,PT:National_Geographic
+http://samuraihd.com.br:80/live/971/971/15609.m3u8
+#EXTINF:-1,PT:NBA
+http://samuraihd.com.br:80/live/971/971/15767.m3u8
+#EXTINF:-1,PT:NG Widgts
+http://samuraihd.com.br:80/live/971/971/15766.m3u8
+#EXTINF:-1,PT:NICK JR
+http://samuraihd.com.br:80/live/971/971/15765.m3u8
+#EXTINF:-1,PT:NICKELODEON
+http://samuraihd.com.br:80/live/971/971/15764.m3u8
+#EXTINF:-1,PT:ODISSEIA
+http://samuraihd.com.br:80/live/971/971/15763.m3u8
+#EXTINF:-1,PT:Odisseia HD
+http://samuraihd.com.br:80/live/971/971/15762.m3u8
+#EXTINF:-1,PT:OUTDOOR HD
+http://samuraihd.com.br:80/live/971/971/15761.m3u8
+#EXTINF:-1,PT:PANDA BIGGS
+http://samuraihd.com.br:80/live/971/971/15760.m3u8
+#EXTINF:-1,PT:PFC
+http://samuraihd.com.br:80/live/971/971/15759.m3u8
+#EXTINF:-1,PT:PFC_Internacional
+http://samuraihd.com.br:80/live/971/971/15607.m3u8
+#EXTINF:-1,PT:Phoenix CNE
+http://samuraihd.com.br:80/live/971/971/15758.m3u8
+#EXTINF:-1,PT:Phoenix InfoNews
+http://samuraihd.com.br:80/live/971/971/15757.m3u8
+#EXTINF:-1,PT:PO_Eurosport_1
+http://samuraihd.com.br:80/live/971/971/15605.m3u8
+#EXTINF:-1,PT:PO_Mezzo
+http://samuraihd.com.br:80/live/971/971/15604.m3u8
+#EXTINF:-1,PT:PO_Nickelodeon_Iberia
+http://samuraihd.com.br:80/live/971/971/15603.m3u8
+#EXTINF:-1,PT:PORTO CANAL HD
+http://samuraihd.com.br:80/live/971/971/15755.m3u8
+#EXTINF:-1,PT:PORTO CANAL*
+http://samuraihd.com.br:80/live/971/971/15756.m3u8
+#EXTINF:-1,PT:Porto_Canal
+http://samuraihd.com.br:80/live/971/971/15606.m3u8
+#EXTINF:-1,PT:Rai News 24
+http://samuraihd.com.br:80/live/971/971/15754.m3u8
+#EXTINF:-1,PT:REAL MADRID
+http://samuraihd.com.br:80/live/971/971/15753.m3u8
+#EXTINF:-1,PT:RECORD NEWS
+http://samuraihd.com.br:80/live/971/971/15752.m3u8
+#EXTINF:-1,PT:Record_News
+http://samuraihd.com.br:80/live/971/971/15602.m3u8
+#EXTINF:-1,PT:REDE TV
+http://samuraihd.com.br:80/live/971/971/15751.m3u8
+#EXTINF:-1,PT:Regi?es TV
+http://samuraihd.com.br:80/live/971/971/15750.m3u8
+#EXTINF:-1,PT:RT
+http://samuraihd.com.br:80/live/971/971/15749.m3u8
+#EXTINF:-1,PT:RTL
+http://samuraihd.com.br:80/live/971/971/15748.m3u8
+#EXTINF:-1,PT:RTP 
+http://samuraihd.com.br:80/live/971/971/15740.m3u8
+#EXTINF:-1,PT:RTP 1
+http://samuraihd.com.br:80/live/971/971/15747.m3u8
+#EXTINF:-1,PT:RTP 1 HD
+http://samuraihd.com.br:80/live/971/971/15746.m3u8
+#EXTINF:-1,PT:RTP 2
+http://samuraihd.com.br:80/live/971/971/15745.m3u8
+#EXTINF:-1,PT:RTP 2 FULL HD
+http://samuraihd.com.br:80/live/971/971/15744.m3u8
+#EXTINF:-1,PT:RTP 2 HD
+http://samuraihd.com.br:80/live/971/971/15743.m3u8
+#EXTINF:-1,PT:RTP 3
+http://samuraihd.com.br:80/live/971/971/15742.m3u8
+#EXTINF:-1,PT:RTP A?ORES
+http://samuraihd.com.br:80/live/971/971/15741.m3u8
+#EXTINF:-1,PT:RTP MADEIRA
+http://samuraihd.com.br:80/live/971/971/15739.m3u8
+#EXTINF:-1,PT:RTP MEMORIA
+http://samuraihd.com.br:80/live/971/971/15738.m3u8
+#EXTINF:-1,PT:RTP_1
+http://samuraihd.com.br:80/live/971/971/15601.m3u8
+#EXTINF:-1,PT:RTP_2
+http://samuraihd.com.br:80/live/971/971/15600.m3u8
+#EXTINF:-1,PT:RTP_3
+http://samuraihd.com.br:80/live/971/971/15599.m3u8
+#EXTINF:-1,PT:RTP_Acores
+http://samuraihd.com.br:80/live/971/971/15598.m3u8
+#EXTINF:-1,PT:RTP_Africa
+http://samuraihd.com.br:80/live/971/971/15597.m3u8
+#EXTINF:-1,PT:RTP_Madeira
+http://samuraihd.com.br:80/live/971/971/15596.m3u8
+#EXTINF:-1,PT:RTP_Memoria
+http://samuraihd.com.br:80/live/971/971/15595.m3u8
+#EXTINF:-1,PT:RTP1 FULL HD
+http://samuraihd.com.br:80/live/971/971/15737.m3u8
+#EXTINF:-1,PT:RTP3 HD
+http://samuraihd.com.br:80/live/971/971/15736.m3u8
+#EXTINF:-1,PT:RTR-Planeta
+http://samuraihd.com.br:80/live/971/971/15735.m3u8
+#EXTINF:-1,PT:SET ASIA
+http://samuraihd.com.br:80/live/971/971/15734.m3u8
+#EXTINF:-1,PT:SIC
+http://samuraihd.com.br:80/live/971/971/15733.m3u8
+#EXTINF:-1,PT:SIC CARAS HD
+http://samuraihd.com.br:80/live/971/971/15731.m3u8
+#EXTINF:-1,PT:SIC CARAS*
+http://samuraihd.com.br:80/live/971/971/15732.m3u8
+#EXTINF:-1,PT:SIC FULL HD
+http://samuraihd.com.br:80/live/971/971/15730.m3u8
+#EXTINF:-1,PT:SIC HD
+http://samuraihd.com.br:80/live/971/971/15729.m3u8
+#EXTINF:-1,PT:SIC KIDS
+http://samuraihd.com.br:80/live/971/971/15728.m3u8
+#EXTINF:-1,PT:SIC MULHER
+http://samuraihd.com.br:80/live/971/971/15727.m3u8
+#EXTINF:-1,PT:SIC MULHER HD
+http://samuraihd.com.br:80/live/971/971/15726.m3u8
+#EXTINF:-1,PT:SIC NOTICIAS HD
+http://samuraihd.com.br:80/live/971/971/15724.m3u8
+#EXTINF:-1,PT:SIC NOTICIAS*
+http://samuraihd.com.br:80/live/971/971/15725.m3u8
+#EXTINF:-1,PT:SIC RADICAL HD
+http://samuraihd.com.br:80/live/971/971/15722.m3u8
+#EXTINF:-1,PT:SIC RADICAL*
+http://samuraihd.com.br:80/live/971/971/15723.m3u8
+#EXTINF:-1,PT:SIC_Caras
+http://samuraihd.com.br:80/live/971/971/15594.m3u8
+#EXTINF:-1,PT:SIC_Kids
+http://samuraihd.com.br:80/live/971/971/15593.m3u8
+#EXTINF:-1,PT:SIC_Mulher
+http://samuraihd.com.br:80/live/971/971/15592.m3u8
+#EXTINF:-1,PT:SIC_Noticias
+http://samuraihd.com.br:80/live/971/971/15591.m3u8
+#EXTINF:-1,PT:SIC_Radical
+http://samuraihd.com.br:80/live/971/971/15590.m3u8
+#EXTINF:-1,PT:SKY NEWS
+http://samuraihd.com.br:80/live/971/971/15721.m3u8
+#EXTINF:-1,PT:Sport_Tv_1
+http://samuraihd.com.br:80/live/971/971/15588.m3u8
+#EXTINF:-1,PT:Sport_Tv_2
+http://samuraihd.com.br:80/live/971/971/15587.m3u8
+#EXTINF:-1,PT:Sport_Tv_3
+http://samuraihd.com.br:80/live/971/971/15586.m3u8
+#EXTINF:-1,PT:Sport_TV_4
+http://samuraihd.com.br:80/live/971/971/15585.m3u8
+#EXTINF:-1,PT:Sport_TV_5
+http://samuraihd.com.br:80/live/971/971/15584.m3u8
+#EXTINF:-1,PT:Sport_TV_plus
+http://samuraihd.com.br:80/live/971/971/15583.m3u8
+#EXTINF:-1,PT:SPORTING HD
+http://samuraihd.com.br:80/live/971/971/15720.m3u8
+#EXTINF:-1,PT:SPORTING TV
+http://samuraihd.com.br:80/live/971/971/15719.m3u8
+#EXTINF:-1,PT:Sporting_TV
+http://samuraihd.com.br:80/live/971/971/15589.m3u8
+#EXTINF:-1,PT:SPORTV
+http://samuraihd.com.br:80/live/971/971/15718.m3u8
+#EXTINF:-1,PT:SPORTV    HD
+http://samuraihd.com.br:80/live/971/971/15717.m3u8
+#EXTINF:-1,PT:SPORTV 1
+http://samuraihd.com.br:80/live/971/971/15716.m3u8
+#EXTINF:-1,PT:SPORTV 1 FULL HD
+http://samuraihd.com.br:80/live/971/971/15715.m3u8
+#EXTINF:-1,PT:SPORTV 1 HD
+http://samuraihd.com.br:80/live/971/971/15714.m3u8
+#EXTINF:-1,PT:SPORTV 2
+http://samuraihd.com.br:80/live/971/971/15713.m3u8
+#EXTINF:-1,PT:SPORTV 2 FULL HD
+http://samuraihd.com.br:80/live/971/971/15712.m3u8
+#EXTINF:-1,PT:SPORTV 2 HD
+http://samuraihd.com.br:80/live/971/971/15711.m3u8
+#EXTINF:-1,PT:SPORTV 3
+http://samuraihd.com.br:80/live/971/971/15710.m3u8
+#EXTINF:-1,PT:SPORTV 3 FULL HD
+http://samuraihd.com.br:80/live/971/971/15709.m3u8
+#EXTINF:-1,PT:SPORTV 3 HD
+http://samuraihd.com.br:80/live/971/971/15708.m3u8
+#EXTINF:-1,PT:SPORTV 4
+http://samuraihd.com.br:80/live/971/971/15707.m3u8
+#EXTINF:-1,PT:SPORTV 4 FULL  HD
+http://samuraihd.com.br:80/live/971/971/15706.m3u8
+#EXTINF:-1,PT:SPORTV 4 HD
+http://samuraihd.com.br:80/live/971/971/15705.m3u8
+#EXTINF:-1,PT:SPORTV 5
+http://samuraihd.com.br:80/live/971/971/15704.m3u8
+#EXTINF:-1,PT:SPORTV 5 FULL HD
+http://samuraihd.com.br:80/live/971/971/15703.m3u8
+#EXTINF:-1,PT:SPORTV 5 HD
+http://samuraihd.com.br:80/live/971/971/15702.m3u8
+#EXTINF:-1,PT:STV NOTICIAS
+http://samuraihd.com.br:80/live/971/971/15701.m3u8
+#EXTINF:-1,PT:SUPER RTL
+http://samuraihd.com.br:80/live/971/971/15700.m3u8
+#EXTINF:-1,PT:SYFY
+http://samuraihd.com.br:80/live/971/971/15699.m3u8
+#EXTINF:-1,PT:SYFY HD
+http://samuraihd.com.br:80/live/971/971/15698.m3u8
+#EXTINF:-1,PT:TCV INTERNACIONAL
+http://samuraihd.com.br:80/live/971/971/15697.m3u8
+#EXTINF:-1,PT:TeleSUR
+http://samuraihd.com.br:80/live/971/971/15696.m3u8
+#EXTINF:-1,PT:Tiji*
+http://samuraihd.com.br:80/live/971/971/15695.m3u8
+#EXTINF:-1,PT:TLC
+http://samuraihd.com.br:80/live/971/971/15694.m3u8
+#EXTINF:-1,PT:TLC_Pan_Regional
+http://samuraihd.com.br:80/live/971/971/15582.m3u8
+#EXTINF:-1,PT:TOROS TV
+http://samuraihd.com.br:80/live/971/971/15693.m3u8
+#EXTINF:-1,PT:TOROS TV HD
+http://samuraihd.com.br:80/live/971/971/15692.m3u8
+#EXTINF:-1,PT:TPA INTERNACIONAL
+http://samuraihd.com.br:80/live/971/971/15691.m3u8
+#EXTINF:-1,PT:TRACE TV
+http://samuraihd.com.br:80/live/971/971/15690.m3u8
+#EXTINF:-1,PT:TRACE TV HD
+http://samuraihd.com.br:80/live/971/971/15689.m3u8
+#EXTINF:-1,PT:TRACE URBAN
+http://samuraihd.com.br:80/live/971/971/15688.m3u8
+#EXTINF:-1,PT:TRACE URBAN HD
+http://samuraihd.com.br:80/live/971/971/15687.m3u8
+#EXTINF:-1,PT:TRAVEL CHANNEL
+http://samuraihd.com.br:80/live/971/971/15686.m3u8
+#EXTINF:-1,PT:TRAVEL CHANNEL HD
+http://samuraihd.com.br:80/live/971/971/15685.m3u8
+#EXTINF:-1,PT:Travel_Channel_Europe
+http://samuraihd.com.br:80/live/971/971/15581.m3u8
+#EXTINF:-1,PT:TV GALICIA
+http://samuraihd.com.br:80/live/971/971/15683.m3u8
+#EXTINF:-1,PT:TV GLOBO PORTUGAL
+http://samuraihd.com.br:80/live/971/971/15682.m3u8
+#EXTINF:-1,PT:TV GLOBO PREMIUM
+http://samuraihd.com.br:80/live/971/971/15681.m3u8
+#EXTINF:-1,PT:TV RECORD
+http://samuraihd.com.br:80/live/971/971/15680.m3u8
+#EXTINF:-1,PT:TV RECORD HD
+http://samuraihd.com.br:80/live/971/971/15679.m3u8
+#EXTINF:-1,PT:TV SERIES
+http://samuraihd.com.br:80/live/971/971/15678.m3u8
+#EXTINF:-1,PT:TV SERIES HD
+http://samuraihd.com.br:80/live/971/971/15677.m3u8
+#EXTINF:-1,PT:TV_Cancao_Nova_Portugal
+http://samuraihd.com.br:80/live/971/971/15576.m3u8
+#EXTINF:-1,PT:TV_Cine_1_HD
+http://samuraihd.com.br:80/live/971/971/15575.m3u8
+#EXTINF:-1,PT:TV_Cine_2
+http://samuraihd.com.br:80/live/971/971/15574.m3u8
+#EXTINF:-1,PT:TV_Cine_3
+http://samuraihd.com.br:80/live/971/971/15573.m3u8
+#EXTINF:-1,PT:TV_Cine_4_HD
+http://samuraihd.com.br:80/live/971/971/15572.m3u8
+#EXTINF:-1,PT:TV_Fatima
+http://samuraihd.com.br:80/live/971/971/15571.m3u8
+#EXTINF:-1,PT:TV_Globo_Portugal
+http://samuraihd.com.br:80/live/971/971/15570.m3u8
+#EXTINF:-1,PT:TV_Globo_Premium
+http://samuraihd.com.br:80/live/971/971/15569.m3u8
+#EXTINF:-1,PT:TV_Series
+http://samuraihd.com.br:80/live/971/971/15568.m3u8
+#EXTINF:-1,PT:TV5 MONDE
+http://samuraihd.com.br:80/live/971/971/15676.m3u8
+#EXTINF:-1,PT:TV5MONDE
+http://samuraihd.com.br:80/live/971/971/15675.m3u8
+#EXTINF:-1,PT:TVCINE 1
+http://samuraihd.com.br:80/live/971/971/15674.m3u8
+#EXTINF:-1,PT:TVCINE 1 HD
+http://samuraihd.com.br:80/live/971/971/15673.m3u8
+#EXTINF:-1,PT:TVCINE 2
+http://samuraihd.com.br:80/live/971/971/15672.m3u8
+#EXTINF:-1,PT:TVCINE 2 HD
+http://samuraihd.com.br:80/live/971/971/15671.m3u8
+#EXTINF:-1,PT:TVCINE 3
+http://samuraihd.com.br:80/live/971/971/15670.m3u8
+#EXTINF:-1,PT:TVCINE 3 HD
+http://samuraihd.com.br:80/live/971/971/15669.m3u8
+#EXTINF:-1,PT:TVCINE 4
+http://samuraihd.com.br:80/live/971/971/15668.m3u8
+#EXTINF:-1,PT:TVCINE 4 HD
+http://samuraihd.com.br:80/live/971/971/15667.m3u8
+#EXTINF:-1,PT:TVE 24 HORAS
+http://samuraihd.com.br:80/live/971/971/15666.m3u8
+#EXTINF:-1,PT:TVE INTERNACIONAL
+http://samuraihd.com.br:80/live/971/971/15665.m3u8
+#EXTINF:-1,PT:TVE_Internacional_Europa
+http://samuraihd.com.br:80/live/971/971/15580.m3u8
+#EXTINF:-1,PT:TVI
+http://samuraihd.com.br:80/live/971/971/15664.m3u8
+#EXTINF:-1,PT:TVI 24
+http://samuraihd.com.br:80/live/971/971/15663.m3u8
+#EXTINF:-1,PT:TVI FULL HD
+http://samuraihd.com.br:80/live/971/971/15661.m3u8
+#EXTINF:-1,PT:TVI HD
+http://samuraihd.com.br:80/live/971/971/15660.m3u8
+#EXTINF:-1,PT:TVI REALITY
+http://samuraihd.com.br:80/live/971/971/15659.m3u8
+#EXTINF:-1,PT:TVI REALITY CAMARA 1
+http://samuraihd.com.br:80/live/971/971/15658.m3u8
+#EXTINF:-1,PT:TVI REALITY CAMARA 2
+http://samuraihd.com.br:80/live/971/971/15657.m3u8
+#EXTINF:-1,PT:TVI REALITY CAMARA 3
+http://samuraihd.com.br:80/live/971/971/15656.m3u8
+#EXTINF:-1,PT:TVI REALITY CAMARA 4
+http://samuraihd.com.br:80/live/971/971/15655.m3u8
+#EXTINF:-1,PT:TVI REALITY MOSAICO
+http://samuraihd.com.br:80/live/971/971/15654.m3u8
+#EXTINF:-1,PT:TVI_24
+http://samuraihd.com.br:80/live/971/971/15579.m3u8
+#EXTINF:-1,PT:TVI_Ficcao
+http://samuraihd.com.br:80/live/971/971/15578.m3u8
+#EXTINF:-1,PT:TVI_Reality
+http://samuraihd.com.br:80/live/971/971/15577.m3u8
+#EXTINF:-1,PT:TVR International
+http://samuraihd.com.br:80/live/971/971/15653.m3u8
+#EXTINF:-1,PT:VH1
+http://samuraihd.com.br:80/live/971/971/15652.m3u8
+#EXTINF:-1,PT:VH1 CLASSIC
+http://samuraihd.com.br:80/live/971/971/15651.m3u8
+#EXTINF:-1,PT:VH1_Classic
+http://samuraihd.com.br:80/live/971/971/15567.m3u8
+#EXTINF:-1,PT:Zee TV
+http://samuraihd.com.br:80/live/971/971/15650.m3u8
+#EXTINF:-1,pt: 24 Kitchen HD
+http://samuraihd.com.br:80/live/971/971/15565.m3u8
+#EXTINF:-1,pt: A Bola TV:
+http://samuraihd.com.br:80/live/971/971/15564.m3u8
+#EXTINF:-1,pt: AMC HD
+http://samuraihd.com.br:80/live/971/971/15563.m3u8
+#EXTINF:-1,pt: Angelus TV_
+http://samuraihd.com.br:80/live/971/971/15562.m3u8
+#EXTINF:-1,pt: ARTV
+http://samuraihd.com.br:80/live/971/971/15561.m3u8
+#EXTINF:-1,pt: AXN Black HD
+http://samuraihd.com.br:80/live/971/971/15560.m3u8
+#EXTINF:-1,pt: AXN HD
+http://samuraihd.com.br:80/live/971/971/15559.m3u8
+#EXTINF:-1,pt: Baby TV
+http://samuraihd.com.br:80/live/971/971/15558.m3u8
+#EXTINF:-1,pt: Biggs
+http://samuraihd.com.br:80/live/971/971/15557.m3u8
+#EXTINF:-1,pt: BTV 1 HD
+http://samuraihd.com.br:80/live/971/971/15556.m3u8
+#EXTINF:-1,pt: BTV HD
+http://samuraihd.com.br:80/live/971/971/15555.m3u8
+#EXTINF:-1,pt: Ca
+http://samuraihd.com.br:80/live/971/971/15553.m3u8
+#EXTINF:-1,pt: CaÄ¿a e Pesca
+http://samuraihd.com.br:80/live/971/971/15554.m3u8
+#EXTINF:-1,pt: Canal Panda
+http://samuraihd.com.br:80/live/971/971/15552.m3u8
+#EXTINF:-1,pt: Canal Q
+http://samuraihd.com.br:80/live/971/971/15551.m3u8
+#EXTINF:-1,pt: Canal Q:
+http://samuraihd.com.br:80/live/971/971/15550.m3u8
+#EXTINF:-1,pt: Cartoon Network_
+http://samuraihd.com.br:80/live/971/971/15549.m3u8
+#EXTINF:-1,pt: CBS Reality_
+http://samuraihd.com.br:80/live/971/971/15548.m3u8
+#EXTINF:-1,PT: Cine_Mundo
+http://samuraihd.com.br:80/live/971/971/15647.m3u8
+#EXTINF:-1,pt: Cinemundo:
+http://samuraihd.com.br:80/live/971/971/15547.m3u8
+#EXTINF:-1,pt: CMTV HD
+http://samuraihd.com.br:80/live/971/971/15546.m3u8
+#EXTINF:-1,pt: CMTV:
+http://samuraihd.com.br:80/live/971/971/15545.m3u8
+#EXTINF:-1,pt: Discovery Channel:
+http://samuraihd.com.br:80/live/971/971/15544.m3u8
+#EXTINF:-1,pt: Discovery HD Showcase
+http://samuraihd.com.br:80/live/971/971/15543.m3u8
+#EXTINF:-1,pt: Disney Channel:
+http://samuraihd.com.br:80/live/971/971/15542.m3u8
+#EXTINF:-1,pt: Disney Junior
+http://samuraihd.com.br:80/live/971/971/15541.m3u8
+#EXTINF:-1,pt: E! Entertainment
+http://samuraihd.com.br:80/live/971/971/15540.m3u8
