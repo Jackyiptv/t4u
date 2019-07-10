@@ -1,11 +1,4 @@
 #EXTM3U
-#EXTINF:-1,IF Link Stops Working Check Later IT will be Updated
-http://live-bloomberg-us-east.global.ssl.fastly.net/btv/desktop/bbr_radio.m3u8
-#EXTINF:-1,Updated on 5 Feb 2018 Around 4 PM UK Time
-http://www.lengua.com/anthems/Indonesia.mp3
-
-#EXTINF:-1,=======>   United Kingdom   <=======
-http://54.39.18.12:8000/live/g5/g5/16759.ts
 #EXTINF:-1,UK : Animal Planet
 http://54.39.18.12:8000/live/g5/g5/16583.ts
 #EXTINF:-1,UK : Chelsea TV
